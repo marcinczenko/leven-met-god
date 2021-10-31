@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-confluenza-gatsby-theme-confluenza-src-templates-markdown-template-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Confluenza Solo","editBaseUrl":"https://github.com/confluenza/solo-template/blob/master"}},"config":{"nodes":[{"tag":"developer","title":"Developers"},{"tag":"user","title":"Users"}]},"doc":{"html":"<p>The content of this Markdown document can be used at your top-level url.</p>\n<p>Learn more about this project in <a href=\"/developers/contributing\">documentation browser</a>.</p>","fileAbsolutePath":"/home/runner/work/solo-template/solo-template/src/pages/index.md","frontmatter":{"title":"Confluenza Solo","content":null}},"mdx":null},"pageContext":{}},
+    "staticQueryHashes": ["1136224994"]}

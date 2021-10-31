@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-users-01-using-mdx-mdx",
+    "path": "/users/01-UsingMDX/",
+    "result": {"pageContext":{"frontmatter":{"path":"/users/using-mdx","title":"Using MDX","tag":"user"}}},
+    "staticQueryHashes": ["1136224994"]}
