@@ -12,7 +12,7 @@ local environment:
 ```bash
 # if you use nvm
 » nvm use
-Found '/Users/mczenko/code/philips/confluenza-solo/.nvmrc' with version <lts/*>
+Found '.nvmrc' with version <lts/*>
 Now using node v14.17.5 (npm v6.14.13)
 » yarn --version
 3.1.0
