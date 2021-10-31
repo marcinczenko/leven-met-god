@@ -2,11 +2,11 @@
   "name": "confluenza-solo",
   "version": "1.0.0",
   "private": true,
-  "description": "Confluenza Solo",
+  "description": "Leven met God",
   "author": "Marcin Czenko <marcin@everydayproductive.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/confluenza/solo-template.git"
+    "url": "https://github.com/marcinczenko/leven-met-god.git"
   },
   "keywords": [
     "gatsby",
@@ -24,7 +24,9 @@
     "build": "gatsby build",
     "build:prefix-paths": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
   },
   "dependencies": {
     "@confluenza/gatsby-theme-confluenza": "^1.0.29",
@@ -38,22 +40,20 @@
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.0",
+    "@babel/plugin-syntax-flow": "^7.14.5",
+    "@babel/plugin-transform-react-jsx": "^7.14.9",
+    "babel-eslint": "^10.1.0",
     "eslint": "^8.1.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-flowtype": "^8.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "gatsby-cli": "^4.0.0",
-    "gatsby-plugin-root-import": "^2.0.8",
-    "standard": "^16.0.4"
-  },
-  "standard": {
-    "parser": "@babel/eslint-parser",
-    "ignore": [
-      "public/**",
-      ".cache/**",
-      "**/node_modules/**"
-    ],
-    "envs": [
-      "es6",
-      "browser",
-      "jest"
-    ]
+    "gatsby-plugin-root-import": "^2.0.8"
   }
 }
