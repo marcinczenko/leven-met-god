@@ -7,7 +7,8 @@ module.exports = {
     {
       resolve: '@confluenza/gatsby-theme-confluenza',
       options: {
-        mdx: true
+        mdx: true,
+        ignore: []
       }
     },
     'gatsby-plugin-emotion',

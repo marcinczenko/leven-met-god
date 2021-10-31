@@ -2,6 +2,7 @@
 path: /developers/when-things-do-not-work
 title: When Things Do Not Work
 tag: developer
+sortIndex: 1
 ---
 
 If you get stuck and you get errors that do not make sense to you, try first the following:
@@ -12,7 +13,7 @@ If you get stuck and you get errors that do not make sense to you, try first the
 » yarn dev
 ```
 
-Also, make sure that you source tree contains at least one Markdown document (Markdown, no MDX) with a proper frontmatter (with `path`, `title`, and `tag`, and `content`).
+Also, make sure that you source tree contains at least one Markdown document (Markdown, no MDX) with a proper frontmatter (with `path`, `title`, and `tag`, `content`, and `sortIndex`).
 
 > Requiring to have at least one document with external content is not something that should be required. In the future release we will make it right.
 

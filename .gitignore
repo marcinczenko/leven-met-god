@@ -2,3 +2,12 @@
 node_modules/
 .cache/
 public
+
+# yarn 2
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

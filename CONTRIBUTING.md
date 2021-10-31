@@ -13,9 +13,9 @@ local environment:
 # if you use nvm
 » nvm use
 Found '/Users/mczenko/code/philips/confluenza-solo/.nvmrc' with version <lts/*>
-Now using node v14.17.0 (npm v6.14.13)
+Now using node v14.17.5 (npm v6.14.13)
 » yarn --version
-1.22.10
+3.1.0
 » yarn
 » yarn dev
 ```
