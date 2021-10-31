@@ -1,0 +1,15 @@
+## Importing MDX files
+
+Besides importing components from regular Javascript files, you can also directly import other MDX documents.
+
+> Currently, Confluenza does not include the headings from the imported MDX files in the navigation menu.
+The _Importing MDX files_ header above will not show up in the navigation menu.
+ 
+
+<!-- This default export overrides the default layout ensuring -->
+<!--  that the ImportingMDXDocuments component isn't wrapped by other elements -->
+export default ({ children }) => (
+  <React.Fragment>
+    {children}
+  </React.Fragment>
+)

@@ -1,0 +1,32 @@
+---
+path: /users/using-mdx
+title: Using MDX
+tag: user
+---
+import { WithBorder, ImportingMDXDocuments } from '../../components/mdx'
+
+[MDX](https://mdxjs.com) allows you to use JSX directly in your Markdown documents.
+
+Imagine, you are documenting a component. Wouldn't it be nice to actually show a working component
+directly in your Markdown document? I mean, not a screenshot, or code snippet, but real rendered
+component. MDX makes it possible.
+
+Below you see a component that renders its content with a border of the given thickness.
+
+<WithBorder thickness={5}>
+  This text should appear in a border `5px` thick.
+</WithBorder>
+
+This component is imported as any other regular react component with:
+
+```javascript
+import { WithBorder, ImportingMDXDocuments } from '../../components/mdx'
+```
+
+> The import statement must be placed directly after _frontmatter_ if one is used.
+
+<ImportingMDXDocuments />
+
+> In this file, as an example, we show that you can import React components and other MDX documents
+from any location in your source three. In some cases though, it may be better to keep your _documentation_
+components in the same workspace.

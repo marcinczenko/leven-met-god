@@ -1,0 +1,61 @@
+{
+  "name": "confluenza-solo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Confluenza Solo",
+  "author": "Marcin Czenko <marcin@everydayproductive.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/confluenza/solo-template.git"
+  },
+  "keywords": [
+    "gatsby",
+    "confluenza",
+    "markdown"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "dev": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "build:prefix-paths": "gatsby build --prefix-paths",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@confluenza/gatsby-theme-confluenza": "^1.0.26",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.3.0",
+    "gatsby": "^3.6.2",
+    "gatsby-plugin-catch-links": "^3.4.0",
+    "gatsby-plugin-emotion": "^6.4.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-media": "^1.9.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "gatsby-cli": "^3.6.0",
+    "gatsby-plugin-root-import": "^2.0.6",
+    "jest-emotion": "^11.0.0",
+    "standard": "^16.0.3"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "public/**",
+      ".cache/**",
+      "**/node_modules/**"
+    ],
+    "envs": [
+      "es6",
+      "browser",
+      "jest"
+    ]
+  }
+}
