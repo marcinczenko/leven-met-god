@@ -1,8 +1,14 @@
 ---
 path: /
-title: Confluenza Solo
+title: Leven met God
+content: ./styling.md
 ---
 
-The content of this Markdown document can be used at your top-level url.
+[Start reading](/pinkstertijd/23e-zondag).
 
-Learn more about this project in [documentation browser](/developers/contributing).
+<a id="figure-1"></a> 
+<div class="scrollable flex-wrap responsive">
+<div class="bordered-content-300">
+  <img alt="Book Cover" src="cover.png"/>
+</div>
+</div>

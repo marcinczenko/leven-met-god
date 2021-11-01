@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Confluenza Solo',
-    editBaseUrl: 'https://github.com/confluenza/solo-template/blob/master'
+    title: 'Leven met God',
+    editBaseUrl: 'https://github.com/marcinczenko/leven-met-god/blob/master'
   },
   plugins: [
     {
