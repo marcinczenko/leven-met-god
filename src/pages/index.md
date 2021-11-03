@@ -4,7 +4,7 @@ title: Leven met God
 content: ./styling.md
 ---
 
-[Start reading](/pinkstertijd/23e-zondag).
+[Start reading](/363).
 
 <a id="figure-1"></a> 
 <div class="scrollable flex-wrap responsive">
