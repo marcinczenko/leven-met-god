@@ -1,9 +1,9 @@
 ---
-path: /pinkstertijd/dinsdag-na-23e-zondag
-title: DINSDAG NA DE 23e ZONDAG
+path: /365
+title: '365: DINSDAG NA DE 23e ZONDAG'
 tag: pinkstertijd
 content: ../styling.md
-sortIndex: 25
+sortIndex: 365
 ---
 
 ## Tot wie gaat onze naastenliefde?

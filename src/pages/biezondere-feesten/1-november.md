@@ -1,9 +1,9 @@
 ---
-path: /biezondere-feesten/1-november
-title: 1 NOVEMBER
+path: /386
+title: '386: 1 NOVEMBER'
 tag: biezondere-feesten
 content: ../styling.md
-sortIndex: 23
+sortIndex: 386
 ---
 
 ## Allerheiligen

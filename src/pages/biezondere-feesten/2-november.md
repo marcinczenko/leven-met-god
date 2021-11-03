@@ -1,9 +1,9 @@
 ---
-path: /biezondere-feesten/2-november
-title: 2 NOVEMBER
+path: /387
+title: '387: 2 NOVEMBER'
 tag: biezondere-feesten
 content: ../styling.md
-sortIndex: 24
+sortIndex: 387
 ---
 
 ## Allerzielen

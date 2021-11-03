@@ -1,9 +1,9 @@
 ---
-path: /pinkstertijd/maandag-na-23e-zondag
-title: MAANDAG NA DE 23e ZONDAG
+path: /364
+title: '364: MAANDAG NA DE 23e ZONDAG'
 tag: pinkstertijd
 content: ../styling.md
-sortIndex: 24
+sortIndex: 364
 ---
 
 ## Het nieuwe leven II

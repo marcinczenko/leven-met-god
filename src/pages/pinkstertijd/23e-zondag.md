@@ -1,9 +1,9 @@
 ---
-path: /pinkstertijd/23e-zondag
-title: 23e ZONDAG NA PINKSTEREN
+path: /363
+title: '363: 23e ZONDAG NA PINKSTEREN'
 tag: pinkstertijd
 content: ../styling.md
-sortIndex: 23
+sortIndex: 363
 ---
 
 ## Wij volgen Christus
