@@ -8,7 +8,7 @@ sortIndex: 76
 
 ## Het onkruid
 
-HET evangelie spreekt ons vandaag over het onkruid tussen de tarwe. Wij mogen blij zijn, maar dubbel nederig, als wij menen niet tot het onkruid maar tot de tarwe te behoren. Door het goede graan, de goede oogst, de kostbare tarwe, wordt in Christus' mond alleen verstaan alwie Hem volgt en van zijn liefde voor Jezus Christus _de hoofdinhoud van zijn leven_ heeft gemaakt.
+Het evangelie spreekt ons vandaag over het onkruid tussen de tarwe. Wij mogen blij zijn, maar dubbel nederig, als wij menen niet tot het onkruid maar tot de tarwe te behoren. Door het goede graan, de goede oogst, de kostbare tarwe, wordt in Christus' mond alleen verstaan alwie Hem volgt en van zijn liefde voor Jezus Christus _de hoofdinhoud van zijn leven_ heeft gemaakt.
 
 1\. _Het rijk der hemelen is gelijk aan een man die goed zaad op zijn akker zaaide._ Christus zaait zijn woord in de wereld... de gehele mensengeschiedenis door. Het goede zaad... het is de goddelijke waarheid. Hij zaait het van uit de overvloed van zijn liefde voor de mensen: Hij wenst dat zij eens de goede oogst zullen zijn. Hij wil niet anders dan dat zij één mystiek Lichaam met Hem en in Hem zullen vormen.
 
