@@ -8,7 +8,7 @@ sortIndex: 363
 
 ## Wij volgen Christus
 
-IN zijn brief aan de inwoners van Filippi begint Paulus (in het epistel van vandaag) met te wijzen op zijn eigen voorbeeld. Hij leeft zoveel mogelijk zoals Christus heeft geleefd: dit voert uiteindelijk tot de glorie, en niet tot eigen eer, zingenot of gehechtheid aan het aardse.
+In zijn brief aan de inwoners van Filippi begint Paulus (in het epistel van vandaag) met te wijzen op zijn eigen voorbeeld. Hij leeft zoveel mogelijk zoals Christus heeft geleefd: dit voert uiteindelijk tot de glorie, en niet tot eigen eer, zingenot of gehechtheid aan het aardse.
 
 1\. _Broeders volgt mij na en richt u naar hen die zich naar ons voorbeeld gedragen_ Maar zelden zal iemand als het over zedelijke grootheid en zuiverheid van leven gaat, zijn volgelingen durven zeggen: doet zoals ik en zoals degenen die mij tot
 voorbeeld nemen.

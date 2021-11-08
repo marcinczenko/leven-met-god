@@ -25,7 +25,7 @@ En verwonderd vragen de dienaars aan hun heer: waar komt toch dat onkruid vandaa
 2\. Terwijl priesters, ouders en opvoeders overal het goede trachten te verspreiden en te zaaien in de harten van hun gelovigen en hun kinderen... is de macht van het kwaad voortdurend werkzaam. Er zaait haast altijd iemand mee, bijna gelijktijdig... hij wacht zelfs niet meer tot de
 nacht.
 
-_Een vijandig mens_: de duivel in al zijn gedaan- ten en vormen en invloeden. Onder de schijn van waarheid wordt hun de leugen bijgebracht, onder de schijn van het schone en het goede krijgen zij hoeveelheden bederf en vergif te verwerken, waar tegen hun geestelijk onvolwassen organisme niet bestand is.
+_Een vijandig mens_: de duivel in al zijn gedaanten en vormen en invloeden. Onder de schijn van waarheid wordt hun de leugen bijgebracht, onder de schijn van het schone en het goede krijgen zij hoeveelheden bederf en vergif te verwerken, waar tegen hun geestelijk onvolwassen organisme niet bestand is.
 
 Onder de schijn van zelfstandigheid en menselijkheid wordt voor velen de deur opengezet tot een vrijheid, die bij velen het begin blijkt te zijn van onverstandige willekeur en onbeteugelde zelfbestemming. Inwendig leven en vertrouwelijkheid met God raakt heel ver weg: het is _een vroeger ideaal, dat de nieuwe tijd heeft achterhaald_.
 
