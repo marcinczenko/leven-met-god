@@ -22,7 +22,7 @@ De heiliging wordt aangeduid, wij dragen het zegel van God en het teken van Chri
 
 Op een verheven wijze weet Paulus de diepe betekenis, de draadwijdte van dit doopsel, samen te vatten en het als een kort geheel van christelijke heiligingsleer zijn gelovigen voor te leggen.
 
-_Of weet gij niet, dat wij allen die gedoopt zijn tot de gemeenschap met Christus Jezus, dat wij gedoopt zijn tot de gemeenschap met zijn dood?_... Er is dus eenheid met Christus... in leven en sterven. Wij sterven aan iets, wij doen voorgoed van iets afstand en nu op een plechtige wijze: wij verzaken aan alles wat tegen Christus in gaat. Het is dus een afzwering van alle dwaling, van alle onwaarheid en leugen en een afwijzen van alles wat ,onrein en zondig is, wat strijdt met Jezus' leer in het evangelie.
+_Of weet gij niet, dat wij allen die gedoopt zijn tot de gemeenschap met Christus Jezus, dat wij gedoopt zijn tot de gemeenschap met zijn dood?_... Er is dus eenheid met Christus... in leven en sterven. Wij sterven aan iets, wij doen voorgoed van iets afstand en nu op een plechtige wijze: wij verzaken aan alles wat tegen Christus in gaat. Het is dus een afzwering van alle dwaling, van alle onwaarheid en leugen en een afwijzen van alles wat onrein en zondig is, wat strijdt met Jezus' leer in het evangelie.
 
 _In die gemeenschap met zijn dood,_ zo gaat de apostel verder, _zijn wij dus begraven met Hem door het doopsel, opdat ook wij een __nieuw leven zouden leiden__, zoals Christus door de glorie van de Vader uit de doden is opgewekt._ Het nieuwe leven, is het verrezen leven. Verrezen uit de zonde, leven wij nu het leven van Christus, met Hem verenigd, tot eer van de Vader.
 
