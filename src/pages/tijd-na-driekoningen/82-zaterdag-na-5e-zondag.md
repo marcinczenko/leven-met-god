@@ -20,7 +20,7 @@ Het betekent iets in onze groei naar Christus, dat wij ons zelf _ontvankelijk_ m
 
 _Hij is het licht van de wereld dat ieder mens verlicht_ (Joh. 1:9), maar het is voor een zeer groot aantal ook waar, dat _het licht in de duisternis schijnt maar de duisternis het niet aanneemt._ (Joh. 1:5)
 
-_Jezus is bereid zijn genaden aan allen _zo overvloedig mogelijk_ mee te delen. Velen echter geven de voorkeur aan de zonde of aan hun eigen gebreken en menselijke neigingen. Die geven de richting van hun leven voor een goed deel aan en daarmede weerstaan zij aan alle uitnodigingen van de genade. Zo wordt bij die velen door eigen schuld veroorzaakt, dat Jezus die in hen wonen en werken wil, zeer dikwijls verhinderd wordt hen tot het hogere op te voeren. Men zegt zelfs dat de meesten uiteindelijk niet de geestelijke diepte en rijkdom bereiken die de grote Meester hun had toegedacht.
+Jezus is bereid zijn genaden aan allen _zo overvloedig mogelijk_ mee te delen. Velen echter geven de voorkeur aan de zonde of aan hun eigen gebreken en menselijke neigingen. Die geven de richting van hun leven voor een goed deel aan en daarmede weerstaan zij aan alle uitnodigingen van de genade. Zo wordt bij die velen door eigen schuld veroorzaakt, dat Jezus die in hen wonen en werken wil, zeer dikwijls verhinderd wordt hen tot het hogere op te voeren. Men zegt zelfs dat de meesten uiteindelijk niet de geestelijke diepte en rijkdom bereiken die de grote Meester hun had toegedacht.
 
 Het is gewoonlijk niet Gods genade die afbakent en begrenst, maar wel het gemis aan ontvankelijkheid, het tekort aan begrip, het weigeren om zich ten volle naar Jezus toe te keren om zich door Hem te laten leiden.
 
