@@ -8,7 +8,7 @@ sortIndex: 83
 
 ## Het rijk Gods en zijn macht
 
-DE goddelijke Meester kwam ons Gods liefde verkondigen. Dat wil zeggen, Hij kwam om ons te overtuigen van Gods goedheid. Door die overtuiging gesterkt zouden wij als vanzelf geneigd zijn God te beminnen. En waar de liefde eenmaal is gewekt staat de toegang open tot alle heldhaftigheid en tot de hoogste deugd: tot de volledige vestiging in ons van Gods rijk.
+De goddelijke Meester kwam ons Gods liefde verkondigen. Dat wil zeggen, Hij kwam om ons te overtuigen van Gods goedheid. Door die overtuiging gesterkt zouden wij als vanzelf geneigd zijn God te beminnen. En waar de liefde eenmaal is gewekt staat de toegang open tot alle heldhaftigheid en tot de hoogste deugd: tot de volledige vestiging in ons van Gods rijk.
 
 Die liefde steunt op Gods genade. Zij veronderstelt echter in het algemeen een zekere mate van kennis. Men kan wel vurig beminnen wat men nog niet goed kent, maar men kan geen liefde hebben voor wat men volstrekt niet kent.
 
@@ -16,7 +16,7 @@ Die liefde steunt op Gods genade. Zij veronderstelt echter in het algemeen een z
 
 Het is duidelijk: er zit een enorme groeikracht in dat rijk Gods. Misschien komt dat zaad niet in goede bodem, misschien wordt het vertrapt, niet genoeg beschermd of geholpen, maar het _kan_ diep wortel schieten en tot geweldige dimensies uitgroeien. Het is zijn evangelie dat Christus hier aankondigt. Dat is immers het rijk Gods op aarde. Het is bestemd om de gehele wereld van Oost naar West en van Noord tot Zuid te vervullen. Overal zal zijn zegenrijke, zijn verheffend-menselijke en zijn bovennatuurlijk-goddelijke kracht zich doen gevoelen aan hen die van goede wil zijn.
 
-_Het rijk Gods bestaat niet in spijs en drank, maar in gerechtigheid, vrede en vreugde in de heilige Geest." (Rom. 14:17) _Zoekt eerst het rijk Gods en zijn gerechtigheid._ (Matt. 6:33) _U is het gegeven, de geheimen van het rijk der hemelen te kennen._ (Matt. 13:11) Maar dat rijk Gods dat gerechtigheid in de wereld brengt, vrede en vreugde in de heilige Geest, is ook _in ons_. En daar bezit het dezelfde stootkracht. Daar kan het, zij het op een andere wijze, evenzeer getuigen van zijn innerlijke rijkdom en van zijn intens vermogen om alles te veranderen, alles te doortrekken en de mens zelf, ook als individu te hervormen en in de ware zin van het woord te heiligen.
+_Het rijk Gods bestaat niet in spijs en drank, maar in gerechtigheid, vrede en vreugde in de heilige Geest._ (Rom. 14:17) _Zoekt eerst het rijk Gods en zijn gerechtigheid._ (Matt. 6:33) _U is het gegeven, de geheimen van het rijk der hemelen te kennen._ (Matt. 13:11) Maar dat rijk Gods dat gerechtigheid in de wereld brengt, vrede en vreugde in de heilige Geest, is ook _in ons_. En daar bezit het dezelfde stootkracht. Daar kan het, zij het op een andere wijze, evenzeer getuigen van zijn innerlijke rijkdom en van zijn intens vermogen om alles te veranderen, alles te doortrekken en de mens zelf, ook als individu te hervormen en in de ware zin van het woord te heiligen.
 
 2\. Het rijk Gods is in ons. _Christus de Heer heerst in ons door de inwendige deugden van het hart: door geloof, hoop en liefde._ (Cat. rom.) Het rijk Gods bestaat in onze volledige overgave aan zijn liefde en aan zijn licht van alles wat wij doen en zijn.
 
