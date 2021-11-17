@@ -11,6 +11,7 @@
   flex-flow:column;
   justify-content:center;
   align-items: center;
+  margin-bottom: 1em;
 }
 @media (max-width: 650px) {
   .responsive {

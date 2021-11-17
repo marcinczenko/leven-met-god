@@ -1,5 +1,6 @@
 # Leven met God
 
-This is a template that allows the user to quickly start with a new repo with [Confluenza-based](https://confluenza.online) landing page and documentation browser.
+This site is created using [Confluenza Documentation Browser](https://confluenza.online) (the author of this site is also the creator of Confluenza).
 
-If you are new to confluenza visit [Confluenza Homepage](https://confluenza.online). To learn more about the content of this repository, see `CONTRIBUTING.md`.
+If you are new to Confluenza visit [Confluenza Homepage](https://confluenza.online). To learn more about the content of this repository, and to learn how to contribute see `CONTRIBUTING.md`.
+
