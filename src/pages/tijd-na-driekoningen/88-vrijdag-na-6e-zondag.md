@@ -28,7 +28,7 @@ De mens die probeert tot God te naderen, ontdekt dat hij zelf niet heilig is maa
 
 En toch hebben wij allen die heilige God zo nodig, onder alle omstandigheden, altijd en op alle plaatsen. Wij kunnen alleen leven door Hem en uit Hem en uiteindelijk kunnen wij nergens zijn dan bij Hem.
 
-_Heer, mijn God. Gij zijt bet die ik zoek. Naar U smacht mijn ziel, naar U verlangt mijn lichaam zoals een dot land verlangt naar bet water._ (Ps. 62:1-3)
+_Heer, mijn God. Gij zijt het die ik zoek. Naar U smacht mijn ziel, naar U verlangt mijn lichaam zoals een dor land verlangt naar het water._ (Ps. 62:1-3)
 
 _Zoals bet dorstig hert verlangt naar koele waterbronnen, zo verlangt mijn hart naar U mijn God._ (Ps. 41:2)
 
@@ -36,4 +36,4 @@ Uit dit dubbele bewustzijn ontspringt het gebed. Ik _ben niet heilig_: Hij is he
 
 Die behoefte aan Hem groeit door de _liefde_, maar ook door het _vertrouwen_: Hij is zo goed. Zij groeit in _het geloof_, in het zeker weten: Hij is de groter de eigenlijke werkelijkheid van alle dingen.
 
-_O God laat uw plannen met mij, in mij niet mislukken door mijn arme creatuurlijke zondigheid. Gij zijt _Schepper_ en _Verlosser_ uit goedheid en uit louter liefde. Wees door uw Geest ook _heiligmaker_ opdat dit wezen met alles wat dit wezen hier op aarde dierbaar is, u voor eeuwig moge loven in de hemel. Amen._
+_O God laat uw plannen met mij, in mij niet mislukken door mijn arme creatuurlijke zondigheid. Gij zijt **Schepper** en **Verlosser** uit goedheid en uit louter liefde. Wees door uw Geest ook **heiligmaker** opdat dit wezen met alles wat dit wezen hier op aarde dierbaar is, u voor eeuwig moge loven in de hemel. Amen._
