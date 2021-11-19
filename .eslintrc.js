@@ -1,4 +1,5 @@
 module.exports = {
+  parser: '@babel/eslint-parser',
   globals: {
     __PATH_PREFIX__: true
   },
@@ -6,15 +7,25 @@ module.exports = {
     browser: true,
     es2021: true
   },
+  overrides: [
+    {
+      files: ['*.jsx']
+    }
+  ],
   extends: [
     'plugin:react/recommended',
     'react-app',
-    'standard'
+    'standard',
+    'plugin:react/jsx-runtime'
   ],
   parserOptions: {
     ecmaFeatures: {
       jsx: true
     },
+    babelOptions: {
+      presets: ['@babel/preset-react']
+    },
+    requireConfigFile: false,
     ecmaVersion: 12,
     sourceType: 'module'
   },
@@ -22,5 +33,6 @@ module.exports = {
     'react'
   ],
   rules: {
+    'react/prop-types': 0
   }
 }
