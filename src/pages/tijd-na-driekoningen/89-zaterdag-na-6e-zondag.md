@@ -1,6 +1,6 @@
 ---
 path: /89
-title: '89: ZATERDAG NA DE 5e ZONDAG'
+title: '89: ZATERDAG NA DE 6e ZONDAG'
 tag: tijd-na-driekoningen
 content: ../styling.md
 sortIndex: 89
