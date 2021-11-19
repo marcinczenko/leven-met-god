@@ -13,6 +13,7 @@ module.exports = {
     },
     'gatsby-plugin-emotion',
     'gatsby-plugin-catch-links',
-    'gatsby-plugin-root-import'
+    'gatsby-plugin-root-import',
+    'gatsby-plugin-postcss'
   ]
 }
