@@ -8,7 +8,7 @@ sortIndex: 89
 
 ## Herdenking van mijn doopsel II
 
-Het doopsel is de eerste grote gave van God op onze weg naar de hemel. _In het doopsel_ zegt Ambrosius, _worden wij allen door de genade van boven voor het rijk van God gezalfd._ Dit sacrament is voor het leven en voor het hiernamaals van doorslaggevende betekenis. _Zou men vanuit de boeken van het Nieuwe Testament de vraag stellen, wat wel het meest beslissend gebeuren is in het leven van de mens, dan is het antwoord niet: zijn sterven maar: zijn doopsel._ (P. Schoonenberg.)
+Het doopsel is de eerste grote gave van God op onze weg naar de hemel. _In het doopsel_ zegt Ambrosius, _worden wij allen door de genade van boven voor het rijk van God gezalfd._ Dit sacrament is voor het leven en voor het hiernamaals van doorslaggevende betekenis. _Zou men vanuit de boeken van het Nieuwe Testament de vraag stellen, wat wel het meest beslissend gebeuren is in het leven van de mens, dan is het antwoord niet: zijn sterven maar: zijn doopsel._ (P. Schoonenberg)
 
 1\. Wij zijn door het heilig doopsel voor het eerst de getekenden geworden van God: Hij drukt zijn merk in ons, wij behoren Hem voor altijd toe. _God die ons en u onwankelbaar aan Christus bindt, en ons heeft gezalfd, Hij heeft ook zijn zegel op ons gedrukt en de waarborg van de Geest in onze harten gelegd._ (2 Kor. 1:21)
 
