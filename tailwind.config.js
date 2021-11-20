@@ -1,8 +1,32 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 module.exports = {
+  mode: 'jit',
   purge: ['./src/**/*.{js,jsx,ts,tsx}'],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {}
+    extend: {
+      fontFamily: {
+        sans: ['Source Sans Pro', ...defaultTheme.fontFamily.sans],
+        mono: ['Roboto Mono', ...defaultTheme.fontFamily.mono],
+        'mono-condensed': ['Roboto Condensed', 'Roboto Mono', ...defaultTheme.fontFamily.mono]
+      },
+      colors: {
+        'artbea-pink': '#F486CA'
+      },
+      fontSize: {
+        confluenza: ['112.5%', '1.56'],
+        'confluenza-h1': ['2.5rem', '1.1'],
+        'confluenza-h2': ['1.73286rem', '1.1'],
+        'confluenza-p': ['18px', '1.56'],
+        'confluenza-code': ['0.85rem', '1.5'],
+        'confluenza-pre': ['0.85rem', '1.5']
+      },
+      margin: {
+        confluenza: '1.56rem',
+        'confluenza-1.5': '1.5rem'
+      }
+    }
   },
   variants: {
     extend: {}

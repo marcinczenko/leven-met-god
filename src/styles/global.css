@@ -1,3 +1,67 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  html {
+    @apply text-confluenza;
+    @apply font-normal;
+    @apply font-sans;
+  }
+  a {
+    @apply hover:underline;
+    @apply text-artbea-pink;
+  }
+  h1 {
+    @apply text-confluenza-h1;
+    @apply font-extralight;
+    @apply font-sans;
+    @apply mb-confluenza;
+  }
+
+  h2 {
+    @apply text-confluenza-h2;
+    @apply mb-confluenza;
+    @apply mt-confluenza-1.5;
+    @apply font-extralight;
+    @apply font-sans;
+  }
+
+  blockquote {
+    @apply mb-confluenza;
+    @apply mr-confluenza;
+  }
+
+  p, blockquote > p {
+    @apply text-confluenza-p;
+    @apply mb-confluenza;
+    @apply font-normal;
+    @apply font-sans;
+  }
+
+  ol, ul {
+    @apply block;
+    @apply mb-7;
+    @apply pl-7;
+  }
+
+  ol {
+    @apply list-decimal;
+  }
+
+  ul {
+    @apply list-disc;
+  }
+
+  pre {
+    @apply text-confluenza-pre;
+  }
+
+  code {
+    @apply text-confluenza-code;
+  }
+
+  svg {
+    @apply inline
+  }
+}
