@@ -1877,12 +1877,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@confluenza/confluenza@npm:^1.0.31":
-  version: 1.0.31
-  resolution: "@confluenza/confluenza@npm:1.0.31"
+"@confluenza/confluenza@npm:^1.0.32":
+  version: 1.0.32
+  resolution: "@confluenza/confluenza@npm:1.0.32"
   dependencies:
-    "@emotion/react": ^11.5.0
-    "@emotion/styled": ^11.3.0
+    "@emotion/react": ^11.6.0
+    "@emotion/styled": ^11.6.0
     "@react-frontend-developer/css-grid-helper": ^1.0.22
     react-media: ^1.10.0
     typography: ^0.16.21
@@ -1891,50 +1891,50 @@ __metadata:
     gatsby: ^4.0.0
     react: ^17.0.0
     react-dom: ^17.0.0
-  checksum: efb3baa38768b4cb4e2723342316c15bab1b32b224b1bf09794e18b32ac9b5fd87ffb310b7e95efe542b701250b7e5a1465b8f7132461a44ba954667ac448507
+  checksum: c1d7169d3643ba693e9a04f5a32432d7d885350aaeab4950b4bc13408b135c3745e9e4abc8c9d3dcec717e9b08e3b931cb968bf4f7ea9a352ec780cbaeceb141
   languageName: node
   linkType: hard
 
-"@confluenza/gatsby-theme-confluenza@npm:^1.0.31":
-  version: 1.0.31
-  resolution: "@confluenza/gatsby-theme-confluenza@npm:1.0.31"
+"@confluenza/gatsby-theme-confluenza@npm:^1.0.32":
+  version: 1.0.32
+  resolution: "@confluenza/gatsby-theme-confluenza@npm:1.0.32"
   dependencies:
-    "@confluenza/confluenza": ^1.0.31
+    "@confluenza/confluenza": ^1.0.32
     "@emotion/core": ^11.0.0
-    "@emotion/react": ^11.5.0
-    "@emotion/styled": ^11.3.0
+    "@emotion/react": ^11.6.0
+    "@emotion/styled": ^11.6.0
     "@emotion/styled-base": ^11.0.0
     "@mdx-js/mdx": ^1.6.22
     "@mdx-js/react": ^1.6.22
     "@react-frontend-developer/css-grid-helper": ^1.0.22
-    gatsby-plugin-catch-links: ^4.1.0
-    gatsby-plugin-emotion: ^7.1.0
-    gatsby-plugin-layout: ^3.1.0
-    gatsby-plugin-mdx: ^3.1.0
-    gatsby-plugin-react-helmet: ^5.1.0
-    gatsby-plugin-sharp: ^4.1.0
-    gatsby-plugin-typography: ^4.1.0
-    gatsby-remark-autolink-headers: 5.1.0
+    gatsby-plugin-catch-links: ^4.2.0
+    gatsby-plugin-emotion: ^7.2.0
+    gatsby-plugin-layout: ^3.2.0
+    gatsby-plugin-mdx: ^3.2.0
+    gatsby-plugin-react-helmet: ^5.2.0
+    gatsby-plugin-sharp: ^4.2.0
+    gatsby-plugin-typography: ^4.2.0
+    gatsby-remark-autolink-headers: 5.2.0
     gatsby-remark-emoji: ^0.0.3
-    gatsby-remark-images: ^6.1.0
-    gatsby-remark-prismjs: ^6.1.0
-    gatsby-source-filesystem: ^4.1.0
-    gatsby-transformer-remark: ^5.1.0
-    gatsby-transformer-yaml: ^4.1.0
+    gatsby-remark-images: ^6.2.0
+    gatsby-remark-prismjs: ^6.2.0
+    gatsby-source-filesystem: ^4.2.0
+    gatsby-transformer-remark: ^5.2.0
+    gatsby-transformer-yaml: ^4.2.0
     github-slugger: ^1.4.0
     prismjs: ^1.25.0
     react-helmet: ^6.1.0
     react-media: ^1.10.0
     react-typography: ^0.16.20
     remark-emoji: ^2.2.0
-    sharp: ^0.29.2
+    sharp: ^0.29.3
     typography: ^0.16.21
     typography-theme-moraga: ^0.16.19
   peerDependencies:
     gatsby: ^4.0.0
     react: ^17.0.0
     react-dom: ^17.0.0
-  checksum: 6304aedf02debf3bc1e4679b615174d023edba9d7c71d5291161757f40dbc792b7f4ad54c500209ae67ea255c25a3c8c233cfd39e01e39f40918b455e0cf5f0b
+  checksum: 72cede472a96a863447642bf61797c924db0abe91c651c5addce15b9e1d9754f0f22e8e63b5a8ef73c1ee67cbe543b36793e1237e13027f7415bce57c35300c4
   languageName: node
   linkType: hard
 
@@ -2028,7 +2028,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/react@npm:^11.5.0":
+"@emotion/react@npm:^11.6.0":
   version: 11.6.0
   resolution: "@emotion/react@npm:11.6.0"
   dependencies:
@@ -2078,7 +2078,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/styled@npm:^11.3.0":
+"@emotion/styled@npm:^11.6.0":
   version: 11.6.0
   resolution: "@emotion/styled@npm:11.6.0"
   dependencies:
@@ -5814,7 +5814,7 @@ __metadata:
     "@babel/plugin-syntax-flow": ^7.16.0
     "@babel/plugin-transform-react-jsx": ^7.16.0
     "@babel/preset-react": ^7.16.0
-    "@confluenza/gatsby-theme-confluenza": ^1.0.31
+    "@confluenza/gatsby-theme-confluenza": ^1.0.32
     "@fontsource/roboto-condensed": ^4.5.0
     "@fontsource/roboto-mono": ^4.5.0
     "@fontsource/source-sans-pro": ^4.5.1
@@ -8733,7 +8733,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-catch-links@npm:^4.1.0, gatsby-plugin-catch-links@npm:^4.2.0":
+"gatsby-plugin-catch-links@npm:^4.2.0":
   version: 4.2.0
   resolution: "gatsby-plugin-catch-links@npm:4.2.0"
   dependencies:
@@ -8745,7 +8745,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-emotion@npm:^7.1.0":
+"gatsby-plugin-emotion@npm:^7.2.0":
   version: 7.2.0
   resolution: "gatsby-plugin-emotion@npm:7.2.0"
   dependencies:
@@ -8759,7 +8759,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-layout@npm:^3.1.0":
+"gatsby-plugin-layout@npm:^3.2.0":
   version: 3.2.0
   resolution: "gatsby-plugin-layout@npm:3.2.0"
   dependencies:
@@ -8770,7 +8770,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-mdx@npm:^3.1.0":
+"gatsby-plugin-mdx@npm:^3.2.0":
   version: 3.2.0
   resolution: "gatsby-plugin-mdx@npm:3.2.0"
   dependencies:
@@ -8856,7 +8856,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-react-helmet@npm:^5.1.0":
+"gatsby-plugin-react-helmet@npm:^5.2.0":
   version: 5.2.0
   resolution: "gatsby-plugin-react-helmet@npm:5.2.0"
   dependencies:
@@ -8877,7 +8877,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-sharp@npm:^4.1.0":
+"gatsby-plugin-sharp@npm:^4.2.0":
   version: 4.2.0
   resolution: "gatsby-plugin-sharp@npm:4.2.0"
   dependencies:
@@ -8922,7 +8922,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-typography@npm:^4.1.0":
+"gatsby-plugin-typography@npm:^4.2.0":
   version: 4.2.0
   resolution: "gatsby-plugin-typography@npm:4.2.0"
   dependencies:
@@ -9029,9 +9029,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-remark-autolink-headers@npm:5.1.0":
-  version: 5.1.0
-  resolution: "gatsby-remark-autolink-headers@npm:5.1.0"
+"gatsby-remark-autolink-headers@npm:5.2.0":
+  version: 5.2.0
+  resolution: "gatsby-remark-autolink-headers@npm:5.2.0"
   dependencies:
     "@babel/runtime": ^7.15.4
     github-slugger: ^1.3.0
@@ -9042,7 +9042,7 @@ __metadata:
     gatsby: ^4.0.0-next
     react: ^16.9.0 || ^17.0.0
     react-dom: ^16.9.0 || ^17.0.0
-  checksum: b411c98d48c310f6da823d791534f7c1a281100aa15fa08a107d151d134f498af711c00f07cffd22890ffdecc3fd12f637ee008a9c92346d6dada3124fffd7c7
+  checksum: 9dbf0f80f22afa9be345b623e08b451ce8aec472bd9bca373f0f295df1b1b07e0ed8bb5e7e3ffeb980f8daca61a2118459f5312c785c88913a43989c77c2deac
   languageName: node
   linkType: hard
 
@@ -9056,7 +9056,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-remark-images@npm:^6.1.0":
+"gatsby-remark-images@npm:^6.2.0":
   version: 6.2.0
   resolution: "gatsby-remark-images@npm:6.2.0"
   dependencies:
@@ -9078,7 +9078,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-remark-prismjs@npm:^6.1.0":
+"gatsby-remark-prismjs@npm:^6.2.0":
   version: 6.2.0
   resolution: "gatsby-remark-prismjs@npm:6.2.0"
   dependencies:
@@ -9092,7 +9092,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-source-filesystem@npm:^4.1.0":
+"gatsby-source-filesystem@npm:^4.2.0":
   version: 4.2.0
   resolution: "gatsby-source-filesystem@npm:4.2.0"
   dependencies:
@@ -9136,7 +9136,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-transformer-remark@npm:^5.1.0":
+"gatsby-transformer-remark@npm:^5.2.0":
   version: 5.2.0
   resolution: "gatsby-transformer-remark@npm:5.2.0"
   dependencies:
@@ -9168,7 +9168,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-transformer-yaml@npm:^4.1.0":
+"gatsby-transformer-yaml@npm:^4.2.0":
   version: 4.2.0
   resolution: "gatsby-transformer-yaml@npm:4.2.0"
   dependencies:
@@ -16178,7 +16178,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sharp@npm:^0.29.2":
+"sharp@npm:^0.29.2, sharp@npm:^0.29.3":
   version: 0.29.3
   resolution: "sharp@npm:0.29.3"
   dependencies:

@@ -29,7 +29,7 @@
     "lint:fix": "eslint src --fix"
   },
   "dependencies": {
-    "@confluenza/gatsby-theme-confluenza": "^1.0.31",
+    "@confluenza/gatsby-theme-confluenza": "^1.0.32",
     "@fontsource/roboto-condensed": "^4.5.0",
     "@fontsource/roboto-mono": "^4.5.0",
     "@fontsource/source-sans-pro": "^4.5.1",
