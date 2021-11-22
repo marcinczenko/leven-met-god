@@ -8,7 +8,7 @@ sortIndex: 370
 
 ## Het volledig christelijk leven
 
-MEt enkele woorden tekent Paulus met het hem eigen talent in grote trekken het christelijk leven. Dat is dan het christelijk leven volgens _zijn_ visie; het leven dat geen angstige beperkingen kent uit egoïsme of aardsgezindheid en vol is van liefde voor de Heer. De apostel schrijft in het gedeelte van zijn brief, dat aan het epistel van vandaag vooraf gaat: _wij hebben gehoord van uw geloof in Christus Jezus, en van de liefde die gij alle heiligen toedraagt, om wille van de hoop, die voor u is weggelegd in de hemel..._ '(Kol. 1:4-6) Hij veronderstelt bij zijn volgende vermaningen dat een groot geloof, een werkelijke liefde en een vast vertrouwen op God, in zijn gelovigen leeft. Daarom durft hij dan zulke hooggestemde verwachtingen te uiten.
+Met enkele woorden tekent Paulus met het hem eigen talent in grote trekken het christelijk leven. Dat is dan het christelijk leven volgens _zijn_ visie; het leven dat geen angstige beperkingen kent uit egoïsme of aardsgezindheid en vol is van liefde voor de Heer. De apostel schrijft in het gedeelte van zijn brief, dat aan het epistel van vandaag vooraf gaat: _wij hebben gehoord van uw geloof in Christus Jezus, en van de liefde die gij alle heiligen toedraagt, om wille van de hoop, die voor u is weggelegd in de hemel..._ (Kol. 1:4-6) Hij veronderstelt bij zijn volgende vermaningen dat een groot geloof, een werkelijke liefde en een vast vertrouwen op God, in zijn gelovigen leeft. Daarom durft hij dan zulke hooggestemde verwachtingen te uiten.
 
 1\. _Sinds wij dat vernomen hebben, houden wij dan ook niet op, voor u te bidden en te smeken, dat gij in het bezit van allerlei wijsheid en geestelijk inzicht, tot de volledige kennis van zijn wil moogt geraken..._
 
