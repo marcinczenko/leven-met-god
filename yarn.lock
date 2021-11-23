@@ -5832,7 +5832,7 @@ __metadata:
     eslint-plugin-node: ^11.1.0
     eslint-plugin-promise: ^5.1.1
     eslint-plugin-react: ^7.27.1
-    eslint-plugin-react-hooks: ^4.3.0
+    eslint-plugin-react-hooks: next
     gatsby: ^4.2.0
     gatsby-cli: ^4.2.0
     gatsby-plugin-catch-links: ^4.2.0
@@ -7605,12 +7605,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react-hooks@npm:^4.3.0":
-  version: 4.3.0
-  resolution: "eslint-plugin-react-hooks@npm:4.3.0"
+"eslint-plugin-react-hooks@npm:next":
+  version: 4.2.1-beta-149b420f6-20211119
+  resolution: "eslint-plugin-react-hooks@npm:4.2.1-beta-149b420f6-20211119"
   peerDependencies:
     eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0
-  checksum: 0ba1566ba0780bbc75a5921f49188edf232db2085ab32c8d3889592f0db9d6fadc97fcf639775e0101dec6b5409ca3c803ec44213b90c8bacaf0bdf921871c2e
+  checksum: c6ec2762e9d86543f063c98c82641b05ece4682168ea877ab6fcc081a716801b04f933913abb7632c15fb24a26cf10f264add71dcbc3dd96b661b8357b2eefee
   languageName: node
   linkType: hard
 

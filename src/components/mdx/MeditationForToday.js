@@ -1,17 +1,30 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useRef } from 'react'
 import { meditations } from '../../app-data/meditations'
 
 const MeditationForToday = () => {
   const [title, setTitle] = useState('unknown')
   const [link, setLink] = useState(undefined)
+  const [currentDate, setCurrentDate] = useState(new Date())
+  const interval = useRef(undefined)
+
   useEffect(() => {
-    const today = new Date()
+    const today = currentDate
     const todayString = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}T00:00:00`
     console.log('todayString=', todayString)
     if (meditations[todayString]) {
       const { title, link } = meditations[todayString]
       setTitle(title)
       setLink(link)
+    }
+  }, [currentDate])
+
+  useEffect(() => {
+    interval.current && clearInterval(interval.current)
+    interval.current = setInterval(() => {
+      setCurrentDate(new Date())
+    }, 60000)
+    return () => {
+      interval.current && clearInterval(interval.current)
     }
   }, [])
 
