@@ -26,5 +26,17 @@ export const meditations = {
   '2021-11-27T00:00:00': {
     title: '376: ZATERDAG NA DE 24e ZONDAG - Het licht van de wereld',
     link: '/376'
+  },
+  '2021-11-28T00:00:00': {
+    title: '1: 1e ZONDAG VAN DE ADVENT',
+    link: '/1'
+  },
+  '2021-11-29T00:00:00': {
+    title: '2: MAANDAG NA DE 1e ZONDAG - Red ons uit het gevaar',
+    link: '/2'
+  },
+  '2021-11-30T00:00:00': {
+    title: '3: DINSDAG NA DE 1e ZONDAG - God geeft uitkomst',
+    link: '/3'
   }
 }
