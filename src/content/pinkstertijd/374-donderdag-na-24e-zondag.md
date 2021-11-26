@@ -30,6 +30,6 @@ Zo gaat ons hart uit (en hoe meer het gelouterd is hoe heviger het zal beminnen)
 
 Zo gaat ons hart uit naar _al wat waar, naar al wat edel, rechtvaardig, rein, liefelijk en welgevallig is, naar al wat deugd heet en lof verdient_. (Phil. 4:8)
 
-De liefde - welwillendheid die zich in daden manifesteert - is de eerste wet en fundamentele houding die al onze betrekkingen met God en de mensen kan beheersen. Het is zijn wens dat het zo zou zijn. Wij weten dat daarmede oplossingen worden gegeven voor grate levensvragen, oplossingen die elders niet te vinden zijn.
+De liefde - welwillendheid die zich in daden manifesteert - is de eerste wet en fundamentele houding die al onze betrekkingen met God en de mensen kan beheersen. Het is zijn wens dat het zo zou zijn. Wij weten dat daarmede oplossingen worden gegeven voor grote levensvragen, oplossingen die elders niet te vinden zijn.
 
 _O God, die ons uit liefde en voor de liefde hebt geschapen, leer mij, dagelijks meer uit liefde en voor de liefde leven. Amen._
