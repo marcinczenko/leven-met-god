@@ -9,6 +9,7 @@ sortIndex: 376
 ## Het licht van de wereld
 
 In die tijd sprak Jezus tot de Joden: _Ik ben het licht van de wereld, wie Mij volgt, wandelt niet in de duisternis, maar hij zal het licht van het leven bezitten._ (Joh. 8:12-20)
+
 1\. Wij weten sinds lang dat Jezus het licht van de wereld is. Maar er bestaat een klein gevaar dat wij Jezus zien als het licht van _de wereld_ (waartoe wij ons zelf niet rekenen), van die wereld die niet in Hem gelooft, die zondigt, die materialistisch is en louter uit op aardse verworvenheden.
 
 Om die wereld te verlichten is Jezus eigenlijk gekomen. En de gevolgtrekking ligt dan voor de hand: wat is het jammer, duizendmaal jammer dat de wereld Hem niet wil aanvaarden. _Wij jammeren..._ en daar blijft het bij. _Hij kwam bij de zijnen en de zijnen ontvingen Hem niet. Het licht scheen in de duisternis, en de duisternis nam het licht niet aan._ (Joh. 1:11) Juist... zó is de wereld...
@@ -21,8 +22,8 @@ Hij zal dat doen op voorwaarde dat ik niet doe zoals _de wereld_ doet, mij van H
 
 Met de kennis van het evangelie, met het geloof in Hem kan ik nog in diepe duisternis voorttobben. _Kom heilige Geest, zend vanuit de Hemel een straal van uw licht..._
 
-_,,emitte caelitus lucis tuae radium_.  
-_Heer dat ik zien moge ..._
+_emitte caelitus lucis tuae radium_.  
+_Heer dat ik zien moge..._
 
 2\. Waar de eigenliefde ons verblindt, is er van een waarachtig volgen van Christus geen sprake meer. We passen wel op: het werkelijk volgen van Christus tast ons aan in ons bezit. Het tast ons aan in onze (overdreven) genoegens, in onze gehechtheden, in onze lichtzinnigheid en gemakzucht. Wie zich werkelijk laat verlichten, ziet het verschil tussen Christus en hemzelf. Hij zó heilig, zo vol van God: ik zo slecht, zo bekrompen, zo zinnelijk, zo ijdel, zo vol van mij zelf. Hij zo belangeloos, zo vol waarachtige liefde voor anderen. Ik zo hebzuchtig en gierig, met niet meer dan een schijn van liefde voor mijn medemensen.
 
