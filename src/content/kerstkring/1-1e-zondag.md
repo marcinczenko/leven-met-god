@@ -28,6 +28,6 @@ _Onze ziel tot God verheffen,_ dat is het eerste. Ons tot God richten, ons tot H
 
 Hij komt, als Redder, als Vriend, als Verlosser. Maar Hij vraagt dat wij ons tot Hem keren, naar Hem willen opzien.
 
-En vervolgens: Hem verwachten _in groat vertrouwen_. Zo groot is vaak onze ontmoediging, onze angst, onze neerslachtigheid, dat wij het vertrouwen, als essentieel, als onmisbaar deel van ons geestelijk leven zouden vergeten. In deze adventstijd moge het vertrouwen op Hem die alles weet, weer vernieuwd worden.
+En vervolgens: Hem verwachten _in groot vertrouwen_. Zo groot is vaak onze ontmoediging, onze angst, onze neerslachtigheid, dat wij het vertrouwen, als essentieel, als onmisbaar deel van ons geestelijk leven zouden vergeten. In deze adventstijd moge het vertrouwen op Hem die alles weet, weer vernieuwd worden.
 
-_O Jezus, die weer tot ons komt om ons te helpen en te bevrijden, help ons met groot verlangen naar U uit te zien. Leer mij hoe ik mijn ziel tot U moet verheffen, hoe ik moet bidden, hoe ik de stilte, de diepe stilte kan binnentreden. Geef mij een groat vertrouwen op U, een vertrouwen, dat ik niet heb maar dat ik toch niet missen kan. Bereid Gij zelf o vurig-beminde Verlosser, uw nieuwe komst voor in mijn hart en in mijn ziel. Amen._
+_O Jezus, die weer tot ons komt om ons te helpen en te bevrijden, help ons met groot verlangen naar U uit te zien. Leer mij hoe ik mijn ziel tot U moet verheffen, hoe ik moet bidden, hoe ik de stilte, de diepe stilte kan binnentreden. Geef mij een groot vertrouwen op U, een vertrouwen, dat ik niet heb maar dat ik toch niet missen kan. Bereid Gij zelf o vurig-beminde Verlosser, uw nieuwe komst voor in mijn hart en in mijn ziel. Amen._
