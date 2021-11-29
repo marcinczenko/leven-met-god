@@ -28,7 +28,7 @@ export const meditations = {
     link: '/376'
   },
   '2021-11-28T00:00:00': {
-    title: '1: 1e ZONDAG VAN DE ADVENT',
+    title: '1: 1e ZONDAG VAN DE ADVENT - De komst des Heren',
     link: '/1'
   },
   '2021-11-29T00:00:00': {
