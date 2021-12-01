@@ -28,20 +28,31 @@ const MeditationForToday = () => {
     }
   }, [])
 
+  const endSentence = () => {
+    if (title) {
+      if (title[title.length - 1] === '?') {
+        return ''
+      } else {
+        return '.'
+      }
+    }
+    return '.'
+  }
+
   const renderLink = () => {
     if (link !== undefined) {
       return (
-        <a href={link}>{title}</a>
+        <a href={link}>{`${title}${endSentence()}`}</a>
       )
     } else {
-      return <span className='text-red-700'>{title}</span>
+      return <span className='text-red-700'>{`${title}${endSentence()}`}</span>
     }
   }
 
   return (
     <div>
       <p>
-        De meditatie voor vandaag is: {renderLink()}.
+        De meditatie voor vandaag is: {renderLink()}
       </p>
     </div>
   )

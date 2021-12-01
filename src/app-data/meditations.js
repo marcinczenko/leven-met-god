@@ -46,5 +46,9 @@ export const meditations = {
   '2021-12-2T00:00:00': {
     title: '5: DONDERDAG NA DE 1e ZONDAG - Zijt Gij het?',
     link: '/5'
+  },
+  '2021-12-3T00:00:00': {
+    title: '6: VRIJDAG NA DE 1e ZONDAG - Opstaan',
+    link: '/6'
   }
 }
