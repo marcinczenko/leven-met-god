@@ -39,11 +39,11 @@ export const meditations = {
     title: '3: DINSDAG NA DE 1e ZONDAG - God geeft uitkomst',
     link: '/3'
   },
-  '2021-12-01T00:00:00': {
+  '2021-12-1T00:00:00': {
     title: '4: WOENSDAG NA DE 1e ZONDAG - Wat vraagt God van mij?',
     link: '/4'
   },
-  '2021-12-02T00:00:00': {
+  '2021-12-2T00:00:00': {
     title: '5: DONDERDAG NA DE 1e ZONDAG - Zijt Gij het?',
     link: '/5'
   }
