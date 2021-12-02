@@ -18,7 +18,7 @@ _Zijt Gij het?_ Hij mag zeggen: _Ik ben het, vrees niet._ Maar de verbondenheid 
 
 2\. Juist in die periode genas Hij velen van ziekten en kwalen en boze geesten, en schonk Hij veel blinden het gezicht terug. Hij gaf hun dus ten antwoord: _gaat en bericht aan Johannes wat gij gezien en gehoord hebt: blinden zien en kreupelen gaan, melaatsen worden gereinigd en doven horen, doden verrijzen en aan armen wordt het evangelie verkondigd. Zalig is hij die zich aan Mij niet ergert_. (Luk. 7:21-23)
 
-Het antwoord was zo gemakkelijk, Christus hoefde slechts te zeggen: _ziet zelf, wat dunkt u? Als k het u zeg, kunt gij ontkennen of weigeren mijn woorden te geloven, maar spreken mijn daden geen duidelijke taal?_
+Het antwoord was zo gemakkelijk, Christus hoefde slechts te zeggen: _ziet zelf, wat dunkt u? Als ik het u zeg, kunt gij ontkennen of weigeren mijn woorden te geloven, maar spreken mijn daden geen duidelijke taal?_
 
 Wij behoeven slechts het evangelie te lezen, het te herlezen, of het te horen en het weer opnieuw te horen, opdat de gestalte van de Meester ons duidelijk voor ogen zou staan. En dan geloven, niet door de kracht van allerlei redeneringen maar om de evidente feiten, om zijn persoonlijkheid en zijn wonderen. De ontmoeting met Christus is een Godsontmoeting.
 
@@ -26,4 +26,4 @@ _Blinden zien en kreupelen gaan_, nog altijd worden blinden ziende door Hem, en 
 
 _Melaatsen worden gereinigd en doven horen._ Bij velen worden weer opnieuw de oren geopend voor Gods woord, voor de inspraken van de genade. Eveneens velen worden gereinigd door doopsel en biecht. Talloos velen vinden daardoor opnieuw het verloren levensgeluk, de vrede des harten.
 
-_Doden verrijzen en aan armen wordt het evangelie verkondigd._ Wie zich al verloren waanden, aan alles twijfelden, het leven barre onzin vonden,en van alles walgden, voor hen ging de deur weer open. _Ik ben de deur van de schaapsstal,_ en een nieuw licht stroomde bij hen binnen. Nog altijd wordt aan de armen van geest, de goedwillenden het woord Gods verkondigd. Wat een rijkdom, wat een geluk..., als ik naar Christus luister!
+_Doden verrijzen en aan armen wordt het evangelie verkondigd._ Wie zich al verloren waanden, aan alles twijfelden, het leven barre onzin vonden, en van alles walgden, voor hen ging de deur weer open. _Ik ben de deur van de schaapsstal,_ en een nieuw licht stroomde bij hen binnen. Nog altijd wordt aan de armen van geest, de goedwillenden het woord Gods verkondigd. Wat een rijkdom, wat een geluk..., als ik naar Christus luister!
