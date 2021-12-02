@@ -50,5 +50,9 @@ export const meditations = {
   '2021-12-3T00:00:00': {
     title: '6: VRIJDAG NA DE 1e ZONDAG - Opstaan',
     link: '/6'
+  },
+  '2021-12-4T00:00:00': {
+    title: '7: ZATERDAG NA DE 1e ZONDAG - De komst van de vredevorst',
+    link: '/7'
   }
 }
