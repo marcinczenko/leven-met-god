@@ -10,7 +10,7 @@ sortIndex: 6
 
 De geest van de advent wordt ons wel biezonder duidelijk gemaakt, nu de kerk in het epistel van zondag de woorden van Paulus gebruikte om ons te vermanen. _Broeders gij weet dat het tijd is, en dat het uur is geslagen om op te staan uit de slaap._ (Rom. 13:11-14)
 
-1\. Wij lopen allen min of meer het gevaar in te dommelen en onze kostbare levenstijd te verslapen. Dat is voor zeer velen niet het geval _wat de tijdelijke_ dingen betreft. Doch zelfs hier zou voor menigeen de aansporing niet overbodig zijn, eigen plichten van staat niet slapend te verrichten, niet achteloos en onnauwkeurig. Staan wij als mensen met zulk een prachtige levensbeschouwing wel voldoende op de bres om ook in het openbare ]even onze plaats met ere in te nemen? Werken met grote vurigheid, met al onze talenten om datgene te behartigen en te bevorderen wat ons werd toevertrouwd: dat is ons leven.
+1\. Wij lopen allen min of meer het gevaar in te dommelen en onze kostbare levenstijd te verslapen. Dat is voor zeer velen niet het geval _wat de tijdelijke_ dingen betreft. Doch zelfs hier zou voor menigeen de aansporing niet overbodig zijn, eigen plichten van staat niet slapend te verrichten, niet achteloos en onnauwkeurig. Staan wij als mensen met zulk een prachtige levensbeschouwing wel voldoende op de bres om ook in het openbare leven onze plaats met ere in te nemen? Werken met grote vurigheid, met al onze talenten om datgene te behartigen en te bevorderen wat ons werd toevertrouwd: dat is ons leven.
 
 Het kan een huishoudelijke taak zijn, een bestuursfunctie of een sociaal ambt, het kan zaken of vooral personen betreffen, maar als het plicht van staat is, ligt daarin de uitdrukking van de wil van God en is het voor ons een erezaak daarin uit te munten.
 
