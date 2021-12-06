@@ -18,9 +18,9 @@ _Ik zal u niet als wezen achterlaten: Ik kom tot u terug._ Hij komt tot ons op m
 
 _Alles toch wat vroeger geschreven werd, is tot onze onderrichting geschreven, opdat wij door het geduld en de vertroosting die de schriften ons bieden, hoop zouden verkrijgen,_ aldus schrijft Paulus in het epistel van zondag. (Rom. 15:9-13) _Alles werd tot onze onderrichting geschreven._ Hier ligt de wijsheid, de schoonheid... de liefde; zij zijn te vinden in de woorden van de schrift, in al datgene wat de heilige Geest ons daar leert. Wie luistert niet gaarne en wie wordt niet getroost als hij Christus' woorden hoort: _zoals de Vader Mij heeft bemind, zo ook heb ik u bemind: blijft in mijn liefde._ (Joh. 15:9)? _Niet gij hebt Mij uitverkoren, maar Ik heb u uitverkoren..._ (Joh. 15:16) Hij troost ons als Hij ons spreekt over zijn liefde; als Hij ons belooft dat Hij bij ons zal blijven, dat door Hem ons leven vruchtbaar zal zijn: _wie in Mij blijft en Ik in hem, hij draagt rijke vrucht_. (Joh. 15:5)
 
-1\. Hij troost ons en Hij leert ons geduld door zijn goddelijke vermaningen en door zijn goddelijk voorbeeld.
+2\. Hij troost ons en Hij leert ons geduld door zijn goddelijke vermaningen en door zijn goddelijk voorbeeld.
 
-_Opdat wij de hoop zouden verkrijgen door het geduld en de vertroosting,_ schrijft de Apostel. De hoop moet wel bloeien, als wij trachten geduldig te blijven te midden van alle wederwaardigheden en tegelijk zo dikwijls door Gods woord worden vertroost. Zijn stenm is voor ons zoals zij eens was voor de apostelen: bemoedigend en versterkend.
+_Opdat wij de hoop zouden verkrijgen door het geduld en de vertroosting,_ schrijft de Apostel. De hoop moet wel bloeien, als wij trachten geduldig te blijven te midden van alle wederwaardigheden en tegelijk zo dikwijls door Gods woord worden vertroost. Zijn stem is voor ons zoals zij eens was voor de apostelen: bemoedigend en versterkend.
 
 De apostel herhaalt zijn woorden om dan een onverwachte gevolgtrekking daaraan te verbinden. _De God van geduld en vertroosting schenke u dan de geest van onderlinge eensgezindheid naar het voorbeeld van Christus Jezus..._ Als God u dan geduld geeft en u troost, want beide zijn een gave van zijn goedheid, tracht dan in die gesteltenis ook eensgezind te zijn met anderen.
 
