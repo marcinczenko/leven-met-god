@@ -16,7 +16,7 @@ Hij is de Wijsheid en bet Licht: hoe meer wij bij Hem te rade gaan hoe zuiverder
 
 Gevoed door deze hemelse spijs, die Christus is, bidden wij nederig om door deze deelname aan de heilige geheimen tot inzicht te komen.
 
-Het onderricht van Jezus' woord, zijn blijde boodschap, zijn voorbeeld, de leer van zijn kerk dat alles wijst ons de weg in dit leven en wij zouden het voor geen prijs willen missen.
+Het onderricht van Jezus' woord, zijn blijde boodschap, zijn voorbeeld, de leer van zijn kerk, dat alles wijst ons de weg in dit leven en wij zouden het voor geen prijs willen missen.
 
 Maar de liefde, de eenheid (door liefde) met Jezus, leert ons oordelen zoals Hij. Wij zien dan door zijn, ogen, wij waarderen volgens zijn normen, wij beminnen en verachten zoals Hij het doet. Nooit is de leer van het evangelie ons volkomen duidelijk, nooit gaat zij over in ons vlees en bloed, tenzij wij Christus vurig beminnen en leven in vereniging met Hem. Het vieren van de heilige geheimen, het meevieren van zijn offer, het nuttigen van zijn Lichaam en Bloed maakt ons één met Hem. Maar hoezeer is het dan te wensen dat deze viering bewust geschiedt, van ganser harte, met veel vurigheid, met een zeer oprechte en hartelijke liefde.
 
