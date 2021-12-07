@@ -3,7 +3,10 @@ import { meditations } from '../../app-data/meditations'
 
 const MeditationForToday = () => {
   const [title, setTitle] = useState('unknown')
+  const [extraTitle, setExtraTitle] = useState(undefined)
+  const [typeExtra, setTypeExtra] = useState(undefined)
   const [link, setLink] = useState(undefined)
+  const [extraLink, setExtraLink] = useState(undefined)
   const [currentDate, setCurrentDate] = useState(new Date())
   const interval = useRef(undefined)
 
@@ -12,9 +15,17 @@ const MeditationForToday = () => {
     const todayString = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}T00:00:00`
     console.log('todayString=', todayString)
     if (meditations[todayString]) {
-      const { title, link } = meditations[todayString]
+      const { title, link, gedachtenis } = meditations[todayString]
       setTitle(title)
       setLink(link)
+      if (gedachtenis) {
+        setExtraTitle(gedachtenis.title)
+        setExtraLink(gedachtenis.link)
+        setTypeExtra('Gedachtenis van de')
+      } else {
+        setExtraTitle(undefined)
+        setExtraLink(undefined)
+      }
     }
   }, [currentDate])
 
@@ -49,11 +60,24 @@ const MeditationForToday = () => {
     }
   }
 
+  const renderExtra = () => {
+    if (extraLink !== undefined) {
+      return (
+        <a href={extraLink}>{`${extraTitle}${endSentence()}`}</a>
+      )
+    } else {
+      return <span className='text-red-700'>{`${extraTitle}${endSentence()}`}</span>
+    }
+  }
+
   return (
     <div>
       <p>
         De meditatie voor vandaag is: {renderLink()}
       </p>
+      {extraTitle && <p>
+        {typeExtra} {renderExtra()}
+      </p>}
     </div>
   )
 }
