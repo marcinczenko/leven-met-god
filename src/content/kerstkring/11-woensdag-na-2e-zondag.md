@@ -1,6 +1,6 @@
 ---
 path: /11
-title: '11: DINSDAG NA DE 2e ZONDAG'
+title: '11: WOENSDAG NA DE 2e ZONDAG'
 tag: kerstkring
 content: ../styling.md
 sortIndex: 11
