@@ -8,7 +8,7 @@ sortIndex: 10
 
 ## Zijn stem
 
-Ee is een voortdurend verlangen in ieder goedwillend Christen om wat vertrouwelijker met God te zijn, en als het mogelijk is, Christus beter te kennen, naar Hem te zien en naar Hem te luisteren.
+Er is een voortdurend verlangen in ieder goedwillend Christen om wat vertrouwelijker met God te zijn, en als het mogelijk is, Christus beter te kennen, naar Hem te zien en naar Hem te luisteren.
 
 1\. Nu wordt dit laatste op een biezondere wijze voor ons mogelijk gemaakt. God spreekt tot ons en Christus spreekt tot ons in de heilige schrift. Het goddelijk woord daarin vervat is onvervangbaar.
 
@@ -16,7 +16,7 @@ Wij hebben dat kostbare boek veel te weinig in handen, wij lezen de schrift te z
 
 _Ik zal u niet als wezen achterlaten: Ik kom tot u terug._ Hij komt tot ons op meerdere wijzen: ook door wat Hij zelf heeft laten optekenen door zijn apostelen en evangelisten. Hij leeft voor ons in zijn woord: Hij spreekt tot ons. Het is zijn waarheid, zijn liefde, het is zijn stem die wij daarin erkennen.
 
-_Alles toch wat vroeger geschreven werd, is tot onze onderrichting geschreven, opdat wij door het geduld en de vertroosting die de schriften ons bieden, hoop zouden verkrijgen,_ aldus schrijft Paulus in het epistel van zondag. (Rom. 15:9-13) _Alles werd tot onze onderrichting geschreven._ Hier ligt de wijsheid, de schoonheid... de liefde; zij zijn te vinden in de woorden van de schrift, in al datgene wat de heilige Geest ons daar leert. Wie luistert niet gaarne en wie wordt niet getroost als hij Christus' woorden hoort: _zoals de Vader Mij heeft bemind, zo ook heb ik u bemind: blijft in mijn liefde._ (Joh. 15:9)? _Niet gij hebt Mij uitverkoren, maar Ik heb u uitverkoren..._ (Joh. 15:16) Hij troost ons als Hij ons spreekt over zijn liefde; als Hij ons belooft dat Hij bij ons zal blijven, dat door Hem ons leven vruchtbaar zal zijn: _wie in Mij blijft en Ik in hem, hij draagt rijke vrucht_. (Joh. 15:5)
+_Alles toch wat vroeger geschreven werd, is tot onze onderrichting geschreven, opdat wij door het geduld en de vertroosting die de schriften ons bieden, hoop zouden verkrijgen,_ aldus schrijft Paulus in het epistel van zondag. (Rom. 15:9-13) _Alles werd tot onze onderrichting geschreven._ Hier ligt de wijsheid, de schoonheid... de liefde; zij zijn te vinden in de woorden van de schrift, in al datgene wat de heilige Geest ons daar leert. Wie luistert niet gaarne en wie wordt niet getroost als hij Christus' woorden hoort: _zoals de Vader Mij heeft bemind, zo ook heb ik u bemind: blijft in mijn liefde._ (Joh. 15:9) _Niet gij hebt Mij uitverkoren, maar Ik heb u uitverkoren..._ (Joh. 15:16) Hij troost ons als Hij ons spreekt over zijn liefde; als Hij ons belooft dat Hij bij ons zal blijven, dat door Hem ons leven vruchtbaar zal zijn: _wie in Mij blijft en Ik in hem, hij draagt rijke vrucht_. (Joh. 15:5)
 
 2\. Hij troost ons en Hij leert ons geduld door zijn goddelijke vermaningen en door zijn goddelijk voorbeeld.
 
