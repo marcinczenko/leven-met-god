@@ -29,7 +29,7 @@ In Hem komt Gods goedheid naar ons toe die ons leidt en onderricht geeft, die on
 
 _En geef ons uw heil._ Wij bidden om het heil, om de redding in Christus.
 
-_Diep overtuigd dat alles genade is_ en wij zelf o zo weinig betekenen, stellen wij _ons vertrouwen op die oneindige goedheid van God_, die ons zozeer beeft liefgehad dat Hij ons zijn enige Zoon gegeven heeft.
+_Diep overtuigd dat alles genade is_ en wij zelf o zo weinig betekenen, stellen wij _ons vertrouwen op die oneindige goedheid van God_, die ons zozeer heeft liefgehad dat Hij ons zijn enige Zoon gegeven heeft.
 
 Dit is een zuivere christelijke levenshouding; dit is ook de nadere voorbereiding op de eigen genade van het Kerstfeest.
 
