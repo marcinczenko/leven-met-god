@@ -1,6 +1,6 @@
 ---
 path: /13
-title: '13: VRIJDAG NA DE 1e ZONDAG'
+title: '13: VRIJDAG NA DE 2e ZONDAG'
 tag: kerstkring
 content: ../styling.md
 sortIndex: 13
@@ -12,7 +12,7 @@ _Gij moet u dus tot elkander getrokken gevoelen zoals ook Christus zich onzer he
 
 Het voorbeeld van Jezus Christus is het wapen waarmede de apostel onder zijn gelovigen alle kleingeestigheid en zelfzucht bestrijdt.
 
-1\. Voor ons geldt dezelfde waarheid: wij dragen dezelfde menselijke natuur in ons. Wij hebben te doen met dezelfde zwakheid en neiging; om alles te veel in _ons_ licht te zien en alles te trekken in de richting van _ons_ voordeel. Toch is _eigenbaat en egoïsme niet in ons voordeel: dat is de vergissing van de zelfzucht_. _Gij moet u tot elkander getrokken gevoelen... zoals Christus,_ **zijn voorbeeld is d.e sleutel tot ware menselijke grootheid**.
+1\. Voor ons geldt dezelfde waarheid: wij dragen dezelfde menselijke natuur in ons. Wij hebben te doen met dezelfde zwakheid en neiging; om alles te veel in _ons_ licht te zien en alles te trekken in de richting van _ons_ voordeel. Toch is _eigenbaat en egoïsme niet in ons voordeel: dat is de vergissing van de zelfzucht_. _Gij moet u tot elkander getrokken gevoelen... zoals Christus,_ **zijn voorbeeld is de sleutel tot ware menselijke grootheid**.
 
 De grondslag van alle zedelijke houdingen ligt nooit in datgene wat uiterlijk valt waar te nemen: grondslag van de diepste morele levensstructuur is de dogmatische, de geopenbaarde waarheid.
 
