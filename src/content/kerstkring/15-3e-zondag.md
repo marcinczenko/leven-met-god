@@ -10,7 +10,7 @@ sortIndex: 15
 
 Het is een onjuiste opvatting dat waarachtige levensblijheid in strijd zou zijn met een dieper christelijk leven.
 
-Het tegendeel is waar: een grote vrijheid van gemoed, echte blijdschap maakt het leven zoals Christus het van ons wenst veel gemakkelijker.En omgekeerd zal een zuiver en offervaardig christelijk leven, de blijdschap en het zuivere levensgeluk in hoge mate bevorderen.
+Het tegendeel is waar: een grote vrijheid van gemoed, echte blijdschap maakt het leven zoals Christus het van ons wenst veel gemakkelijker. En omgekeerd zal een zuiver en offervaardig christelijk leven, de blijdschap en het zuivere levensgeluk in hoge mate bevorderen.
 
 1\. _Verblijdt u altijd in de Heer; ik herhaal het: verblijdt u._ (Fil. 4:4-6) Zo nodigt de Kerk ons uit met de worden van St. Paulus. Het is de dag die ons reeds wijst op de vreugde van het Kerstfeest dat nu snel naderbij komt. Niemand kan leven zonder een bepaalde mate van geluk. Zware droefheid, langdurige spanning houdt niemand uit. Gedruktheid breekt kracht en lust tot het goede.
 
