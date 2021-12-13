@@ -18,7 +18,7 @@ Het is zeer waar dat wij Christus' licht zo nodig hebben. Hoe dikwijls klagen wi
 
 Wij hebben heel diep ergens nog wel de wetenschap en de overtuiging dat deze duisternis toch door God gewild is; dat zij deel uitmaakt van de loutering die ons op een nadere vriendschap met God zal voorbereiden. Maar wij verlangen toch naar het uur waarin eens een straal van licht zal doorbreken en wij even tenminste weten waar we aan toe zijn, weer weten wat Gods wil is, en hoe wij moeten handelen.
 
-Christus is het licht: _Licht van het Licht,_ dat ook ons weer komt verlichten en daardoor ons ook weer zal verblijden. Wie de diepe inwendige duisternis gekend heeft en de bevrijding, als het nieuwe licht eindelijk binnenvalt, begrijpt enigszins waarom de Kerk ons voor de overledenen laat bidden _en het eeuwige licht, (dat geen ondergang meer kent) moge hen verlichten_.
+Christus is het licht: _Licht van het Licht,_ dat ook ons weer komt verlichten en daardoor ons ook weer zal verblijden. Wie de diepe inwendige duisternis gekend heeft en de bevrijding, als het nieuwe licht eindelijk binnenvalt, begrijpt enigszins waarom de Kerk ons voor de overledenen laat bidden _en het eeuwige licht (dat geen ondergang meer kent) moge hen verlichten_.
 
 Het licht is vreugde, kracht, vernieuwing, het geeft levensmoed en soms uitbundige blijdschap. Bidden wij met vertrouwen om dat inwendige licht, dat ons weer met nieuwe moed zal bezielen en weer tot hoger offerbereidheid voeren.
 
