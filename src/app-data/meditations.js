@@ -93,5 +93,33 @@ export const meditations = {
   '2021-12-12T00:00:00': {
     title: '15: 3e ZONDAG VAN DE ADVENT - Christelijke vreugde',
     link: '/15'
+  },
+  '2021-12-13T00:00:00': {
+    title: '16: MAANDAG NA DE 3e ZONDAG - Verdrijf onze duisternis',
+    link: '/16'
+  },
+  '2021-12-14T00:00:00': {
+    title: '17: DINSDAG NA DE 3e ZONDAG - De voorloper',
+    link: '/17'
+  },
+  '2021-12-15T00:00:00': {
+    title: "18: QUATERTEMPER WOENSDAG - Maria vóór Jezus' geboorte",
+    link: '/18'
+  },
+  '2021-12-16T00:00:00': {
+    title: '19: DONDERDAG NA DE 3e ZONDAG - Dauwt Hemelen...',
+    link: '/19'
+  },
+  '2021-12-17T00:00:00': {
+    title: '20: QUATERTEMPER VRIJDAG - De Moedermaagd',
+    link: '/20'
+  },
+  '2021-12-18T00:00:00': {
+    title: '21: QUATERTEMPER ZATERDAG - Gesprek met God',
+    link: '/21'
+  },
+  '2021-12-19T00:00:00': {
+    title: '22: 4e ZONDAG VAN DE ADVENT - Gods oordeel',
+    link: '/22'
   }
 }
