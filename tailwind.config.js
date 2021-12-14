@@ -1,9 +1,8 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
-  mode: 'jit',
-  purge: ['./src/**/*.{js,jsx,ts,tsx}'],
-  darkMode: false, // or 'media' or 'class'
+  content: ['./src/**/*.{js,jsx,ts,tsx}'],
+  darkMode: 'media', // or 'media' or 'class'
   theme: {
     extend: {
       fontFamily: {
@@ -27,9 +26,6 @@ module.exports = {
         'confluenza-1.5': '1.5rem'
       }
     }
-  },
-  variants: {
-    extend: {}
   },
   plugins: []
 }
