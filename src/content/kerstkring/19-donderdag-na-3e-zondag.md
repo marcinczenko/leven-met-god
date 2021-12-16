@@ -8,18 +8,18 @@ sortIndex: 19
 
 ## Dauwt Hemelen...
 
-Met biezondere vurigheid bidt de kerk om de komst van de Verlosser. Zij zegt ons bet prachtige gebed voor van Isaias (45:8) dat tweemaal in dubbele vorm hemel en aarde vraagt ons de Redder te zenden. (Onder andere in de mis van verleden woensdag.)
+Met biezondere vurigheid bidt de kerk om de komst van de Verlosser. Zij zegt ons het prachtige gebed voor van Isaias (45:8) dat tweemaal in dubbele vorm hemel en aarde vraagt ons de Redder te zenden. (Onder andere in de mis van verleden woensdag.)
 
 _Dauwt hemelen van boven, en laat de wolken de Rechtvaardige neerregenen..._ _Moge de aarde zich openen en als een kiem de Zaligmaker voortbrengen._
 
 1\. Als wij opnieuw de Redder verwachten (en niemand zal durven loochenen dat wij die Redder
-niet dringend nodig hebben) is wel het erst noodzakelijk dat wij daarom bidden.
+niet dringend nodig hebben) is wel het eerst noodzakelijk dat wij daarom bidden.
 
 Het gebed blijft Gods uitgelezen kanaal van genaden. Wie niet bidt of niet veel bidt, ontloopt de biezondere kracht, nodig voor ware heiligheid.
 
 Wij bidden niet om Christus' komst; Hij is reeds gekomen en onze verlossing werd voltrokken door het offer dat zijn liefde Hem ingaf. Maar wij bidden om zijn nieuwe komst; dat Hij in ons leven moge komen en aanwezig-zijn, moge heersen door zijn wijsheid en goedheid: dat Hij ons vervullen moge en omvormen in zich zelf.
 
-Dit betekent een dagelijks leven van Christus en zijn gedachten; het betekent een vervuld zijn van het evangelie dat wij te lang wellicht verwaarloosd hebben. Het is een -zoeken tot één-wording met Hem in het gebed, in de heilige communie, in daden van zelfverloochening en van naastenliefde. Daarom bidden wij: _dauwt hemelen van boven en gij wolken regent de Rechtvaardige neer... in ons hart_. Wij bidden dat God ons Christus moge geven, dat de goddelijke Verlosser werkelijk voor ons moge gaan betekenen wat Hij volgens Gods plannen voor ons zijn zou: _bron van leven, bron van liefde, bron van geluk en van vereniging met God._
+Dit betekent een dagelijks leven van Christus en zijn gedachten; het betekent een vervuld zijn van het evangelie dat wij te lang wellicht verwaarloosd hebben. Het is een zoeken tot één-wording met Hem in het gebed, in de heilige communie, in daden van zelfverloochening en van naastenliefde. Daarom bidden wij: _dauwt hemelen van boven en gij wolken regent de Rechtvaardige neer... in ons hart_. Wij bidden dat God ons Christus moge geven, dat de goddelijke Verlosser werkelijk voor ons moge gaan betekenen wat Hij volgens Gods plannen voor ons zijn zou: _bron van leven, bron van liefde, bron van geluk en van vereniging met God._
 
 2\. _Zie een maagd zal ontvangen en een zoon baren en zijn naam zal zijn Emmanuel dat is: __God met ons__._ Aldus spreekt de kerk tot ons met de woorden van Isaias.
 
