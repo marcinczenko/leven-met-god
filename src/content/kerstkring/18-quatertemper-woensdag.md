@@ -12,7 +12,7 @@ _In die tijd werd de engel Gabriël door God naar een stad van Galilea gezonden,
 
 1\. Bij de nadering van het Kerstfeest, komt de kerk ons in herinnering roepen hoe God met de uitvoering van dit plan begon en wie daarin naast Jezus zulk een grote plaats bekleedde.
 
-De engel komt bij Maria binnen. Vrijwel alle schilders die dit tafereel hebben uitgebeeld stellen Maria voor als op dat ogenblik in gebed verdiept. God pleegt zijn mededelingen en bizondere genaden voor te behouden aan tijden en zielen van gebed. Dat geldt ook nu nog. Teveel hebben wij de wijsheid en het succes, de levenszekerheid en de schoonheid gezocht in het menselijke.
+De engel komt bij Maria binnen. Vrijwel alle schilders die dit tafereel hebben uitgebeeld stellen Maria voor als op dat ogenblik in gebed verdiept. God pleegt zijn mededelingen en biezondere genaden voor te behouden aan tijden en zielen van gebed. Dat geldt ook nu nog. Teveel hebben wij de wijsheid en het succes, de levenszekerheid en de schoonheid gezocht in het menselijke.
 
 God werd te veel vergeten en verzwegen. Slechts in het gebed - in het veelvuldig gebed (_men
 moet altijd bidden en nooit ophouden_, leert ons de Meester), gaan wij weer ontdekken welke plaats God in ons leven toekomt, hoezeer wij in alles van Hem afhankelijk zijn. In het gebed leren wij pas het eigenlijk leven en Gods diepere genadewerking kennen.
