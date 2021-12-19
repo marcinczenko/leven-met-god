@@ -123,7 +123,7 @@ export const meditations = {
     link: '/22'
   },
   '2021-12-20T00:00:00': {
-    title: '23: MAANDAG NA DE 3e ZONDAG - Waarom is Christus gekomen?',
+    title: '23: MAANDAG NA DE 4e ZONDAG - Waarom is Christus gekomen?',
     link: '/23'
   }
 }
