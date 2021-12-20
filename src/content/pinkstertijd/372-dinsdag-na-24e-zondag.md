@@ -26,7 +26,7 @@ Geen wonder dat men dan geen heiligheid bereikt, dat allerlei gebreken blijven b
 
 2\. Het blijft voor iedereen een zware taak zijn hart zo vrij en rein te houden, dat God alleen daar vrije toegang heeft. Alleen wie het ernstig en aanhoudend heeft geprobeerd weet hoe moeilijk deze opdracht is. Maar Gods genade bracht in velen zelfs het ongelofelijke tot stand... zij kan het ook in ons.
 
-_Vertrouwen en nederig_ gebed moeten de altijd begeleidende zielsbewegingen zijn van iemand die zich zelf wil overwinnen. _Ik kan alles in Hem die mij versterkt,_ zegt St. Paulus. (Fil. 4:13)
+_Vertrouwen en nederig_ gebed moeten de altijd begeleidende zielsbewegingen zijn van iemand die zichzelf wil overwinnen. _Ik kan alles in Hem die mij versterkt,_ zegt St. Paulus. (Fil. 4:13)
 
 Ook voor gehuwden is dit ideaal niet onbereikbaar: hun leven werd en wordt door een sacramentele liefde geheiligd. Ook hier zouden wij meer succes behalen, als ons vertrouwen eens groter was en ons gebed wat inniger. _Zalig de zuiveren van hart, want zij zullen God zien,_ zo leert ons de goddelijke Meester. (Matt. 5:8)
 

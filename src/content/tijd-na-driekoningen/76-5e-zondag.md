@@ -18,7 +18,7 @@ Maar dan komt zijn vijand, zegt de parabel. En _terwijl de mensen sliepen zaaide
 
 Het beeld is ontleend aan de onmiddellijke werkelijkheid. Deze vorm van wraak: de oogst van een ander totaal te vernielen zonder dat hij er iets aan doen kon, kwam herhaaldelijk voor. Er bestond bij de Joden zelfs een wet tegen deze laaghartige praktijken.
 
-_Hij ging heen_ ... hij stelt zich zelf veilig: het kwaad is gebeurd. En het graan schiet op, maar wordt weldra zwaar gehinderd door het overvloedig onkruid, dat de tarwe verdringt en verstikt.
+_Hij ging heen_ ... hij stelt zichzelf veilig: het kwaad is gebeurd. En het graan schiet op, maar wordt weldra zwaar gehinderd door het overvloedig onkruid, dat de tarwe verdringt en verstikt.
 
 En verwonderd vragen de dienaars aan hun heer: waar komt toch dat onkruid vandaan, was dan uw zaad niet goed? Hij legt het hun uit: het was de duistere, de nachtelijke vijand die de oogst bedorven had. Hij spoort hen aan tot geduld.
 

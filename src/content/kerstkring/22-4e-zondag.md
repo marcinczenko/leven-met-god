@@ -11,7 +11,7 @@ sortIndex: 22
 _Broeders,_ zo schrijft Paulus (1 Kor. 4:1-5), _laat de mens in ons zien de dienaren van Christus en de uitdelers van Gods geheimen._
 (Epistel van deze zondag.)
 
-1\. Dat wil Paulus vóór alles zijn - en hij is het ook: _dienaar van Christus en uitdeler van Gods geheimen_. Dit, dit is het wat iedere priester op zich zelf kan toepassen; laat de mensen dat alleen of vóór alles dat in hem zien. Hij is de dienaar en zelfs gezant van Christus; hem is het uitdelen van Gods geheimen (het toedienen van de sacramenten, het vertolken van Gods woord) toevertrouwd.
+1\. Dat wil Paulus vóór alles zijn - en hij is het ook: _dienaar van Christus en uitdeler van Gods geheimen_. Dit, dit is het wat iedere priester op zichzelf kan toepassen; laat de mensen dat alleen of vóór alles dat in hem zien. Hij is de dienaar en zelfs gezant van Christus; hem is het uitdelen van Gods geheimen (het toedienen van de sacramenten, het vertolken van Gods woord) toevertrouwd.
 
 _Nu wordt er gevraagd van deze uitdelers dat zij trouw bevonden worden._ De taak van biezondere gezant van Christus, is gewichtig; zij vraagt een ongerepte levenswandel, een volkomen toegekeerdheid naar Christus, een volstrekte trouw aan Hem. Maar toch, zegt de apostel, hoe billijk het ook zijn moge, dat men grote getrouwheid van ons verwacht, ik kan het niet tot een punt van onrust maken hoe ik door u allen beoordeeld word. Ik beoordeel mij zelf niet eens. Ik ben mij zelf wel van niets kwaads bewust, maar ook daar vind ik geen veiligheid in. _De Heer oordeelt mij_. En dat oordeel is beslissend.
 

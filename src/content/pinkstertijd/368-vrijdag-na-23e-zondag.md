@@ -21,7 +21,7 @@ In God zullen wij tegelijk beminnen alles wat beminnenswaardig is en wat Hij ons
 
 Wanneer wij denken aan een zuivere, dus belangeloze liefde tegenover God, de liefde die slechts geeft, stoten wij op de moeilijkheid dat wij God nooit iets zullen kunnen geven wat Hij niet reeds bezit. Welk belang kan God hebben bij onze zuivere liefde? Het antwoord op die moeilijkheid is dit: wij kunnen wel met vrije wil aan zijn wensen beantwoorden; we kunnen Hem de vreugde geven dat wij op zijn liefde ingaan en Hem liefhebben omdat Hij het vraagt.
 
-Het hoogste karakter van de liefde is altijd haar belangeloosheid, haar zuiverheid, het vergeten van zich zelf. Daarom is de eerste eis in onze verhouding van liefde tot God ook niet __onze__ zaligheid, heiligheid of deugd, maar __zijn__ glorie, __zijn__ belangen, dus __zijn__ Kerk en __zijn__ zielen.
+Het hoogste karakter van de liefde is altijd haar belangeloosheid, haar zuiverheid, het vergeten van zichzelf. Daarom is de eerste eis in onze verhouding van liefde tot God ook niet __onze__ zaligheid, heiligheid of deugd, maar __zijn__ glorie, __zijn__ belangen, dus __zijn__ Kerk en __zijn__ zielen.
 
 2\. Onze aandacht mag wel gevestigd worden op de _kracht_ van onze liefde.
 

@@ -8,7 +8,7 @@ sortIndex: 87
 
 ## God is heilig
 
-_Ik Jahweh, ben uw God. Gedraagt u dus heilig; weest heilig omdat Ik heilig ben._ (Lev. 11:44) Zo openbaart God zich zelf. Bij het uitspreken van zijn eigen heiligheid, zijn ongereptheid, zijn reinheid, voegt Hij onmiddellijk de oproep tot zijn redelijke schepselen op aarde: _weest heilig omdat ik heilig ben_.
+_Ik Jahweh, ben uw God. Gedraagt u dus heilig; weest heilig omdat Ik heilig ben._ (Lev. 11:44) Zo openbaart God zichzelf. Bij het uitspreken van zijn eigen heiligheid, zijn ongereptheid, zijn reinheid, voegt Hij onmiddellijk de oproep tot zijn redelijke schepselen op aarde: _weest heilig omdat ik heilig ben_.
 
 Op dezelfde wijze spreekt het nieuwe testament. _Voegt u als gehoorzame kinderen, niet naar uw vroegere lusten uit de tijd van de onwetendheid; maar weest heilig in heel uw wandel, zoals Hij heilig is die u riep._ (1 Petr. 1:14-15)
 

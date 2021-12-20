@@ -12,7 +12,7 @@ Wat een plant voortbrengt wanneer ze de volle wasdom heeft bereikt en wat tegeli
 
 De mens brengt vruchten voort als hij de inwendige deugden bezit en zijn daden zelf met die gesteltenissen in overeenkomst zijn.
 
-De mens vindt vreugde in werk dat aan hem is aangepast, dat namelijk aan zijn wezen, zijn aanleg en zijn neigingen beantwoordt. Daarin is hij vaardig en bedreven; hij volbrengt dan geen vreemd gebod, bezwijkt niet voor drang of dwang van buiten. Hij leeft dan zich zelf, gehoorzaamt aan een inwendige drang van binnen uit.
+De mens vindt vreugde in werk dat aan hem is aangepast, dat namelijk aan zijn wezen, zijn aanleg en zijn neigingen beantwoordt. Daarin is hij vaardig en bedreven; hij volbrengt dan geen vreemd gebod, bezwijkt niet voor drang of dwang van buiten. Hij leeft dan zichzelf, gehoorzaamt aan een inwendige drang van binnen uit.
 
 _Als gij u door de geest laat leiden,_ zegt Paulus, _valt gij niet onder de Wet._ (Gal. 5:18) De daad van iemand die deugdzaam is vindt heel haar oorsprong van binnen: het is een werkelijk spontane levensvrucht. Terecht zegt daarom de H. Ambrosius: _de goede werken heten vruchten, omdat ze hun bezitter met heilige en oprechte voldoening verkwikken_.
 
