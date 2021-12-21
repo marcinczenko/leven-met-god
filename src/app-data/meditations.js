@@ -125,5 +125,9 @@ export const meditations = {
   '2021-12-20T00:00:00': {
     title: '23: MAANDAG NA DE 4e ZONDAG - Waarom is Christus gekomen?',
     link: '/23'
+  },
+  '2021-12-21T00:00:00': {
+    title: '24: DINSDAG NA DE 4e ZONDAG - Jezus Christus is de mensgeworden Zoon van God',
+    link: '/24'
   }
 }
