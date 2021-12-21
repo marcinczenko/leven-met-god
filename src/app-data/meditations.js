@@ -129,5 +129,9 @@ export const meditations = {
   '2021-12-21T00:00:00': {
     title: '24: DINSDAG NA DE 4e ZONDAG - Jezus Christus is de mensgeworden Zoon van God',
     link: '/24'
+  },
+  '2021-12-22T00:00:00': {
+    title: '25: WOENSDAG NA DE 4e ZONDAG - Geestelijke Groei I',
+    link: '/25'
   }
 }
