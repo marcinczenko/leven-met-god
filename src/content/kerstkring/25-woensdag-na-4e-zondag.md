@@ -22,8 +22,8 @@ Dit lijden variëert van persoon tot persoon, maar ook in eenzelfde leven neemt 
 
 Maar deze groei veronderstelt van onze kant veel geduld. Wij kunnen de toename van de Godsvereniging wel wensen, maar een groei forceert men in de regel niet. _Met kleine langzame schreden gaat het werk van de genade vooruit. De genade verdraagt geen geweld, geestelijke ontwikkeling laat zich niet afdwingen._ (Newman). Wij ontvingen van God het leven onder andere dáárom, dat wij in een ontwikkeling die gewoonlijk tientallen van jaren omvat naar Hem toe zouden groeien. Die groei steunt op Gods hulp en steunt in ons op het geduld, het verlangen, op het gebed en de liefde.
 
-Telkens weer iets beter willen zijn, iets volmaakter willen leven, meer willen beminnen, dat is in concreto de streving naar God. Het omvat dus een haast eindeloos aantal pogingen, een telkens zichzelf ter liefde van God _herstellen_. _In een hogere wereld is het anders, maar hier op aarde betekent _leven_: **veranderen**, en _volmaakt zijn_: **zich vaak veranderd hebben.** (Newman).
+Telkens weer iets beter willen zijn, iets volmaakter willen leven, meer willen beminnen, dat is in concreto de streving naar God. Het omvat dus een haast eindeloos aantal pogingen, een telkens zichzelf ter liefde van God _herstellen_. _In een hogere wereld is het anders, maar hier op aarde betekent "leven": **veranderen**, en "volmaakt zijn": **zich vaak veranderd hebben**._ (Newman).
 
-Deze wet is ook van kracht, (zij is daar zeUs meer voelbaar), in het leven van ijverige priesters en vurige kloosterlingen.
+Deze wet is ook van kracht, (zij is daar zelfs meer voelbaar), in het leven van ijverige priesters en vurige kloosterlingen.
 
 _O Jezus, geef mij vertrouwen in mijn roeping tot ware en hoge heiligheid. Laat mij dagelijks groeien onder de invloed van uw genade, groeien in gebed, in deugd, in offervaardigheid en in liefde. Dan zal mijn leven ondanks alle zwakheden van het verleden, in de toekomst tenminste steeds meer strekken tot uw glorie. Amen._
