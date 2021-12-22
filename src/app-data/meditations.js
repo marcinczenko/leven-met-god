@@ -133,5 +133,9 @@ export const meditations = {
   '2021-12-22T00:00:00': {
     title: '25: WOENSDAG NA DE 4e ZONDAG - Geestelijke Groei I',
     link: '/25'
+  },
+  '2021-12-23T00:00:00': {
+    title: '26: DONDERDAG NA DE 4e ZONDAG - Opvoeding en liefde',
+    link: '/26'
   }
 }
