@@ -137,5 +137,47 @@ export const meditations = {
   '2021-12-23T00:00:00': {
     title: '26: DONDERDAG NA DE 4e ZONDAG - Opvoeding en liefde',
     link: '/26'
+  },
+  '2021-12-24T00:00:00': {
+    title: '28: VIGILIE VAN KERSTMIS - Vooravond van Kerstmis',
+    link: '/28',
+    extras: [
+      {
+        title: '27: VRIJDAG NA DE 4e ZONDAG - Geestelijke Groei II',
+        link: '/27',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2021-12-25T00:00:00': {
+    title: '29: KERSTFEEST - De geboorte van Christus',
+    link: '/29'
+  },
+  '2021-12-26T00:00:00': {
+    title: '33: ZONDAG ONDER HET OCTAAF VAN KERSTMIS - Het teken van tegenspraak',
+    link: '/33',
+    extras: [
+      {
+        title: '30: TWEEDE KERSTDAG - Sint Stefanus, de kroon',
+        link: '/30',
+        type: 'Zie ook:'
+      }
+    ]
+  },
+  '2021-12-27T00:00:00': {
+    title: '31: ST. JAN DE EVANGELIST - De leerling die Jezus liefhad',
+    link: '/31'
+  },
+  '2021-12-28T00:00:00': {
+    title: '32: FEEST VAN ONNOZELE KINDEREN - De wonderlijke moord',
+    link: '/31'
+  },
+  '2021-12-30T00:00:00': {
+    title: '34: 6e DAG ONDER HET OCTAAF - Wij hebben alles aan Hem te danken',
+    link: '/34'
+  },
+  '2021-12-31T00:00:00': {
+    title: '35: 7e DAG ONDER HET OCTAAF - ',
+    link: '/35'
   }
 }

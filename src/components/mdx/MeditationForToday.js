@@ -21,6 +21,8 @@ const MeditationForToday = () => {
       } else {
         setExtras(undefined)
       }
+    } else {
+      setTitle('er is geen meditatie voor vandaag')
     }
   }, [currentDate])
 
