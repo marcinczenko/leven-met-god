@@ -10,7 +10,7 @@ sortIndex: 28
 
 _Vandaag nog zult gij weten dat de Heer komt en morgen zult gij zijn heerlijkheid aanschouwen._ (Ex. 16:5,7)
 
-1\. Met deze hoopvolle woorden spreekt de Kerk ons vandaag over het mysterie dat aanstaande is. Want bet Kerstfeest dat wij gaan vieren is een hernieuwd mysterie: een geheim van grondeloze diepte voor ons allen, een geheim van blijdschap en van troost.
+1\. Met deze hoopvolle woorden spreekt de Kerk ons vandaag over het mysterie dat aanstaande is. Want het Kerstfeest dat wij gaan vieren is een hernieuwd mysterie: een geheim van grondeloze diepte voor ons allen, een geheim van blijdschap en van troost.
 
 _Vandaag zult gij weten dat de Heer komt._ De Kerk verwacht dat wij onze liefdevolle en ingetogen aandacht vestigen op de komst des Heren, op de heilige menswording van Christus. Hij komt opnieuw: Hij komt in ons hart: hij staat gereed zich weer aan ons te geven met zijn goddelijke liefde. Het is volkomen passend dat wij ons hart voor Hem open stellen en ons afvragen wat Hij in ons bewerken wil.
 
@@ -22,7 +22,7 @@ En steeds maar achteloos verontschuldigen wij onszelf als _wij_ aan Jezus voorbi
 
 Als een eerbetuiging, terwijl Hij in de diepste vernedering geboren wordt, zingt de Kerk Hem toe: _Aan de Heer behoort de wereld en haar volheid; van Hem is het aardrijk en allen die het bewonen._ (Ps. 23:1)
 
-_Jezus, wil Gij zelf mijn hart voorbereiden op uw komst: want ik wil U met veel liefde ontvangen. Alles behoort U toe: ik wil U toebehoren uit liefde, maar dan zonder enige beperking daarbij te maken ten hate van mijzelf._
+_Jezus, wil Gij zelf mijn hart voorbereiden op uw komst: want ik wil U met veel liefde ontvangen. Alles behoort U toe: ik wil U toebehoren uit liefde, maar dan zonder enige beperking daarbij te maken ten bate van mijzelf._
 
 2\. _God die ons verblijdt door de jaarlijkse verwachting van onze verlossing: verleen ons dat wij, die Hem blij als Redder ontvangen Hem ook veilig eenmaal als Rechter tegemoet mogen zien, onze Heer Jezus Christus, uw Zoon._
 
