@@ -14,7 +14,7 @@ Wij delen (gelukkig), met de goddelijke Leraar die liefde voor het kind.
 
 Toen de Apostelen de moeders, die hun kleintjes naar Jezus brachten, wilden afweren om de Meester niet nog eens extra te vermoeien na een zware dagtaak, kwam Hij tussenbeide met zijn goddelijk, liefdevol woord: _Laat de kinderen tot Mij komen en houdt ze niet tegen..._ (Luk. 18:16)
 
-1\. Het kind groeit naar volwassenheid en is daarbij in sterke mate afhankelijk van zijn opvoeders. Als zij werkelijk delen in Jezus' liefde voor het kind en ook enigszins beseffen, wat hun verantwoordelijkheid is ten opzichte van de kinderen die zij in handen hebben, zullen zij gaarne de goddelijke hulp afbidden. Zij zullen de grote Kindervriend om zijn bijstand vragen en van zijn woord en voorbeeld de meest kostbare paedagogische en onovertroffen lessen leren.
+1\. Het kind groeit naar volwassenheid en is daarbij in sterke mate afhankelijk van zijn opvoeders. Als zij werkelijk delen in Jezus' liefde voor het kind en ook enigszins beseffen, wat hun verantwoordelijkheid is ten opzichte van de kinderen die zij in handen hebben, zullen zij gaarne de goddelijke hulp afbidden. Zij zullen de grote Kindervriend om zijn bijstand vragen en van zijn woord en voorbeeld de meest kostbare pedagogische en onovertroffen lessen leren.
 
 Het is zeer waardevol te weten, dat reeds het kind verlangt zich te handhaven en zich te ontplooien. Door het kind te erkennen (met hartelijke genegenheid), door het te waarderen, wordt die handhaving en ontplooiing bevorderd. Maar zijn opgang naar een volwaardige persoonlijkheid kan gedrukt en verdrukt, zelfs vernietigd worden, door weigering van hartelijkheid (kinderen hebben tederheid nodig), door hun op een of andere wijze afkeer of minachting te tonen.
 
