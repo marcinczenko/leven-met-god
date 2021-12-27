@@ -16,7 +16,7 @@ In zijn eerste brief komt hij daarop terug. Hij leert dat Jezus die de goddelijk
 
 Hij vindt het licht in God. God is het licht en Hij deelt ons dit mee door zijn Zoon die ons licht wordt hier op aarde en ons in alles voorlicht. Door Hem weten wij immers hoe wij leven moeten, wat onze oorsprong is en wat ons doel. Dat licht verdrijft de duisternis van de zonde en brengt ons tot het nieuwe leven; dat nieuwe leven is een leven van liefde. _De duisternis is voorbij en het ware licht is reeds aan het schijnen... wie beweert in het licht te zijn, maar zijn broeder haat, hij is ook nu nog in duisternis. Wie zijn broeder liefheeft, blijft in het licht..._ (1 Joh. 1:8-10)
 
-2\. Nog beter tekent de heilige Johannes zich zelf als hij zijn gelovigen uiteenzet hoe onze liefde een vrucht is van Gods liefde. Deze liefde van God openbaarde zich in de menswording van Jezus Christus, die voor ons de zonden uitboette. Hij verwacht nu niets anders van ons dan dat wij Hem
+2\. Nog beter tekent de heilige Johannes zichzelf als hij zijn gelovigen uiteenzet hoe onze liefde een vrucht is van Gods liefde. Deze liefde van God openbaarde zich in de menswording van Jezus Christus, die voor ons de zonden uitboette. Hij verwacht nu niets anders van ons dan dat wij Hem
 op onze beurt zullen liefhebben.
 
 _God is liefde. Hierdoor heeft Gods liefde zich aan ons geopenbaard, dat God zijn eniggeboren Zoon in de wereld heeft gezonden opdat wij door Hem zouden leven. Hierin bestaat de liefde: niet dat _wij_ God hebben liefgehad, maar dat Hij ons bemind heeft en zijn Zoon heeft gezonden tot verzoening voor onze zonden._ (1 Joh 4:8-10)
