@@ -170,7 +170,7 @@ export const meditations = {
   },
   '2021-12-28T00:00:00': {
     title: '32: FEEST VAN ONNOZELE KINDEREN - De wonderlijke moord',
-    link: '/31'
+    link: '/32'
   },
   '2021-12-30T00:00:00': {
     title: '34: 6e DAG ONDER HET OCTAAF - Wij hebben alles aan Hem te danken',
