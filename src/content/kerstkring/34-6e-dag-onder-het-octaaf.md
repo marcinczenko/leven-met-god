@@ -18,11 +18,11 @@ Waaraan hadden wij het verdiend? Niet om onze goede werken zegt Paulus. Ze zijn 
 
 Het leven begint pas als men Christus ontmoet, als men de overtuiging krijgt dat ons een verrukkelijke toekomst wacht, op grond van de onbegrijpelijke mildheid van hierboven, de goedheid van Hem die ons is komen zoeken toen wij waren afgedwaald.
 
-_... Door het bad van de wedergeboorte en de vernieuwing van de heilige Geest._ Wij zijn gedoopt _allen zijt gij in een Geest gedoopt, tot een lichaam_, zegt Paulus. Het doopsel bracht in ons het goddelijk leven; het zaad, het begin van het eeuwig geluk. De heilige Geest begeleidt ons sindsdien. Hij is in ons, als wij tenminste ons naar Hem willen keren en geloven in zijn machtige invloed.
+_...Door het bad van de wedergeboorte en de vernieuwing van de heilige Geest._ Wij zijn gedoopt _allen zijt gij in een Geest gedoopt, tot een lichaam_, zegt Paulus. Het doopsel bracht in ons het goddelijk leven; het zaad, het begin van het eeuwig geluk. De heilige Geest begeleidt ons sindsdien. Hij is in ons, als wij tenminste ons naar Hem willen keren en geloven in zijn machtige invloed.
 
 2\. Waarom heeft Hij dat alles gedaan? Waarom geeft Hij ons weer die nieuwe kansen tot heiligheid en tot geluk? Hij is Vader: Hij heeft ons geschapen en van eeuwigheid bemind; en een vader wil zijn kind niet missen. Hij heeft de schoonheid en de eeuwige blijdschap van de hemel voor ons gereed gehouden; Hij wil ons gelukkig zien omdat Hij ons op goddelijke wijze, die de menselijke manier onbegrijpelijk ver te boven gaat... heeft liefgehad.
 
-_... Opdat wij door zijn genade gerechtvaardigd, door de hóóp erfgenamen zouden worden van het eeuwig leven._ (Tit. 3:4-7)
+_...Opdat wij door zijn genade gerechtvaardigd, door de hóóp erfgenamen zouden worden van het eeuwig leven._ (Tit. 3:4-7)
 
 Dit leven is een hoopvol uitzien naar _de andere oever_, het is een ononderbroken verwachting van het erfdeel dat het eeuwig leven is.
 
