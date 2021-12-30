@@ -177,7 +177,11 @@ export const meditations = {
     link: '/34'
   },
   '2021-12-31T00:00:00': {
-    title: '35: 7e DAG ONDER HET OCTAAF - ',
+    title: '35: 7e DAG ONDER HET OCTAAF - Oudejaarsavond',
     link: '/35'
+  },
+  '2022-1-1T00:00:00': {
+    title: '36: BESNIJDENIS DES HEREN - In het teken van het offer',
+    link: '/36'
   }
 }
