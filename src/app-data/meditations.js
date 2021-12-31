@@ -183,5 +183,9 @@ export const meditations = {
   '2022-1-1T00:00:00': {
     title: '36: BESNIJDENIS DES HEREN - In het teken van het offer',
     link: '/36'
+  },
+  '2022-1-2T00:00:00': {
+    title: '37: FEEST VAN DE ZOETE NAAM - De naam van Jezus',
+    link: '/37'
   }
 }
