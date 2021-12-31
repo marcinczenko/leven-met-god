@@ -16,10 +16,11 @@ Wellicht niet één van ons kan zeggen, dat dit een volkomen heilig en ongerept 
 
 Als ik mensen veronachtzaam, bedroef ik Hem. En van mijn kansen tot gebed, tot veel en vurig gebed, is nogal veel verloren gegaan. De trouw en de toewijding voor wat zeker Gods wil was in mijn leven... was vaak zo oppervlakkig en gering.
 
-Ik bid nu met de Kerk: 
-_Erbarm U over mij naar uw genade, o God;_ 
-_Delg mijn misdaden uit naar uw grote ontferming;_ 
-_Was mij vlekkeloos schoon van mijn schuld,_ 
+Ik bid nu met de Kerk:
+
+_Erbarm U over mij naar uw genade, o God;_  
+_Delg mijn misdaden uit naar uw grote ontferming;_  
+_Was mij vlekkeloos schoon van mijn schuld,_  
 _En reinig mij van mijn zonde..._ (Ps. 50:3,4)
 
 _De Heer is lankmoedig; laat ons hierover berouw verwekken en Hem onder tranen om vergiffenis smeken._ (Jud. 8:14) _Uit de diepten o, Jahwe, roep ik tot U: Heer, hoor mijn klagen; laat uw oren toch luisteren naar mijn bidden en smeken! Ach, Jahwe, zo Gij de zonde gedenkt, ach Heer, wie zou het bestaan? Neen, bij U is vergeving, opdat ik vol hoop U zou vrezen, o Jahwe. Mijn ziel schouwt hunkerend naar zijn belofte, mijn ziel smacht naar de Heer._ (Ps. 130:1-5)
