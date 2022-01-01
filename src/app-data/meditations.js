@@ -187,5 +187,9 @@ export const meditations = {
   '2022-1-2T00:00:00': {
     title: '37: FEEST VAN DE ZOETE NAAM - De naam van Jezus',
     link: '/37'
+  },
+  '2022-1-3T00:00:00': {
+    title: '38:  - ',
+    link: '/38'
   }
 }
