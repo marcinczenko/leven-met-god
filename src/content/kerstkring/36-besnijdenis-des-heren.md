@@ -26,10 +26,10 @@ Ons die Gods kinderen zijn, past iets geheel anders: dat wij ingetogen, rechtsch
 
 Als priester _uit de mensen genomen_, als kloosterling tot biezondere intimiteit met God uitgenodigd, of als leek die Gods eer hoog wil houden te midden van een wereld die Hem vergeet... allen hebben wij moed en ernstige overtuiging nodig om ingetogen te kunnen en te durven zijn; om een diep godsdienstig leven te voeden, om eerlijk oprecht, rechtschapen, onder de mensen te staan. Alleen de omgang met de Godmens, kan ons die kracht en die durf verzekeren.
 
-_Hij heeft zich voor ons gegeven om ons van alle ongerechtigheid fie verlossen._
+_Hij heeft zich voor ons gegeven om ons van alle ongerechtigheid te verlossen._
 
 Is er een woord denkbaar dat meer hoop en vertrouwen geeft? Hij wil ons tot _reinheid en heiligheid brengen_, _als zijn eigen volk, vol van ijver in goede werken_. Hij verwacht dus veel van ons.
 
-En als een speciale opdracht aan de priesters:, besluit bet epistel: _Houdt hun dit voor in uw uiteenzettingen en vermaningen... in Christus Jezus onze Heer._
+En als een speciale opdracht aan de priesters:, besluit het epistel: _Houdt hun dit voor in uw uiteenzettingen en vermaningen... in Christus Jezus onze Heer._
 
 _God, die door het maagdelijk moederschap van de heilige Maria, de schatten van de eeuwige zaligheid aan het mensdom hebt geschonken, verleen ons, smeken wij u, dat wij de voorspraak mogen ervaren van haar, door wie wij de oorsprong van het leven mochten ontvangen: onze Heer Jezus Christus. Amen._
