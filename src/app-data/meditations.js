@@ -189,7 +189,7 @@ export const meditations = {
     link: '/37'
   },
   '2022-1-3T00:00:00': {
-    title: '38:  - ',
+    title: '38: 2e DAG NA HET OCTAAF - Maria Moeder Gods',
     link: '/38'
   }
 }
