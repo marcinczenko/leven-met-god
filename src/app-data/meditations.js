@@ -199,5 +199,9 @@ export const meditations = {
   '2022-1-5T00:00:00': {
     title: '40: VIGILIE VAN DRIEKONINGEN - De Toegang tot Hem voert langs het geloof',
     link: '/40'
+  },
+  '2022-1-6T00:00:00': {
+    title: '41: 0PENBARING DES HEREN - Driekoningen',
+    link: '/41'
   }
 }
