@@ -195,5 +195,9 @@ export const meditations = {
   '2022-1-4T00:00:00': {
     title: '39: 3e DAG NA HET OCTAAF - Jezus, mens onder de mensen',
     link: '/39'
+  },
+  '2022-1-5T00:00:00': {
+    title: '40: VIGILIE VAN DRIEKONINGEN - De Toegang tot Hem voert langs het geloof',
+    link: '/40'
   }
 }
