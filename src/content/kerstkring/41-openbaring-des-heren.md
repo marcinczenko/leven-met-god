@@ -16,7 +16,7 @@ Hun drievoudig geschenk deed later tijden besluiten tot het bekende _drietal_ "K
 
 Zij hebben gehoorzaamd en zijn op weg gegaan toen God hen riep. Het ligt voor de hand dat zij moeilijkheden hebben ondervonden. De stem echter die hen riep was zó dringend, hun goede wil zó groot dat zij alles trotseerden. Het afscheid, de reis, de gevaren onderweg en het vreemde land dat zij tegemoet gingen, niets heeft hen weerhouden. Zij komen bij Herodes aan en dan begint de moeilijkheid voorgoed. Zij zijn teleurgesteld: niemand scheen iets te weten van de nieuwe koning. Herodes ontstelde op hun vraag en heel Jerusalem met hem. Het volk wist tot welke wreedheden hun vorst in staat was; hij zelf was opgewonden: het gerucht van een nieuwgeboren koning kon onlusten verwekken bij het volk.
 
-Hij roept het Sanhedrin bijeen. Deze hoge raad, bestaande uit opperpriesters, oudsten en schriftgeleerden (tesamen een en zeventig leden), antwoordde hem dat de nieuwe koning in Bethlehem, in Juda, moest geboren warden.
+Hij roept het Sanhedrin bijeen. Deze hoge raad, bestaande uit opperpriesters, oudsten en schriftgeleerden (tesamen een en zeventig leden), antwoordde hem dat de nieuwe koning in Bethlehem, in Juda, moest geboren worden.
 
 De Wijzen vertrekken naar die stad terwijl de ster hen weer vooruitgaat. Zij vinden het Kind en zijn Moeder, bieden het geschenken aan en gaan dan langs een andere weg naar hun eigen land terug.
 
