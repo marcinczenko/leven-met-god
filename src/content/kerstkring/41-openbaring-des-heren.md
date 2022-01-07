@@ -1,6 +1,6 @@
 ---
 path: /41
-title: '41: 0PENBARING DES HEREN'
+title: '41: OPENBARING DES HEREN'
 tag: kerstkring
 content: ../styling.md
 sortIndex: 41

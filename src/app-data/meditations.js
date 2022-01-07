@@ -201,7 +201,11 @@ export const meditations = {
     link: '/40'
   },
   '2022-1-6T00:00:00': {
-    title: '41: 0PENBARING DES HEREN - Driekoningen',
+    title: '41: OPENBARING DES HEREN - Driekoningen',
     link: '/41'
+  },
+  '2022-1-7T00:00:00': {
+    title: '46: VRIJDAG NA DRIEKONINGEN - Het inwendig gebed, een voorrecht',
+    link: '/46'
   }
 }
