@@ -16,8 +16,10 @@ _Omdat het gebed ons doet binnentreden in het volle licht van de Godheid,_ zegt 
 
 _Dit is het gezegende water dat moet dienen om onze zielen rein te wassen van onze ongerechtigheden, de dorst van onze begeerlijkheid te lessen en de eerste wortels van de goede verlangens te voeden die de deugd reeds in ons hart gevestigd heeft. (Inleiding tot het godvruchtig leven II:1)_
 
-Willen wij dit voorrecht van het inwendig gebed genieten, dan mogen wij ons wel met veel liefde en ijver daarop toeleggen en bedenken dat het gebed altijd de parallel-lopende praktijk van deugdoefening veronderstelt, met name die van de versterving en de zelfverloochening.  
-Men kan dit voorrecht ook anders zien.  
+Willen wij dit voorrecht van het inwendig gebed genieten, dan mogen wij ons wel met veel liefde en ijver daarop toeleggen en bedenken dat het gebed altijd de parallel-lopende praktijk van deugdoefening veronderstelt, met name die van de versterving en de zelfverloochening.
+
+Men kan dit voorrecht ook anders zien.
+
 _Zolang iemand het inwendig gebed beoefent,_ zo meent de heilige Alphonsus, _zal hij een voorbeeld zijn van ingetogenheid, van nederigheid, van godsvrucht en versterving; maar laat hij het gebed na, dan zal weldra de onbeteugelde nieuwsgierigheid zelfs aan zijn oogopslag te zien zijn; zijn hoogmoed komt voor de dag bij ieder woord dat hem hindert..., hij denkt er nauwelijks meer aan zich te versterven; integendeel, de ijdelheden, de vermaken en genoegens van de wereld boeien hem._
 
 Waarom? Omdat het zuiverende water van het gebed niet meer stroomt en hem inwendig dus niet meer reinigt; hij mist het eigenlijke leven, hij heeft het gebed laten varen, de tuin is dor en droog geworden en het kwaad verergert met de dag.
