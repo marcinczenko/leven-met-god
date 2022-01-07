@@ -1,9 +1,9 @@
 ---
-path: /41
-title: '41: VRIJDAG NA DRIEKONINGEN'
+path: /46
+title: '46: VRIJDAG NA DRIEKONINGEN'
 tag: kerstkring
 content: ../styling.md
-sortIndex: 41
+sortIndex: 46
 ---
 
 ## Het inwendig gebed, een voorrecht
