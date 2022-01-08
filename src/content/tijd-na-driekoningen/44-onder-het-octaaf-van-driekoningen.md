@@ -27,6 +27,6 @@ _Maar zo (in een heidens leven) hebt gij Christus niet leren kennen._ (Ef. 4:20)
 
 Wie tot Christus nadert, in genegenheid en in navolging van zijn levensschoonheid, wie zich gewillig in Hem _laat_ hervormen, straalt iets uit van zijn bovenaardse goedheid en draagt iets in zich van de Redder Jezus Christus. Wie ten volle de Verlosser in zich ervaart, deelt die ook aan anderen mee. Diepe overtuigingen gaan van ons zo gemakkelijk naar anderen uit: zij vloeien als uit de poriën van ons wezen.
 
-_Laat ons, Heer Jezus, met de deugden van uw allerheiligst Hart bekleed en door zijn gevoelens ontvlamd worden, opdat wij aan __het beeld van uw goedheid gelijkvormig, en aan uw verlossing deelachtig mogen worden.__ (Mis Ingredimini)
+_Laat ons, Heer Jezus, met de deugden van uw allerheiligst Hart bekleed en door zijn gevoelens ontvlamd worden, opdat wij aan __het beeld van uw goedheid gelijkvormig, en aan uw verlossing deelachtig mogen worden__._ (Mis Ingredimini)
 
 Op de vraag: _wat dunkt u van de Christus?_ antwoordde iemand die Hem werkelijk liefhad: _Hij is het hart van mijn hart, de ziel van mijn ziel; van mijn leven is Hij het leven._ _Heer Jezus, laat het tussen ons in eeuwigheid zo zijn. Amen._
