@@ -217,7 +217,7 @@ export const meditations = {
     link: '/42',
     extras: [
       {
-        title: '48: 1e ZONDAG NA DRIEKONIGEN - Het onbegrijpelijke gedrag van Jezus',
+        title: '48: 1e ZONDAG NA DRIEKONINGEN - Het onbegrijpelijke gedrag van Jezus',
         link: '/48',
         type: 'Tweede meditatie:'
       }
