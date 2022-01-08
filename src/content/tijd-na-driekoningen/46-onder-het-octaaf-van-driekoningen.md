@@ -1,7 +1,7 @@
 ---
 path: /46
-title: '46: VRIJDAG NA DRIEKONINGEN'
-tag: kerstkring
+title: '46: ONDER HET OCTAAF VAN DRIEKONINGEN'
+tag: tijd-na-driekoningen
 content: ../styling.md
 sortIndex: 46
 ---

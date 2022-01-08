@@ -205,7 +205,26 @@ export const meditations = {
     link: '/41'
   },
   '2022-1-7T00:00:00': {
-    title: '46: VRIJDAG NA DRIEKONINGEN - Het inwendig gebed, een voorrecht',
+    title: '46: ONDER HET OCTAAF VAN DRIEKONINGEN - Het inwendig gebed, een voorrecht',
     link: '/46'
+  },
+  '2022-1-8T00:00:00': {
+    title: '44: ONDER HET OCTAAF VAN DRIEKONINGEN - Wat moeten wij doen?',
+    link: '/44'
+  },
+  '2022-1-9T00:00:00': {
+    title: '42: HET FEEST VAN DE HEILIGE FAMILIE - Het voorbeeld van de christelijke familie',
+    link: '/42',
+    extras: [
+      {
+        title: '48: 1e ZONDAG NA DRIEKONIGEN - Het onbegrijpelijke gedrag van Jezus',
+        link: '/48',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-1-13T00:00:00': {
+    title: '47: HET OCTAAF VAN DRIEKONINGEN - Het Doopsel van Jezus in de Jordaan',
+    link: '/47'
   }
 }
