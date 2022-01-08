@@ -1,6 +1,6 @@
 ---
 path: /42
-title: '42: MAANDAG NA DRIEKONINGEN'
+title: '42: HET FEEST VAN DE HEILGE FAMILIE'
 tag: tijd-na-driekoningen
 content: ../styling.md
 sortIndex: 42

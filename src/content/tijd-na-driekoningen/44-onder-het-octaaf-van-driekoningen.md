@@ -17,16 +17,16 @@ worden om Christus te kunnen zijn.
 
 Wij moeten dus wat vaarwel zeggen, wat loslaten, wat prijsgeven. Misschien is dit loslaten het eerste offer bij deze grandioze overwinning op de menselijke zwakheid: zijn als Jezus Christus. Wat moet ik loslaten; mijn ijdelheid, mijn trots, mijn jaloersheid! Sommige mensen doen vrijwel alles uit trots of om gezien en geprezen te worden. Soms zijn zij zich dit niet of maar nauwelijks bewust.
 
-Dit overkomt ook kloosterlingen en priesters; ook priesters, die veel goed doen en die zich in de schaduw voelen verdwijnen, als iemand in hun buurt, vooral een confrater of medezuster _iets_ presteert,wat boven de middelmaat uit zou kunnen gaan.
+Dit overkomt ook kloosterlingen en priesters; ook priesters, die veel goed doen en die zich in de schaduw voelen verdwijnen, als iemand in hun buurt, vooral een confrater of medezuster _iets_ presteert, wat boven de middelmaat uit zou kunnen gaan.
 
 2\. Wij _mogen_ (want het is een onvoorstelbaar groot geschenk) telkens weer naar Jezus zien: om telkens iets van het onze weg te werpen en ons geestelijkerwijze met iets van Hem te bekleden.
 
 _Gij hebt de oude mens afgelegd met zijn praktijken en aangetrokken de nieuwe mens, die tot beter inzicht vernieuwd is naar het beeld van zijn Schepper._ (Kol. 3:9,10) Wij kunnen onmogelijk blijven, zoals we zijn, we willen dat ook niet: we zijn nog niet genoeg Christus.
 
-_Maar zo (in een heidens leven) hebt gij Christus niet leren kennen._ (Ef. 4:20) Wij worden uitgenodigd het al te aardse in ons te verwisselen voor iets, wat reeds meer op hef hemelse gelijkt, op datgene namelijk, wat aan Jezus herinnert. _Zoals wij de gestalte van de aardse (mens) hebben gedragen, zo moeten wij ook de gestalte van de Hemelse dragen._ (1 Kor. 15:49)
+_Maar zo (in een heidens leven) hebt gij Christus niet leren kennen._ (Ef. 4:20) Wij worden uitgenodigd het al te aardse in ons te verwisselen voor iets, wat reeds meer op het hemelse gelijkt, op datgene namelijk, wat aan Jezus herinnert. _Zoals wij de gestalte van de aardse (mens) hebben gedragen, zo moeten wij ook de gestalte van de Hemelse dragen._ (1 Kor. 15:49)
 
 Wie tot Christus nadert, in genegenheid en in navolging van zijn levensschoonheid, wie zich gewillig in Hem _laat_ hervormen, straalt iets uit van zijn bovenaardse goedheid en draagt iets in zich van de Redder Jezus Christus. Wie ten volle de Verlosser in zich ervaart, deelt die ook aan anderen mee. Diepe overtuigingen gaan van ons zo gemakkelijk naar anderen uit: zij vloeien als uit de poriën van ons wezen.
 
-_Laat ons, Heer Jezus, met de deugden van uw allerheiligst Hart bekleed en door zijn gevoelens ontvlamd worden, opdat wij aan _het beeld van uw goedheid gelijkvormig, en aan uw verlossing deelachtig mogen worden._ (Mis Ingredimini)
+_Laat ons, Heer Jezus, met de deugden van uw allerheiligst Hart bekleed en door zijn gevoelens ontvlamd worden, opdat wij aan __het beeld van uw goedheid gelijkvormig, en aan uw verlossing deelachtig mogen worden.__ (Mis Ingredimini)
 
 Op de vraag: _wat dunkt u van de Christus?_ antwoordde iemand die Hem werkelijk liefhad: _Hij is het hart van mijn hart, de ziel van mijn ziel; van mijn leven is Hij het leven._ _Heer Jezus, laat het tussen ons in eeuwigheid zo zijn. Amen._
