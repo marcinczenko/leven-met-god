@@ -10,11 +10,11 @@ sortIndex: 42
 
 Op een voortreffelijke wijze vat Sint Paulus samen wat de Kerk ons bij dit feest leren wil. In het epistel somt hij de groep deugden op die een christelijke familie - ook vandaag nog - behoort te sieren.
 
-Onze eerste gedachten gaan in liefde en bewondering naar het heilig drietal dat op aarde het heilige en het heiligste gezin was. Wij zullen er Jezus aanbidden, en Maria en Jozef nederig vragen om hun voorspraak. Het blijkt lang niet gemakkelijk te zijn de sfeer van ons gezin zó zuiver en zó hoog te houden als wij wel zouden willen. Des te duidelijker zal het voor ens zijn met welk een meesterschap - door Gods genade - dit drietal, de vaak moeilijke levensdagen wist te dragen en te verheffen.
+Onze eerste gedachten gaan in liefde en bewondering naar het heilig drietal dat op aarde het heilige en het heiligste gezin was. Wij zullen er Jezus aanbidden, en Maria en Jozef nederig vragen om hun voorspraak. Het blijkt lang niet gemakkelijk te zijn de sfeer van ons gezin zó zuiver en zó hoog te houden als wij wel zouden willen. Des te duidelijker zal het voor ons zijn met welk een meesterschap - door Gods genade - dit drietal, de vaak moeilijke levensdagen wist te dragen en te verheffen.
 
 1\. _Bekleedt u dan als Gods uitverkoren heiligen en geliefden, met innige barmhartigheid, met goedheid, ootmoed, zachtheid en geduld._
 
-Daarmede begint de les die God ons vandaag door de Kerk geeft, onder verwijzing naar de _heilige. familie_, ons voorbeeld.
+Daarmede begint de les die God ons vandaag door de Kerk geeft, onder verwijzing naar de _heilige familie_, ons voorbeeld.
 Wij zijn uitverkoren heiligen Gods en door zijn liefde bevoorrecht. Op grond daarvan past ons zulk een edele gezindheid. Wij dragen de heiligheid en de bron van alle heiligheid in ons door de deelname aan het goddelijk leven. Hij heeft ons op biezondere wijze lief. Hij mag verwachten dat wij rondom ons liefde zullen verspreiden.
 
 _Innige barmhartigheid._ Hebben wij van God ooit iets anders ondervonden? Daarom rekenen allen rondom ons en terecht, op _onze_ goedheid, op _onze_ nederigheid, op _onze_ zachtheid en op _ons_ geduld.
