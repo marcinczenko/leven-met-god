@@ -11,6 +11,7 @@ sortIndex: 43
 Bij zijn vermaning aan de gelovigen in Kolosse voegde Paulus nog een belangrijke opmerking over hun inwendige vrede met God.
 
 Geheel het epistel sprak gisteren over de naastenliefde en over de verhouding tot Christus en hoe wij door Hem de Vader mogen eren.
+
 1\. _In uw harten heerse ook de vrede van Christus; want daartoe zijt gij tot één lichaam geroepen._
 
 Wij zijn geroepen en _gedoopt en gedrenkt met één Geest... tot één Lichaam_, (1 Kor. 12:13), dat wil zeggen, om één Lichaam te vormen in Jezus Christus. Wij zijn dus één in Hem en met Hem. Nu voegt de apostel daar nog de gedachte aan toe: dat wij tot die eenheid met Christus zijn gebracht opdat _de vrede van Christus_ in ons zou heersen. _Want daartoe zijt gij tot één lichaam geroepen._ (Kol. 3:15) Als de vrede van Christus heerst in ons hart, leeft in dat hart ook de echte en diepe levensvreugde. 

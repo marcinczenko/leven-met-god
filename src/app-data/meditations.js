@@ -223,6 +223,17 @@ export const meditations = {
       }
     ]
   },
+  '2022-1-10T00:00:00': {
+    title: '49: MAANDAG NA DE 1e ZONDAG - Wat het geloof ons leert',
+    link: '/49',
+    extras: [
+      {
+        title: '43: ONDER HET OCTAAF VAN DRIEKONINGEN - De vrede van Christus',
+        link: '/43',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
   '2022-1-13T00:00:00': {
     title: '47: HET OCTAAF VAN DRIEKONINGEN - Het Doopsel van Jezus in de Jordaan',
     link: '/47'
