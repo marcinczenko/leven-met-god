@@ -234,6 +234,10 @@ export const meditations = {
       }
     ]
   },
+  '2022-1-11T00:00:00': {
+    title: '50: DINSDAG NA DE 1e ZONDAG - In de wereld van vandaag',
+    link: '/50'
+  },
   '2022-1-13T00:00:00': {
     title: '47: HET OCTAAF VAN DRIEKONINGEN - Het Doopsel van Jezus in de Jordaan',
     link: '/47'
