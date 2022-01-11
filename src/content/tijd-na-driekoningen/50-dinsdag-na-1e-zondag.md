@@ -10,13 +10,13 @@ sortIndex: 50
 
 Het kan wel niet anders of bij de tegenwoordige complicaties in het sociale, het kerkelijke, het politieke leven (om alleen deze aspecten te noemen) verlangt de mens van vandaag naar een zekere vereenvoudiging. Er is terecht een psychische behoefte aan meer eenvoud meer overzichtelijkheid omtrent de houding die ons past en die we ook wel _willen_ aannemen. Anderzijds is er ook behoefte aan inzicht in de achtergrond van de dingen, ook in de achtergrond van ons persoonlijk leven dat wil zeggen van ons denken en doen, van ons verschijnen en optreden.
 
-1\. Wie iets karakteristieks wil signaleren over de nieuwe katholieke, de nieuwe sociale levenshouding zal mogen opmerken dat gelukkig steeds meer het idee veld wint hoe ieder van ons een eigen en onvervangbare opdracht van de Schepperte vervullen heeft gekregen. Dat brengt dus verantwoordelijkheid mee, het dwingt tot eerlijke bezinning op die levenstaak.
+1\. Wie iets karakteristieks wil signaleren over de nieuwe katholieke, de nieuwe sociale levenshouding zal mogen opmerken dat gelukkig steeds meer het idee veld wint hoe ieder van ons een eigen en onvervangbare opdracht van de Schepper te vervullen heeft gekregen. Dat brengt dus verantwoordelijkheid mee, het dwingt tot eerlijke bezinning op die levenstaak.
 
 Wat heb ik speciaal in dit leven te doen? Wat verwachten de mensen van mij, en vooral wat verwacht God van mij?
 
 Wij behoren midden in het leven te staan met een grote belangstelling en een grote liefde. Het is niet zo dat het leven zonder meer aan ons voorbij loopt of raast: wij zijn zelf een levend deel van onze tijd, wij maken _de tijd_, zoals we ook de Kerk zijn, _de Kerk_ maken, door wat wij zijn en doen. De Kerk staat immers in de tijd, en heeft, al is zij een goddelijke stichting, een menselijke vorm nodig.
 
-Het ligt dus voor de hand dat wij het als een ereplicht zullen zien en ook ervaren, als bewogen, mensen midden in onze tijd te staan en gaarne mede verantwoordelijk te zijn om vorm te geven aan onze Kerk van vandaag, aan de maatschappij waarin wij zelf nu leven.
+Het ligt dus voor de hand dat wij het als een ereplicht zullen zien en ook ervaren, als bewogen mensen midden in onze tijd te staan en gaarne mede verantwoordelijk te zijn om vorm te geven aan onze Kerk van vandaag, aan de maatschappij waarin wij zelf nu leven.
 
 Er is ongetwijfeld een grote openheid nodig in onze katholieke mentaliteit. Dat er tevens een diepe geslotenheid in ons is, met andere woorden dat wij diep in ons de kostbare, onaantastbare waarheid dragen van ons heilig geloof en de genade van onze intieme, persoonlijke verhouding tot God, spreekt van zelf.
 
