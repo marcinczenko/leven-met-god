@@ -238,6 +238,17 @@ export const meditations = {
     title: '50: DINSDAG NA DE 1e ZONDAG - In de wereld van vandaag',
     link: '/50'
   },
+  '2022-1-12T00:00:00': {
+    title: '51: WOENSDAG NA DE 1e ZONDAG - Het gebed: zijn betekenis voor ons leven',
+    link: '/51',
+    extras: [
+      {
+        title: '45: ONDER HET OCTAAF VAN DRIEKONINGEN - Vrijheid',
+        link: '/43',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
   '2022-1-13T00:00:00': {
     title: '47: HET OCTAAF VAN DRIEKONINGEN - Het Doopsel van Jezus in de Jordaan',
     link: '/47'
