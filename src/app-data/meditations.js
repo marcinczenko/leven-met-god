@@ -244,7 +244,7 @@ export const meditations = {
     extras: [
       {
         title: '45: ONDER HET OCTAAF VAN DRIEKONINGEN - Vrijheid',
-        link: '/43',
+        link: '/45',
         type: 'Tweede meditatie:'
       }
     ]
