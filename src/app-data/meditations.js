@@ -251,6 +251,13 @@ export const meditations = {
   },
   '2022-1-13T00:00:00': {
     title: '47: HET OCTAAF VAN DRIEKONINGEN - Het Doopsel van Jezus in de Jordaan',
-    link: '/47'
+    link: '/47',
+    extras: [
+      {
+        title: '52: DONDERDAG NA DE te ZONDAG - Christus navolgen',
+        link: '/52',
+        type: 'Tweede meditatie:'
+      }
+    ]
   }
 }
