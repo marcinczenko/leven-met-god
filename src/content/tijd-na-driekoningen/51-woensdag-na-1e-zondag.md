@@ -11,7 +11,7 @@ sortIndex: 51
 _Geef mij een man van gebed,_ zegt Sint Vincentius a Paulo, _hij zal tot alles in staat zijn._
 
 Iedereen weet hoezeer de heilige Teresia van Avila het gebed prijst: _voor hen die God niet dienen maar in zonde leven, is het gebed van groot nut en zelfs zeer noodzakelijk;... welke fouten degenen ook begaan die pas beginnen zich op het gebed toe te leggen, laten zij het niet prijsgeven want juist daardoor zullen zij zich kunnen verbeteren en zonder het gebed zal dit veel moeilijker zijn._  
-_...Als men daarin volhardt, hoop ik alles van Gods barmhartigheid; want niemand neemt Hem tot vriend zonder daarvoor beloond te worden_
+_...Als men daarin volhardt, hoop ik alles van Gods barmhartigheid; want niemand neemt Hem tot vriend zonder daarvoor beloond te worden_.
 
 De heilige Teresia is namelijk van oordeel dat het gebed niets anders is dan _een omgang met God in vriendschap, waarbij de ziel zich vaak in stilte met God onderhoudt, terwijl zij weet dat Hij haar bemint_.
 
