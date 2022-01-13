@@ -259,5 +259,9 @@ export const meditations = {
         type: 'Tweede meditatie:'
       }
     ]
+  },
+  '2022-1-14T00:00:00': {
+    title: '53: VRIJDAG NA DE 1e ZONDAG - Liefde voor mensen en voor jonge mensen',
+    link: '/53'
   }
 }
