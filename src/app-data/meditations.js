@@ -254,7 +254,7 @@ export const meditations = {
     link: '/47',
     extras: [
       {
-        title: '52: DONDERDAG NA DE te ZONDAG - Christus navolgen',
+        title: '52: DONDERDAG NA DE 1e ZONDAG - Christus navolgen',
         link: '/52',
         type: 'Tweede meditatie:'
       }
