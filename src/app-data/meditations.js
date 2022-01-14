@@ -263,5 +263,9 @@ export const meditations = {
   '2022-1-14T00:00:00': {
     title: '53: VRIJDAG NA DE 1e ZONDAG - Liefde voor mensen en voor jonge mensen',
     link: '/53'
+  },
+  '2022-1-15T00:00:00': {
+    title: '54: ZATERDAG NA DE 1e ZONDAG - Wij kunnen het niet',
+    link: '/54'
   }
 }
