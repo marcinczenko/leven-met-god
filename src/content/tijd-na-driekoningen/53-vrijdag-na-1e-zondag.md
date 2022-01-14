@@ -10,7 +10,7 @@ sortIndex: 53
 
 Onze liefde voor elkander steunt op onze liefde voor Jezus Christus en dus op onze liefde voor God. _Hieraan erkennen wij de liefde: Hij heeft zijn leven voor ons gegeven; ook wij moeten onze levens geven voor onze broeders._ (1 Joh. 3:16)
 
-Nu is het een illusie (een illusie, die vaak voorkomt) alleen met prachtige christelijke gevoelens de mensen te beminnen. Inwendig vol liefde zijn maar uitwendig nors en ongenietbaar; mediteren, lezen en bidden in geest van naastenliefde en dan straks op een voor anderen beledigende wijze egoïstisch zijn in het kiezen van zijn vrienden en aan hen alleen bewijzen van daarwerkelijke genegenheid geven... dat alles heeft maar zeer weinig met echte christelijke liefde uit te staan. _Kinderkens, laat ons niet liefhebben met het woord of met de tong, maar metterdaad._ (1 Joh. 3:18)
+Nu is het een illusie (een illusie, die vaak voorkomt) alleen met prachtige christelijke gevoelens de mensen te beminnen. Inwendig vol liefde zijn maar uitwendig nors en ongenietbaar; mediteren, lezen en bidden in geest van naastenliefde en dan straks op een voor anderen beledigende wijze egoïstisch zijn in het kiezen van zijn vrienden en aan hen alleen bewijzen van daadwerkelijke genegenheid geven... dat alles heeft maar zeer weinig met echte christelijke liefde uit te staan. _Kinderkens, laat ons niet liefhebben met het woord of met de tong, maar metterdaad._ (1 Joh. 3:18)
 
 De christelijke liefde is algemeen, want zij steunt op het feit, dat de mensen Gods schepselen en Gods kinderen en allen vrienden van Jezus Christus zijn.
 
