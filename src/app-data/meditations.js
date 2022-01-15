@@ -267,5 +267,9 @@ export const meditations = {
   '2022-1-15T00:00:00': {
     title: '54: ZATERDAG NA DE 1e ZONDAG - Wij kunnen het niet',
     link: '/54'
+  },
+  '2022-1-16T00:00:00': {
+    title: '55: 2e ZONDAG NA DRIEKONINGEN - De bruiloft van Kana',
+    link: '/55'
   }
 }
