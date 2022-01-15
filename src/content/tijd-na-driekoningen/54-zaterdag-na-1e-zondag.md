@@ -34,4 +34,4 @@ _Hij zal niet toelaten dat gij boven uw krachten bekoord wordt._ (1 Kor. 10:13) 
 
 Samenvattend zegt het concilie van Trente: _God beveelt niets wat onmogelijk is; maar door te bevelen vermaant Hij u te doen wat gij kunt en te vragen wat gij niet kunt en dan helpt Hij u om het te kunnen._
 
-_God, die almachtig zijt en onze goede Vader, heb medelijden met mijn zwakheiden mijn onvermogen. Geef mij de kracht om altijd dat te doen wai Gij van mij vraagt; leer mij een groot vertrouwen te stellen op uw almachtige en steeds behulpzame liefde. Help mij om in mijn leven nooit het gebed te verwaarlozen. Amen._
+_God, die almachtig zijt en onze goede Vader, heb medelijden met mijn zwakheid en mijn onvermogen. Geef mij de kracht om altijd dat te doen wat Gij van mij vraagt; leer mij een groot vertrouwen te stellen op uw almachtige en steeds behulpzame liefde. Help mij om in mijn leven nooit het gebed te verwaarlozen. Amen._
