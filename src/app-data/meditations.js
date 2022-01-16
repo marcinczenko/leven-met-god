@@ -271,5 +271,9 @@ export const meditations = {
   '2022-1-16T00:00:00': {
     title: '55: 2e ZONDAG NA DRIEKONINGEN - De bruiloft van Kana',
     link: '/55'
+  },
+  '2022-1-17T00:00:00': {
+    title: '56: MAANDAG NA DE 1e ZONDAG - De heilige Schrift',
+    link: '/56'
   }
 }
