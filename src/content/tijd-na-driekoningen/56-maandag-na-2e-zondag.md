@@ -13,7 +13,7 @@ leven te vinden.
 
 1\. _Wij danken God, die ons de heilige schrift heeft gegeven,_ zegt Augustinus; _weest niet blind in de glans van dit licht._ _De heilige schrift,_ aldus Hieronymus, _is de rijkdom van Christus._ Wie dikwijls de schrift ter hand neemt, of enkele van haar woorden aandachtig en eerbiedig leest, komt onder de indruk van een meer dan menselijke wijsheid. Hier spreekt inderdaad God. Hier is voedsel en licht te vinden, ook voor de eenvoudige zielen.
 
-God heeft ons vele middelen gegeven die ons zouden helpen bij het bereiken van ons heil: de schrift is een van die middelen, maar een met een heel heel biezonder karakter. Wij kunnen op ieder willekeurig ogenblik haar ter hand nemen, lezen, overdenken; dat is: inwendig luisteren, en zo het contact met God vinden. Hij leidt ons door die goddelijke woorden. Zijn Geest is daarin werkzaam; Hij drijft ons aan, Hij wekt ons op, Hij geeft ons daar het nieuwe licht dat wij nu behoeven.
+God heeft ons vele middelen gegeven die ons zouden helpen bij het bereiken van ons heil: de schrift is een van die middelen, maar één met een heel, heel biezonder karakter. Wij kunnen op ieder willekeurig ogenblik haar ter hand nemen, lezen, overdenken; dat is: inwendig luisteren, en zo het contact met God vinden. Hij leidt ons door die goddelijke woorden. Zijn Geest is daarin werkzaam; Hij drijft ons aan, Hij wekt ons op, Hij geeft ons daar het nieuwe licht dat wij nu behoeven.
 
 _Het karakter van de heilige schriften is geneeskrachtige eenvoud van wonderbare diepte. De heilige schrift voert een taal, die in haar verhevenheid met de trotse geesten spot, in haar diepte de denkers tot eerbied dwingt, door haar waarheid aan de grote zielen verkwikking, door haar gemeenzaamheid aan de kleinen voedsel geeft._ (Augustinus).
 
@@ -25,7 +25,7 @@ Reeds de heilige Paulus wijst zijn gelovigen op deze biezondere gave van God: _a
 
 _Geest van geloof_ is het eerste wat de heilige Geest verwacht in iemand die zegt de goddelijke woorden in zich te willen opnemen. Dat is dus een geest van nederigheid, van kinderlijke ontvankelijkheid. God dringt niet door tot de diepte van ons hart, als wij ons zelf voor Hem sluiten. Alle trots en eigenwaan sluit het hart af voor de Heer.
 
-Men behoort dus te verlangen naar _onderrichting_; naar _terechtwijzing_ zelfs om zich door God te laten opvoeden. Men kan immers niemand anders met zoveel veiligheid deze taak in handen geven.
+Men behoort dus te verlangen naar _onderrichting_; naar _terechtwijzing_ zelfs om zich door God te _laten opvoeden_. Men kan immers niemand anders met zoveel veiligheid deze taak in handen geven.
 
 _De gehele schrift is door God ingegeven, en is nuttig tot onderrichting, weerlegging, terechtwijzing en opvoeding in de gerechtigheid; opdat de man Gods daardoor volmaakt zou worden,_ zegt Paulus. (2 Tim. 3:16,17)
 
