@@ -273,7 +273,11 @@ export const meditations = {
     link: '/55'
   },
   '2022-1-17T00:00:00': {
-    title: '56: MAANDAG NA DE 1e ZONDAG - De heilige Schrift',
+    title: '56: MAANDAG NA DE 2e ZONDAG - De heilige Schrift',
     link: '/56'
+  },
+  '2022-1-18T00:00:00': {
+    title: '57: DINSDAG NA DE 2e ZONDAG - De liefde in het leven',
+    link: '/57'
   }
 }

@@ -15,7 +15,7 @@ leven te vinden.
 
 God heeft ons vele middelen gegeven die ons zouden helpen bij het bereiken van ons heil: de schrift is een van die middelen, maar één met een heel, heel biezonder karakter. Wij kunnen op ieder willekeurig ogenblik haar ter hand nemen, lezen, overdenken; dat is: inwendig luisteren, en zo het contact met God vinden. Hij leidt ons door die goddelijke woorden. Zijn Geest is daarin werkzaam; Hij drijft ons aan, Hij wekt ons op, Hij geeft ons daar het nieuwe licht dat wij nu behoeven.
 
-_Het karakter van de heilige schriften is geneeskrachtige eenvoud van wonderbare diepte. De heilige schrift voert een taal, die in haar verhevenheid met de trotse geesten spot, in haar diepte de denkers tot eerbied dwingt, door haar waarheid aan de grote zielen verkwikking, door haar gemeenzaamheid aan de kleinen voedsel geeft._ (Augustinus).
+_Het karakter van de heilige schriften is geneeskrachtige eenvoud van wonderbare diepte. De heilige schrift voert een taal, die in haar verhevenheid met de trotse geesten spot, in haar diepte de denkers tot eerbied dwingt, door haar waarheid aan de grote zielen verkwikking, door haar gemeenzaamheid aan de kleinen voedsel geeft._ (Augustinus)
 
 Zo spreken de grootste geesten van alle tijden. Zij hebben de rijkdom van Gods woord ontdekt: zij hebben daarin Gods liefde gelezen, zij hebben uit de schrift een wonderlijke troost geput.
 
