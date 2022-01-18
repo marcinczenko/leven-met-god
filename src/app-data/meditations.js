@@ -279,5 +279,13 @@ export const meditations = {
   '2022-1-18T00:00:00': {
     title: '57: DINSDAG NA DE 2e ZONDAG - De liefde in het leven',
     link: '/57'
+  },
+  '2022-1-19T00:00:00': {
+    title: '58: WOENSDAG NA DE 2e ZONDAG - Heer ik geloof, help mijn ongeloof',
+    link: '/58'
+  },
+  '2022-1-20T00:00:00': {
+    title: '59: DONDERDAG NA DE 2e ZONDAG - Christelijke bejegening I',
+    link: '/59'
   }
 }
