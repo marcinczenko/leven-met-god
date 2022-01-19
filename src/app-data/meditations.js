@@ -287,5 +287,9 @@ export const meditations = {
   '2022-1-20T00:00:00': {
     title: '59: DONDERDAG NA DE 2e ZONDAG - Christelijke bejegening I',
     link: '/59'
+  },
+  '2022-1-21T00:00:00': {
+    title: '60: VRIJDAG NA DE 2e ZONDAG - Apostolaat',
+    link: '/60'
   }
 }
