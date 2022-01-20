@@ -23,7 +23,9 @@ _Weest onverdroten in ijver, vurig van geest in de dienst van de Heer._ Wij will
 
 Er is een minimale vorm van godsvrucht mogelijk, waarbij alle geestelijk leven kwijnt. Wie zich met dat minimale tevreden stelt, mag niet verwachten dat de inwendige levenskiem, dat zijn latente genaderijkdom ooit tot ontplooiing komt.
 
-_Weest onverdroten in ijver, vurig van geest in de dienst van de Heer._ Naastenliefde die op gebed steunt, die voortdurend de behoefte voelt aan de steun van Boven en die steun ook vurig afbidt... die naastenliefde is veilig. _Vurig van geest in de dienst van de Heer._
+_Weest onverdroten in ijver, vurig van geest in de dienst van de Heer._ Naastenliefde die op gebed steunt, die voortdurend de behoefte voelt aan de steun van Boven en die steun ook vurig afbidt... die naastenliefde is veilig.
+
+_Vurig van geest in de dienst van de Heer._
 
 Mogen wij die met het klimmen van de jaren niet verliezen! De vurigheid, zo niet van het gevoel, dan toch die van de wil, is kostbaar en we kunnen ze niet missen. Alleen geestdrift en volharding brengen grote dingen tot stand.
 
