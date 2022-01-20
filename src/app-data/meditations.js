@@ -291,5 +291,9 @@ export const meditations = {
   '2022-1-21T00:00:00': {
     title: '60: VRIJDAG NA DE 2e ZONDAG - Apostolaat',
     link: '/60'
+  },
+  '2022-1-22T00:00:00': {
+    title: '61: ZATERDAG NA DE 2e ZONDAG - Christelijk leven',
+    link: '/61'
   }
 }
