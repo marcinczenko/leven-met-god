@@ -1,6 +1,6 @@
 ---
 path: /60
-title: '60: VRIJDAG NA DE 1e ZONDAG'
+title: '60: VRIJDAG NA DE 2e ZONDAG'
 tag: tijd-na-driekoningen
 content: ../styling.md
 sortIndex: 60
