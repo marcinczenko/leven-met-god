@@ -307,5 +307,9 @@ export const meditations = {
   '2022-1-25T00:00:00': {
     title: '64: DINSDAG NA DE 3e ZONDAG - God aanbidden',
     link: '/64'
+  },
+  '2022-1-26T00:00:00': {
+    title: '65: WOENSDAG NA DE 3e ZONDAG - Een kostbare aansporing',
+    link: '/65'
   }
 }
