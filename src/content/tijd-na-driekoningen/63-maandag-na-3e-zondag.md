@@ -12,7 +12,7 @@ God heeft bij alles een doel. En het merkwaardige is (maar het is ondenkbaar, da
 
 1\. Voor ons is de wereld dikwijls één groot raadsel. En wij mogen wel bidden: _Mijn God, ik geloof in uw wijsheid, in uw goedheid: ze zijn beide oneindig. Maar laat mij nooit ontmoedigd worden, als ik uw wereldbestuur niet begrijp. Ik weet, dat onze oordelen U meer dan kinderlijk moeten voorkomen. Laat mij steeds uw hand vasthouden; Gij zijt mijn Vader, ook in de duisternis. Richt mijn schreden, vooral als ik zelf niet meer zie. Want bij U is alles veilig._
 
-God is onnoemelijk ver boven ons verheven. _Gods zijn,_ zegt Augustinus, _is van die aard, dat in vergelijking met Hem al het geschapene is, als was het niet-zijn._
+God is onnoemelijk ver boven ons verheven. _Gods zijn,_ zegt Augustinus, _is van die aard, dat in vergelijking met Hem, al het geschapene is als was het niet-zijn._
 
 Hij is in onuitsprekelijke vrijheid, oneindig ver boven ons verheven.
 
