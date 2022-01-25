@@ -311,5 +311,9 @@ export const meditations = {
   '2022-1-26T00:00:00': {
     title: '65: WOENSDAG NA DE 3e ZONDAG - Een kostbare aansporing',
     link: '/65'
+  },
+  '2022-1-27T00:00:00': {
+    title: '66: DONDERDAG NA DE 3e ZONDAG - Geloven is leven',
+    link: '/66'
   }
 }
