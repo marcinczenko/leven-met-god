@@ -315,5 +315,9 @@ export const meditations = {
   '2022-1-27T00:00:00': {
     title: '66: DONDERDAG NA DE 3e ZONDAG - Geloven is leven',
     link: '/66'
+  },
+  '2022-1-28T00:00:00': {
+    title: '67: VRIJDAG NA DE 3e ZONDAG - De levende God',
+    link: '/67'
   }
 }
