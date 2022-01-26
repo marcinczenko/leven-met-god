@@ -21,7 +21,7 @@ Een ander beroemd geestelijk schrijver zegt in dezelfde zin: _Beschouw dan (in u
 Zoals altijd behoort ook hier Jezus' heilige mensheid voor ons het middel te zijn om ons op te heffen tot de Godheid. Daarom schrijft Blasius verder: _Bewaar altijd in het diepst van uw hart als een kostbare schat de herinnering aan het leven en lijden van onze Heer Jezus Christus. Maar beschouw niet zijn mensheid alleen, zie in Hem de Godmens en zo zult gij altijd met God zijn..._  
 _Druk in u zelf en, om zo te zeggen, op uw zinnen, het beeld van de gekruisigde Jezus. Dat beeld zal u wonderbaar helpen om u te verheffen tot het eeuwig Woord, tot de Wijsheid van de Vader en tot de onbegrijpelijke godheid van Jezus Christus, die geen beeld kan weergeven._
 
-2\. Het is duidelijk dat de gedachte aan Jezus' werking in ons, ons in hoge mate kan aansporen tot zorg en ijver om alle onvolmaaktheden en Zonden zoveel mogelijk te vermijden. Het is immers zozeer in strijd met die goddelijke en zo beminde aanwezigheid van de Meester.
+2\. Het is duidelijk dat de gedachte aan Jezus' werking in ons, ons in hoge mate kan aansporen tot zorg en ijver om alle onvolmaaktheden en zonden zoveel mogelijk te vermijden. Het is immers zozeer in strijd met die goddelijke en zo beminde aanwezigheid van de Meester.
 
 De telkens herhaalde herinnering aan Jezus in ons zet ons ook aan, om overal en aan allen goed te doen, zelfs (en dan biezonder gaarne) als Hij alleen daar de getuige van zou zijn.
 
