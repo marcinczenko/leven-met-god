@@ -25,7 +25,7 @@ _Druk in u zelf en, om zo te zeggen, op uw zinnen, het beeld van de gekruisigde 
 
 De telkens herhaalde herinnering aan Jezus in ons zet ons ook aan, om overal en aan allen goed te doen, zelfs (en dan biezonder gaarne) als Hij alleen daar de getuige van zou zijn.
 
-Als het Hoofd van het mystiek Lichaam is Jezus voortdurend bedacht op ons groter geestelijk welzijn. Iemand die algoed en almachtig is, heeft een zeer grote en warme belangstelling voor ons, ook als de mensen ons niet waarderen of zelfs vergeten. Dat is een werkelijke en grote troost. Hij denkt aan ons, Hij bemint ieder van ons, Hij heeft ons gevolgd en geleid vanaf onze jeugd. Hij heeft nog steeds grote plannen met ons hoge verwachtingen van onze heiligheid. Hij verlangt ons steeds meer volmaaktheid en genaderijkdom te kunnen mededelen.
+Als het Hoofd van het mystiek Lichaam is Jezus voortdurend bedacht op ons groter geestelijk welzijn. Iemand die algoed en almachtig is, heeft een zeer grote en warme belangstelling voor ons, ook als de mensen ons niet waarderen of zelfs vergeten. Dat is een werkelijke en grote troost. Hij denkt aan ons, Hij bemint ieder van ons, Hij heeft ons gevolgd en geleid vanaf onze jeugd. Hij heeft nog steeds grote plannen met ons, hoge verwachtingen van onze heiligheid. Hij verlangt ons steeds meer volmaaktheid en genaderijkdom te kunnen mededelen.
 
 Maar in ruil voor zijn rijkdom vraagt Hij ons hart... Wij moeten om Hem veel andere dingen weten prijs te geven. Nog altijd geldt (ook voor ons zelf): _als de graankorrel niet in de aarde valt en sterft, blijft hij alleen; als hij sterft, draagt hij veel vrucht_. (Joh. 12:24)
 
