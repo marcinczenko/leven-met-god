@@ -323,5 +323,9 @@ export const meditations = {
   '2022-1-29T00:00:00': {
     title: '68: ZATERDAG NA DE 3e ZONDAG - Kind van God',
     link: '/68'
+  },
+  '2022-1-30T00:00:00': {
+    title: '69: 4e ZONDAG NA DRIEKONINGEN - Vertrouwen',
+    link: '/69'
   }
 }
