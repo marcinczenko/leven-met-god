@@ -8,7 +8,7 @@ sortIndex: 69
 
 ## Vertrouwen
 
-_Op zekere dag ging Hij met Zijn leerlingen in een boot en zeide tot hen: laat ons oversteken naar de andere oever. Toen lieten zij de menigte gaan en namen Hem mee..._ (Mark. 4:36)
+_Op zekere dag ging Hij met Zijn leerlingen in een boot en zeide tot hen: laat ons oversteken naar de andere oever. Toen lieten zij de menigte gaan en namen Hem mee..._ (Mark 4:36)
 
 Zeer dikwijls geeft de goddelijke Leraar zijn apostelen en ons allen een les in het vertrouwen. Uit die herhaalde beklemtoning zouden wij reeds kunnen opmaken dat wij de aansporing tot vertrouwen dringend nodig hebben, maar het leven zelf geeft ons door ervaring het inzicht, hoe moeilijk het ons valt volkomen op God te vertrouwen en ons werkelijk op Hem te verlaten.
 
