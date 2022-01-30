@@ -327,5 +327,9 @@ export const meditations = {
   '2022-1-30T00:00:00': {
     title: '69: 4e ZONDAG NA DRIEKONINGEN - Vertrouwen',
     link: '/69'
+  },
+  '2022-1-31T00:00:00': {
+    title: '70: MAANDAG NA DE 4e ZONDAG - Wat volgt uit ons kindschap?',
+    link: '/70'
   }
 }
