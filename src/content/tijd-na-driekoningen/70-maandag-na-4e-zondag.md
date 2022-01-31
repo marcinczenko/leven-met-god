@@ -16,7 +16,7 @@ _En het bewijs dat gij kinderen zijt: God heeft de Geest van zijn Zoon in uw har
 
 Er is een liefdevolle, hartelijke verhouding ontstaan; wij mogen het leven aanvaarden in blijdschap en vertrouwen. _Wij bezitten reeds het erfdeel_, het is ons gegeven en het komt ons toe. Iedere dag kunnen wij het meer in ons opnemen. _Zijn wij kinderen, dan zijn wij erfgenamen tevens; erfgenamen van God en mede-erfgenamen van Christus._ (Rom. 8:17) Wij delen mede in wat Christus bezit. Ons bezit is God, ons bezit is het koninkrijk, het rijk van God in ons. Wij beleven het in geloof en in liefde. In een voortdurend hoopvol verwachten zien wij uit naar het volledig bezit van het erfdeel in de hemel. Daar groeit ons aards bestaan naar toe, daar worden we dagelijks heen gevoerd door de voorzienigheid en de liefde van de Vader.
 
-_In Christus ook hebben wij het erfdeel verkregen, waartoe wij waren voorbestemd krachtens de beschikking van Hein, die alles tot stand brengt naar het besluit van zijn wil; opdat wij, die eerst op Christus hebben gehoopt, ook zijn glorie zouden mogen loven._ (Ef. 1:11,12)
+_In Christus ook hebben wij het erfdeel verkregen, waartoe wij waren voorbestemd krachtens de beschikking van Hem, die alles tot stand brengt naar het besluit van zijn wil; opdat wij, die eerst op Christus hebben gehoopt, ook zijn glorie zouden mogen loven._ (Ef. 1:11,12)
 
 2\. Te weten dat wij verlost zijn, dit vertrouwvol uitzien naar de toekomst, dit dankbaar en gelukkig aanvaarden van zijn beschermende liefde... geeft voor een groot deel de geest aan, waarin wij het kindschap mogen beleven.
 
