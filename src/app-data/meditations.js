@@ -331,5 +331,9 @@ export const meditations = {
   '2022-1-31T00:00:00': {
     title: '70: MAANDAG NA DE 4e ZONDAG - Wat volgt uit ons kindschap?',
     link: '/70'
+  },
+  '2022-2-1T00:00:00': {
+    title: '71: DINSDAG NA DE 4e ZONDAG - De uitnodiging tot heiligheid',
+    link: '/71'
   }
 }
