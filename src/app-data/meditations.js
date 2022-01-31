@@ -335,5 +335,9 @@ export const meditations = {
   '2022-2-1T00:00:00': {
     title: '71: DINSDAG NA DE 4e ZONDAG - De uitnodiging tot heiligheid',
     link: '/71'
+  },
+  '2022-2-2T00:00:00': {
+    title: '72: WOENSDAG NA DE 4e ZONDAG - Zie, Ik ben met u',
+    link: '/72'
   }
 }
