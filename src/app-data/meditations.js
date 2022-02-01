@@ -337,7 +337,18 @@ export const meditations = {
     link: '/71'
   },
   '2022-2-2T00:00:00': {
-    title: '72: WOENSDAG NA DE 4e ZONDAG - Zie, Ik ben met u',
-    link: '/72'
+    title: '377: 2 FEBRUARI - Maria Lichtmis',
+    link: '/377',
+    extras: [
+      {
+        title: '72: WOENSDAG NA DE 4e ZONDAG - Zie, Ik ben met u',
+        link: '/72',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-2-3T00:00:00': {
+    title: '73: DONDERDAG NA DE 4e ZONDAG - Vertrouwen op Hem',
+    link: '/73'
   }
 }
