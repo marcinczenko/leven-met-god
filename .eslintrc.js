@@ -7,15 +7,14 @@ module.exports = {
     browser: true,
     es2021: true
   },
-  overrides: [
-    {
-      files: ['*.jsx']
+  settings: {
+    react: {
+      version: 'detect'
     }
-  ],
+  },
   extends: [
-    'plugin:react/recommended',
-    'react-app',
     'standard',
+    'plugin:react/recommended',
     'plugin:react/jsx-runtime'
   ],
   parserOptions: {
