@@ -352,7 +352,11 @@ export const meditations = {
     link: '/73'
   },
   '2022-2-4T00:00:00': {
-    title: '74: DONDERDAG NA DE 4e ZONDAG - Leven in liefde',
+    title: '74: VRIJDAG NA DE 4e ZONDAG - Leven in liefde',
     link: '/74'
+  },
+  '2022-2-5T00:00:00': {
+    title: '75: ZATERDAG NA DE 4e ZONDAG - Waarom zou ik bidden?',
+    link: '/75'
   }
 }
