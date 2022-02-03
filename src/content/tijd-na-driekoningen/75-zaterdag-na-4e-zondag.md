@@ -12,7 +12,7 @@ De bovenstaande vraag impliceert het min of meer aarzelende antwoord: _Ik kan ev
 
 In het diepst van ons hart weten wij zeer goed dat wij het gebed niet kunnen missen, omdat wij God tot wie het gebed zich richt, zo nodig hebben. Maar onze menselijke traagheid... de vele, al te vele afleiding, de onontkoombare drukke bezigheden... de daaruit voortvloeiende dorheid, onverschilligheid, het niet - meer - vatbaar zijn voor dat hogere... het brengt ons er toe het gebed soms te vergeten, of te verwaarlozen.
 
-1. _Het gebed,_ zegt de heilige Alfonsus zeer duidelijk, _is niet alleen nuttig, maar noodzakelijk voor de zaligheid._ Voor de bereiking van ons eeuwig heil dus, kunnen wij het zonder gebed niet stellen. Wij hebben alles van God te verwachten. _Wat hebt gij dat gij niet (van Hem) gekregen hebt?_ vraagt Paulus. _En als dat waar is, waarom gaat gij er dan groot op alsof gij het niet (van Hem) had ontvangen?_ (1 Kor. 4:7)
+1\. _Het gebed,_ zegt de heilige Alfonsus zeer duidelijk, _is niet alleen nuttig, maar noodzakelijk voor de zaligheid._ Voor de bereiking van ons eeuwig heil dus, kunnen wij het zonder gebed niet stellen. Wij hebben alles van God te verwachten. _Wat hebt gij dat gij niet (van Hem) gekregen hebt?_ vraagt Paulus. _En als dat waar is, waarom gaat gij er dan groot op alsof gij het niet (van Hem) had ontvangen?_ (1 Kor. 4:7)
 
 Alles komt tot ons van en door Gods goedheid; ook al vergeten wij die waarheid dikwijls; ook al doen wij alsof het een zelfverworven kostbaar bezit was, wat wij door _onze_ talenten, _onze_ bekwaamheid, hebben weten te bereiken.
 
