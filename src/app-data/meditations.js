@@ -350,5 +350,9 @@ export const meditations = {
   '2022-2-3T00:00:00': {
     title: '73: DONDERDAG NA DE 4e ZONDAG - Vertrouwen op Hem',
     link: '/73'
+  },
+  '2022-2-4T00:00:00': {
+    title: '74: DONDERDAG NA DE 4e ZONDAG - Leven in liefde',
+    link: '/74'
   }
 }
