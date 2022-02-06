@@ -358,5 +358,9 @@ export const meditations = {
   '2022-2-5T00:00:00': {
     title: '75: ZATERDAG NA DE 4e ZONDAG - Waarom zou ik bidden?',
     link: '/75'
+  },
+  '2022-2-6T00:00:00': {
+    title: '76: 5e ZONDAG NA DRIEKONINGEN - Het onkruid',
+    link: '/76'
   }
 }
