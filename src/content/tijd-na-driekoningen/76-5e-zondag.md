@@ -10,7 +10,7 @@ sortIndex: 76
 
 Het evangelie spreekt ons vandaag over het onkruid tussen de tarwe. Wij mogen blij zijn, maar dubbel nederig, als wij menen niet tot het onkruid maar tot de tarwe te behoren. Door het goede graan, de goede oogst, de kostbare tarwe, wordt in Christus' mond alleen verstaan alwie Hem volgt en van zijn liefde voor Jezus Christus _de hoofdinhoud van zijn leven_ heeft gemaakt.
 
-1\. _Het rijk der hemelen is gelijk aan een man die goed zaad op zijn akker zaaide._ Christus zaait zijn woord in de wereld... de gehele mensengeschiedenis door. Het goede zaad... het is de goddelijke waarheid. Hij zaait het van uit de overvloed van zijn liefde voor de mensen: Hij wenst dat zij eens de goede oogst zullen zijn. Hij wil niet anders dan dat zij één mystiek Lichaam met Hem en in Hem zullen vormen.
+1\. _Het rijk der hemelen is gelijk aan een man die goed zaad op zijn akker zaaide._ Christus zaait zijn woord in de wereld... de gehele mensengeschiedenis door. Het goede zaad... het is de goddelijke waarheid. Hij zaait het vanuit de overvloed van zijn liefde voor de mensen: Hij wenst dat zij eens de goede oogst zullen zijn. Hij wil niet anders dan dat zij één mystiek Lichaam met Hem en in Hem zullen vormen.
 
 Hij zaait zijn genade uit: die dertig-, zestig- of honderdvoudig vrucht kan voortbrengen. Zijn bedoeling is in de harten en de hoofden van de mensen door te dringen: hen te trekken met de banden van zijn liefde. Hij wil hun de weg wijzen naar het ware geluk, naar het zuivere, voor God alleen geleefde leven, naar een rijke oogst van goede werken.
 
@@ -31,6 +31,6 @@ Onder de schijn van zelfstandigheid en menselijkheid wordt voor velen de deur op
 
 Zijn dienaars zeiden: _wilt ge dus dat we het gaan uitwieden?_ Maar hij antwoordde: _er staat zoveel tarwe tussen, het is niet mogelijk het onkruid van de goede plant te onderscheiden. Laat het maar groeien tot de oogst... dan komt de scheiding_. Maar als wij het goede zaad helpen door gebed, door boete en door goed voorbeeld... wordt het onkruid op vele plaatsen machteloos. _Een vijandig mens_ is geen almachtig mens. Hij die de harten van de koningen in handen houdt (Spreuken 21:1), leidt ten slotte de wegen van al zijn kinderen.
 
-Wat de macht van het woord niet kan, doet vaak het stil gebed. En waar bet gebed geen antwoord schijnt te vinden, geeft het lijden de sleutel tot Gods barmhartigheid voor een ziel.
+Wat de macht van het woord niet kan, doet vaak het stil gebed. En waar het gebed geen antwoord schijnt te vinden, geeft het lijden de sleutel tot Gods barmhartigheid voor een ziel.
 
 _Heer, help mij in mijn apostolaat... Als priester verkondig ik uw woord en ik geef uw kinderen uw sacramenten... Als vader, moeder, leider en leidster, als opvoeders wie het heil van de kinderen ter harte gaat, waarvoor wij alles over hebben... bidden wij U: Gij Heer van de oogst, weerhoud de vijand; geef ware schoonheid, ware vernieuwing, ware diepte van verlangens, opdat het zaad dat Gij ons hebt toevertrouwd voor U een verrukkelijke oogst mag leveren. Amen._
