@@ -362,5 +362,33 @@ export const meditations = {
   '2022-2-6T00:00:00': {
     title: '76: 5e ZONDAG NA DRIEKONINGEN - Het onkruid',
     link: '/76'
+  },
+  '2022-2-7T00:00:00': {
+    title: '77: MAANDAG NA DE 5e ZONDAG - Hij is hier',
+    link: '/77'
+  },
+  '2022-2-8T00:00:00': {
+    title: '78: DINSDAG NA DE 5e ZONDAG - Herdenking van mijn doopsel I',
+    link: '/78'
+  },
+  '2022-2-9T00:00:00': {
+    title: '79: WOENSDAG NA DE 5e ZONDAG - Herdenking van mijn doopsel I',
+    link: '/79'
+  },
+  '2022-2-10T00:00:00': {
+    title: "80: DONDERDAG NA DE 5e ZONDAG - Jezus' Bloed getuigenis van Gods liefde",
+    link: '/80'
+  },
+  '2022-2-11T00:00:00': {
+    title: '81: VRIJDAG NA DE 5e ZONDAG - Mens en gemeenschap II',
+    link: '/81'
+  },
+  '2022-2-12T00:00:00': {
+    title: '82: ZATERDAG NA DE 5e ZONDAG - Hij in ons',
+    link: '/82'
+  },
+  '2022-2-13T00:00:00': {
+    title: '90: ZONDAG SEPTUAGESIMA - Het leven is een taak',
+    link: '/90'
   }
 }
