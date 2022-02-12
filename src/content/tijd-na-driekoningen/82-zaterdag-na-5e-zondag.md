@@ -12,7 +12,7 @@ Het is de bedoeling van de heilige Geest, die duidelijk blijkt uit de schrift, d
 
 Wij worden als het ware ondergeschikt aan zijn voortdurende invloed en daarvan steeds meer afhankelijk. Dit lijkt aanvankelijk enigermate vreemd, maar naarmate men meer met die gedachte vertrouwd raakt, zal men ook pogingen in het werk stellen om ze te verwezenlijken..
 
-1\. Die eenheid tussen Jezus en ons, veronderstelt een groat geloof, maar ze wordt tot stand gebracht door de liefde.
+1\. Die eenheid tussen Jezus en ons, veronderstelt een groot geloof, maar ze wordt tot stand gebracht door de liefde.
 
 _Hem hebt gij lief, ofschoon gij Hem niet hebt gezien... Verheugt u dus met onuitsprekelijke en verheerlijkte vreugde, omdat gij het doel van uw geloof bereikt, de zaligheid van uw zielen._ (1 Petr. 1:8,9)
 
