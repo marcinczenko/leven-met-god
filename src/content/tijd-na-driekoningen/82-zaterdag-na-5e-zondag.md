@@ -10,7 +10,7 @@ sortIndex: 82
 
 Het is de bedoeling van de heilige Geest, die duidelijk blijkt uit de schrift, dat Jezus steeds meer in ons leeft en werkt.
 
-Wij worden als het ware ondergeschikt aan zijn voortdurende invloed en daarvan steeds meer afhankelijk. Dit lijkt aanvankelijk enigermate vreemd, maar naarmate men meer met die gedachte vertrouwd raakt, zal men ook pogingen in het werk stellen om ze te verwezenlijken..
+Wij worden als het ware ondergeschikt aan zijn voortdurende invloed en daarvan steeds meer afhankelijk. Dit lijkt aanvankelijk enigermate vreemd, maar naarmate men meer met die gedachte vertrouwd raakt, zal men ook pogingen in het werk stellen om ze te verwezenlijken.
 
 1\. Die eenheid tussen Jezus en ons, veronderstelt een groot geloof, maar ze wordt tot stand gebracht door de liefde.
 
