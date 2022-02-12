@@ -8,7 +8,7 @@ sortIndex: 81
 
 ## Mens en gemeenschap II
 
-Wij hebben allen een taak in de gemeenschap waartoe wij behoren. Een heel biezondere taak in bet gezin... een heel biezondere taak in de kloostergemeenschap...
+Wij hebben allen een taak in de gemeenschap waartoe wij behoren. Een heel biezondere taak in het gezin... een heel biezondere taak in de kloostergemeenschap...
 
 Haast niemand die niet een eigen opdracht kreeg ten bate van de mensen. De priester werd uitgekozen, opgevoed en gewijd opdat hij zich zou geven als herder aan de kudde... met grote goedheid, belangeloosheid en zieleijver. Hier sluit voortdurend de natuur onmiddellijk aan bij de bovennatuur. Ons wordt gevraagd onze natuurlijke plaats als vader of moeder in het gezin in te nemen, maar ook onze taak, die een bestuursfunctie, een opvoedende of een docerende taak kan zijn, te vervullen in christelijke geest, dus in het bewustzijn dat wij daarmede de gemeenschap, de Kerk van Christus, het belang van de zielen en Gods eigen eer dienen.
 
