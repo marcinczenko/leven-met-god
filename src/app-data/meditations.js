@@ -390,5 +390,9 @@ export const meditations = {
   '2022-2-13T00:00:00': {
     title: '90: ZONDAG SEPTUAGESIMA - Het leven is een taak',
     link: '/90'
+  },
+  '2022-2-14T00:00:00': {
+    title: '91: MAANDAG NA SEPTUAGESIMA - De lijdende Verlosser',
+    link: '/91'
   }
 }
