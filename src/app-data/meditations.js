@@ -394,5 +394,9 @@ export const meditations = {
   '2022-2-14T00:00:00': {
     title: '91: MAANDAG NA SEPTUAGESIMA - De lijdende Verlosser',
     link: '/91'
+  },
+  '2022-2-15T00:00:00': {
+    title: '92: DINSDAG NA SEPTUAGESIMA - God is altijd bij ons I',
+    link: '/92'
   }
 }
