@@ -8,7 +8,7 @@ sortIndex: 91
 
 ## De lijdende Verlosser
 
-Nu kwam Pilatus weer naar buiten en sprak tot hen: ziet, ik breng Hem u naar buiten, om u te doen weten, dat ik volstrekt geen schuld in Hem vind. Jezus kwam dus naar buiten met de doornenkroon en de purperen mantel. En hij sprak tot hen: _ziet de mens_. (Joh. 19:1-5)
+_Nu kwam Pilatus weer naar buiten en sprak tot hen: ziet, ik breng Hem u naar buiten, om u te doen weten, dat ik volstrekt geen schuld in Hem vind. Jezus kwam dus naar buiten met de doornenkroon en de purperen mantel. En hij sprak tot hen: __ziet de mens__._ (Joh. 19:1-5)
 
 1\. Met deze woorden wordt door de evangelist het laatste toneel ingeleid vóór de veroordeling van Jezus door Pilatus. Dit was het wat de Profeet had gezien: de bespotting, de verachting, de woedende kreten om zijn dood en om zijn bloed. Want weldra ging de menigte als dolzinnig te keer: _weg, weg met Hem! kruisig Hem_!
 
@@ -32,4 +32,4 @@ Zijn verdiensten zullen ons sterk maken; wij behoeven niet te bezwijken al zijn 
 
 _Christus wilde lijden en veracht worden; en gij durft over iets klagen? Christus had tegenstanders en lasteraars: en gij wilt alle mensen tot vrienden en begunstigers hebben? Hoe zal eens uw geduld bekroond worden, als u in het geheel geen tegenspoed is overkomen? Zo gij niets onaangenaams wilt verdragen, hoe kunt gij dan Christus' vriend zijn? Lijd met Christus en voor Christus indien gij met Christus wilt heersen._ (Nav. v. Chr. 2,1:5)
 
-_Heer Jezus die voor ons zoveel geleden hebt, leer ons wat wij lijden, het moge gering zijn of zeer moeilijk te aanvaarden, te dragen uit louter liefde tot U. Help ons te gedenken hoezeer Gij ons hebt liefgehad en hoe nauw het lijden ons met U verenigt. Amen._
+_Heer Jezus, die voor ons zoveel geleden hebt, leer ons wat wij lijden, het moge gering zijn of zeer moeilijk te aanvaarden, te dragen uit louter liefde tot U. Help ons te gedenken hoezeer Gij ons hebt liefgehad en hoe nauw het lijden ons met U verenigt. Amen._
