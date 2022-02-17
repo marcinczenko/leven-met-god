@@ -406,5 +406,9 @@ export const meditations = {
   '2022-2-17T00:00:00': {
     title: '94: DONDERDAG NA SEPTUAGESIMA - God is altijd bij ons III',
     link: '/94'
+  },
+  '2022-2-18T00:00:00': {
+    title: '95: VRIJDAG NA SEPTUAGESIMA - Hoe kan ik met God omgaan?',
+    link: '/95'
   }
 }
