@@ -410,5 +410,9 @@ export const meditations = {
   '2022-2-18T00:00:00': {
     title: '95: VRIJDAG NA SEPTUAGESIMA - Hoe kan ik met God omgaan?',
     link: '/95'
+  },
+  '2022-2-19T00:00:00': {
+    title: '96: ZATERDAG NA SEPTUAGESIMA - De biecht en het biechten I',
+    link: '/96'
   }
 }
