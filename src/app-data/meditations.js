@@ -414,5 +414,9 @@ export const meditations = {
   '2022-2-19T00:00:00': {
     title: '96: ZATERDAG NA SEPTUAGESIMA - De biecht en het biechten I',
     link: '/96'
+  },
+  '2022-2-20T00:00:00': {
+    title: '97: ZONDAG SEXAGESIMA - Gods woord is zaad',
+    link: '/97'
   }
 }
