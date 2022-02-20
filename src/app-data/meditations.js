@@ -418,5 +418,9 @@ export const meditations = {
   '2022-2-20T00:00:00': {
     title: '97: ZONDAG SEXAGESIMA - Gods woord is zaad',
     link: '/97'
+  },
+  '2022-2-21T00:00:00': {
+    title: '98: MAANDAG NA SEXAGESIMA - God niet alleen I',
+    link: '/98'
   }
 }

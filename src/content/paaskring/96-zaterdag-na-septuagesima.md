@@ -20,7 +20,7 @@ Wij zijn zelf diep overtuigd van de verheven betekenis en de ongemeten invloed o
 
 Ontelbaar zijn de stemmen die van alle kanten het sacrament van de biecht verheerlijken.
 
-_Het beste antwoord op de bezwaren die men tegen de biecht opwerpt, is de biecht zelf. Zonder haar komt men tot geen bevredigende oplossing._ (Veuillot).
+_Het beste antwoord op de bezwaren die men tegen de biecht opwerpt, is de biecht zelf. Zonder haar komt men tot geen bevredigende oplossing._ (Veuillot)
 
 _Kan men zich iets liefdevollers en milders voorstellen dan het biechtgebod? En toch is de verdorvenheid van de mensen zo groot, dat zij zelfs in dit gebod nog hardheid vinden._ (Pascal)
 
@@ -30,6 +30,6 @@ _Men moet zelf de zegen van de biecht hebben ervaren, om de vaarde van deze inst
 
 _De levenskrachtigste discipline van de katholieke Kerk, de bron van het meeste goed, dat zij vermag uit te werken, vindt men in de biechtstoel. Hier worden de sleutels bewaard, hier brandt de lamp waarvan de stralen zich naar alle kanten van het kerkelijk leven verspreiden._ (H. Hallam, Engels historicus 1859)
 
-Zelfs van heel ver klinkt nog de instemming met de biecht tot ons door: _De biecht is een krachtige teugel, die afhoudt van de zonde. Zij is heel biezonder geschikt, om harten die door haat worden verteerd, tot vergiffenis te bewegen. Men kan de biecht als de machtigste teugel beschouwen die van geheime zonden afhoudt._ (Voltaire). Het is zo belangrijk: in de biecht heeft weer de echt-menselijke ontmoeting plaats tussen de ziel en de barmhartige Christus.
+Zelfs van heel ver klinkt nog de instemming met de biecht tot ons door: _De biecht is een krachtige teugel, die afhoudt van de zonde. Zij is heel biezonder geschikt, om harten die door haat worden verteerd, tot vergiffenis te bewegen. Men kan de biecht als de machtigste teugel beschouwen die van geheime zonden afhoudt._ (Voltaire) Het is zo belangrijk: in de biecht heeft weer de echt-menselijke ontmoeting plaats tussen de ziel en de barmhartige Christus.
 
 _Heer, geef mij een grote waardering voor het sacrament van de biecht dat een geschenk is van uw mildheid aan de Kerk. Help mij dit sacrament te gebruiken tot heil van mijn ziel en tot uw meerdere eer en glorie. Laat dit heilsinstituut mij inniger met u verenigen en de ijver voor de deugd standvastig in mij levendig houden. Amen._
