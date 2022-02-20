@@ -10,7 +10,7 @@ sortIndex: 97
 
 Het heeft de schijn alsof Lukas in het evangelie van vandaag iets wil meedelen dat in de ogen van de goddelijke Verlosser biezonder gewichtig zou zijn voor het mensdom.
 
-Hij tekent de situatie aldus: ,,toen er eens een grote menigte bijeen was, daar men uit alle steden naar Hem was toegestroomd..._ Alsof Jezus deze mensenmassa heeft afgewacht om een zeer belangrijke parabel mee te delen. (Luk. 8:1-15)
+Hij tekent de situatie aldus: _toen er eens een grote menigte bijeen was, daar men uit alle steden naar Hem was toegestroomd..._ Alsof Jezus deze mensenmassa heeft afgewacht om een zeer belangrijke parabel mee te delen. (Luk. 8:1-15)
 
 Uit zijn parabel van het zaad zou men immers kunnen besluiten dat Hij het mensdom - meer speciaal degenen die ooit van zijn evangelie hoorden - in vier groepen verdeelt: het zijn de lichtzinnigen, de zwakken, de wereldse mensen en zijn trouwe volgelingen.
 
@@ -32,6 +32,6 @@ Indien wij niet zorgen voor grote ontvankelijkheid, indien wij het zaad van Gods
 
 Of nog: _de bovennatuur bouwt immers voort op de natuur? Men moet de natuur niets in de weg leggen: de heiligheid wordt dan pas veilig en gemakkelijk bereikbaar..._ _Ze komen nooit tot rijpheid,_ zegt de Meester. Ze verspillen hun krachten en begrijpen niet dat de bereiking van het allerhoogste ook de grootste krachtinspanning vraagt. God geeft alles... zodra _wij_ alles gegeven hebben.
 
-_Maar één deel viel in de goede aarde._ Het was _de goede aarde_ die het vrucht deed dragen... honderdvoudige vrucht. Dat zijn zij die beginnen met een goed en edel hart... die _weten te aanvaarden... die vrucht voortbrengen door volharding. Het lijkt haast bovenmenselijk als we Jezus' woord goed en rustig lezen. Hij vraagt zoveel. Maar vergeten we vooral zijn genade niet. Waar Hij een krachtige goede wil ontwaart, komt Hij zelf tegemoet met zijn goddelijke kracht. Hij helpt, Hij troost, Hij redt, Hij voert tot volmaaktheid als iemand werkelijk wil.
+_Maar één deel viel in de goede aarde._ Het was _de goede aarde_ die het vrucht deed dragen... honderdvoudige vrucht. Dat zijn zij die beginnen met een goed en edel hart... die _weten te aanvaarden..._ die vrucht voortbrengen door volharding. Het lijkt haast bovenmenselijk als we Jezus' woord goed en rustig lezen. Hij vraagt zoveel. Maar vergeten we vooral zijn genade niet. Waar Hij een krachtige goede wil ontwaart, komt Hij zelf tegemoet met zijn goddelijke kracht. Hij helpt, Hij troost, Hij redt, Hij voert tot volmaaktheid als iemand werkelijk wil.
 
 _Geef ons o Heer een groot verlangen naar volmaaktheid en naar een vruchtbaar leven. Geef Gij ons wat wij zelf niet hebben: vul onze armoede aan, wij bidden er U om, door uw goddelijke rijkdom en uw goddelijke liefde. Amen._
