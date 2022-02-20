@@ -422,5 +422,9 @@ export const meditations = {
   '2022-2-21T00:00:00': {
     title: '98: MAANDAG NA SEXAGESIMA - God niet alleen I',
     link: '/98'
+  },
+  '2022-2-22T00:00:00': {
+    title: '99: DINSDAG NA SEXAGESIMA - De liefde van Christus voor zijn Vader',
+    link: '/99'
   }
 }
