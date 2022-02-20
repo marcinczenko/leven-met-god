@@ -26,7 +26,7 @@ _Kan men zich iets liefdevollers en milders voorstellen dan het biechtgebod? En 
 
 Misschien moeten wij zelf soms strijden met vooroordelen. Maar voor wie dieper nadenkt, toont de biecht zich als een bron van zegen. En het belangrijkste: wie met zuivere intentie naar de weldadigheid van dit sacrament verlangt, valt het niet moeilijk hoge waardering er voor op te brengen.
 
-_Men moet zelf de zegen van de biecht hebben ervaren, om de vaarde van deze instelling te kunnen beoordelen. Het uitspreken van wat de ziel in haar binnenste beweegt, wat net geweten het zwaarst drukt, heeft een wonderlijk, bevrijdende en zuiverende kracht, te vergelijken met die verheffende en bevrijdende uitwerking die het gelovig gebed meebrengt; biecht zowel als gebeden zijn een _uitstorten van het hart_, en dit _uitstorten van het hart_, brengt rust, licht, kracht, warmte en leven._ (Heiler, Katholizismus)
+_Men moet zelf de zegen van de biecht hebben ervaren, om de waarde van deze instelling te kunnen beoordelen. Het uitspreken van wat de ziel in haar binnenste beweegt, wat het geweten het zwaarst drukt, heeft een wonderlijk, bevrijdende en zuiverende kracht, te vergelijken met die verheffende en bevrijdende uitwerking die het gelovig gebed meebrengt; biecht zowel als gebeden zijn een _uitstorten van het hart_, en dit _uitstorten van het hart_, brengt rust, licht, kracht, warmte en leven._ (Heiler, Katholizismus)
 
 _De levenskrachtigste discipline van de katholieke Kerk, de bron van het meeste goed, dat zij vermag uit te werken, vindt men in de biechtstoel. Hier worden de sleutels bewaard, hier brandt de lamp waarvan de stralen zich naar alle kanten van het kerkelijk leven verspreiden._ (H. Hallam, Engels historicus 1859)
 
