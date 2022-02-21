@@ -426,5 +426,9 @@ export const meditations = {
   '2022-2-22T00:00:00': {
     title: '99: DINSDAG NA SEXAGESIMA - De liefde van Christus voor zijn Vader',
     link: '/99'
+  },
+  '2022-2-23T00:00:00': {
+    title: '100: WOENSDAG NA SEXAGESIMA - Overgave',
+    link: '/100'
   }
 }
