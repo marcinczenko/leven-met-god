@@ -34,4 +34,4 @@ Of nog: _de bovennatuur bouwt immers voort op de natuur? Men moet de natuur niet
 
 _Maar één deel viel in de goede aarde._ Het was _de goede aarde_ die het vrucht deed dragen... honderdvoudige vrucht. Dat zijn zij die beginnen met een goed en edel hart... die _weten te aanvaarden..._ die vrucht voortbrengen door volharding. Het lijkt haast bovenmenselijk als we Jezus' woord goed en rustig lezen. Hij vraagt zoveel. Maar vergeten we vooral zijn genade niet. Waar Hij een krachtige goede wil ontwaart, komt Hij zelf tegemoet met zijn goddelijke kracht. Hij helpt, Hij troost, Hij redt, Hij voert tot volmaaktheid als iemand werkelijk wil.
 
-_Geef ons o Heer een groot verlangen naar volmaaktheid en naar een vruchtbaar leven. Geef Gij ons wat wij zelf niet hebben: vul onze armoede aan, wij bidden er U om, door uw goddelijke rijkdom en uw goddelijke liefde. Amen._
+_Geef ons, o Heer, een groot verlangen naar volmaaktheid en naar een vruchtbaar leven. Geef Gij ons wat wij zelf niet hebben: vul onze armoede aan, wij bidden er U om, door uw goddelijke rijkdom en uw goddelijke liefde. Amen._
