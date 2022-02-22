@@ -18,7 +18,7 @@ Zijn leven was kort, het telde nauwelijks enkele tientallen jaren... Hij heeft z
 
 Ieder leven dat vol liefde is... is rijk. Die rijkdom staat ook ons ten dienste: hij is voor iedereen bereikbaar die God en de mensen lief kan hebben.
 
-Jezus Christus heeft nooit iets anders gezocht dan de glorie van zijn Vader. _Hij heeft zich zelf niet gezocht,_ zegt Paulus. (Rom. 15:3) De liefde hield Hem altijd buiten zichzelf. Hij was altijd buiten zichzelf, omdat zijn liefde Hem meenam, Hem onweerstaanbaar meenam naar het voorwerp van zijn liefde. Daarom heeft Hij als mens in niets zijn eigen voordeel gezocht, noch in het tijdelijke, noch in de eeuwigheid; Hij kon zich daar zelfs niet mee bezig houden. _Wanneer Ik Mijzelf verheerlijk dan is mijn heerlijkheid niets: mijn Vader is het die Mij verheerlijkt._ (Joh. 8:54)
+Jezus Christus heeft nooit iets anders gezocht dan de glorie van zijn Vader. _Hij heeft zichzelf niet gezocht,_ zegt Paulus. (Rom. 15:3) De liefde hield Hem altijd buiten zichzelf. Hij was altijd buiten zichzelf, omdat zijn liefde Hem meenam, Hem onweerstaanbaar meenam naar het voorwerp van zijn liefde. Daarom heeft Hij als mens in niets zijn eigen voordeel gezocht, noch in het tijdelijke, noch in de eeuwigheid; Hij kon zich daar zelfs niet mee bezig houden. _Wanneer Ik Mijzelf verheerlijk dan is mijn heerlijkheid niets: mijn Vader is het die Mij verheerlijkt._ (Joh. 8:54)
 
 Dat was de grootheid en de onbaatzuchtigheid van Jezus. Men kan zeggen, en terecht, dat men zich gelijk maakt, zoveel mogelijk gelijk maakt aan het voorwerp van zijn liefde. Men gaat daarin op, men maakt er zich totaal van afhankelijk. Jezus was door zijn liefde vol van God; door zijn liefde maakte Hij zich van de Vader afhankelijk: Hij ging werkelijk in Hem op.
 

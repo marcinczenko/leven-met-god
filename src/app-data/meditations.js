@@ -430,5 +430,9 @@ export const meditations = {
   '2022-2-23T00:00:00': {
     title: '100: WOENSDAG NA SEXAGESIMA - Overgave',
     link: '/100'
+  },
+  '2022-2-24T00:00:00': {
+    title: '101: DONDERDAG NA SEXAGESIMA - Waarom is Jezus ons voorbeeld?',
+    link: '/101'
   }
 }
