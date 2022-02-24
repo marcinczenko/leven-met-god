@@ -434,5 +434,9 @@ export const meditations = {
   '2022-2-24T00:00:00': {
     title: '101: DONDERDAG NA SEXAGESIMA - Waarom is Jezus ons voorbeeld?',
     link: '/101'
+  },
+  '2022-2-25T00:00:00': {
+    title: '102: VRIJDAG NA SEXAGESIMA - Het Gebed I',
+    link: '/102'
   }
 }
