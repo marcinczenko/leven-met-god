@@ -10,7 +10,7 @@ sortIndex: 99
 
 Door de liefde gedreven was Jezus Christus altijd en uitsluitend vervuld van de belangen van zijn Vader. _Altijd en uitsluitend_ zijn zeer grote woorden. Toch moest dit bij Hem zo wel zijn. Reeds in zijn kinderjaren bleef Hij in de tempel achter en had als antwoord op de zachtverwijtende vraag van zijn moeder slechts dit woord: _wist gij dan niet dat Ik moest zijn in de aangelegenheden van mijn Vader?_ (Luk. 2:49)
 
-Er is niet één moment geweest in zijn leven waarop Hij zijn Vader niet geëerd en niet vurig heeft bemind. Op Hem was zijn gedachte gericht en naar Hem gingen al de gevoelens van zijn hart. Zijn _inwendige_ dankbaarheid, zijn aanbidding, zijn vertrouwen werden geïnspireerd door die liefde. Zijn _uitwendig_ leven steunde geheel op die liefde, het kwam daaruit voort en was er van doortrokken. Hij had nooit het lijden kunnen aanvaarden of doorstaan als Hij niet letterlijk vol van liefde was geweest. De liefde maakte voor Hem alles dragelijk, aantrekkelijk, en kostbaar, ook het lijden.
+1\. Er is niet één moment geweest in zijn leven waarop Hij zijn Vader niet geëerd en niet vurig heeft bemind. Op Hem was zijn gedachte gericht en naar Hem gingen al de gevoelens van zijn hart. Zijn _inwendige_ dankbaarheid, zijn aanbidding, zijn vertrouwen werden geïnspireerd door die liefde. Zijn _uitwendig_ leven steunde geheel op die liefde, het kwam daaruit voort en was er van doortrokken. Hij had nooit het lijden kunnen aanvaarden of doorstaan als Hij niet letterlijk vol van liefde was geweest. De liefde maakte voor Hem alles dragelijk, aantrekkelijk, en kostbaar, ook het lijden.
 
 _Zou Ik de kelk dan niet drinken die mijn Vader Mij te drinken geeft?_ (Joh. 18:11)
 
