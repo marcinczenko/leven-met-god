@@ -14,7 +14,7 @@ Voor wie gelooft in de christelijke openbaring is het duidelijk dat God ons zijn
 
 Bij voortreffelijke mensen die wij ons ten voorbeeld zouden willen stellen, is altijd nog wat overdrijving in het een of een tekort in het andere bestaanbaar. Alle _menselijke_ volmaaktheid is maar betrekkelijk.
 
-_Zijn maaksel zijn wij,_ zegt Sint Paulus: _in Christus Jezus geschapen tot goede werken, die God vooraf bereid beeft, opdat wij daarin zouden leven._ (Ef. 2:10) Jezus vinden wij de hoogst mogelijke volkomenheid van het menselijk-volmaakte, Hij is de trouwe afbeelding van een oneindige, dat wil zeggen, van een goddelijke volmaaktheid.
+_Zijn maaksel zijn wij,_ zegt Sint Paulus: _in Christus Jezus geschapen tot goede werken, die God vooraf bereid heeft, opdat wij daarin zouden leven._ (Ef. 2:10) Jezus vinden wij de hoogst mogelijke volkomenheid van het menselijk-volmaakte, Hij is de trouwe afbeelding van een oneindige, dat wil zeggen, van een goddelijke volmaaktheid.
 
 In Hem is de volmaaktheid nooit ontstellend, afschrikwekkend, of ontmoedigend. Hij blijft _een van de onzen_, op menselijk niveau. Jezus verstaat de kunst als niemand anders om de volmaaktheid aantrekkelijk voor te stellen. Hij zelf is namelijk uiterst beminnelijk, goed, rein en in volkomen evenwicht. Hij is nooit zwak, overdreven, sentimenteel of afhankelijk van iets minderwaardigs. Alles in Hem ademt het puur menselijke en het puur goddelijke tegelijkertijd. Hij is even krachtig als goed en zacht; even majestatisch als nederig en bescheiden; Hij is koninklijk-waardig en voor iedereen toegankelijk: Hij wijst niemand af.
 
