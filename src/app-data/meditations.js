@@ -438,5 +438,9 @@ export const meditations = {
   '2022-2-25T00:00:00': {
     title: '102: VRIJDAG NA SEXAGESIMA - Het Gebed I',
     link: '/102'
+  },
+  '2022-2-26T00:00:00': {
+    title: '103: ZATERDAG NA SEXAGESIMA - Het Gebed II',
+    link: '/103'
   }
 }
