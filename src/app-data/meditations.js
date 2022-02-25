@@ -442,5 +442,9 @@ export const meditations = {
   '2022-2-26T00:00:00': {
     title: '103: ZATERDAG NA SEXAGESIMA - Het Gebed II',
     link: '/103'
+  },
+  '2022-2-27T00:00:00': {
+    title: "104: ZONDAG QUINQUAGESIMA - Jezus' lijden in mijn leven",
+    link: '/104'
   }
 }

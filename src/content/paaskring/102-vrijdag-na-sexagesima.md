@@ -18,7 +18,7 @@ Belangrijk is wel dat men tracht ook goed te bidden. Het gebed levert dikwijls w
 
 Het gebed is weldadig, maar ook onmisbaar. _Wie het gebed ontvlucht, vlucht het goede over het algemeen._ (Sint Jan van het Kruis) _Zodra Gij niet meer aan God denkt, nemen uw slechte gedachten en zondige handelingen een aanvang._ (Cyrill. van Jeruz.)
 
-Als een kenmerk van christelijk leven schrijft Paulus aan de christenen voor: _weest blijde in de hoop, geduldig in het lijden, volhardend in het gebed_. (Rom. 12:12) _Blijft bidden in de Geest te allen tijde,_ zegt hij elders, _met gebed en smeking in allerlei vorm; draagt daarbij zorg om ook met grote volharding voor alle heiligen te blijven bidden._ (Ef. 6 : 18.)
+Als een kenmerk van christelijk leven schrijft Paulus aan de christenen voor: _weest blijde in de hoop, geduldig in het lijden, volhardend in het gebed_. (Rom. 12:12) _Blijft bidden in de Geest te allen tijde,_ zegt hij elders, _met gebed en smeking in allerlei vorm; draagt daarbij zorg om ook met grote volharding voor alle heiligen te blijven bidden._ (Ef. 6:18)
 
 2\. Uit de omschrijving die zij van het gebed geven, blijkt wel hoe hoog de heiligen het gebed waardeerden.
 
