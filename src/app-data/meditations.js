@@ -446,5 +446,9 @@ export const meditations = {
   '2022-2-27T00:00:00': {
     title: "104: ZONDAG QUINQUAGESIMA - Jezus' lijden in mijn leven",
     link: '/104'
+  },
+  '2022-2-28T00:00:00': {
+    title: '105: MAANDAG NA QUINQUAGESIMA - Gebed voor het Allerheiligste Sacrament',
+    link: '/105'
   }
 }
