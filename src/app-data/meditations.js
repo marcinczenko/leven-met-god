@@ -450,5 +450,9 @@ export const meditations = {
   '2022-2-28T00:00:00': {
     title: '105: MAANDAG NA QUINQUAGESIMA - Gebed voor het Allerheiligste Sacrament',
     link: '/105'
+  },
+  '2022-3-1T00:00:00': {
+    title: '106: DINSDAG NA QUINQUAGESIMA - Het Licht',
+    link: '/106'
   }
 }
