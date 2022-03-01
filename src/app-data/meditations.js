@@ -454,5 +454,9 @@ export const meditations = {
   '2022-3-1T00:00:00': {
     title: '106: DINSDAG NA QUINQUAGESIMA - Het Licht',
     link: '/106'
+  },
+  '2022-3-2T00:00:00': {
+    title: '107: ASWOENSDAG - Onze Boete',
+    link: '/107'
   }
 }
