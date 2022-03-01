@@ -458,5 +458,9 @@ export const meditations = {
   '2022-3-2T00:00:00': {
     title: '107: ASWOENSDAG - Onze Boete',
     link: '/107'
+  },
+  '2022-3-3T00:00:00': {
+    title: '108: DONDERDAG NA ASWOENSDAG - De honderdman',
+    link: '/108'
   }
 }
