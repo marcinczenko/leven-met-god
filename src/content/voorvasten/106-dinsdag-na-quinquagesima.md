@@ -22,7 +22,7 @@ Zou het in ons ook niet een soort wonder zijn, als wij eens _juist_ gingen zien?
 
 2\. Wij zijn zo gemakkelijk blind voor het mysterie van het lijden; wij zijn verblind en soms... _willen_ wij niet zien.
 
-Als het lijden ons treft in datgene wat ons bet meest dierbaar is, ons raakt in ons diepste wezen... is het zo moeilijk daarin de hand des Heren te zien, de leiding van zijn vaderlijke voorzienigheid... En toch... in dat alles is zijn wijsheid en zijn goedheid werkzaam. Wij weten pas hoe moeilijk het is de gekruiste Christus te volgen, als het lijden aan _onze_ deur klopt.
+Als het lijden ons treft in datgene wat ons het meest dierbaar is, ons raakt in ons diepste wezen... is het zo moeilijk daarin de hand des Heren te zien, de leiding van zijn vaderlijke voorzienigheid... En toch... in dat alles is zijn wijsheid en zijn goedheid werkzaam. Wij weten pas hoe moeilijk het is de gekruiste Christus te volgen, als het lijden aan _onze_ deur klopt.
 
 De wereld tracht ons te brengen tot wantrouwen, tot twijfel, tot ongeloof... Onze eigen smart zou ons - als wij onszelf lieten gaan - tot wanhoop kunnen voeren... Onze eigen zwakheid, onze hartstochten, ons hevig verlangen om te genieten in plaats van te lijden, zouden ons zo gemakkelijk kunnen afkeren van Christus... Maar als zijn licht ons verlicht - het _ware_ licht - dan wordt ons oordeel anders. Dan komt ons hart weer tot rust... dan kunnen wij, ook in hevige smart ons tot de Verlosser richten en bidden om volharding, om trouw, om kracht voor de toekomst...
 
