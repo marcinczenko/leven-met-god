@@ -1,7 +1,7 @@
 ---
 path: /97
 title: '97: ZONDAG SEXAGESIMA'
-tag: paaskring
+tag: voorvasten
 content: ../styling.md
 sortIndex: 97
 ---

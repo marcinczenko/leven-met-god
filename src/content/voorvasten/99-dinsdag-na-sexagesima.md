@@ -1,7 +1,7 @@
 ---
 path: /99
 title: '99: DINSDAG NA SEXAGESIMA'
-tag: paaskring
+tag: voorvasten
 content: ../styling.md
 sortIndex: 99
 ---

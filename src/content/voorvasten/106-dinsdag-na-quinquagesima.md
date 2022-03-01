@@ -1,7 +1,7 @@
 ---
 path: /106
 title: '106: DINSDAG NA QUINQUAGESIMA'
-tag: paaskring
+tag: voorvasten
 content: ../styling.md
 sortIndex: 106
 ---

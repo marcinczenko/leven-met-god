@@ -1,7 +1,7 @@
 ---
 path: /98
 title: '98: MAANDAG NA SEXAGESIMA'
-tag: paaskring
+tag: voorvasten
 content: ../styling.md
 sortIndex: 98
 ---

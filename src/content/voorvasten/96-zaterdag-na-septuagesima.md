@@ -1,7 +1,7 @@
 ---
 path: /96
 title: '96: ZATERDAG NA SEPTUAGESIMA'
-tag: paaskring
+tag: voorvasten
 content: ../styling.md
 sortIndex: 96
 ---

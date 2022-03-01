@@ -1,7 +1,7 @@
 ---
 path: /90
 title: '90: ZONDAG SEPTUAGESIMA'
-tag: paaskring
+tag: voorvasten
 content: ../styling.md
 sortIndex: 90
 ---

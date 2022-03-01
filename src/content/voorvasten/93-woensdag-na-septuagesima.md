@@ -1,7 +1,7 @@
 ---
 path: /93
 title: '93: WOENSDAG NA SEPTUAGESIMA'
-tag: paaskring
+tag: voorvasten
 content: ../styling.md
 sortIndex: 93
 ---

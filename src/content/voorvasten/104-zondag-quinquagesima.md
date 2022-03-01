@@ -1,7 +1,7 @@
 ---
 path: /104
 title: '104: ZONDAG QUINQUAGESIMA'
-tag: paaskring
+tag: voorvasten
 content: ../styling.md
 sortIndex: 104
 ---
