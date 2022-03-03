@@ -462,5 +462,9 @@ export const meditations = {
   '2022-3-3T00:00:00': {
     title: '108: DONDERDAG NA ASWOENSDAG - De honderdman',
     link: '/108'
+  },
+  '2022-3-4T00:00:00': {
+    title: '109: VRIJDAG NA ASWOENSDAG - Ware boete',
+    link: '/109'
   }
 }
