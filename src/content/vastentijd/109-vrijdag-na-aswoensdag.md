@@ -46,6 +46,6 @@ Vervolgens verwacht Christus in al onze daden van liefde de nederigheid.
 
 Geen zelfverheffing, geen innerlijke trots mag het doel zijn van de christelijke liefde; en al evenmin de eer die anderen ons om onze mildadigheid, geduld en offerzin bewijzen. _Ziet toe dat gij uw gerechtigheid niet doet voor het oog van de mensen om door hen gezien te worden..._  
 _Wanneer gij dus een aalmoes geeft (en dit geldt van ieder werk van barmhartigheid), laat het dan niet voor u uitbazuinen zoals de huichelaars dat doen... voorwaar Ik zeg U: zij hebben hun loon reeds ontvangen._  
-Doch als gij een aalmoes uitreikt, laat dan uw linkerhand niet weten wat uw rechter doet, opdat uw aalmoes verborgen blijve..._ (Matt. 16:1-4)
+_Doch als gij een aalmoes uitreikt, laat dan uw linkerhand niet weten wat uw rechter doet, opdat uw aalmoes verborgen blijve..._ (Matt. 16:1-4)
 
 Dit is dus het vasten dat _de Heer verkiest_ om met Isaias te spreken. De uitwendige offers zijn kostbaar maar wij offeren meer wanneer wij de moed hebben om ook onszelf te geven.
