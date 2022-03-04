@@ -466,5 +466,9 @@ export const meditations = {
   '2022-3-4T00:00:00': {
     title: '109: VRIJDAG NA ASWOENSDAG - Ware boete',
     link: '/109'
+  },
+  '2022-3-5T00:00:00': {
+    title: '110: ZATERDAG NA ASWOENSDAG - Ware godsvrucht',
+    link: '/110'
   }
 }
