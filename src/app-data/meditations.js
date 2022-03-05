@@ -470,5 +470,9 @@ export const meditations = {
   '2022-3-5T00:00:00': {
     title: '110: ZATERDAG NA ASWOENSDAG - Ware godsvrucht',
     link: '/110'
+  },
+  '2022-3-6T00:00:00': {
+    title: '111: 1te ZONDAG IN DE VASTEN - Maak Gods genade niet onvruchtbaar',
+    link: '/111'
   }
 }
