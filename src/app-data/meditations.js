@@ -472,7 +472,11 @@ export const meditations = {
     link: '/110'
   },
   '2022-3-6T00:00:00': {
-    title: '111: 1te ZONDAG IN DE VASTEN - Maak Gods genade niet onvruchtbaar',
+    title: '111: 1e ZONDAG IN DE VASTEN - Maak Gods genade niet onvruchtbaar',
     link: '/111'
+  },
+  '2022-3-7T00:00:00': {
+    title: '112: MAANDAG NA DE 1e ZONDAG - Bekoring in de rooestijn',
+    link: '/112'
   }
 }
