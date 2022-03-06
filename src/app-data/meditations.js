@@ -478,5 +478,9 @@ export const meditations = {
   '2022-3-7T00:00:00': {
     title: '112: MAANDAG NA DE 1e ZONDAG - Bekoring in de rooestijn',
     link: '/112'
+  },
+  '2022-3-8T00:00:00': {
+    title: '113: DINSDAG NA DE 1e ZONDAG - Boetvaardigheid',
+    link: '/113'
   }
 }
