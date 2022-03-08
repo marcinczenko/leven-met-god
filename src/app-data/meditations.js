@@ -476,11 +476,15 @@ export const meditations = {
     link: '/111'
   },
   '2022-3-7T00:00:00': {
-    title: '112: MAANDAG NA DE 1e ZONDAG - Bekoring in de rooestijn',
+    title: '112: MAANDAG NA DE 1e ZONDAG - Bekoring in de woestijn',
     link: '/112'
   },
   '2022-3-8T00:00:00': {
     title: '113: DINSDAG NA DE 1e ZONDAG - Boetvaardigheid',
     link: '/113'
+  },
+  '2022-3-9T00:00:00': {
+    title: '114: QUATERTEMPER WOENSDAG - Vertrouwen',
+    link: '/114'
   }
 }
