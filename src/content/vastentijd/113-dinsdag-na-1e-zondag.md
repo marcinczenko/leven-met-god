@@ -29,7 +29,7 @@ Het gaat óók om de _deelname aan Christus' lijden_. Als Hij zoveel geleden hee
 
 Het gaat ook om de bereiking van een hoger doel: de vergeestelijking wordt in de hand gewerkt als wij het lichamelijke meer volkomen beheersen.
 
-Het lichaam gehoorzaamt ons beter bij allerlei andere oefeningen van deugd (gebed, dienstvaardigheid, stiptheid aan onze eigen dagelijkse levensregel) wanneer wij het vrij-gewild soms iets ont zeggen.
+Het lichaam gehoorzaamt ons beter bij allerlei andere oefeningen van deugd (gebed, dienstvaardigheid, stiptheid aan onze eigen dagelijkse levensregel) wanneer wij het vrij-gewild soms iets ontzeggen.
 
 Misschien mogen wij als voorlopige conclusie vastleggen dat wij de evangelische boetvaardigheid - dat wij ook de lichámelijke boete, niet geheel terzijde kunnen stellen. Zeker is het waar dat _inwendige_ boete en geestelijke verloochening voor het leven nog grotere betekenis hebben.
 
