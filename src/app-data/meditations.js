@@ -486,5 +486,9 @@ export const meditations = {
   '2022-3-9T00:00:00': {
     title: '114: QUATERTEMPER WOENSDAG - Vertrouwen',
     link: '/114'
+  },
+  '2022-3-10T00:00:00': {
+    title: '115: DONDERDAG NA DE 1e ZONDAG - Hebzucht...',
+    link: '/115'
   }
 }
