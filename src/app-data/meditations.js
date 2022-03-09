@@ -490,5 +490,9 @@ export const meditations = {
   '2022-3-10T00:00:00': {
     title: '115: DONDERDAG NA DE 1e ZONDAG - Hebzucht...',
     link: '/115'
+  },
+  '2022-3-11T00:00:00': {
+    title: '116: VRIJDAG NA DE 1e ZONDAG - Jezus, de Vertrooster',
+    link: '/116'
   }
 }
