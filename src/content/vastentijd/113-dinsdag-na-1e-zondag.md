@@ -1,7 +1,7 @@
 ---
 path: /113
 title: '113: DINSDAG NA DE 1e ZONDAG'
-tag: kerstkring
+tag: vastentijd
 content: ../styling.md
 sortIndex: 113
 ---

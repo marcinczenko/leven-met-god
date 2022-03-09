@@ -1,7 +1,7 @@
 ---
 path: /114
 title: '114: QUATERTEMPER WOENSDAG'
-tag: kerstkring
+tag: vastentijd
 content: ../styling.md
 sortIndex: 114
 ---
