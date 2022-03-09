@@ -10,14 +10,14 @@ sortIndex: 114
 
 Men zou in deze boetetijd gemakkelijk geneigd kunnen zijn, wat al te zeer de aandacht te vestigen op zonde en schuld. Maar al zijn wij dan zwakke mensen wij zijn evenzeer of nog meer, de beminde kinderen van God.
 
-Wij mogen in alle veiligheid de woorden van de psalmist op ons toepassen, die de Kerk als een eerherstel laat bidden in de Mis van de eerste zondag van de vasten, omdat bij de bekoringen in de woestijn, de duivel deze woorden misbruikte tegen Christus. Nu wenden _wij_ ze aan tegen de duivel wij die de verlosten van Christus, _zijn broeders en zusters_ zijn, en één met Hem in zijn mystiek Lichaam.
+Wij mogen in alle veiligheid de woorden van de psalmist op ons toepassen, die de Kerk als een eerherstel laat bidden in de Mis van de eerste zondag van de vasten, omdat bij de bekoringen in de woestijn, de duivel deze woorden misbruikte tegen Christus. Nu wenden _wij_ ze aan tegen de duivel, wij die de verlosten van Christus, _zijn broeders en zusters_ zijn, en één met Hem in zijn mystiek Lichaam.
 
 _Wie onder de schutse van de Allerhoogste verblijft,_  
 _En in de schaduw van de Almachtige woont,_  
 _Mag zeggen tot Jahweh: "Mijn toevlucht en sterkte,_  
 _Mijn God, op wie ik vertrouw!"_
 
-Wie verblijft er in de schutse van de Allerhoogste, als _wij_ het niet doen, die door Hem zozeer zijn begenadigd en als achtervolgd worden door zijn liefde? Wat is het weldadig ons deze waarheid dikwijls te binnen te roepen: wij zijn de beminde kinderen van God.=
+Wie verblijft er in de schutse van de Allerhoogste, als _wij_ het niet doen, die door Hem zozeer zijn begenadigd en als achtervolgd worden door zijn liefde? Wat is het weldadig ons deze waarheid dikwijls te binnen te roepen: wij zijn de beminde kinderen van God.
 
 _Want Hij behoedt u voor de strik van de jager,_  
 _En voor de verraderlijke kuil;_  
