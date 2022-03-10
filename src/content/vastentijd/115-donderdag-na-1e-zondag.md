@@ -36,4 +36,4 @@ God zendt ons _zijn_ troost, als wij ter liefde van Hem, om voor zijn aanschijn 
 
 _Help mij, mijn God, het aardse te gebruiken om naar U te gaan en nooit in de begrensdheid van het stoffelijke te blijven steken. Amen._
 
-_(*) Vgl. Prof. H. Schillebeeckx, De hoop, kernprobleem der christelijke confessies (Kultuurleven 1956, p. 118).
+_(*) Vgl. Prof. H. Schillebeeckx, De hoop, kernprobleem der christelijke confessies (Kultuurleven 1956, p. 118)._
