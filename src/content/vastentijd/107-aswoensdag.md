@@ -32,9 +32,9 @@ Toch zijn wij wel bereid tot offers. Onze tijd kent wel degelijk de edelmoedighe
 
 _Heer... dat wij door de kracht van de zelfverloochening mogen worden gesterkt._ (Oratie, Aswijding)
 
-Zelfverloochening vraagt kracht, maar zij geeft ook nieuwe kracht. De _bewering_: _alles komt neer op de inwendige boete_, kan gemakkelijk een uitvlucht worden. Zeker is de inwendige versterving veel belangrijker dan de uitwendige, maar wie de uitwendige niet beoefent, zal zich om de inwendige niet bekommeren... en zo kunnen we wat uitwendige versterving zeer goed gebruiken.
+Zelfverloochening vraagt kracht, maar zij geeft ook nieuwe kracht. De bewering: _alles komt neer op de inwendige boete_, kan gemakkelijk een uitvlucht worden. Zeker is de inwendige versterving veel belangrijker dan de uitwendige, maar wie de uitwendige niet beoefent, zal zich om de inwendige niet bekommeren... en zo kunnen we wat uitwendige versterving zeer goed gebruiken.
 
-Het dagelijkse-plichten-leven is vol versterving zodra men ernstig poogt dat alles, oak maar iets beter dan gewoonlijk te volbrengen... Er is een versterving van de zintuigen, van ogen, oren, smaak... (snoepen, roken... ?). Er is een versterving mogelijk door wat meer te zwijgen, door wat alleen te blijven om te lezen of te bidden... (concentratie, beheersing van nieuwsgierigheid). Er is versterving mogelijk door een wilskrachtige houding aan te nemen, door zorgvuldig te zijn in beleefdheid, in het kiezen van zijn woorden, in het bewaren van de goede orde bij ons dagelijks werk.
+Het dagelijkse-plichten-leven is vol versterving zodra men ernstig poogt dat alles, ook maar iets beter dan gewoonlijk te volbrengen... Er is een versterving van de zintuigen, van ogen, oren, smaak... (snoepen, roken... ?). Er is een versterving mogelijk door wat meer te zwijgen, door wat alleen te blijven om te lezen of te bidden... (concentratie, beheersing van nieuwsgierigheid). Er is versterving mogelijk door een wilskrachtige houding aan te nemen, door zorgvuldig te zijn in beleefdheid, in het kiezen van zijn woorden, in het bewaren van de goede orde bij ons dagelijks werk.
 
 Dat alles kan vooraf gaan _aan_ en tegelijk beoefend worden _met_ de inwendige versterving. Want er is nog een oefening van geduld met eigen man of vrouw en kinderen... met degenen met wie men samenleeft of samenwerkt.
 
