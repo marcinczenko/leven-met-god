@@ -492,7 +492,11 @@ export const meditations = {
     link: '/115'
   },
   '2022-3-11T00:00:00': {
-    title: '116: VRIJDAG NA DE 1e ZONDAG - Jezus, de Vertrooster',
+    title: '116: QUATERTEMPER VRIJDAG - Jezus, de Vertrooster',
     link: '/116'
+  },
+  '2022-3-12T00:00:00': {
+    title: '117: QUATERTEMPER ZATERDAG - Hoe zijn wij kinderen van God?',
+    link: '/117'
   }
 }
