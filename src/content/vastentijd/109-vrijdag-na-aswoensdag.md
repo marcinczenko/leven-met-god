@@ -19,16 +19,16 @@ Er is een _uitwendige_ boetvaardigheid, waardoor wij genoegens offeren van meer 
 Maar van hogere waarde is de geestelijke versterving, de inwendige zelfverloochening. Zij is in zekere zin gemakkelijker dan de uitwendige boete. Met die inwendige is buiten ons niets of niemand meer gemoeid, het wordt niet opgemerkt, het speelt zich alleen af in het binnenste van ons eigen hart. Maar het vraagt desondanks wel offervaardigheid.
 
 1\. _Zie in de dagen van uw vasten voldoet gij uw eigen (slechte) wil en al uw schuldenaars vermaant gij (zonder barmhartigheid te oefenen). Zie tot twisten en onenigheid vast gij, en gij slaat in woede met de vuist, (gij onderhoudt bij het vasten de liefde niet). Vast niet zoals tot op deze dag, indien gij wilt dat uw geroep in de hoge wordt gehoord. Is dat de vasten die ik verkies dat de mens zijn ziel (door lichamelijke boete) kwelt? Ofwel dat hij zijn hoofd buigt in zak en as? Noemt gij dat een vasten en een dag welgevallig aan de Heer?_  
-_Is dit niet veeleer een vasten dat ik verkies: maak de kwellingen van de goddeloosheid las (doe onrechtvaardige en meedogenloze verdrukkingen ophouden), ontbind de kwellende banden, laat degenen die gebroken zijn vrij en verwijder iedere last (elk onrechtmatig opgelegd juk)._  
+_Is dit niet veeleer een vasten dat ik verkies: maak de kwellingen van de goddeloosheid los (doe onrechtvaardige en meedogenloze verdrukkingen ophouden), ontbind de kwellende banden, laat degenen die gebroken zijn vrij en verwijder iedere last (elk onrechtmatig opgelegd juk)._  
 _Breek de hongerigen uw brood en breng behoeftigen en zwervelingen in uw huis; als gij een naakte ziet, kleed hem en versmaad niet uw eigen vlees (uw medemens)._  
-_Dan zult gij roepen en de Heer zal u verhoren, gij zult schreien en Hij zal zeggen: zie hier hen Ik._  
+_Dan zult gij roepen en de Heer zal u verhoren, gij zult schreien en Hij zal zeggen: zie hier ben Ik._  
 _Want barmhartig ben Ik, de Heer Uw God._
 
 Deze prachtige passage uit Isaias die de Kerk ons vandaag voorlegt, is wel zeer overtuigend.
 
-Is de werkelijke naastenliefde niet een voortdurend hoognodige deugdpraktijk? Hebben wij die wel voldoende beoefend? Zou allerlei deugd voor ons niet veel gemakkelijker worden, zou de sfeer random ons niet menselijker zijn, zouden anderen niet herademen als wij eens metterdaad de liefde voor onze medemensen wilden beleven? Moeten wij niet nederig erkennen, dat wij hier nog veel te leren hebben? Dit is inwendige en uitwendige versterving tegelijkertijd.
+Is de werkelijke naastenliefde niet een voortdurend hoognodige deugdpraktijk? Hebben wij die wel voldoende beoefend? Zou allerlei deugd voor ons niet veel gemakkelijker worden, zou de sfeer rondom ons niet menselijker zijn, zouden anderen niet herademen als wij eens metterdaad de liefde voor onze medemensen wilden beleven? Moeten wij niet nederig erkennen, dat wij hier nog veel te leren hebben? Dit is inwendige en uitwendige versterving tegelijkertijd.
 
-Goed zijn voor anderen, mild in onze woorden, in onze gedragingen, het maakt ons zelf terstond reeds tot een beter mens. Gods genade daalt dan over ons neer. Is dit niet het gebod van de Meester, het gebod hij uitstek?
+Goed zijn voor anderen, mild in onze woorden, in onze gedragingen, het maakt ons zelf terstond reeds tot een beter mens. Gods genade daalt dan over ons neer. Is dit niet het gebod van de Meester, het gebod bij uitstek?
 
 2\. In het Evangelie wordt ons nogmaals gezegd dat naastenliefde hoogst belangrijk is, dat zij zich zelfs tot de vijanden moet kunnen uitstrekken.
 
