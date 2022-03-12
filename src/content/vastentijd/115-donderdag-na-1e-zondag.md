@@ -14,7 +14,7 @@ Toch heeft Christus bekoord willen worden ten opzichte van de aardse goederen. H
 
 1\. _Weer voerde de duivel Hem naar een zeer hoge berg en toonde Hem alle koninkrijken der aarde en hun heerlijkheid. En hij zeide: dit alles zal ik U geven, als Gij neervalt en mij aanbidt. Toen sprak Jezus: Ga weg Satan; want er staat geschreven: Gij zult de Heer uw God aanbidden en Hem alleen dienen._ (Matt. 4:1-11)
 
-Wij geloven wel in de duivel, maar misschien niet genoeg in zijn zo herhaalde en zo listige pogingen om ons op allerlei wijze te verleiden. Het is hem blijkbaar wat waard als hij ook de goede tot val kan brengen. De Satan die eens aan God gelijk wilde zijn maar uit het rijk van het licht in de hel geworpen werd, houdt niet op om (zo mogelijk} ook anderen zijn dwaasheden bij te brengen en de kinderen van God tot ontrouw en afval van hun hemelse Vader te bewegen.
+Wij geloven wel in de duivel, maar misschien niet genoeg in zijn zo herhaalde en zo listige pogingen om ons op allerlei wijze te verleiden. Het is hem blijkbaar wat waard als hij ook de goede tot val kan brengen. De Satan die eens aan God gelijk wilde zijn maar uit het rijk van het licht in de hel geworpen werd, houdt niet op om (zo mogelijk) ook anderen zijn dwaasheden bij te brengen en de kinderen van God tot ontrouw en afval van hun hemelse Vader te bewegen.
 
 Hij siste allang geleden Moeder Eva toe: _doe het toch, gij zult aan God gelijk zijn!_ en _wij_ voelen de bekoring onze eigen wil in de plaats te stellen van de wil van God. Onder het voorwendsel van "natuur", "geluk", "waarheid", "schoonheid" probeert hij ons tot eigenzinnigheid, genotzucht, opstand en willekeur te brengen en... velen gaan dan met hem mee! (Schindler o.c. blz. 109)
 
