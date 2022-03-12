@@ -498,5 +498,9 @@ export const meditations = {
   '2022-3-12T00:00:00': {
     title: '117: QUATERTEMPER ZATERDAG - Hoe zijn wij kinderen van God?',
     link: '/117'
+  },
+  '2022-3-13T00:00:00': {
+    title: '118: 2e ZONDAG IN DE VASTEN - De gedaanteverandering des Heren',
+    link: '/118'
   }
 }
