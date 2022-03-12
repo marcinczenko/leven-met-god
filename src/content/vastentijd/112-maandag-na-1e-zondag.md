@@ -16,7 +16,7 @@ Onze aansluiting bij Jezus moge iedere dag nog inniger worden: van Hem moeten wi
 
 _En nadat Hij veertig dagen en veertig nachten had gevast, kreeg Hij honger._
 
-De bekoorder naderde Hem en zeide: _indien gij Gods Zoon zijt, zeg dan dat deze stenen brood moeten Worden. Maar Hij antwoordde: er staat geschreven: _Niet van brood alleen leeft de mens maar van ieder woord dat komt uit de mond van God._ (Deut. 8:3)
+De bekoorder naderde Hem en zeide: _indien gij Gods Zoon zijt, zeg dan dat deze stenen brood moeten Worden._ Maar Hij antwoordde: _er staat geschreven: Niet van brood alleen leeft de mens maar van ieder woord dat komt uit de mond van God._ (Deut. 8:3)
 
 Christus bekoord... Hoe is het mogelijk? Maar de Geest leidde Hem opdat de Christus juist in zijn opdracht als Messias, op de proef zou worden gesteld. Hij zal (uit onderwerping) tijdens zijn leven geen wonderen doen voor zijn welzijn; Hij zal met zijn wonderen wachten totdat Gods uur gekomen is.
 
