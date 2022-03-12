@@ -502,5 +502,9 @@ export const meditations = {
   '2022-3-13T00:00:00': {
     title: '118: 2e ZONDAG IN DE VASTEN - De gedaanteverandering des Heren',
     link: '/118'
+  },
+  '2022-3-14T00:00:00': {
+    title: '119: MAANDAG NA DE 2e ZONDAG - Vasten-praktijk',
+    link: '/119'
   }
 }
