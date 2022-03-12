@@ -14,7 +14,7 @@ De Vaders hebben in de eerste christelijke tijd dikwijls deze waarheid naar vore
 
 1\. De heilige Cyprianus geeft de christelijke levenshouding aan met deze woorden: _zijn wij kinderen van God, laat ons dan ook alleen doen wat God en Christus waardig is_.
 
-Een belangrijk punt van deze kinderlijke gezindheid is de onderlinge eenheid. Dezelfde heilige formuleert zijn gedachte daaromtrent aldus: _Gods kinderen zijn wij geworden, in Gods vrede moeten wij volharden. Een Geest woont er in ohs hart, laat er dan ook onder ons slechts een hart en een gezindheid zijn._ Is het niet zeer voor de hand liggend, dat wie uit de geest van dit kindschap leeft en daaruit steeds meer tracht te leven, ook gaarne Gods geboden steeds als leidraad neemt? Maar dan komt de liefde, de liefde tot God en ook de liefde tot de mensen op een zeer voorname plaats.
+Een belangrijk punt van deze kinderlijke gezindheid is de onderlinge eenheid. Dezelfde heilige formuleert zijn gedachte daaromtrent aldus: _Gods kinderen zijn wij geworden, in Gods vrede moeten wij volharden. Een Geest woont er in ons hart, laat er dan ook onder ons slechts een hart en een gezindheid zijn._ Is het niet zeer voor de hand liggend, dat wie uit de geest van dit kindschap leeft en daaruit steeds meer tracht te leven, ook gaarne Gods geboden steeds als leidraad neemt? Maar dan komt de liefde, de liefde tot God en ook de liefde tot de mensen op een zeer voorname plaats.
 
 Die liefde zal op zichtbare wijze dat leven beheersen.
 Sprekend over de naastenliefde, die van ons wordt verwacht, zegt Sint Jan: _Hieraan erkennen wij, dat wij de kinderen van God beminnen. Wanneer wij God liefhebben, dan onderhouden wij ook zijn geboden, want dit is juist liefde tot God, dat wij zijn geboden onderhouden_ (1 Joh. 5:2,3), met name het gebod van de liefde tot elkander.
@@ -25,7 +25,7 @@ Mogen wij door het ernstig streven naar eigen gelijkenis met Jezus Christus op o
 
 _Legt daarom alle boosheid af, valsheid, huichelarij, afgunst en alle kwaadsprekerij. Weest als pasgeboren kinderkens, begering naar onvervalste melk, om daardoor op te groeien tot zaligheid._ (1 Petr. 2:1,2)
 
-De zorg voor het persoonlijk onberispelijk leven voor God, legt op een ongedwongen wijze een christelijk getuigenis af voor al degenen, met wie wij leven. _Doet alles zonder morren en aarzelen, opdat gij onberispelijk moogt zijn en ongerept, vlekkeloze kinderen van God, temidden van een krom en verdraaid geslacht, waaronder gij schittert als sterren in het heelal. (Fil. 2:14,15)
+De zorg voor het persoonlijk onberispelijk leven voor God, legt op een ongedwongen wijze een christelijk getuigenis af voor al degenen, met wie wij leven. _Doet alles zonder morren en aarzelen, opdat gij onberispelijk moogt zijn en ongerept, vlekkeloze kinderen van God, temidden van een krom en verdraaid geslacht, waaronder gij schittert als sterren in het heelal._ (Fil. 2:14,15)
 
 Het bezit van het kindschap is nauw verbonden met een apostolische, op het geestelijk welzijn van anderen gerichte, liefde.
 
