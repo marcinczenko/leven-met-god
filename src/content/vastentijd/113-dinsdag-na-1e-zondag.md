@@ -16,7 +16,7 @@ Nu blijken verschillende tijden ook verschillende opvattingen van boete te hebbe
 
 1\. Het is blijkbaar niet in de geest van vandaag om het allerlaatste te eisen van onze lichamelijke krachten in harde boetedoeningen. Een strenge vasten die werkelijk uitput, gedeeltelijke derving van slaap gedurende maanden en jaren zodat het lichaam er gevoelig onder lijdt, is niet de vorm die de meesten van ons bij boete-oefeningen aantrekt.
 
-Toch waren en (zijn) dergelijke praktijken niet zonder zin. Zolang bijvoorbeeld het lichaam beheerst en beteugeld moet worden in zijn eisen en verlangens, opdat de geest de nodige vrijheid zou kunnen bezitten zich met het hogere bezig te houden, zal het nodig zijn, het lichaam wat (soms
+Toch waren (en zijn) dergelijke praktijken niet zonder zin. Zolang bijvoorbeeld het lichaam beheerst en beteugeld moet worden in zijn eisen en verlangens, opdat de geest de nodige vrijheid zou kunnen bezitten zich met het hogere bezig te houden, zal het nodig zijn, het lichaam wat (soms
 nogal veel) te ontzeggen.
 
 Vroeger deed men dat vaak op de boven genoemde manier en het was een algemeen aanvaarde praktijk, terwijl men in deze zaken zo ver ging dat het ons gruwelijk overdreven voorkomt en wij van een dergelijke boetedoening zouden huiveren. Daar mag men gerust zijn mening over hebben en dus ook soortgelijke vormen van boete voor zichzelf afwijzen. Toch moet men de personen die ze huldigen niet minachten of vrezen voor een spoedige instorting van hun geestelijke vermogens. Nog altijd zijn er instituten die deze vorm van zelfoverwinning aanvaarden en blijkbaar maar weinig te klagen hebben over noodlottige gevolgen; integendeel hun geest - en hun lichaam - schijnen er wel hij te varen.
