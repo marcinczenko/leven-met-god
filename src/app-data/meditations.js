@@ -506,5 +506,9 @@ export const meditations = {
   '2022-3-14T00:00:00': {
     title: '119: MAANDAG NA DE 2e ZONDAG - Vasten-praktijk',
     link: '/119'
+  },
+  '2022-3-15T00:00:00': {
+    title: '120: DINSDAG NA DE 2e ZONDAG - God onze toevlucht',
+    link: '/120'
   }
 }
