@@ -510,5 +510,13 @@ export const meditations = {
   '2022-3-15T00:00:00': {
     title: '120: DINSDAG NA DE 2e ZONDAG - God onze toevlucht',
     link: '/120'
+  },
+  '2022-3-16T00:00:00': {
+    title: '121: WOENSDAG NA DE 2e ZONDAG - Menselijke berekening en goddelijk plan',
+    link: '/121'
+  },
+  '2022-3-17T00:00:00': {
+    title: '122: DONDERDAG NA DE 2e ZONDAG - Lazarus en de rijke vrek',
+    link: '/122'
   }
 }
