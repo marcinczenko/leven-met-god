@@ -8,7 +8,7 @@ sortIndex: 121
 
 ## Menselijke berekening en goddelijk plan
 
-1\. _Zeg dat de een aan uw rechter- en de ander aan uw linkerhand mag zitten in uw Rijk._ (Matt 20:17-28)
+1\. _Zeg dat de een aan uw rechter- en de ander aan uw linkerhand mag zitten in uw Rijk._ (Matt. 20:17-28)
 
 Met deze woorden vroeg de liefde van een moeder om de hoogste ereplaats in Christus' rijk voor haar eigen zonen. Wat stelt deze moederliefde de goddelijke Meester een moeilijke vraag. En Christus wijst die zonen niet dadelijk af, maar maakt zijn antwoord zachter en bereidt bij de leerlingen een dieper begrip voor, door een wedervraag. _Kunt gij de kelk drinken, die Ik drinken zal?_, dat betekent: zijt gij bereid met Mij te gaan tot het uiterste van het menselijk lijden en in een gruwelijke dood? _Dat kunnen wij._
 
