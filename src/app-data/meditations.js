@@ -518,5 +518,9 @@ export const meditations = {
   '2022-3-17T00:00:00': {
     title: '122: DONDERDAG NA DE 2e ZONDAG - Lazarus en de rijke vrek',
     link: '/122'
+  },
+  '2022-3-18T00:00:00': {
+    title: '123: VRIJDAG NA DE 2e ZONDAG - Christus niet afwijzen',
+    link: '/123'
   }
 }
