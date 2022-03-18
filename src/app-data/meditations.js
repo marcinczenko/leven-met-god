@@ -522,5 +522,9 @@ export const meditations = {
   '2022-3-18T00:00:00': {
     title: '123: VRIJDAG NA DE 2e ZONDAG - Christus niet afwijzen',
     link: '/123'
+  },
+  '2022-3-19T00:00:00': {
+    title: '124: ZATERDAG NA DE 2e ZONDAG - De verloren zoon',
+    link: '/124'
   }
 }
