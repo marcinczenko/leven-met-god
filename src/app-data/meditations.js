@@ -526,5 +526,9 @@ export const meditations = {
   '2022-3-19T00:00:00': {
     title: '124: ZATERDAG NA DE 2e ZONDAG - De verloren zoon',
     link: '/124'
+  },
+  '2022-3-20T00:00:00': {
+    title: '125: 3e ZONDAG IN DE VASTEN - Liefde metterdaad',
+    link: '/125'
   }
 }

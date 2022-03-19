@@ -30,7 +30,7 @@ Een waarschuwing voor ons toch begrip te tonen voor de wijsheid van de Gods Zoon
 
 Hoe eng, hoe burgerlijk is deze laatste visie! Is zij zo zeldzaam? Zelfs priesters en kloosterlingen ziet men grenzen trekken: het uitwendige wordt ruimer, het inwendige smaller genomen.
 
-Terwijl de Meester louter goedheid is, vergevingsgezind voor iedereen en onzegbaar barmhartig, zouden wij enigermate zijn als de man nit de vergelijking van de talenten en Hem dus zeggen (op voorhand): _Heer, ik weet dat Gij een streng mens zijt,_ om eigen schamelheid, eigen lafheid daardoor te kunnen dekken. Maar dan pas komt onze schande aan de dag. Hij, _een streng mens_!
+Terwijl de Meester louter goedheid is, vergevingsgezind voor iedereen en onzegbaar barmhartig, zouden wij enigermate zijn als de man uit de vergelijking van de talenten en Hem dus zeggen (op voorhand): _Heer, ik weet dat Gij een streng mens zijt,_ om eigen schamelheid, eigen lafheid daardoor te kunnen dekken. Maar dan pas komt onze schande aan de dag. Hij, _een streng mens_!
 
 _Hij heeft alle welgedaan._ Hij is uit liefde tot ons gekomen, om ons te kunnen redden. Hij gaat ons in liefde voor als het stralend voorbeeld van een zuiver-menselijk, edel leven. Zó is de waarheid. En eigenlijk weten wij dat wel en wij weten het zelfs zeer goed.
 
