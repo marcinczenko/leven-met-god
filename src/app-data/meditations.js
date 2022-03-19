@@ -525,10 +525,21 @@ export const meditations = {
   },
   '2022-3-19T00:00:00': {
     title: '124: ZATERDAG NA DE 2e ZONDAG - De verloren zoon',
-    link: '/124'
+    link: '/124',
+    extras: [
+      {
+        title: '378: 19 MAART - De heilige Jozef',
+        link: '/378',
+        type: 'Tweede meditatie:'
+      }
+    ]
   },
   '2022-3-20T00:00:00': {
     title: '125: 3e ZONDAG IN DE VASTEN - Liefde metterdaad',
     link: '/125'
+  },
+  '2022-3-21T00:00:00': {
+    title: '126: MAANDAG NA DE 3e ZONDAG - Het Geloof',
+    link: '/126'
   }
 }
