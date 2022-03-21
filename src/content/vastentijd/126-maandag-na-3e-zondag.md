@@ -8,7 +8,7 @@ sortIndex: 126
 
 ## Het Geloof
 
-Op zekere dag dreef Jezus een duivel uit en _deze was een stomme_ zegt de Evangelist. En toen Hij de duivel had uitgedreven, begon de stomme te spreken. Maar sommigen van de Joden, die hardnekkig weigerden in Hem te geloven, zeiden: _door Beëlzebub, de vorst van de duivels, drijft Hij duivels uit_! Jezus nu kende hun gedachten en antwoordde op hun ongeloof.
+Op zekere dag dreef Jezus een duivel uit en _deze was een stomme_ zegt de Evangelist. En toen Hij de duivel had uitgedreven, begon de stomme te spreken. Maar sommigen van de Joden, die hardnekkig weigerden in Hem te geloven, zeiden: _door Beëlzebub, de vorst van de duivels, drijft Hij duivels uit!_ Jezus nu kende hun gedachten en antwoordde op hun ongeloof.
 
 1\. Het is meer dan waarschijnlijk dat de bezetenheid van deze arme man zich nog anders openbaarde dan alleen door zijn gedwongen sprakeloosheid. Christus weerspreekt volstrekt niet de mening dat Hij _een bezetene van de duivel_ heeft verlost. Waarom waren er zoveel bezetenen in zijn tijd? Lag het in Gods plannen om de Joden meer gelegenheid te geven hun geloof in Christus te betuigen telkens wanneer Hij zijn absolute macht over de Satan bewees? Christus antwoordde hier op hun twijfel: een rijk dat in zich verdeeld is gaat ten onder. Hoe kunt gij zeggen dat Ik door Beëlzebub de duivels uitdrijf? Dan zou Hij immers zichzelf tegenwerken?
 
