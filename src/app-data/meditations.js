@@ -541,5 +541,9 @@ export const meditations = {
   '2022-3-21T00:00:00': {
     title: '126: MAANDAG NA DE 3e ZONDAG - Het Geloof',
     link: '/126'
+  },
+  '2022-3-22T00:00:00': {
+    title: '127: DINSDAG NA DE 3e ZONDAG - ...Daar ben Ik in hun midden',
+    link: '/127'
   }
 }
