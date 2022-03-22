@@ -10,7 +10,7 @@ sortIndex: 127
 
 Een van de waarden die aan het christelijk leven biezondere wijding geeft, is de goddelijke tegenwoordigheid van Jezus Christus onder ons.
 
-_Waar twee of drie in mijn naam vergaderd zijn, daar hen Ik in hun midden._ (Matt. 18:20)
+_Waar twee of drie in mijn naam vergaderd zijn, daar ben Ik in hun midden._ (Matt. 18:20)
 
 1\. Wij denken te weinig aan deze uitspraak van de goddelijke Leraar en Verlosser. Als wij bijeenkomen om Hem, in zijn naam, komt Hij daarbij, treedt Hij op ons toe, blijft Hij bij ons, is Hij in ons midden.
 

@@ -549,5 +549,9 @@ export const meditations = {
   '2022-3-23T00:00:00': {
     title: '128: WOENSDAG NA DE 3e ZONDAG - Heeft het lijden zin? I',
     link: '/128'
+  },
+  '2022-3-24T00:00:00': {
+    title: '129: DONDERDAG NA DE 3e ZONDAG - Heeft het lijden zin? II',
+    link: '/129'
   }
 }
