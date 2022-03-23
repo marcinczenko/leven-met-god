@@ -524,12 +524,12 @@ export const meditations = {
     link: '/123'
   },
   '2022-3-19T00:00:00': {
-    title: '124: ZATERDAG NA DE 2e ZONDAG - De verloren zoon',
-    link: '/124',
+    title: '378: 19 MAART - De heilige Jozef',
+    link: '/378',
     extras: [
       {
-        title: '378: 19 MAART - De heilige Jozef',
-        link: '/378',
+        title: '124: ZATERDAG NA DE 2e ZONDAG - De verloren zoon',
+        link: '/124',
         type: 'Tweede meditatie:'
       }
     ]
@@ -553,5 +553,16 @@ export const meditations = {
   '2022-3-24T00:00:00': {
     title: '129: DONDERDAG NA DE 3e ZONDAG - Heeft het lijden zin? II',
     link: '/129'
+  },
+  '2022-3-25T00:00:00': {
+    title: '379: 25 MAART - Maria Boodschap',
+    link: '/379',
+    extras: [
+      {
+        title: '130: VRIJDAG NA DE 3e ZONDAG - Wat ontbreekt ons?',
+        link: '/130',
+        type: 'Tweede meditatie:'
+      }
+    ]
   }
 }
