@@ -564,5 +564,9 @@ export const meditations = {
         type: 'Tweede meditatie:'
       }
     ]
+  },
+  '2022-3-26T00:00:00': {
+    title: '131: ZATERDAG NA DE 3e ZONDAG - De barmhartige Christus',
+    link: '/131'
   }
 }

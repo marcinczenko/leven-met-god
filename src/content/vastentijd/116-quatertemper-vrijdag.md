@@ -10,7 +10,7 @@ sortIndex: 116
 
 _Bij de Schaapspoort was een badinrichting met vijf zuilengangen; in het Hebreeuws Berata of Bethesda geheten (Bethesda betekent huis van barmhartigheid). Daarin lag een grote menigte zieken, blinden, kreupelen, lammen op de beweging van het water te wachten. Want een engel des Heren daalde van tijd tot tijd naar de vijver af..._ Aldus leidt Sint Jan het verhaal in over de wonderbare genezing van de achtendertigjarige lamme. (Joh. 5:7-15)
 
-1\. Christus zag hem, hoorde van zijn lijden en vroeg vol goedheid: _wilt gij gezond worden?_ Het is vanzelfsprekend, dat de zieke gezond wilde worden. maar de goddelijke geneesheer vroeg zijn aandacht, zijn groot verlangen. De zieke beklaagt zich, dat niemand hem helpen wil, om de vijver op tijd te bereiken. Dan volgt Jezus' machtig woord: _sta op, neem uw bed en ga_. En aanstonds stond hij op, nam zijn bed en liep.
+1\. Christus zag hem, hoorde van zijn lijden en vroeg vol goedheid: _wilt gij gezond worden?_ Het is vanzelfsprekend, dat de zieke gezond wilde worden, maar de goddelijke geneesheer vroeg zijn aandacht, zijn groot verlangen. De zieke beklaagt zich, dat niemand hem helpen wil, om de vijver op tijd te bereiken. Dan volgt Jezus' machtig woord: _sta op, neem uw bed en ga_. En aanstonds stond hij op, nam zijn bed en liep.
 
 Weer openbaarde de Meester zijn goddelijke kracht en zijn zo oprechte goedheid. De zieke was er zielsgelukkig mee. Voor hem was het leven veranderd en vernieuwd.
 
