@@ -23,7 +23,7 @@ Sprekend over de naastenliefde, die van ons wordt verwacht, zegt Sint Jan: _Hier
 
 Mogen wij door het ernstig streven naar eigen gelijkenis met Jezus Christus op onze beurt een hulp en voorbeeld zijn voor anderen en dit zowel in onze woorden als in onze daden.
 
-_Legt daarom alle boosheid af, valsheid, huichelarij, afgunst en alle kwaadsprekerij. Weest als pasgeboren kinderkens, begering naar onvervalste melk, om daardoor op te groeien tot zaligheid._ (1 Petr. 2:1,2)
+_Legt daarom alle boosheid af, valsheid, huichelarij, afgunst en alle kwaadsprekerij. Weest als pasgeboren kinderkens, begerig naar onvervalste melk, om daardoor op te groeien tot zaligheid._ (1 Petr. 2:1,2)
 
 De zorg voor het persoonlijk onberispelijk leven voor God, legt op een ongedwongen wijze een christelijk getuigenis af voor al degenen, met wie wij leven. _Doet alles zonder morren en aarzelen, opdat gij onberispelijk moogt zijn en ongerept, vlekkeloze kinderen van God, temidden van een krom en verdraaid geslacht, waaronder gij schittert als sterren in het heelal._ (Fil. 2:14,15)
 
