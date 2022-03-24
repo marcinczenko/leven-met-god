@@ -2,5 +2,13 @@
   "javascript.validate.enable": false,
   "editor.tabSize": 2,
   "standard.enable": false,
-  "cSpell.language": "en,nl,nl-NL"
+  "cSpell.language": "en,nl,nl-NL",
+  "cSpell.words": [
+    "Eliseus",
+    "Heer",
+    "ingekeerdheid",
+    "Kafarnaüm",
+    "Nazaret",
+    "offerzin"
+  ]
 }
