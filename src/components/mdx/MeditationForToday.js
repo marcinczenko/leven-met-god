@@ -36,7 +36,7 @@ const MeditationForToday = () => {
     }
   }, [])
 
-  const endSentence = () => {
+  const endSentence = title => {
     if (title) {
       if (title[title.length - 1] === '?') {
         return ''
@@ -50,16 +50,16 @@ const MeditationForToday = () => {
   const renderLink = () => {
     if (link !== undefined) {
       return (
-        <a href={link}>{`${title}${endSentence()}`}</a>
+        <a href={link}>{`${title}${endSentence(title)}`}</a>
       )
     } else {
-      return <span className='text-red-700'>{`${title}${endSentence()}`}</span>
+      return <span className='text-red-700'>{`${title}${endSentence(title)}`}</span>
     }
   }
 
   const renderExtra = ({ title, link }) => {
     return (
-      <a href={link}>{`${title}${endSentence()}`}</a>
+      <a href={link}>{`${title}${endSentence(title)}`}</a>
     )
   }
 
