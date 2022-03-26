@@ -20,7 +20,7 @@ Maar op de heerlijkheid van het hiernamaals vormt de heerlijkheid van Gods liefd
 
 In een andere vorm stelt Sint Jan aan het Kruis de vraag aldus: waarom bereiken zo weinig zielen de volheid van het geestelijk leven?
 
-Hij antwoordt: de reden is niet dat God deze toestand tot enkele bevoorrechte zielen heeft beperkt en de andere daarvan uitsluit maar de reden is dat Hij er slechts weinig vindt, die bereid zijn de diepere zuivering van het lijden te ondergaan. Hij houdt daarom op hen te louteren en zo veroordelen zij zich zelf tot middelmatigheid.
+Hij antwoordt: de reden is niet dat God deze toestand tot enkele bevoorrechte zielen heeft beperkt en de andere daarvan uitsluit maar de reden is dat Hij er slechts weinig vindt, die bereid zijn de diepere zuivering van het lijden te ondergaan. Hij houdt daarom op hen te louteren en zo veroordelen zij zichzelf tot middelmatigheid.
 
 Het is onmogelijk tot de mystieke vereniging met God te komen zonder dit geestelijk lijden, zonder _het gewicht_, de druk, van God te dragen. Slechts het lijden en de inwendige verlatenheid, de gebrokenheid en de ellende verwijden de ontvankelijkheid van de z1el. Pas na die loutering en die groei kan zij God omhelzen.
 
@@ -30,7 +30,7 @@ Door zijn lijden betuigde Jezus aan zijn Vader zijn volkomen onderwerping en geh
 
 Daardoor herstelde Hij de eer van zijn Vader, daardoor redde Hij de zielen van de eeuwige ondergang en verdiende Hij stromen van genade voor allen die in Hem geloven zouden.
 
-En de mens die lijdt met Jezus Christus, die zijn dagelijks kruis verenigt in liefde met dat van de Verlosser en lijdt voor God - want de volmaakte ziel denkt weinig of niet meer aan zich zelf - biedt ook God het volmaakte offer van haar liefde aan.
+En de mens die lijdt met Jezus Christus, die zijn dagelijks kruis verenigt in liefde met dat van de Verlosser en lijdt voor God - want de volmaakte ziel denkt weinig of niet meer aan zichzelf - biedt ook God het volmaakte offer van haar liefde aan.
 
 Dit is de zin van het lijden: het hoogste bewijs van liefde geven tezamen met Jezus aan Hem die de liefde is en die ons tot een eeuwige vreugde van liefde roept. Bewijs van liefde voor God, bewijs van liefde voor Jezus, redmiddel voor de zielen die anders verloren zouden gaan: dat alles ligt besloten in het christelijk gedragen lijden en ontsluit ons daarvan de diepe zin. Wij plegen slechts schoorvoetend achter de Meester aan te treden. En het is goed voor ons van tijd tot tijd het woord van Paulus te overdenken: _ik vul aan in mijn vlees wat aan het lijden van Christus ontbreekt, ten bate van zijn Lichaam, de Kerk_.
 

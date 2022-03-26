@@ -572,5 +572,9 @@ export const meditations = {
   '2022-3-27T00:00:00': {
     title: '132: 4e ZONDAG IN DE VASTEN - Zondag Laetare',
     link: '/132'
+  },
+  '2022-3-28T00:00:00': {
+    title: '133: MAANDAG NA ZONDAG LAETARE - De biecht en het biechten II',
+    link: '/133'
   }
 }

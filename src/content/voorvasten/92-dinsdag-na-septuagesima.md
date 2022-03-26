@@ -8,7 +8,7 @@ sortIndex: 92
 
 ## God is altijd bij ons I
 
-Wij weten dat God krachtens zijn oneindig Wezen overal tegenwoordig is. Maar Hij werkt op een heel biezondere wijze in de mens die in Gods vriendschap leeft. Door het geloof en de doopgenade wordt de mens sterk naar God gekeerd. Hij bezit door die heiligmakende genade een bovennatuurlijke volmaaktheid, een deelname aan de goddelijke natuur. Dit stelt hem in staat God te kennen en te beminnen, enigermate zoals Hij zich zelf kent en bemint.
+Wij weten dat God krachtens zijn oneindig Wezen overal tegenwoordig is. Maar Hij werkt op een heel biezondere wijze in de mens die in Gods vriendschap leeft. Door het geloof en de doopgenade wordt de mens sterk naar God gekeerd. Hij bezit door die heiligmakende genade een bovennatuurlijke volmaaktheid, een deelname aan de goddelijke natuur. Dit stelt hem in staat God te kennen en te beminnen, enigermate zoals Hij zichzelf kent en bemint.
 
 God geeft zich dan aan de mens als voorwerp van bovennatuurlijke kennis en liefde.
 

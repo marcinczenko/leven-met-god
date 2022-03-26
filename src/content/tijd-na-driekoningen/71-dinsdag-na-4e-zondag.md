@@ -10,7 +10,7 @@ sortIndex: 71
 
 _Waar de zonden tot overvloed kwam, daar kwam de genade in rijker overvloed._ (Rom. 5:20)
 
-Het oorspronkelijk plan van God voor de heiliging van het mensdom, is vernietigd door de val van Adam. Onze eerste ouders naar Gods beeld en gelijkenis geschapen, verheven tot de waardigheid van kind Gods, hebben zich zelf en geheel hun nageslacht in de ellende gestort van de zonde en dus van de verwijdering van God en van zijn liefde.
+Het oorspronkelijk plan van God voor de heiliging van het mensdom, is vernietigd door de val van Adam. Onze eerste ouders naar Gods beeld en gelijkenis geschapen, verheven tot de waardigheid van kind Gods, hebben zichzelf en geheel hun nageslacht in de ellende gestort van de zonde en dus van de verwijdering van God en van zijn liefde.
 
 In het oude Testament, waar de Godsgedachte voortleeft veel zuiverder dan waar ter wereld ook, is de vrees voor God wel niet het enige, dat tot uiting komt in de verhouding van God en de mensen. Ook de liefde en de genade worden erin aangeduid maar zij komen er niet ter sprake zoals dat het geval zal zijn na Christus' komst, in het nieuwe Testament. Dat de liefde en de genade weer gaat overheersen in de verhouding van God tot de mensen is het gevolg van de verlossing door Jezus Christus.
 
@@ -22,7 +22,7 @@ _Zozeer heeft God de wereld liefgehad dat Hij zijn enige Zoon gegeven heeft._ (J
 
 _De heiligheid is de overgave van het hart_, zij veronderstelt dus liefde, grote liefde en bereidheid tot het offer van zichzelf. Voor religieuzen en voor huismoeders, voor gehuwden en niet gehuwden, voor priesters en leken geldt dezelfde wet. De heiligheid is in ons neergelegd als een beginnende levenskiem: wie waakzaam en zorgzaam die kiem tot ontwikkeling brengt door liefde tot God en tot de mensen, loopt vanzelf het rijk der heiligheid binnen.
 
-_Christus,_ aldus Paus Pius XI - en behalve de leken hebben tal van religieuzen en priesters dit pauselijk woord nodig, omdat zij zich ongemotiveerd van de heiligheid zijn gaan uitsluiten - _Christus roept de gehele mensheid op naar de hoogste toppen van de heiligheid... Er zijn er die bewaren dat de heiligheid geen algemene roeping is; integendeel zij is een roeping die zich tot allen uitstrekt, allen worden daartoe geroepen en Jezus heeft zich zelf aan allen tot voorbeeld gesteld opdat zij het zouden navolgen._  
+_Christus,_ aldus Paus Pius XI - en behalve de leken hebben tal van religieuzen en priesters dit pauselijk woord nodig, omdat zij zich ongemotiveerd van de heiligheid zijn gaan uitsluiten - _Christus roept de gehele mensheid op naar de hoogste toppen van de heiligheid... Er zijn er die bewaren dat de heiligheid geen algemene roeping is; integendeel zij is een roeping die zich tot allen uitstrekt, allen worden daartoe geroepen en Jezus heeft zichzelf aan allen tot voorbeeld gesteld opdat zij het zouden navolgen._  
 _...Laat dus niemand menen dat de heiligheid maar enkele uitverkorenen raakt, terwijl de anderen zich met lagere deugd tevreden mogen stellen. Dat is niet zo, allen, volstrekt allen, het is overduidelijk, zijn door die wet bedoeld, niemand wordt daarvan uitgezonderd._
 
 _Dit is Gods wil, uw heiliging._ (1 Tess. 4:3)

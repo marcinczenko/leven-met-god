@@ -32,7 +32,7 @@ _Jezus intussen boog zich voorover en schreef met de vinger op de grond._ Het sc
 
 Toen richtte Jezus zich op, Hij zag hen aan en zeide: _wie van u zonder zonden is werpt de eerste steen op haar._ Toen boog Hij zich weer voorover en schreef verder. Schreef Hij (terwijl de nieuwsgierigen toezagen), hun namen zoals God die zag? Levi de dief, Samuel de echtbreker, Ruben de moordenaar? Maar toen zij dit hoorden en met angst bedachten wat die Rabbi, die de harten en gewetens peilde zoals niemand anders wel van hen in het openbaar zou kunnen zeggen... slopen zij schoorvoetend, voorzichtig, zo onmerkbaar mogelijk heen. _De een na de ander,_ schrijft de Evangelist, _maar de oudsten het eerst._
 
-En tenslotte bleef Jezus alleen met de vrouw. Hij richtte zich op en sprak tot de bevende, doodsbenauwde vrouw: _Vrouw waar zijn ze... uw aanklagers? Reeft niemand u veroordeeld?_
+En tenslotte bleef Jezus alleen met de vrouw. Hij richtte zich op en sprak tot de bevende, doodsbenauwde vrouw: _Vrouw waar zijn ze... uw aanklagers? Heeft niemand u veroordeeld?_
 
 Lag er iets triomfantelijks in Jezus' stem: _waar zijn ze gebleven? Ik heb ze verjaagd, ze zijn zelf bang geworden... en ze hebben tegen u geen woord van veroordeling meer durven zeggen..._ En de Leraar rept met geen woord over de zonde; Hij zegt slechts bemoedigend: _ook Ik zal u niet veroordelen. Ga nu, maar zondig niet meer_. Het laatste als een verzoek, als een ingehouden smeking. Hij ontlokt haar geen pijnlijke bekentenis, Hij dwingt haar niet tot plechtige beloften, Hij herinnert haar niet aan haar grote schuld tegenover God en de mensen. Hij vergeeft met de grootste welwillendheid, met een fijngevoelige zachtmoedigheid waarover alle latere tijden zich nog zouden verwonderen.
 

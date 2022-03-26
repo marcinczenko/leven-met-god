@@ -10,7 +10,7 @@ sortIndex: 31
 
 Sint Jan blijft voor ons allen een heel biezondere figuur onder de apostelen.
 
-1\. Hij tekent zich zelf in zijn geschriften. Wetend dat Jezus de tweede Persoon der heilige Drieëenheid is en alles voor hem en voor zijn christenen wil zijn, schrijft hij daarover in zijn evangelie: _in het begin was het Woord en het Woord was bij God en het Woord was God... in wat bestond was Hij het leven en het leven was het licht van de mensen... en Hij gaf hun de macht kinderen van God te worden_. (Joh. 1:1-12)
+1\. Hij tekent zichzelf in zijn geschriften. Wetend dat Jezus de tweede Persoon der heilige Drieëenheid is en alles voor hem en voor zijn christenen wil zijn, schrijft hij daarover in zijn evangelie: _in het begin was het Woord en het Woord was bij God en het Woord was God... in wat bestond was Hij het leven en het leven was het licht van de mensen... en Hij gaf hun de macht kinderen van God te worden_. (Joh. 1:1-12)
 
 In zijn eerste brief komt hij daarop terug. Hij leert dat Jezus die de goddelijke natuur bezit en het goddelijk leven, ons de volheid van de openbaring bracht en de volheid van ons bovennatuurlijk leven. _Wat van de aanvang af bestond, wat wij hebben gehoord, wat wij met onze ogen hebben gezien, wat we mochten aanschouwen en onze handen mochten betasten met betrekking tot het Woord des Levens... dat verkondigen wij ook aan u, opdat gij gemeenschap moogt hebben met ons: en onze gemeenschap is met de Vader en met Jezus Christus zijn Zoon. En wij schrijven hierover, opdat onze vreugde volkomen mag worden..._ (1 Joh. 1:1-4)
 
