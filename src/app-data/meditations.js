@@ -568,5 +568,9 @@ export const meditations = {
   '2022-3-26T00:00:00': {
     title: '131: ZATERDAG NA DE 3e ZONDAG - De barmhartige Christus',
     link: '/131'
+  },
+  '2022-3-27T00:00:00': {
+    title: '132: 4e ZONDAG IN DE VASTEN - Zondag Laetare',
+    link: '/132'
   }
 }
