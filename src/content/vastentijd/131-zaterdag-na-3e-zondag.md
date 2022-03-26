@@ -16,7 +16,9 @@ In het epistel wordt de geschiedenis verhaald van Susanna die aan de dood ontsna
 
 1\. Jezus ging naar de Olijfberg (zo schrijft Sint Jan) en blijkbaar bleef Hij de gehele nacht daar - biddend voor de zondige mensheid, biddend vooral opdat zijn ontmoeting met de vrouw de volgende dag, voor velen een aanleiding zou zijn tot hernieuwing van hun hoop en Godsvertrouwen.
 
-_Des morgens vroeg ging Hij weer naar de tempel en Hij ging zitten en onderrichtte hen. Dan wordt plotseling een vrouw voor Hem geleid.
+_Des morgens vroeg ging Hij weer naar de tempel en Hij ging zitten en onderrichtte hen._
+
+Dan wordt plotseling een vrouw voor Hem geleid.
 
 De farizeeën hebben gewacht op een goede gelegenheid Hem in het openbaar een naar hun mening onoplosbare moeilijkheid voor te leggen, een vraag namelijk waarop het antwoord steeds in zijn nadeel zou moeten uitvallen. Zo meenden zij althans. (Joh. 8:1-11)
 
