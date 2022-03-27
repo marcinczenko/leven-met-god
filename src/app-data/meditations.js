@@ -576,5 +576,9 @@ export const meditations = {
   '2022-3-28T00:00:00': {
     title: '133: MAANDAG NA ZONDAG LAETARE - De biecht en het biechten II',
     link: '/133'
+  },
+  '2022-3-29T00:00:00': {
+    title: '134: DINSDAG NA ZONDAG LAETARE - De moeilijkheid van het gebed',
+    link: '/134'
   }
 }
