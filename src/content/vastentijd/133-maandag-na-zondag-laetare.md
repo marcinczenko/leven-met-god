@@ -32,7 +32,7 @@ Gereinigd en gesterkt te mogen opstaan na een nederig gebed om vergeving en na d
 
 Het streven naar volmaaktheid wordt voor zeer velen - ook voor de allerbesten - in hoge mate door het sacrament van de biecht gesteund en bevorderd.
 
-_In de oneindige verwarring waarin de mens bij de strijd van de natuurlijke en de godsdienstige eisen moet gewikkeld raken, is hem in de biecht een prachtig redmiddel gegeven, om zijn daden en wandaden, zijn gebreken en twijfels aan een waardig, speciaal daarvoor aangesteld man toe te vertrouwen' die hem kan geruststellen, waarschuwen, sterken en na het opleggen van een symbolische straf, tenslotte gelukkig maken door een volledig uitwissen van zijn schuld en hem de lei van zijn mens-zijn weer rein en schoongewassen kan overhandigen._ (Goethe)
+_In de oneindige verwarring waarin de mens bij de strijd van de natuurlijke en de godsdienstige eisen moet gewikkeld raken, is hem in de biecht een prachtig redmiddel gegeven, om zijn daden en wandaden, zijn gebreken en twijfels aan een waardig, speciaal daarvoor aangesteld man toe te vertrouwen, die hem kan geruststellen, waarschuwen, sterken en na het opleggen van een symbolische straf, tenslotte gelukkig maken door een volledig uitwissen van zijn schuld en hem de lei van zijn mens-zijn weer rein en schoongewassen kan overhandigen._ (Goethe)
 
 De diepte van de waardigheid van de biecht ligt in de zonde-vergeving door Godzelf; in het vernieuwd worden als kind van God, in de actuele hulp die het sacrament geeft om de zonden te vermijden en dus om het goede te doen. God laat ons dus niet alleen in onze ellende.
 
