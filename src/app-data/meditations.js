@@ -584,5 +584,9 @@ export const meditations = {
   '2022-3-30T00:00:00': {
     title: '135: WOENSDAG NA ZONDAG LAETARE - De blindgeborene',
     link: '/135'
+  },
+  '2022-3-31T00:00:00': {
+    title: '136: DONDERDAG NA ZONDAG LAETARE - De biecht en het biechten III',
+    link: '/136'
   }
 }
