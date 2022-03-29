@@ -42,7 +42,7 @@ Als wij in oprechtheid (de mens van vandaag is oprecht) Jezus in dat historisch 
 
 Jezus vraagt soms dat men zich uitspreekt. De farizeeën lieten zich (het was voor hen ook niet gemakkelijk) tot woede verleiden en beten de genezene sarcastisch toe, toen hij met al hun twijfels de spot scheen te drijven: _in zonden ben jij geboren van boven tot onder en je leest ons de les?!_ En ze wierpen hem de straat op.
 
-Jezus had dit gehoord en bij een volgende ontmoeting zei Hij tot de vroegere blinde: _Gelooft gij in de Mensenzoon? (_gij_ tenminste, men ziet waarom het Jezus te doen was). En de genezene die Jezus nog nooit had aanschouwd (hij was nog blind toen de Zaligmaker hem naar Siloë stuurde) zei graag-bereid: _wie is dat Heer, dan zal ik in Hem geloven?_ En Jezus: _Gij hebt Hem (nu) gezien; __Hij__ is het die met u spreekt._ Toen zei hij: _Heer, ik geloof._ En hij wierp zich voor Hem neer.
+Jezus had dit gehoord en bij een volgende ontmoeting zei Hij tot de vroegere blinde: _Gelooft gij in de Mensenzoon?_ (_gij_ tenminste, men ziet waarom het Jezus te doen was). En de genezene die Jezus nog nooit had aanschouwd (hij was nog blind toen de Zaligmaker hem naar Siloë stuurde) zei graag-bereid: _wie is dat Heer, dan zal ik in Hem geloven?_ En Jezus: _Gij hebt Hem (nu) gezien; __Hij__ is het die met u spreekt._ Toen zei hij: _Heer, ik geloof._ En hij wierp zich voor Hem neer.
 
 Dat is de ware gesteltenis: _Zeg het Heer, wie is het, dan zal ik geloven?_
 
