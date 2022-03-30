@@ -588,5 +588,9 @@ export const meditations = {
   '2022-3-31T00:00:00': {
     title: '136: DONDERDAG NA ZONDAG LAETARE - De biecht en het biechten III',
     link: '/136'
+  },
+  '2022-4-1T00:00:00': {
+    title: '137: VRIJDAG NA ZONDAG LAETARE - Bij Hem... door Hem vernieuwd',
+    link: '/137'
   }
 }
