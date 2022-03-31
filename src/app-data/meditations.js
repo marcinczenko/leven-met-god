@@ -592,5 +592,9 @@ export const meditations = {
   '2022-4-1T00:00:00': {
     title: '137: VRIJDAG NA ZONDAG LAETARE - Bij Hem... door Hem vernieuwd',
     link: '/137'
+  },
+  '2022-4-2T00:00:00': {
+    title: '138: ZATERDAG NA ZONDAG LAETARE - Gij die dorstig zijt... (Is. 55:1)',
+    link: '/138'
   }
 }
