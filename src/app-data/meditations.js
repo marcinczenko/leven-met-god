@@ -596,5 +596,9 @@ export const meditations = {
   '2022-4-2T00:00:00': {
     title: '138: ZATERDAG NA ZONDAG LAETARE - Gij die dorstig zijt... (Is. 55:1)',
     link: '/138'
+  },
+  '2022-4-3T00:00:00': {
+    title: "139: PASSIEZONDAG - Deelname in Jezus' lijden",
+    link: '/139'
   }
 }
