@@ -600,5 +600,9 @@ export const meditations = {
   '2022-4-3T00:00:00': {
     title: "139: PASSIEZONDAG - Deelname in Jezus' lijden",
     link: '/139'
+  },
+  '2022-4-4T00:00:00': {
+    title: '140: MAANDAG NA PASSIEZONDAG - Waarom dikwijls biechten? I',
+    link: '/140'
   }
 }
