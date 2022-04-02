@@ -42,7 +42,7 @@ _De rijkste klanken die ik vinden zal._
 
 _Waarom mijn ziel zijt gij nog neergeslagen_  
 _Wat beeft en weifelt gij? Werp vrij uw lot_  
-Op Hem die ik prijs tot in de dag der dagen_  
+_Op Hem die ik prijs tot in de dag der dagen_  
 _Hij is mijn zekerheid, Hij is mijn God._
 
 _(Psalm 42, vert. Gabr. Smit)_
