@@ -604,5 +604,9 @@ export const meditations = {
   '2022-4-4T00:00:00': {
     title: '140: MAANDAG NA PASSIEZONDAG - Waarom dikwijls biechten? I',
     link: '/140'
+  },
+  '2022-4-5T00:00:00': {
+    title: '141: DINSDAG NA PASSIEZONDAG - Waarom dikwijls biechten? II',
+    link: '/141'
   }
 }
