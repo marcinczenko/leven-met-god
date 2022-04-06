@@ -616,5 +616,9 @@ export const meditations = {
   '2022-4-7T00:00:00': {
     title: '143: DONDERDAG NA PASSIEZONDAG - Waarom dikwijls biechten? III',
     link: '/143'
+  },
+  '2022-4-8T00:00:00': {
+    title: "144: VRIJDAG NA PASSIEZONDAG - Jezus' voorbeeld van geduld",
+    link: '/144'
   }
 }
