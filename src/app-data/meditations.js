@@ -624,5 +624,9 @@ export const meditations = {
   '2022-4-9T00:00:00': {
     title: '145: ZATERDAG NA PASSIEZONDAG - De hoogste levensschoonheid',
     link: '/145'
+  },
+  '2022-4-10T00:00:00': {
+    title: '146: PALMZONDAG - Christus, de Heer',
+    link: '/146'
   }
 }
