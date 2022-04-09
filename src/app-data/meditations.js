@@ -628,5 +628,9 @@ export const meditations = {
   '2022-4-10T00:00:00': {
     title: '146: PALMZONDAG - Christus, de Heer',
     link: '/146'
+  },
+  '2022-4-11T00:00:00': {
+    title: '147: MAANDAG IN DE GOEDE WEEK - Meester en Heer',
+    link: '/147'
   }
 }
