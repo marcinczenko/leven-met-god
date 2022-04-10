@@ -632,5 +632,9 @@ export const meditations = {
   '2022-4-11T00:00:00': {
     title: '147: MAANDAG IN DE GOEDE WEEK - Meester en Heer',
     link: '/147'
+  },
+  '2022-4-12T00:00:00': {
+    title: '148: DINSDAG IN DE GOEDE WEEK - Gebed om liefde tot het lijden',
+    link: '/148'
   }
 }
