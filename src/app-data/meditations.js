@@ -636,5 +636,13 @@ export const meditations = {
   '2022-4-12T00:00:00': {
     title: '148: DINSDAG IN DE GOEDE WEEK - Gebed om liefde tot het lijden',
     link: '/148'
+  },
+  '2022-4-13T00:00:00': {
+    title: '149: WOENSDAG IN DE GOEDE WEEK - De vernederde Mensenzoon',
+    link: '/149'
+  },
+  '2022-4-14T00:00:00': {
+    title: '150: WITTE DONDERDAG - Hij nam het brood...',
+    link: '/150'
   }
 }
