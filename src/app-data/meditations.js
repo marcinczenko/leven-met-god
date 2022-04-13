@@ -644,5 +644,9 @@ export const meditations = {
   '2022-4-14T00:00:00': {
     title: '150: WITTE DONDERDAG - Hij nam het brood...',
     link: '/150'
+  },
+  '2022-4-15T00:00:00': {
+    title: '151: GOEDE VRIJDAG - Zijn laatste woorden',
+    link: '/151'
   }
 }
