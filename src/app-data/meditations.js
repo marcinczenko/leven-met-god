@@ -648,5 +648,9 @@ export const meditations = {
   '2022-4-15T00:00:00': {
     title: '151: GOEDE VRIJDAG - Zijn laatste woorden',
     link: '/151'
+  },
+  '2022-4-16T00:00:00': {
+    title: '152: PAASZATERDAG - Het offer en de liefde',
+    link: '/152'
   }
 }
