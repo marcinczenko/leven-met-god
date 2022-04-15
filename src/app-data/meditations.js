@@ -652,5 +652,9 @@ export const meditations = {
   '2022-4-16T00:00:00': {
     title: '152: PAASZATERDAG - Het offer en de liefde',
     link: '/152'
+  },
+  '2022-4-17T00:00:00': {
+    title: '153: HOOGFEEST VAN PASEN - Pasen',
+    link: '/153'
   }
 }
