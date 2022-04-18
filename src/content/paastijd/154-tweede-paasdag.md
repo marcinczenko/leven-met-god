@@ -10,7 +10,7 @@ sortIndex: 154
 
 Het is begrijpelijk dat de twee leerlingen over wie vandaag in het evangelie wordt gesproken, de verwarring, de teleurstelling en het verdriet wilden ontlopen. Terwijl er allerlei geruchten gaan over de verrijzenis van de Heer, zijn zij nog diep onder de indruk van zijn dood. Was dat niet de nederlaag, het definitieve einde? Zij zouden zo graag het tegenovergestelde geloven, maar zij durven niet. Samen gaan zij tegen de avond wandelen om zich bij elkaar te kunnen uitspreken. Hoe menselijk. Zij hebben behoefte aan een goed woord, aan wat troost; maar zij willen ook hun angsten en twijfels en hun droefheid eens zeggen aan iemand die naar hen luistert.
 
-1\. _Terwijl zij met elkander spraken en van gedachten wisselden, kwam ook Jezus er bij en ging met hen mee. Het is de vervulling van zijn eigen woord: _waar twee of meer in mijn naam tezamen zijn, daar ben Ik in hun midden_. _Maar hun ogen waren gesloten, zodat zij Hem niet herkenden._
+1\. _Terwijl zij met elkander spraken en van gedachten wisselden, kwam ook Jezus er bij en ging met hen mee. Het is de vervulling van zijn eigen woord: "waar twee of meer in mijn naam tezamen zijn, daar ben Ik in hun midden". Maar hun ogen waren gesloten, zodat zij Hem niet herkenden._
 
 Hoe dikwijls zien wij Jezus niet terwijl Hij toch in menselijke gedaante (in de persoon van hen die ons nabij zijn) naast ons staat?
 
