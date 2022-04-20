@@ -668,5 +668,9 @@ export const meditations = {
   '2022-4-20T00:00:00': {
     title: '156: WOENSDAG NA PASEN - Het nieuwe leven in Christus',
     link: '/156'
+  },
+  '2022-4-21T00:00:00': {
+    title: '157: DONDERDAG NA PASEN - Het geluk Christus te hebben gevonden',
+    link: '/157'
   }
 }
