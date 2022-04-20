@@ -672,5 +672,9 @@ export const meditations = {
   '2022-4-21T00:00:00': {
     title: '157: DONDERDAG NA PASEN - Het geluk Christus te hebben gevonden',
     link: '/157'
+  },
+  '2022-4-22T00:00:00': {
+    title: '158: VRIJDAG NA PASEN - Mij is alle macht gegeven',
+    link: '/158'
   }
 }
