@@ -676,5 +676,9 @@ export const meditations = {
   '2022-4-22T00:00:00': {
     title: '158: VRIJDAG NA PASEN - Mij is alle macht gegeven',
     link: '/158'
+  },
+  '2022-4-23T00:00:00': {
+    title: '159: ZATERDAG NA PASEN - Blijdschap om Christus',
+    link: '/159'
   }
 }
