@@ -8,9 +8,9 @@ sortIndex: 120
 
 ## God onze toevlucht
 
-Na het besluit van Aman het volk van Israël uit te roeien, bidt Mardocheus, de pleegvader van Esther, tot God. Hij doet daarbij een beroep op Gods almacht en op het feit dat de Joden het eigendom zijn van de Heer: _Hij_ heeft hen immers. uit Egypte vrijgekocht.
+Na het besluit van Aman het volk van Israël uit te roeien, bidt Mardocheus, de pleegvader van Esther, tot God. Hij doet daarbij een beroep op Gods almacht en op het feit dat de Joden het eigendom zijn van de Heer: _Hij_ heeft hen immers uit Egypte vrijgekocht.
 
-1\. _In die dagen richtte Mardocheus dit gebed tot de Heer: Heer, Heer, Gij zijt de almachtige Koning want aan uw heerschappij is alles onderworpen en er is niemand die uw wil weerstaan kan als Gij besluit Israel te redden._ (Esther 13:8-11;15-17)
+1\. _In die dagen richtte Mardocheus dit gebed tot de Heer: Heer, Heer, Gij zijt de almachtige Koning want aan uw heerschappij is alles onderworpen en er is niemand die uw wil weerstaan kan als Gij besluit Israël te redden._ (Esther 13:8-11;15-17)
 
 Het is soms alsof de duivel besloten heeft ook _ons_ naar ziel en lichaam te vernietigen, zozeer kunnen wij om alles in ons en buiten ons, tegen God in opstand komen. Van binnen duisternis, twijfel, angst... daarbuiten tegenwerking, verdachtmaking, vijandschap, schijnvriendschap en allerlei teleurstelling bij mensen op wier goede trouw, begrip en genegenheid wij eens meenden te mogen bouwen. Het lijkt wel of wij door alles van God en zijn liefde worden weggerukt. Schijnbaar blijft slechts bitterheid, droefheid en verlatenheid ons over, en het betekent al veel, wanneer wij dan niet vervallen in een doffe, sprakeloze wanhoop. Maar herinneren wij ons op die momenten dit woord van de schrift: _Heer, Gij zijt de almachtige, aan U is alles onderworpen. Niets of niemand kan U weerstaan als Gij besluit mij te redden. Mensen en duivels zijn onmachtig als uw kracht zich doet gevoelen._
 
