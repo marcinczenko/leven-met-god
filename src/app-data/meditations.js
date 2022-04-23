@@ -680,5 +680,9 @@ export const meditations = {
   '2022-4-23T00:00:00': {
     title: '159: ZATERDAG NA PASEN - Blijdschap om Christus',
     link: '/159'
+  },
+  '2022-4-24T00:00:00': {
+    title: '160: BELOKEN PASEN - Leg alle boosheid af',
+    link: '/160'
   }
 }
