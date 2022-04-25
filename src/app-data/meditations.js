@@ -692,5 +692,9 @@ export const meditations = {
   '2022-4-26T00:00:00': {
     title: '162: DINSDAG NA BELOKEN PASEN - Ons geloof',
     link: '/162'
+  },
+  '2022-4-27T00:00:00': {
+    title: "163: WOENSDAG NA BELOKEN PASEN - Jezus' goedheid",
+    link: '/163'
   }
 }
