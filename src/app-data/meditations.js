@@ -700,5 +700,9 @@ export const meditations = {
   '2022-4-28T00:00:00': {
     title: '164: DONDERDAG NA BELOKEN PASEN - Geloof en geloofstwijfel',
     link: '/164'
+  },
+  '2022-4-29T00:00:00': {
+    title: '165: VRIJDAG NA BELOKEN PASEN - Groei in volmaaktheid',
+    link: '/165'
   }
 }
