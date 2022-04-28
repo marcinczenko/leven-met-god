@@ -704,5 +704,9 @@ export const meditations = {
   '2022-4-29T00:00:00': {
     title: '165: VRIJDAG NA BELOKEN PASEN - Groei in volmaaktheid',
     link: '/165'
+  },
+  '2022-4-30T00:00:00': {
+    title: '166: ZATERDAG NA BELOKEN PASEN - Geest van kindschap',
+    link: '/166'
   }
 }
