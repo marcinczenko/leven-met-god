@@ -708,5 +708,9 @@ export const meditations = {
   '2022-4-30T00:00:00': {
     title: '166: ZATERDAG NA BELOKEN PASEN - Geest van kindschap',
     link: '/166'
+  },
+  '2022-5-1T00:00:00': {
+    title: '167: 2e ZONDAG NA PASEN - De Goede Herder',
+    link: '/167'
   }
 }
