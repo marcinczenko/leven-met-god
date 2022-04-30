@@ -712,5 +712,9 @@ export const meditations = {
   '2022-5-1T00:00:00': {
     title: '167: 2e ZONDAG NA PASEN - De Goede Herder',
     link: '/167'
+  },
+  '2022-5-2T00:00:00': {
+    title: '168: MAANDAG NA DE 2e ZONDAG - Eenheid in Christus',
+    link: '/168'
   }
 }
