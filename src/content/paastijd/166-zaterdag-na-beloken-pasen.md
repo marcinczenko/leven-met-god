@@ -14,7 +14,7 @@ Wij kennen dus andere idealen dan wat de wereld biedt aan genot, aan eer, invloe
 
 1\. Hij verklaart zijn bewering nader. _Allen toch,_ zo zegt hij, _die door Gods Geest worden geleid zijn kinderen van God._ Paulus beschouwt als kenmerkend voor het werkelijk kind-zijn van God, dat de heilige Geest in zo iemand de leiding neemt, dat die Geest daar wordt geëerbiedigd en aanhoord. Zo lag het in Gods bedoeling. Het vertrouwvol mogen opzien naar God als onze Vader, daar onze zonden zijn weggenomen, veronderstelt een steeds diepere werking van de heilige Geest in ons. Geen vrees, maar vertrouwen kenmerkt dan het leven in al onze gedragingen.
 
-_Want gij hebt geen geest van slavernij ontvangen, om terug te vallen in de vrees, maar de geest van kindschap waardoor wij roepen: "Abba, Vader!" De Geest zelf getuigt met onze geest dat wij kinderen zijn van God._ (Rom. 8:12-16)
+_Want gij hebt geen geest van slavernij ontvangen, om terug te vallen in de vrees, maar de geest van kindschap waardoor wij roepen: "Abba, Vader!". De Geest zelf getuigt met onze geest dat wij kinderen zijn van God._ (Rom. 8:12-16)
 
 _Heerschappij over het vlees_, dat wil zeggen, over alle aardse verlangens, zodat ze ons niet meevoeren en wij daaraan uitgeleverd en onderworpen zijn...; de leiding van de heilige Geest in ons, zodat wij onder invloed van de genade de vrees verbannen en in groot vertrouwen opzien tot God, die ons met _eeuwige liefde heeft liefgehad_...; de overtuiging dat wij inderdaad _kinderen van God zijn_, zoals de heilige Geest het telkens weer influistert aan de zielen die geleerd hebben ontvankelijk en toegankelijk te zijn voor zijn subtiele mededeling.
 
