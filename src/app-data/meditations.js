@@ -720,5 +720,9 @@ export const meditations = {
   '2022-5-3T00:00:00': {
     title: '169: DINSDAG NA DE 2e ZONDAG - Wat is volmaaktheid',
     link: '/169'
+  },
+  '2022-5-4T00:00:00': {
+    title: '170: WOENSDAG NA DE 2e ZONDAG - Blijdschap om Gods goedheid',
+    link: '/170'
   }
 }
