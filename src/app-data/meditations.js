@@ -716,5 +716,9 @@ export const meditations = {
   '2022-5-2T00:00:00': {
     title: '168: MAANDAG NA DE 2e ZONDAG - Eenheid in Christus',
     link: '/168'
+  },
+  '2022-5-3T00:00:00': {
+    title: '169: DINSDAG NA DE 2e ZONDAG - Wat is volmaaktheid',
+    link: '/169'
   }
 }
