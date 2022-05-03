@@ -724,5 +724,9 @@ export const meditations = {
   '2022-5-4T00:00:00': {
     title: '170: WOENSDAG NA DE 2e ZONDAG - Blijdschap om Gods goedheid',
     link: '/170'
+  },
+  '2022-5-5T00:00:00': {
+    title: "171: DONDERDAG NA DE 2e ZONDAG - Christus' voorbeeld",
+    link: '/171'
   }
 }
