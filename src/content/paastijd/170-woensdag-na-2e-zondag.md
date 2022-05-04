@@ -8,7 +8,7 @@ sortIndex: 170
 
 ## Blijdschap om Gods goedheid
 
-Gedurende de Paastijd uit de Kerk onophoudelijk haar vreugde in alleluja's. Zij wenst dat wij de ware vreugde ook in het leven vast-houden.
+Gedurende de Paastijd uit de Kerk onophoudelijk haar vreugde in alleluja's. Zij wenst dat wij de ware vreugde ook in het leven vasthouden.
 
 Deugd immers (vooral de vaak zo moeilijke _oefening_ in de deugd) heeft vreugde nodig. Grote dingen komen het best tot stand in blijdschap. Wie blij is staat sterk tegenover de offers van het leven. Maar de Kerk wijst ons - en zo terecht - op de ware bronnen van de levensvreugde.
 
@@ -16,7 +16,7 @@ Deugd immers (vooral de vaak zo moeilijke _oefening_ in de deugd) heeft vreugde 
 
 Wat ons telkens weer in blijdschap aan God doet denken is zijn eindeloze goedheid voor ons. Hij heeft ons gered, Hij heeft ons weggehaald van de zonde en de listen van de duivel. Wij zijn door Christus zijn kinderen geworden. Op grond van zijn barmhartigheid dus, mogen wij verheugd zijn en daarom inderdaad is ons leven vol vreugde.
 
-Het is een weldaad ons dit te herinneren. Ook voor ons, voor ieder mens is God barmhartig geweest en Hij is dat nog. Het alleluja-vers spreekt ons van de verheugende verschijning van Christus aan de Emmausgangers, een verschijning die bun verdriet wegnam. _De leerlingen herkenden de Heer Jezus bij het breken van het brood._
+Het is een weldaad ons dit te herinneren. Ook voor ons, voor ieder mens is God barmhartig geweest en Hij is dat nog. Het alleluja-vers spreekt ons van de verheugende verschijning van Christus aan de Emmausgangers, een verschijning die hun verdriet wegnam. _De leerlingen herkenden de Heer Jezus bij het breken van het brood._
 
 Zo dikwijls, misschien dagelijks, wonen wij het breken van het brood bij, het heilig Misoffer waaraan wij deelnemen. Is het ons een reden tot blijdschap? Mede-offeren, mede-vieren met de gehele Kerk, betekent deel hebben aan Jezus Christus; het betekent Hem ontmoeten en herkennen iedere dag, in zijn Kruisdood en in zijn heilig offermaal, waar Hij zelf ons voedsel is.
 
@@ -32,7 +32,6 @@ Is het geen biezonder voorrecht als wij _in_ de mensen, in alle schepselen en in
 
 Alles is door Hem gemaakt, Hij geeft het ons als goddelijk geschenk, het spreekt van _zijn_ goedheid en van _zijn_ onbeperkte, nooit verzwakte schoonheid. Dit voert tot diep gebed en... tot diep geluk. _Opdat Gij hen die Gij aan de eeuwige dood hebt ontrukt, de eeuwige vreugden moogt doen genieten._
 
-op de eeuwige ontmoeting met U die de bron van alle schoonheid en goedheid zijt. Amen."
 De Kerk leert ons vragen om de eeuwige zaligheid, het onsterfelijk geluk hierboven. Er dreigt ons namelijk altijd het gevaar dat wij te gemakkelijk bij de aardse schoonheid blijven stilstaan. Hoe voortreffelijk zij ook zijn moge, alle aardse schoonheid zoals ook alle aards geluk is relatief; zij is bestemd voor de aardse tijd. Maar zij wijst hen die haar goed begrijpen en gebruiken willen, op de vreugde van het hiernamaals, op datgene wat voor later is bestemd, de eeuwige schoonheid en het nooit eindigend geluk dat ons wacht in de hemel bij God.
 
 _Laat alle aardse schoonheid en goedheid Heer, mij inniger met U verbinden en mij voorbereiden op de eeuwige ontmoeting met U die de bron van alle schoonheid en goedheid zijt. Amen."_
