@@ -728,5 +728,9 @@ export const meditations = {
   '2022-5-5T00:00:00': {
     title: "171: DONDERDAG NA DE 2e ZONDAG - Christus' voorbeeld",
     link: '/171'
+  },
+  '2022-5-6T00:00:00': {
+    title: '172: VRIJDAG NA DE 2e ZONDAG - Alles door Christus',
+    link: '/172'
   }
 }
