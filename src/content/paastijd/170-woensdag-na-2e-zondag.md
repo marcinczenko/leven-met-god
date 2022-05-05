@@ -34,4 +34,4 @@ Alles is door Hem gemaakt, Hij geeft het ons als goddelijk geschenk, het spreekt
 
 De Kerk leert ons vragen om de eeuwige zaligheid, het onsterfelijk geluk hierboven. Er dreigt ons namelijk altijd het gevaar dat wij te gemakkelijk bij de aardse schoonheid blijven stilstaan. Hoe voortreffelijk zij ook zijn moge, alle aardse schoonheid zoals ook alle aards geluk is relatief; zij is bestemd voor de aardse tijd. Maar zij wijst hen die haar goed begrijpen en gebruiken willen, op de vreugde van het hiernamaals, op datgene wat voor later is bestemd, de eeuwige schoonheid en het nooit eindigend geluk dat ons wacht in de hemel bij God.
 
-_Laat alle aardse schoonheid en goedheid Heer, mij inniger met U verbinden en mij voorbereiden op de eeuwige ontmoeting met U die de bron van alle schoonheid en goedheid zijt. Amen."_
+_Laat alle aardse schoonheid en goedheid Heer, mij inniger met U verbinden en mij voorbereiden op de eeuwige ontmoeting met U die de bron van alle schoonheid en goedheid zijt. Amen._
