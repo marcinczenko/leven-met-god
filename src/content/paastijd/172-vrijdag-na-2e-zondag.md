@@ -10,9 +10,9 @@ sortIndex: 172
 
 De christelijke godsvrucht ziet haar hoogtepunt in de liefdevolle aanschouwing en aanbidding van God zoals Hij in zichzelf is: de Vader, de Zoon en de heilige Geest, oneindig volmaakt, levend in eeuwig geluk en eeuwige schoonheid. Maar in de praktijk van de vroomheid neemt - zeer begrijpelijk - de godsvrucht tot Jezus Christus de ruimste plaats in.
 
-1\. Zelf spoort Christus daartoe aan. Hij gaf de stoat daartoe, het is klaarblijkelijk zijn wens.
+1\. Zelf spoort Christus daartoe aan. Hij gaf de stoot daartoe, het is klaarblijkelijk zijn wens.
 
-_Ik ben de deur,_ zegt Hij, _als iemand door Mij binnentreedt, zal hij veilig zijn, in- en uitgaan en weide vinden._ (Joh. 10:9) Door Hem vinden wij dus alles. Wij gaan door Hem in, tot het eigenlijke leven; maar ook door Hem vinden wij de uiteindelijke veiligheid. Hij zorgt dat wij _geestelijk_ gevoed warden.
+_Ik ben de deur,_ zegt Hij, _als iemand door Mij binnentreedt, zal hij veilig zijn, in- en uitgaan en weide vinden._ (Joh. 10:9) Door Hem vinden wij dus alles. _Wij gaan door Hem in_, tot het eigenlijke leven; maar ook door Hem vinden wij de uiteindelijke _veiligheid_. Hij zorgt dat wij _geestelijk gevoed_ worden.
 
 _Ik ben de weg, de waarheid en het leven_ (Joh. 14:6). Men kan wel niet duidelijker zeggen dat ons geestelijk geluk, het heil van onze ziel zowel hier op aarde als in de eeuwigheid, alleen door Jezus Christus wordt bereikt. Hij is de weg, want Hij is ons voorbeeld... in alles. Hij is de waarheid, want buiten Hem is alles dwaling of aanleiding daartoe. Hij zelf is het Woord van God en onderricht ons daarom in de hoogste wijsheid. De voorwaarde is steeds een zeer innige aansluiting bij de Godmens, door geloof en liefde.
 
