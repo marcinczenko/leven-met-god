@@ -736,5 +736,9 @@ export const meditations = {
   '2022-5-7T00:00:00': {
     title: '173: ZATERDAG NA DE 2e ZONDAG - Jezus het middelpunt',
     link: '/173'
+  },
+  '2022-5-8T00:00:00': {
+    title: '174: 3e ZONDAG NA PASEN - Het voorbeeld',
+    link: '/174'
   }
 }
