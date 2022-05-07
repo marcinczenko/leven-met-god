@@ -744,5 +744,9 @@ export const meditations = {
   '2022-5-9T00:00:00': {
     title: '175: MAANDAG NA DE 3e ZONDAG - De uitwendige orde',
     link: '/175'
+  },
+  '2022-5-10T00:00:00': {
+    title: '176: DINSDAG NA DE 3e ZONDAG - God kennen',
+    link: '/176'
   }
 }
