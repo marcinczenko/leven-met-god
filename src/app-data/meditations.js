@@ -740,5 +740,9 @@ export const meditations = {
   '2022-5-8T00:00:00': {
     title: '174: 3e ZONDAG NA PASEN - Het voorbeeld',
     link: '/174'
+  },
+  '2022-5-9T00:00:00': {
+    title: '175: MAANDAG NA DE 3e ZONDAG - De uitwendige orde',
+    link: '/175'
   }
 }
