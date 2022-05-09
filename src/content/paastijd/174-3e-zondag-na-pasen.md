@@ -26,8 +26,8 @@ Het voorbeeld dat wij anderen geven komt in de eerste plaats onszelf ten goede; 
 
 _Want,_ zo zegt Petrus verder, _het is de wil van God, dat gij door het goede te doen, het onverstand van domme mensen tot zwijgen brengt._
 
-Het voorbeeld is doorgaans een zachte les, die tegelijk krachtig spreekt van onze diepere overtuiging. Uit het voorbeeld, de daden die wij stellen, het leven dat wij leiden, ons gebed, ons bijwonen van de heilige Mis, onze goedheid voor anderen, het vermijden van kwaadspreken blijkt wat wij eigenlijk hoogschatten en wat ons tenslotte het meest dierbaar is.
+Het voorbeeld is doorgaans een zachte les, die tegelijk krachtig spreekt van onze diepere overtuiging. Uit het voorbeeld, de daden die wij stellen, het leven dat wij leiden, ons gebed, ons bijwonen van de heilige Mis, onze goedheid voor anderen, het vermijden van kwaadspreken blijkt wàt wij eigenlijk hoogschatten en wat ons tenslotte het meest dierbaar is.
 
-_Ik heb u een voorbeeld gegeven,_ sprak Christus, _opdat zoals Ik voor u gedaan heb, ook gij doen moogt._ Hij kwam op aarde _om te ___doen__ en te onderrichten_.
+_Ik heb u een voorbeeld gegeven,_ sprak Christus, _opdat zoals Ik voor u gedaan heb, ook gij doen moogt._ Hij kwam op aarde _om te __doen__ en te onderrichten_.
 
 Moge Jezus' liefde ons helpen en aansporen om gaarne en standvastig voor allen die wij benaderen, een voorbeeld te zijn van een goed en heilig leven.
