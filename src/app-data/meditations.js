@@ -748,5 +748,9 @@ export const meditations = {
   '2022-5-10T00:00:00': {
     title: '176: DINSDAG NA DE 3e ZONDAG - God kennen',
     link: '/176'
+  },
+  '2022-5-11T00:00:00': {
+    title: '177: WOENSDAG NA DE 3e ZONDAG - Afscheid en ontmoeting',
+    link: '/177'
   }
 }
