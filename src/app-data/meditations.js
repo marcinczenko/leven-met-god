@@ -752,5 +752,9 @@ export const meditations = {
   '2022-5-11T00:00:00': {
     title: '177: WOENSDAG NA DE 3e ZONDAG - Afscheid en ontmoeting',
     link: '/177'
+  },
+  '2022-5-12T00:00:00': {
+    title: '178: DONDERDAG NA DE 3e ZONDAG - Gods weldaden',
+    link: '/178'
   }
 }
