@@ -756,5 +756,9 @@ export const meditations = {
   '2022-5-12T00:00:00': {
     title: '178: DONDERDAG NA DE 3e ZONDAG - Gods weldaden',
     link: '/178'
+  },
+  '2022-5-13T00:00:00': {
+    title: '179: VRIJDAG NA DE 3e ZONDAG - Christelijke geest',
+    link: '/179'
   }
 }
