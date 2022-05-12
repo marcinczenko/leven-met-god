@@ -760,5 +760,9 @@ export const meditations = {
   '2022-5-13T00:00:00': {
     title: '179: VRIJDAG NA DE 3e ZONDAG - Christelijke geest',
     link: '/179'
+  },
+  '2022-5-14T00:00:00': {
+    title: '180: ZATERDAG NA DE 3e ZONDAG - Hoe wordt ons leven vruchtbaar?',
+    link: '/180'
   }
 }
