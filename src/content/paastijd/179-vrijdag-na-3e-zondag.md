@@ -8,7 +8,7 @@ sortIndex: 179
 
 ## Christelijke geest
 
-1\. Het gebed in de Mis van verleden zondag vestigt onze aandacht op het goddelijk licht dat ons steeds weer op de goede weg moet brengen: _God die voor de dwalenden het licht van Uw waarheid laat schijnen, opdat zij op de weg van de gerechtigheid zouden terugkeren ..._
+1\. Het gebed in de Mis van verleden zondag vestigt onze aandacht op het goddelijk licht dat ons steeds weer op de goede weg moet brengen: _God die voor de dwalenden het licht van Uw waarheid laat schijnen, opdat zij op de weg van de gerechtigheid zouden terugkeren..._
 
 God geeft voortdurend zijn licht: aan ons _de kinderen van het licht_, en aan de dwalenden die het ware geloof niet kennen... opdat wij allen weer de gerechtigheid zouden beoefenen, of meer beoefenen. Het licht van de waarheid is nodig om tot het geloof te kunnen komen, datzelfde licht is nodig voor allen die (met behoud van hun geloof) het blijkbaar toch niet tot hoge deugd en heiligheid kunnen brengen of de eisen van een liefdevol en rechtvaardig leven niet kunnen of willen nakomen.
 
