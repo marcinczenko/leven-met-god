@@ -764,5 +764,9 @@ export const meditations = {
   '2022-5-14T00:00:00': {
     title: '180: ZATERDAG NA DE 3e ZONDAG - Hoe wordt ons leven vruchtbaar?',
     link: '/180'
+  },
+  '2022-5-15T00:00:00': {
+    title: '181: 4e ZONDAG NA PASEN - Voorbereiding op Pinksteren I',
+    link: '/181'
   }
 }
