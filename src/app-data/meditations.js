@@ -768,5 +768,9 @@ export const meditations = {
   '2022-5-15T00:00:00': {
     title: '181: 4e ZONDAG NA PASEN - Voorbereiding op Pinksteren I',
     link: '/181'
+  },
+  '2022-5-16T00:00:00': {
+    title: '182: MAANDAG NA DE 4e ZONDAG - Ons geloof en zijn groei',
+    link: '/182'
   }
 }
