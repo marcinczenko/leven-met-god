@@ -772,5 +772,9 @@ export const meditations = {
   '2022-5-16T00:00:00': {
     title: '182: MAANDAG NA DE 4e ZONDAG - Ons geloof en zijn groei',
     link: '/182'
+  },
+  '2022-5-17T00:00:00': {
+    title: '183: DINSDAG NA DE 4e ZONDAG - Onze verhouding tot de heilige Geest',
+    link: '/183'
   }
 }
