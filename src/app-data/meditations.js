@@ -776,5 +776,9 @@ export const meditations = {
   '2022-5-17T00:00:00': {
     title: '183: DINSDAG NA DE 4e ZONDAG - Onze verhouding tot de heilige Geest',
     link: '/183'
+  },
+  '2022-5-18T00:00:00': {
+    title: '184: WOENSDAG NA DE 4e ZONDAG - Groeien in Hem is groeien in geloof',
+    link: '/184'
   }
 }
