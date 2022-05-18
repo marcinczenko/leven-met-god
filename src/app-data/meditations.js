@@ -780,5 +780,13 @@ export const meditations = {
   '2022-5-18T00:00:00': {
     title: '184: WOENSDAG NA DE 4e ZONDAG - Groeien in Hem is groeien in geloof',
     link: '/184'
+  },
+  '2022-5-19T00:00:00': {
+    title: '185: DONDERDAG NA DE 4e ZONDAG - Wat doen wij voor de anderen?',
+    link: '/185'
+  },
+  '2022-5-20T00:00:00': {
+    title: '186: VRIJDAG NA DE 4e ZONDAG - De geest van Christus I',
+    link: '/186'
   }
 }
