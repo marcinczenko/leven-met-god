@@ -788,5 +788,9 @@ export const meditations = {
   '2022-5-20T00:00:00': {
     title: '186: VRIJDAG NA DE 4e ZONDAG - De geest van Christus I',
     link: '/186'
+  },
+  '2022-5-21T00:00:00': {
+    title: '187: ZATERDAG NA DE 4e ZONDAG - De geest van Christus II',
+    link: '/187'
   }
 }

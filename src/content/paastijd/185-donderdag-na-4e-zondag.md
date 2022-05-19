@@ -12,7 +12,9 @@ Het is niet altijd mogelijk rechtstreeks voor het geestelijk heil van anderen op
 
 1\. Wij _allen_ behoren iets te hebben van Jezus' verlangen om te redden, om goed te doen en anderen naar God te brengen. Alle gaven tenslotte zijn daartoe dienstig.
 
-Paulus zegt: de een heeft de gave van wijsheid, van kennis, de ander de gave van geloof, van genezing, dat alles is hun gegeven door de éne Geest. En zo is het, zegt hij, met de gave van wonderen, van profetie, de onderscheiding der geesten, de veelheid van de talen, _maar alles werd gegeven om er goed mee te doen_. Wij zouden kunnen zeggen: het kan geleerdheid zijn, geld of goede naam, waardigheid, welsprekendheid of invloed, of zeer simpel een ongekende en ongeziene taak: maar alles werd ons van boven gegeven en ons ter hand gesteld als een machtig middel om zielen op te voeren naar hun eeuwige eindbestemming. Christus was vol van de zielen.
+Paulus zegt: de een heeft de gave van wijsheid, van kennis, de ander de gave van geloof, van genezing, dat alles is hun gegeven door de éne Geest. En zo is het, zegt hij, met de gave van wonderen, van profetie, de onderscheiding der geesten, de veelheid van de talen, _maar alles werd gegeven om er goed mee te doen_. Wij zouden kunnen zeggen: het kan geleerdheid zijn, geld of goede naam, waardigheid, welsprekendheid of invloed, of zeer simpel een ongekende en ongeziene taak: maar alles werd ons van boven gegeven en ons ter hand gesteld als een machtig middel om zielen op te voeren naar hun eeuwige eindbestemming.
+
+Christus was vol van de zielen.
 
 _Mijn spijs is de wil te volbrengen van Hem die Mij heeft gezonden en __zijn werk te voltooien__._ (Joh. 4:34)
 
