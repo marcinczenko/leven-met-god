@@ -792,5 +792,9 @@ export const meditations = {
   '2022-5-21T00:00:00': {
     title: '187: ZATERDAG NA DE 4e ZONDAG - De geest van Christus II',
     link: '/187'
+  },
+  '2022-5-22T00:00:00': {
+    title: '188: 5e ZONDAG NA PASEN - Blijdschap en wijsheid',
+    link: '/188'
   }
 }
