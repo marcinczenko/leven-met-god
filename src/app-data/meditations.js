@@ -796,5 +796,9 @@ export const meditations = {
   '2022-5-22T00:00:00': {
     title: '188: 5e ZONDAG NA PASEN - Blijdschap en wijsheid',
     link: '/188'
+  },
+  '2022-5-23T00:00:00': {
+    title: '189: MAANDAG NA DE 5e ZONDAG - Ware liefde Gods',
+    link: '/189'
   }
 }
