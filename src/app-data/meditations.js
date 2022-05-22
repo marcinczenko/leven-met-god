@@ -800,5 +800,9 @@ export const meditations = {
   '2022-5-23T00:00:00': {
     title: '189: MAANDAG NA DE 5e ZONDAG - Ware liefde Gods',
     link: '/189'
+  },
+  '2022-5-24T00:00:00': {
+    title: '190: DINSDAG NA DE 5e ZONDAG - Wat doet de heilige Geest in ons?',
+    link: '/190'
   }
 }
