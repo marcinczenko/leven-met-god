@@ -15,6 +15,7 @@ Het is als een verre naklank van de Paasvreugde, de vreugde om de verrijzenis de
 _De maaltijd is bedoeld als weg en middel om deel te hebben aan het Offer; deel hebben aan het Offer is nodig om deelachtig te kunnen zijn aan het Verbond. Het maaltijd-houden is slechts één aspect van de Eucharistie... Het is een offermaaltijd en het is een Verbonds-offermaaltijd. En dat niet alleen. De Eucharistie - en iedere Eucharistieviering - is tegelijkertijd het voltrekken van dit Verbondsoffer en het sluiten van dit Verbond tussen God en zijn volk. Daarom heeft het óók zin aan de eucharistische viering deel te nemen, als men door omstandigheden niet kan aanzitten aan de eucharistische maaltijd. Omdat hier meer is dan een maaltijd._ (Mgr. B. Alfrink)
 
 Jezus die offer is, stond op van de doden. Hij leeft nu in de heerlijkheid bij de Vader, waar Hij op ons wacht. Wij zijn verheugd over zijn overwinning. _Juich, heel de aarde, God ter ere, en prijs de glans van zijn Naam._ (Ps. 65 introïtus) Het offertorium komt nogmaals terug op het geluk van de verlossing. Het blijft voor ons een eeuwige bron van blijdschap.
+
 _Zegent, volkeren, onze God, laat zijn loflied luid weerschallen. Hij is het, die ons in het leven hield; onze voet niet liet wankelen. Gezegend zij God, die mijn bede niet afwees, mij zijn genade niet onthield._ (Ps. 65:8-9,20)
 
 Wij zijn verlost: wij verheugen er ons om, maar laat ons ook de wijsheid vragen voortaan als verlosten, dat is, als kinderen van God, te leven.
