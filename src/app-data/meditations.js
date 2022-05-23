@@ -804,5 +804,9 @@ export const meditations = {
   '2022-5-24T00:00:00': {
     title: '190: DINSDAG NA DE 5e ZONDAG - Wat doet de heilige Geest in ons?',
     link: '/190'
+  },
+  '2022-5-25T00:00:00': {
+    title: '191: WOENSDAG NA DE 5e ZONDAG - Vigilie van Hemelvaart',
+    link: '/191'
   }
 }

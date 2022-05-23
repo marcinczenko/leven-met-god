@@ -42,10 +42,10 @@ _Wij weten,_ schrijft Sint Jan, _dat wij van de dood tot het leven zijn overgega
 
 _De liefde van God voor ons is zó groot dat Hij ter beloning van de liefde die wij de mensen bewijzen, onze liefde voor Hem op duizend manieren zal doen toenemen. Er is daaromtrent geen twijfel mogelijk._ (Teresia, Kast. 5:3)
 
-_Als gij bet belang van deze deugd hadt begrepen, zoudt gij geen andere zorg meer willen hebben, dan die deugd te beoefenen._ (ib.) Wie werkelijk God liefheeft, kent geen andere verlangens meer dan te groeien in die liefde.
+_Als gij het belang van deze deugd hadt begrepen, zoudt gij geen andere zorg meer willen hebben, dan die deugd te beoefenen._ (ib.) Wie werkelijk God liefheeft, kent geen andere verlangens meer dan te groeien in die liefde.
 
 Nu is dit het onfeilbare, zekere middel: met de grootste ijver naastenliefde beoefenen.
 
 Wie naar vereniging met God streeft, tracht vóór alles eenheid met de mensen te beleven in eerbied, genegenheid en dienstbaarheid. Wij mogen anderen beminnen met de liefde waarmee God die mensen liefheeft. Hoe meer wij anderen liefhebben, hen dienen, voor hen offeren, des te meer treden wij in die stroom van liefde waarmede God al zijn schepselen omgeeft en des te meer zullen wij ook delen in zijn welwillendheid, in zijn goedheid en oneindige liefde.
 
-Vergeten wij het nooit: _God is liefde_ en _wie in de liefde blijft, blijft in God en God in hem._ (Joh. 4: 16.)
+Vergeten wij het nooit: _God is liefde_ en _wie in de liefde blijft, blijft in God en God in hem._ (Joh. 4:16)
