@@ -808,5 +808,9 @@ export const meditations = {
   '2022-5-25T00:00:00': {
     title: '191: WOENSDAG NA DE 5e ZONDAG - Vigilie van Hemelvaart',
     link: '/191'
+  },
+  '2022-5-26T00:00:00': {
+    title: '192: DONDERDAG NA DE 5e ZONDAG - Hemelvaart des Heren',
+    link: '/192'
   }
 }
