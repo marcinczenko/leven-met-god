@@ -812,5 +812,9 @@ export const meditations = {
   '2022-5-26T00:00:00': {
     title: '192: DONDERDAG NA DE 5e ZONDAG - Hemelvaart des Heren',
     link: '/192'
+  },
+  '2022-5-27T00:00:00': {
+    title: '193: VRIJDAG NA HEMELVAART - De heilige Geest werkt in ons',
+    link: '/193'
   }
 }
