@@ -816,5 +816,9 @@ export const meditations = {
   '2022-5-27T00:00:00': {
     title: '193: VRIJDAG NA HEMELVAART - De heilige Geest werkt in ons',
     link: '/193'
+  },
+  '2022-5-28T00:00:00': {
+    title: '194: ZATERDAG NA HEMELVAART - Wij zijn zonder de heilige Geest te zwak',
+    link: '/194'
   }
 }
