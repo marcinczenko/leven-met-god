@@ -820,5 +820,9 @@ export const meditations = {
   '2022-5-28T00:00:00': {
     title: '194: ZATERDAG NA HEMELVAART - Wij zijn zonder de heilige Geest te zwak',
     link: '/194'
+  },
+  '2022-5-29T00:00:00': {
+    title: '195: ZONDAG NA HEMELVAART - Christelijk leven en gemeenschap',
+    link: '/195'
   }
 }
