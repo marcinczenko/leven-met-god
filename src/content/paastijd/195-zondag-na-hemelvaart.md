@@ -28,8 +28,8 @@ Het is veel gevraagd van de menselijke natuur.
 
 Toch is dat de juiste Christelijke opvatting. _Laat u niet overwinnen door het kwaad, maar overwin het kwaad door het goede._ (Rom. 12:21) Dàt is de vrucht van de christelijke gemeenschapsgedachte.
 
-_Vergeld niemand kwaad met kwaad._ (Rom. 12:17) _Zeker_" zo schrijft Paulus nog, _uw volgzaamheid is algemeen bekend; ik verheug mij dus over u. Ik wil echter dat gij niet slechts wijs zijt in het goede, maar ook bestand tegen het kwaad._ (Rom. 16:19)
+_Vergeld niemand kwaad met kwaad._ (Rom. 12:17) _Zeker_, zo schrijft Paulus nog, _uw volgzaamheid is algemeen bekend; ik verheug mij dus over u. Ik wil echter dat gij niet slechts wijs zijt in het goede, maar ook bestand tegen het kwaad._ (Rom. 16:19)
 
-Hier is boven alles voor ons de leidraad, het woord en het voorbeeld van de goddelijke Meester. Zolang wij het zwaartepunt van ons leven leggen in de vriendschap en de achting van de mensen, zal ieder conflict, en ieder tekort aan waardering ons pijn blijven doen. Zodra wij echter onze vreugde zoeken in Hem alleen, zijn wij groter dan al het louter-menselijke. Misschien bereiken wij wel de hoogte van Jezus' leerlingen _die blij heengingen, omdat zij waardig waren bevonden, versmading te dragen om zijn naam". (Hand. 5:41)
+Hier is boven alles voor ons de leidraad, het woord en het voorbeeld van de goddelijke Meester. Zolang wij het zwaartepunt van ons leven leggen in de vriendschap en de achting van de mensen, zal ieder conflict, en ieder tekort aan waardering ons pijn blijven doen. Zodra wij echter onze vreugde zoeken in Hem alleen, zijn wij groter dan al het louter-menselijke. Misschien bereiken wij wel de hoogte van Jezus' leerlingen _die blij heengingen, omdat zij waardig waren bevonden, versmading te dragen om zijn naam_. (Hand. 5:41)
 
 _O Jezus, leer mij uw voorbeeld en uw voorschrift van liefde, tot het uiterste trouw te volgen. Ik weet dat ik een ander mens zal worden als ik nog meer mij zelf vergeet en mijzelf geef aan anderen; ik voel er mij echter niet toe in staat zonder uw vele genaden. Ik bid u daarom, geef mij die genade. Amen._

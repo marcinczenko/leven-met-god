@@ -828,5 +828,9 @@ export const meditations = {
   '2022-5-30T00:00:00': {
     title: '196: MAANDAG NA HEMELVAART - In afwachting van de heilige Geest',
     link: '/196'
+  },
+  '2022-5-31T00:00:00': {
+    title: '197: DINSDAG NA HEMELVAART - Voorbereiding op Pinksteren II',
+    link: '/197'
   }
 }
