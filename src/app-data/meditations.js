@@ -824,5 +824,9 @@ export const meditations = {
   '2022-5-29T00:00:00': {
     title: '195: ZONDAG NA HEMELVAART - Christelijk leven en gemeenschap',
     link: '/195'
+  },
+  '2022-5-30T00:00:00': {
+    title: '196: MAANDAG NA HEMELVAART - In afwachting van de heilige Geest',
+    link: '/196'
   }
 }
