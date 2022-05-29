@@ -1,7 +1,7 @@
 ---
 path: /193
 title: '193: VRIJDAG NA HEMELVAART'
-tag: pinkstertijd
+tag: paastijd
 content: ../styling.md
 sortIndex: 193
 ---

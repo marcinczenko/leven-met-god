@@ -1,7 +1,7 @@
 ---
 path: /194
 title: '194: ZATERDAG NA HEMELVAART'
-tag: pinkstertijd
+tag: paastijd
 content: ../styling.md
 sortIndex: 194
 ---
@@ -12,7 +12,7 @@ Niemand zal het - door eigen ervaring geleerd - overdreven vinden als men zegt d
 
 Dat is nu de taak van de heilige Geest in ons. En zijn werkwijze is des te meer voelbaar, zij grijpt dieper in, naarmate wij meer naar die heilige Geest verlangen en proberen om beter op Hem afgestemd te zijn.
 
-1\. Wij weten het door de ervaring in ons zelf en bij anderen die ons over hun zieleleven spreken, hoe dikwijls wij moeten zoeken en tasten en als van duisternis omgeven zijn. Vaak voelen wij ons koud en onverschillig, ook zwak en laf ten opzichte van het bovennatuurlijke. Niets zou zo weldadig voor ons zijn als de voortdurende verwezenlijking van Jezus' belofte in ons. _Als gij Mij liefhebt, onderhoudt dan mijn geboden._ Wij willen zijn geboden onderhouden en wij menen dat wij Hem werkelijk liefhebben, al ontbreekt er nog veel aan onze getrouwheid. Al is onze liefde naar onze smaak nog te lauw en te onstandvastig, zij gaat toch zeer beslist vóór alles uit naar Hem. Wij willen Jezus Christus, en Hem alleen. Wij vertrouwen daarom, dat Hij verder voor ons zorgen zal en zijn belofte gestand zal doen. Hij zegt immers: _dan zal Ik de Vader bidden en Hij zal u een andere Helper geven om bij u te blijven voor eeuwig. Het is de Geest van de waarheid..._ (Joh. 14:15,16,17)
+1\. Wij weten het door de ervaring in onszelf en bij anderen die ons over hun zieleleven spreken, hoe dikwijls wij moeten zoeken en tasten en als van duisternis omgeven zijn. Vaak voelen wij ons koud en onverschillig, ook zwak en laf ten opzichte van het bovennatuurlijke. Niets zou zo weldadig voor ons zijn als de voortdurende verwezenlijking van Jezus' belofte in ons. _Als gij Mij liefhebt, onderhoudt dan mijn geboden._ Wij willen zijn geboden onderhouden en wij menen dat wij Hem werkelijk liefhebben, al ontbreekt er nog veel aan onze getrouwheid. Al is onze liefde naar onze smaak nog te lauw en te onstandvastig, zij gaat toch zeer beslist vóór alles uit naar Hem. Wij willen Jezus Christus, en Hem alleen. Wij vertrouwen daarom, dat Hij verder voor ons zorgen zal en zijn belofte gestand zal doen. Hij zegt immers: _dan zal Ik de Vader bidden en Hij zal u een andere Helper geven om bij u te blijven voor eeuwig. Het is de Geest van de waarheid..._ (Joh. 14:15,16,17)
 
 Als wij ons vurig gebed tot Jezus richten, _dat Hij ons die Geest moge geven_; _dat wij zo dringend naar die Geest van waarheid en van liefde verlangen_... dan moet Hij ons wel verhoren. Hij heeft ons die Geest beloofd... en die belofte is ook voor ons bedoeld; wij zullen, zonder die Geest, Christus' werk in ons nooit voltooid zien.
 
