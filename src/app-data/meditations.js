@@ -832,5 +832,9 @@ export const meditations = {
   '2022-5-31T00:00:00': {
     title: '197: DINSDAG NA HEMELVAART - Voorbereiding op Pinksteren II',
     link: '/197'
+  },
+  '2022-6-1T00:00:00': {
+    title: '198: WOENSDAG NA HEMELVAART - Voorbereiding op Pinksteren III',
+    link: '/198'
   }
 }
