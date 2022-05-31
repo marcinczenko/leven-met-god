@@ -16,7 +16,7 @@ Maar die heiligheid zal nooit bloeien tenzij onder de invloed van de heilige Gee
 
 De heilige Geest wil ons onderrichten. Wij zijn zo weinig op de hoogte van het goddelijke en het hemelse. Te veel in het aardse verdiept, zelfs zó dat wij soms de juiste normen in het oordelen en het handelen hebben losgelaten, zijn wij niet ontvankelijk meer voor het hogere. We hebben de stuwing van de heilige Geest zo nodig.
 
-De wijsheid word maar al te veel op aarde gezocht, op het menselijk vlak. Wat daarboven uitreikt lijkt ons zo onwezenlijk, zo onwaar soms, zo ver weg, zo weinig bruikbaar. Toch ligt in het goddelijke, in de goddelijke genade-inwerking in ons, tevens dt voltooiing van het menselijke in zijn meest voortreffelijke gedaante.
+De wijsheid word maar al te veel op aarde gezocht, op het menselijk vlak. Wat daarboven uitreikt lijkt ons zo onwezenlijk, zo onwaar soms, zo ver weg, zo weinig bruikbaar. Toch ligt in het goddelijke, in de goddelijke genade-inwerking in ons, tevens de voltooiing van het menselijke in zijn meest voortreffelijke gedaante.
 
 God spreekt zichzelf niet tegen: de nadere verbinding met Hem die de bron van alle leven en ook de schepper is van onze natuur, brengt de hoogste menselijke volkomendheid tot stand. Wij kennen het goddelijke te weinig, wij ondergaan vooral te weinig de goddelijke invloed speciaal in het gebed, in het intieme contact met Hem. Het gevolg is dat wij God niet of maar nauwelijks bespeuren in al het geschapene, in al het menselijke. Wij zien Hem ook te weinig werkzaam in ons eigen leven.
 
