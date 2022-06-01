@@ -30,4 +30,4 @@ Bidden wij vurig, in vereniging met Christus voor zijn Kerk, voor de Paus, de Bi
 
 Door de inwerking van de Heilige Geest verandert het aanzien van de aarde. Door Hem zullen allereerst wij zelf veranderen. Wij willen iets bezitten van zijn liefdevuur, een vuur dat reinigt en zich voortplant, dat omvormt en in gloed zet.
 
-_Kom Heilige Geest en zend vanuit de Hemel een straal van Uw licht. Kom en daal zelf in mij neer, opdat Uw licht en Uw gloed uit mij verdrijve alles wat Gods aanwezigheid storen zou. Maak mij tot Uw heilige tempel, geef mij liefde voor de mensen, een grote onbaatzuchtigheid en maak mij nederig opdat _ik nooit meer Uw werking tegenhoude. Amen._
+_Kom Heilige Geest en zend vanuit de Hemel een straal van Uw licht. Kom en daal zelf in mij neer, opdat Uw licht en Uw gloed uit mij verdrijve alles wat Gods aanwezigheid storen zou. Maak mij tot Uw heilige tempel, geef mij liefde voor de mensen, een grote onbaatzuchtigheid en maak mij nederig opdat __ik nooit meer Uw werking tegenhoude__. Amen._

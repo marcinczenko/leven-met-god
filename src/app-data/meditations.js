@@ -840,5 +840,9 @@ export const meditations = {
   '2022-6-2T00:00:00': {
     title: '199: DONDERDAG NA HEMELVAART - De heilige Geest in ons',
     link: '/199'
+  },
+  '2022-6-3T00:00:00': {
+    title: '200: VRIJDAG VOOR PINKSTEREN - Kom heilige Geest',
+    link: '/200'
   }
 }
