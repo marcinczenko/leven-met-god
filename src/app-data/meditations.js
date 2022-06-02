@@ -844,5 +844,9 @@ export const meditations = {
   '2022-6-3T00:00:00': {
     title: '200: VRIJDAG VOOR PINKSTEREN - Kom heilige Geest',
     link: '/200'
+  },
+  '2022-6-4T00:00:00': {
+    title: '201: VIGILIE VAN PINKSTEREN - Hoe beantwoorden wij de heilige Geest?',
+    link: '/201'
   }
 }
