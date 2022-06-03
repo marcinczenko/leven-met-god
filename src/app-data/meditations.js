@@ -848,5 +848,9 @@ export const meditations = {
   '2022-6-4T00:00:00': {
     title: '201: VIGILIE VAN PINKSTEREN - Hoe beantwoorden wij de heilige Geest?',
     link: '/201'
+  },
+  '2022-6-5T00:00:00': {
+    title: '202: PINKSTEREN - Stort in ons uw vuur',
+    link: '/202'
   }
 }

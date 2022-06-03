@@ -28,7 +28,7 @@ _Men heeft van het geestelijk leven niets begrepen, wanneer men de ziel van het 
 
 Van Hem is afkomstig de nooit eindigende vreugde, van Hem de volharding in God, van Hem het hoogste waarnaar mensen kunnen streven: dat gij vergoddelijkt wordt. (Basil.)
 
-Waar God de leraar is, daar komt men snel tot wijsheid en tot een wijsheid die het gehele leven onder haar invloed krijgt. Hij leert geen abstracte kennis, maar iets, wat de gehele mens raakt, verandert en vervult. Want een kind van God wordt door de _heilige Geest geleid_, zegt Paulus; dat betekent: het wordt geleid _door aansporing_ (van de wil), _door verlichting_ (van het verstand), _door steun_ (bij de uitvoering). Zo ongeveer ziet Augustinus de werk1ng van de heilige Geest in ons.
+Waar God de leraar is, daar komt men snel tot wijsheid en tot een wijsheid die het gehele leven onder haar invloed krijgt. Hij leert geen abstracte kennis, maar iets, wat de gehele mens raakt, verandert en vervult. Want een kind van God wordt door de _heilige Geest geleid_, zegt Paulus; dat betekent: het wordt geleid _door aansporing_ (van de wil), _door verlichting_ (van het verstand), _door steun_ (bij de uitvoering). Zo ongeveer ziet Augustinus de werking van de heilige Geest in ons.
 
 Omdat de Geest ons leidt, ons opvoert naar het doel, daarom leren wij voortdurend bidden: _veni Sancte Spiritus_, _kom heilige Geest_.
 
