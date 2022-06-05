@@ -852,5 +852,9 @@ export const meditations = {
   '2022-6-5T00:00:00': {
     title: '202: PINKSTEREN - Stort in ons uw vuur',
     link: '/202'
+  },
+  '2022-6-6T00:00:00': {
+    title: '203: TWEEDE PINKSTERDAG - Stort in ons uw licht',
+    link: '/203'
   }
 }
