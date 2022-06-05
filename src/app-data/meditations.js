@@ -856,5 +856,9 @@ export const meditations = {
   '2022-6-6T00:00:00': {
     title: '203: TWEEDE PINKSTERDAG - Stort in ons uw licht',
     link: '/203'
+  },
+  '2022-6-7T00:00:00': {
+    title: '204: DERDE PINKSTERDAG - Veni Sancte Spiritus...',
+    link: '/204'
   }
 }

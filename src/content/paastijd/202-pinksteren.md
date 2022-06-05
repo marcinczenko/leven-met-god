@@ -16,7 +16,7 @@ God wil blijkbaar verwacht worden. En tijdens die verwachting is bij alle Aposte
 
 De nederigheid is altijd een biezonder gewenste, zelfs onmisbare deugd als God iemand uitverkiest of door hem werken wil. _En plotseling kwam er een geruis uit de hemel als van een hevige windvlaag en vulde het gehele huis, waar zij waren vergaderd... Bij dat geruis liepen de mensen te hoop._ (Hand. 2:2-6)
 
-Vijftig dagen na de bevrijding uit Egypte openbaarde God door geweldige natuurverschijnselen zijn tegenwoordigheid op de berg Sinaï. Vijftig dagen na de verlossing (waarvan die eerste bevrijding slechts een voorafbeelding was) kondigt de heilige Geest op indrukwekkende wijze aan, dat Hij _het evangelisch mysterie komt voltooien_. (S. Hieronymus.)
+Vijftig dagen na de bevrijding uit Egypte openbaarde God door geweldige natuurverschijnselen zijn tegenwoordigheid op de berg Sinaï. Vijftig dagen na de verlossing (waarvan die eerste bevrijding slechts een voorafbeelding was) kondigt de heilige Geest op indrukwekkende wijze aan, dat Hij _het evangelisch mysterie komt voltooien_. (S. Hieronymus)
 
 _Vurige tongen verschenen hen, spreidden zich rond en zetten zich op ieder van hen neder_; dit om de wonderbare werkingen aan te duiden, die de heilige Geest nu in deze zielen en harten verrichtte.
 
