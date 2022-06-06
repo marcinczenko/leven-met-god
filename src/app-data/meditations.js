@@ -860,5 +860,9 @@ export const meditations = {
   '2022-6-7T00:00:00': {
     title: '204: DERDE PINKSTERDAG - Veni Sancte Spiritus...',
     link: '/204'
+  },
+  '2022-6-8T00:00:00': {
+    title: '205: QUATERTEMPERWOENSDAG - Waarheid',
+    link: '/205'
   }
 }

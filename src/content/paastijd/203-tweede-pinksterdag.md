@@ -14,7 +14,7 @@ Kom heilige Geest, Gij Vader der armen die in goddelijke barmhartigheid onze ont
 
 Kom Vader der armen, en verrijk ons met uw onzegbare overvloed, met datgene, wat onder de mensen geen naam meer heeft, maar wat zo onsterfelijk kostbaar is. Geef ons Uzelf, voltooi het werk dat Gij in ons begonnen zijt op de dag van ons heilig doopsel, dat Gij bevestigd hebt in het heilig vormsel; voltooi, voltooi, opdat het werk in onze zielen niet zo troosteloos onvolmaakt moge blijven. Gij Vader der armen, Gij ziet toch beter dan wij, hoezeer wij uw hemelse rijkdom behoeven om ten volle kinderen van God, om ten volle de verlosten van Jezus Christus en tempels van U, de heilige Geest, te kunnen zijn.
 
-Korn heilige Geest, Gij de schenker van de Gaven. Alles, wat er aan goeds in ons woont, is de vrucht van uw overheerlijke goedheid. Leer ons uw gaven op prijs stellen; stem ons wat meer af op het louter geestelijke; te lang en te veel hebben wij gestaard en gehunkerd naar het louter stoffelijke. Geef ons uw gaven, opdat wij, geopend voor hemelse invloed, het aardse leven heiligen.
+Kom heilige Geest, Gij de schenker van de Gaven. Alles, wat er aan goeds in ons woont, is de vrucht van uw overheerlijke goedheid. Leer ons uw gaven op prijs stellen; stem ons wat meer af op het louter geestelijke; te lang en te veel hebben wij gestaard en gehunkerd naar het louter stoffelijke. Geef ons uw gaven, opdat wij, geopend voor hemelse invloed, het aardse leven heiligen.
 
 Vervul ons van uw zeven heilige Gaven en van de vruchten, waarvan uw apostel spreekt. Geef ons, schenker van de Gaven, _liefde, blijdschap en vrede; geef ons geduld, welwillendheid en barmhartigheid; geef ons betrouwbaarheid, zachtmoedigheid en gematigdheid._
 
