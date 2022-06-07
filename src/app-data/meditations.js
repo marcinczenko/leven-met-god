@@ -862,7 +862,11 @@ export const meditations = {
     link: '/204'
   },
   '2022-6-8T00:00:00': {
-    title: '205: QUATERTEMPERWOENSDAG - Waarheid',
+    title: '205: QUATERTEMPER WOENSDAG - Waarheid',
     link: '/205'
+  },
+  '2022-6-9T00:00:00': {
+    title: '206: DONDERDAG NA PINKSTEREN - Voor mij is het leven Christus (Fil. 1:21)',
+    link: '/206'
   }
 }
