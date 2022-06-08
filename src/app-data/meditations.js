@@ -868,5 +868,9 @@ export const meditations = {
   '2022-6-9T00:00:00': {
     title: '206: DONDERDAG NA PINKSTEREN - Voor mij is het leven Christus (Fil. 1:21)',
     link: '/206'
+  },
+  '2022-6-10T00:00:00': {
+    title: '207: QUATERTEMPER VRIJDAG - Het geheim',
+    link: '/207'
   }
 }
