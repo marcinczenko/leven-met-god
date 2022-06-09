@@ -872,5 +872,9 @@ export const meditations = {
   '2022-6-10T00:00:00': {
     title: '207: QUATERTEMPER VRIJDAG - Het geheim',
     link: '/207'
+  },
+  '2022-6-11T00:00:00': {
+    title: '208: QUATERTEMPER ZATERDAG - De heilige Geest leidt ons',
+    link: '/208'
   }
 }
