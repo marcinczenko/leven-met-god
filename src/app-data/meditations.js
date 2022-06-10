@@ -879,6 +879,17 @@ export const meditations = {
   },
   '2022-6-12T00:00:00': {
     title: '209: DRIEVULDIGHEIDSZONDAG - De Heilige Drieëenheid',
-    link: '/209'
+    link: '/209',
+    extras: [
+      {
+        title: '380: GEBED TOT DE ALLERHEILIGSTE DRIEËENHEID',
+        link: '/380',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-6-13T00:00:00': {
+    title: '210: MAANDAG NA DE 1e ZONDAG - Liefde eerste levenswet',
+    link: '/210'
   }
 }
