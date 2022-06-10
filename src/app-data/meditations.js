@@ -876,5 +876,9 @@ export const meditations = {
   '2022-6-11T00:00:00': {
     title: '208: QUATERTEMPER ZATERDAG - De heilige Geest leidt ons',
     link: '/208'
+  },
+  '2022-6-12T00:00:00': {
+    title: '209: DRIEVULDIGHEIDSZONDAG - De Heilige Drieëenheid',
+    link: '/209'
   }
 }
