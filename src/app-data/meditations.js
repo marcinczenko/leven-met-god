@@ -891,5 +891,9 @@ export const meditations = {
   '2022-6-13T00:00:00': {
     title: '210: MAANDAG NA DE 1e ZONDAG - Liefde eerste levenswet',
     link: '/210'
+  },
+  '2022-6-14T00:00:00': {
+    title: '211: DINSDAG NA DE 1e ZONDAG - Liefde en vertrouwen',
+    link: '/211'
   }
 }
