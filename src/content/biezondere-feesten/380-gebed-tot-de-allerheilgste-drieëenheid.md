@@ -20,7 +20,7 @@ Ik bemin U; mijn grootste droefheid is, dat ik U nog niet veel meer liefheb... i
 
 2\. _Help mij om mij zelf totaal te vergeten..._ Mijzelf vergeten... opdat ik meer aan U moge denken... in mijn gebed. Dat mijn vertrouwen op U groter moge worden, mijn liefde warmer, vuriger, zodat ik niet meer steun op mijzelf en niet meer telkens terugkeer naar al de belangen van het eigen ik.
 
-_Help mij om mijzelf totaal te vergeten..._ in mijn werk dat ik doen wil... voor U alleen_; in mijn lijden en mijn droevige dagen die ik wil doormaken met kracht en met moed, zonder aan mij zelf te denken, blij dat ik iets voor U lijden mag.
+_Help mij om mijzelf totaal te vergeten..._ in mijn werk dat ik doen wil... voor U alleen; in mijn lijden en mijn droevige dagen die ik wil doormaken met kracht en met moed, zonder aan mij zelf te denken, blij dat ik iets voor U lijden mag.
 
 _Help mij om mijzelf totaal te vergeten..._, in mijn omgang met de mensen. Daar is zelfvergetelheid dikwijls de voorwaarde van opgewektheid, van dienstvaardigheid, van hartelijke belangstelling. _Help mij om mijzelf totaal te vergeten..._, zodat ik gaarne en veel bid voor de belangen van de Kerk, voor de zondaars, voor de ongelovigen, voor kloosterlingen en priesters, voor de zielen in het vagevuur... die ik nu allen nog zo vaak vergeet, omdat ik teveel van mijzelf, van mijn belangen, en mijn redding en geluk vervuld ben.
 
