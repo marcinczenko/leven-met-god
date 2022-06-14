@@ -899,5 +899,9 @@ export const meditations = {
   '2022-6-15T00:00:00': {
     title: '212: WOENSDAG NA DE 1e ZONDAG - Niet oordelen',
     link: '/212'
+  },
+  '2022-6-16T00:00:00': {
+    title: '213: SACRAMENTSDAG - De heilige Communie I',
+    link: '/213'
   }
 }
