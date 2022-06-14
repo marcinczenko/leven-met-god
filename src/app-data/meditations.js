@@ -895,5 +895,9 @@ export const meditations = {
   '2022-6-14T00:00:00': {
     title: '211: DINSDAG NA DE 1e ZONDAG - Liefde en vertrouwen',
     link: '/211'
+  },
+  '2022-6-15T00:00:00': {
+    title: '212: WOENSDAG NA DE 1e ZONDAG - Niet oordelen',
+    link: '/212'
   }
 }
