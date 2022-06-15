@@ -902,6 +902,13 @@ export const meditations = {
   },
   '2022-6-16T00:00:00': {
     title: '213: SACRAMENTSDAG - De heilige Communie I',
-    link: '/213'
+    link: '/209',
+    extras: [
+      {
+        title: '381: SACRAMENTSDAG - Hij houdt maaltijd met ons',
+        link: '/381',
+        type: 'Tweede meditatie:'
+      }
+    ]
   }
 }
