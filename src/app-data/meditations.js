@@ -910,5 +910,9 @@ export const meditations = {
         type: 'Tweede meditatie:'
       }
     ]
+  },
+  '2022-6-17T00:00:00': {
+    title: '214: VRIJDAG NA DE 1e ZONDAG - Gods grootheid verkondigen',
+    link: '/214'
   }
 }
