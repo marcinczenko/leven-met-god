@@ -914,5 +914,9 @@ export const meditations = {
   '2022-6-17T00:00:00': {
     title: '214: VRIJDAG NA DE 1e ZONDAG - Gods grootheid verkondigen',
     link: '/214'
+  },
+  '2022-6-18T00:00:00': {
+    title: '215: ZATERDAG NA DE 1e ZONDAG - Gods hulp',
+    link: '/215'
   }
 }
