@@ -918,5 +918,9 @@ export const meditations = {
   '2022-6-18T00:00:00': {
     title: '215: ZATERDAG NA DE 1e ZONDAG - Gods hulp',
     link: '/215'
+  },
+  '2022-6-19T00:00:00': {
+    title: '216: 2e ZONDAG NA PINKSTEREN - Vrees voor de zonde',
+    link: '/216'
   }
 }
