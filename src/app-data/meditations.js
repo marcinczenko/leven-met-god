@@ -922,5 +922,9 @@ export const meditations = {
   '2022-6-19T00:00:00': {
     title: '216: 2e ZONDAG NA PINKSTEREN - Vrees voor de zonde',
     link: '/216'
+  },
+  '2022-6-20T00:00:00': {
+    title: '217: MAANDAG NA DE 2e ZONDAG - Onverschilligheid',
+    link: '/217'
   }
 }
