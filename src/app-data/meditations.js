@@ -926,5 +926,9 @@ export const meditations = {
   '2022-6-20T00:00:00': {
     title: '217: MAANDAG NA DE 2e ZONDAG - Onverschilligheid',
     link: '/217'
+  },
+  '2022-6-21T00:00:00': {
+    title: '218: DINSDAG NA DE 2e ZONDAG - Wij denken anders dan de wereld',
+    link: '/218'
   }
 }
