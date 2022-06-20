@@ -930,5 +930,9 @@ export const meditations = {
   '2022-6-21T00:00:00': {
     title: '218: DINSDAG NA DE 2e ZONDAG - Wij denken anders dan de wereld',
     link: '/218'
+  },
+  '2022-6-22T00:00:00': {
+    title: '219: WOENSDAG NA DE 2e ZONDAG - Wat gaat er van ons uit?',
+    link: '/219'
   }
 }
