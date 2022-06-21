@@ -934,5 +934,9 @@ export const meditations = {
   '2022-6-22T00:00:00': {
     title: '219: WOENSDAG NA DE 2e ZONDAG - Wat gaat er van ons uit?',
     link: '/219'
+  },
+  '2022-6-23T00:00:00': {
+    title: '220: DONDERDAG NA DE 2e ZONDAG - Gods werk in ons',
+    link: '/220'
   }
 }
