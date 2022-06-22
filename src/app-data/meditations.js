@@ -938,5 +938,9 @@ export const meditations = {
   '2022-6-23T00:00:00': {
     title: '220: DONDERDAG NA DE 2e ZONDAG - Gods werk in ons',
     link: '/220'
+  },
+  '2022-6-24T00:00:00': {
+    title: '221: FEEST VAN HET HEILIG HART - Zijn Hart bemint ons nog',
+    link: '/221'
   }
 }
