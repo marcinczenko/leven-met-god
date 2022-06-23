@@ -942,5 +942,9 @@ export const meditations = {
   '2022-6-24T00:00:00': {
     title: '221: FEEST VAN HET HEILIG HART - Zijn Hart bemint ons nog',
     link: '/221'
+  },
+  '2022-6-25T00:00:00': {
+    title: '222: ZATERDAG NA DE 1e ZONDAG - Het heilig Hart en zijn beloften I',
+    link: '/222'
   }
 }
