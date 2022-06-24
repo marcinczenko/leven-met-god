@@ -944,7 +944,11 @@ export const meditations = {
     link: '/221'
   },
   '2022-6-25T00:00:00': {
-    title: '222: ZATERDAG NA DE 1e ZONDAG - Het heilig Hart en zijn beloften I',
+    title: '222: ZATERDAG NA DE 2e ZONDAG - Het heilig Hart en zijn beloften I',
     link: '/222'
+  },
+  '2022-6-26T00:00:00': {
+    title: '223: 3e ZONDAG NA PINKSTEREN - Het lijden in ons leven',
+    link: '/223'
   }
 }
