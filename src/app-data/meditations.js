@@ -950,5 +950,9 @@ export const meditations = {
   '2022-6-26T00:00:00': {
     title: '223: 3e ZONDAG NA PINKSTEREN - Het lijden in ons leven',
     link: '/223'
+  },
+  '2022-6-27T00:00:00': {
+    title: '224: MAANDAG NA DE 3e ZONDAG - De gave van godsvrucht',
+    link: '/224'
   }
 }
