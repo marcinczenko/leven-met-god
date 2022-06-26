@@ -954,5 +954,9 @@ export const meditations = {
   '2022-6-27T00:00:00': {
     title: '224: MAANDAG NA DE 3e ZONDAG - De gave van godsvrucht',
     link: '/224'
+  },
+  '2022-6-28T00:00:00': {
+    title: '225: DINSDAG NA DE 3e ZONDAG - De kracht van God in ons',
+    link: '/225'
   }
 }
