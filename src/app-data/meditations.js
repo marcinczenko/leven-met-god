@@ -958,5 +958,9 @@ export const meditations = {
   '2022-6-28T00:00:00': {
     title: '225: DINSDAG NA DE 3e ZONDAG - De kracht van God in ons',
     link: '/225'
+  },
+  '2022-6-29T00:00:00': {
+    title: '226: WOENSDAG NA DE 3e ZONDAG - Vertrouwen op Jezus Christus',
+    link: '/226'
   }
 }
