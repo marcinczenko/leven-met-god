@@ -974,5 +974,13 @@ export const meditations = {
   '2022-7-2T00:00:00': {
     title: '229: ZATERDAG NA DE 3e ZONDAG - Hij komt alle ellende tegemoet II',
     link: '/229'
+  },
+  '2022-7-3T00:00:00': {
+    title: '230: 4e ZONDAG NA PINKSTEREN - De Heer is mijn Licht',
+    link: '/230'
+  },
+  '2022-7-4T00:00:00': {
+    title: '230: MAANDAG NA DE 4e ZONDAG - Hij verdedigt mij',
+    link: '/230'
   }
 }
