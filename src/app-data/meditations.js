@@ -970,5 +970,9 @@ export const meditations = {
   '2022-7-1T00:00:00': {
     title: '228: VRIJDAG NA DE 3e ZONDAG - Hij komt alle ellende tegemoet I (Luk. 15,1-10)',
     link: '/228'
+  },
+  '2022-7-2T00:00:00': {
+    title: '229: ZATERDAG NA DE 3e ZONDAG - Hij komt alle ellende tegemoet II',
+    link: '/229'
   }
 }
