@@ -966,5 +966,9 @@ export const meditations = {
   '2022-6-30T00:00:00': {
     title: '227: DONDERDAG NA DE 3e ZONDAG - De aardse dingen',
     link: '/227'
+  },
+  '2022-7-1T00:00:00': {
+    title: '228: VRIJDAG NA DE 3e ZONDAG - Hij komt alle ellende tegemoet I (Luk. 15,1-10)',
+    link: '/228'
   }
 }
