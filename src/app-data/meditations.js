@@ -980,7 +980,7 @@ export const meditations = {
     link: '/230'
   },
   '2022-7-4T00:00:00': {
-    title: '230: MAANDAG NA DE 4e ZONDAG - Hij verdedigt mij',
-    link: '/230'
+    title: '231: MAANDAG NA DE 4e ZONDAG - Hij verdedigt mij',
+    link: '/231'
   }
 }
