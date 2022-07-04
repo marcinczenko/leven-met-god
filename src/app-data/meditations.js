@@ -986,5 +986,9 @@ export const meditations = {
   '2022-7-5T00:00:00': {
     title: '232: DINSDAG NA DE 4e ZONDAG - Het lijden van deze tijd',
     link: '/232'
+  },
+  '2022-7-6T00:00:00': {
+    title: '233: WOENSDAG NA DE 4e ZONDAG - Vrede',
+    link: '/233'
   }
 }
