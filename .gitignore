@@ -3,6 +3,8 @@ node_modules/
 .cache/
 public
 
+deploy-remote.sh
+
 # yarn 2
 .pnp.*
 .yarn/*
