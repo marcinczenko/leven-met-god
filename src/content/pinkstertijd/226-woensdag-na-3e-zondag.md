@@ -1,6 +1,6 @@
 ---
 path: /226
-title: '226: WOENSDAG NA DE 2e ZONDAG'
+title: '226: WOENSDAG NA DE 3e ZONDAG'
 tag: pinkstertijd
 content: ../styling.md
 sortIndex: 226
