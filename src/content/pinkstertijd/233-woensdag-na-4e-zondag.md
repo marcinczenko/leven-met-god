@@ -18,7 +18,7 @@ De loop van de wereld... volgens de ordening van God.
 
 Die ordening van God kan zich vestigen als de mensen maar _rechtvaardigheid en liefde_ betrachten.
 
-Er is, iedereen weet het, schreeuwende onrechtvaardigheid in de wereld; velen worden verdrukt, veracht, uitgebuit onder de ogen van machthebbers met medeweten van machteloos toeziende volken. Er is een voortdurend gebrek aan wederzijds begrip tussen bevolkingsgroepen, tussen landen en continenten; omdat er gebrek aan liefde is_. Er heeft zo weinig plaats, wat op een hartelijke ontmoeting lijkt; soms heeft het er de schijn van, niet veel meer. Het leidt maar zelden tot blijvende vormen van vriendschap tussen volken en groeperingen.
+Er is, iedereen weet het, schreeuwende onrechtvaardigheid in de wereld; velen worden verdrukt, veracht, uitgebuit onder de ogen van machthebbers met medeweten van machteloos toeziende volken. Er is een voortdurend gebrek aan wederzijds begrip tussen bevolkingsgroepen, tussen landen en continenten; omdat er gebrek aan liefde is. Er heeft zo weinig plaats, wat op een hartelijke ontmoeting lijkt; soms heeft het er de schijn van, niet veel meer. Het leidt maar zelden tot blijvende vormen van vriendschap tussen volken en groeperingen.
 
 Hoe kan Gods rijk dan bloeien? Het is geen overdaad als de Kerk ons hier, onder het opdragen van Christus' offer, innig om laat bidden.
 

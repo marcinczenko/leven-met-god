@@ -998,5 +998,9 @@ export const meditations = {
   '2022-7-8T00:00:00': {
     title: '235: VRIJDAG NA DE 4e ZONDAG - Succes',
     link: '/235'
+  },
+  '2022-7-9T00:00:00': {
+    title: '236: ZATERDAG NA DE 4e ZONDAG - Heer, verlicht mij',
+    link: '/236'
   }
 }
