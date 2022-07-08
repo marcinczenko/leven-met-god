@@ -1002,5 +1002,9 @@ export const meditations = {
   '2022-7-9T00:00:00': {
     title: '236: ZATERDAG NA DE 4e ZONDAG - Heer, verlicht mij',
     link: '/236'
+  },
+  '2022-7-10T00:00:00': {
+    title: '237: 5e ZONDAG NA PINKSTEREN - In onderlinge vrede en liefde',
+    link: '/237'
   }
 }
