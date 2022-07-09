@@ -1006,5 +1006,9 @@ export const meditations = {
   '2022-7-10T00:00:00': {
     title: '237: 5e ZONDAG NA PINKSTEREN - In onderlinge vrede en liefde',
     link: '/237'
+  },
+  '2022-7-11T00:00:00': {
+    title: '238: MAANDAG NA DE 5e ZONDAG - Het Hart van Christus I',
+    link: '/238'
   }
 }
