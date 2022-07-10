@@ -1010,5 +1010,9 @@ export const meditations = {
   '2022-7-11T00:00:00': {
     title: '238: MAANDAG NA DE 5e ZONDAG - Het Hart van Christus I',
     link: '/238'
+  },
+  '2022-7-12T00:00:00': {
+    title: '239: DINSDAG NA DE 5e ZONDAG - Onze kracht ligt in het vertrouwen',
+    link: '/239'
   }
 }
