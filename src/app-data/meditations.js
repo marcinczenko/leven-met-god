@@ -1014,5 +1014,9 @@ export const meditations = {
   '2022-7-12T00:00:00': {
     title: '239: DINSDAG NA DE 5e ZONDAG - Onze kracht ligt in het vertrouwen',
     link: '/239'
+  },
+  '2022-7-13T00:00:00': {
+    title: '240: WOENSDAG NA DE 5e ZONDAG - Het offer van allen',
+    link: '/240'
   }
 }
