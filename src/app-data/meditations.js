@@ -1018,5 +1018,9 @@ export const meditations = {
   '2022-7-13T00:00:00': {
     title: '240: WOENSDAG NA DE 5e ZONDAG - Het offer van allen',
     link: '/240'
+  },
+  '2022-7-14T00:00:00': {
+    title: '241: DONDERDAG NA DE 5e ZONDAG - Het verlangen naar Gods liefde',
+    link: '/241'
   }
 }
