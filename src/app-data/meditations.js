@@ -1026,5 +1026,9 @@ export const meditations = {
   '2022-7-15T00:00:00': {
     title: '242: VRIJDAG NA DE 5e ZONDAG - Het heilig Hart en zijn beloften II',
     link: '/242'
+  },
+  '2022-7-16T00:00:00': {
+    title: '243: ZATERDAG NA DE 5e ZONDAG - Het heilig Hart en zijn beloften III',
+    link: '/243'
   }
 }
