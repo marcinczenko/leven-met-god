@@ -1040,7 +1040,7 @@ export const meditations = {
     link: '/245'
   },
   '2022-7-19T00:00:00': {
-    title: '246: DINSDAG NA DE 5e ZONDAG - ',
+    title: '246: DINSDAG NA DE 5e ZONDAG - Het Hart van Christus II',
     link: '/246'
   },
   '2022-7-20T00:00:00': {
