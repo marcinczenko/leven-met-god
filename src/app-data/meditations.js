@@ -1044,11 +1044,11 @@ export const meditations = {
     link: '/246'
   },
   '2022-7-20T00:00:00': {
-    title: '247: WOENSDAG NA DE 6e ZONDAG - ',
+    title: '247: WOENSDAG NA DE 6e ZONDAG - Mijn schreden',
     link: '/247'
   },
   '2022-7-21T00:00:00': {
-    title: '248: DONDERDAG NA DE 6e ZONDAG - ',
+    title: '248: DONDERDAG NA DE 6e ZONDAG - Met Christus sterven',
     link: '/248'
   },
   '2022-7-22T00:00:00': {
