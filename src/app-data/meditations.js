@@ -1036,27 +1036,27 @@ export const meditations = {
     link: '/244'
   },
   '2022-7-18T00:00:00': {
-    title: '245: MAANDAG NA DE 5e ZONDAG - De broodvermenigvuldiging I',
+    title: '245: MAANDAG NA DE 6e ZONDAG - De broodvermenigvuldiging I',
     link: '/245'
   },
   '2022-7-19T00:00:00': {
-    title: '246: DINSDAG NA DE 5e ZONDAG - Het Hart van Christus II',
+    title: '246: DINSDAG NA DE 6e ZONDAG - Het Hart van Christus II',
     link: '/246'
   },
   '2022-7-20T00:00:00': {
-    title: '247: WOENSDAG NA DE 5e ZONDAG - ',
+    title: '247: WOENSDAG NA DE 6e ZONDAG - ',
     link: '/247'
   },
   '2022-7-21T00:00:00': {
-    title: '248: DONDERDAG NA DE 5e ZONDAG - ',
+    title: '248: DONDERDAG NA DE 6e ZONDAG - ',
     link: '/248'
   },
   '2022-7-22T00:00:00': {
-    title: '249: VRIJDAG NA DE 5e ZONDAG - ',
+    title: '249: VRIJDAG NA DE 6e ZONDAG - ',
     link: '/249'
   },
   '2022-7-23T00:00:00': {
-    title: '250: ZATERDAG NA DE 5e ZONDAG - ',
+    title: '250: ZATERDAG NA DE 6e ZONDAG - ',
     link: '/250'
   },
   '2022-7-24T00:00:00': {
