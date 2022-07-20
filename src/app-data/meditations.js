@@ -1052,7 +1052,7 @@ export const meditations = {
     link: '/248'
   },
   '2022-7-22T00:00:00': {
-    title: '249: VRIJDAG NA DE 6e ZONDAG - ',
+    title: '249: VRIJDAG NA DE 6e ZONDAG - Vermeerdering van godsdienstigheid',
     link: '/249'
   },
   '2022-7-23T00:00:00': {
