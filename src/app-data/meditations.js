@@ -1056,7 +1056,7 @@ export const meditations = {
     link: '/249'
   },
   '2022-7-23T00:00:00': {
-    title: '250: ZATERDAG NA DE 6e ZONDAG - ',
+    title: '250: ZATERDAG NA DE 6e ZONDAG - De broodvermenigvuldiging II',
     link: '/250'
   },
   '2022-7-24T00:00:00': {
