@@ -1060,7 +1060,7 @@ export const meditations = {
     link: '/250'
   },
   '2022-7-24T00:00:00': {
-    title: '251: 7e ZONDAG NA PINKSTEREN - ',
+    title: '251: 7e ZONDAG NA PINKSTEREN - Redding door Jezus Christus',
     link: '/251'
   }
 }
