@@ -1064,31 +1064,31 @@ export const meditations = {
     link: '/251'
   },
   '2022-7-25T00:00:00': {
-    title: '252: MAANDAG NA DE 6e ZONDAG - De heilige Mis I',
+    title: '252: MAANDAG NA DE 7e ZONDAG - De heilige Mis I',
     link: '/252'
   },
   '2022-7-26T00:00:00': {
-    title: '253: DINSDAG NA DE 6e ZONDAG - ',
+    title: '253: DINSDAG NA DE 7e ZONDAG - Voor de zondaars',
     link: '/253'
   },
   '2022-7-27T00:00:00': {
-    title: '254: WOENSDAG NA DE 6e ZONDAG - ',
+    title: '254: WOENSDAG NA DE 7e ZONDAG - ',
     link: '/254'
   },
   '2022-7-28T00:00:00': {
-    title: '255: DONDERDAG NA DE 6e ZONDAG - ',
+    title: '255: DONDERDAG NA DE 7e ZONDAG - ',
     link: '/255'
   },
   '2022-7-29T00:00:00': {
-    title: '256: VRIJDAG NA DE 6e ZONDAG - ',
+    title: '256: VRIJDAG NA DE 7e ZONDAG - ',
     link: '/256'
   },
   '2022-7-30T00:00:00': {
-    title: '257: ZATERDAG NA DE 6e ZONDAG - ',
+    title: '257: ZATERDAG NA DE 7e ZONDAG - ',
     link: '/257'
   },
   '2022-7-31T00:00:00': {
-    title: '258: 7e ZONDAG NA PINKSTEREN - ',
+    title: '258: 8e ZONDAG NA PINKSTEREN - ',
     link: '/258'
   }
 }
