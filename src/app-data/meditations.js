@@ -1072,7 +1072,7 @@ export const meditations = {
     link: '/253'
   },
   '2022-7-27T00:00:00': {
-    title: '254: WOENSDAG NA DE 7e ZONDAG - ',
+    title: '254: WOENSDAG NA DE 7e ZONDAG - Beantwoord ik zijn liefde?',
     link: '/254'
   },
   '2022-7-28T00:00:00': {
