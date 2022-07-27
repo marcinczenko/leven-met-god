@@ -1080,7 +1080,7 @@ export const meditations = {
     link: '/255'
   },
   '2022-7-29T00:00:00': {
-    title: '256: VRIJDAG NA DE 7e ZONDAG - ',
+    title: '256: VRIJDAG NA DE 7e ZONDAG - De liefde van Christus voor zijn Vader',
     link: '/256'
   },
   '2022-7-30T00:00:00': {
