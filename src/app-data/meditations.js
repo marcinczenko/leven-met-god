@@ -1076,7 +1076,7 @@ export const meditations = {
     link: '/254'
   },
   '2022-7-28T00:00:00': {
-    title: '255: DONDERDAG NA DE 7e ZONDAG - ',
+    title: '255: DONDERDAG NA DE 7e ZONDAG - Wij moeten vertrouwen',
     link: '/255'
   },
   '2022-7-29T00:00:00': {
