@@ -1084,7 +1084,7 @@ export const meditations = {
     link: '/256'
   },
   '2022-7-30T00:00:00': {
-    title: '257: ZATERDAG NA DE 7e ZONDAG - ',
+    title: '257: ZATERDAG NA DE 7e ZONDAG - De heilige Mis II',
     link: '/257'
   },
   '2022-7-31T00:00:00': {
