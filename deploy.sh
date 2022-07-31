@@ -1,4 +1,4 @@
-DEPLOYHOST="idbox-1-new.local"
+DEPLOYHOST="idbox-3.local"
 if [ -n "$1" ]; then
   DEPLOYHOST=$1
 else
@@ -9,6 +9,6 @@ echo "Deploying to $DEPLOYHOST"
 
 yarn build
 tar czvf public-lmg.tar.gz public/
-scp public-lmg.tar.gz pi@$DEPLOYHOST:~/identity-box/deployments/
-ssh pi@$DEPLOYHOST /home/pi/identity-box/deploy-lmg.sh
+scp public-lmg.tar.gz idbox@$DEPLOYHOST:~/personal-hosting/deployments/
+ssh idbox@$DEPLOYHOST /home/idbox/personal-hosting/deploy-lmg.sh
 rm public-lmg.tar.gz

@@ -1088,7 +1088,35 @@ export const meditations = {
     link: '/257'
   },
   '2022-7-31T00:00:00': {
-    title: '258: 8e ZONDAG NA PINKSTEREN - ',
+    title: '258: 8e ZONDAG NA PINKSTEREN - De rentmeester',
     link: '/258'
+  },
+  '2022-8-1T00:00:00': {
+    title: '259: MAANDAG NA DE 8e ZONDAG - Vlees en geest',
+    link: '/259'
+  },
+  '2022-8-2T00:00:00': {
+    title: '260: DINSDAG NA DE 8e ZONDAG - ',
+    link: '/260'
+  },
+  '2022-8-3T00:00:00': {
+    title: '261: WOENSDAG NA DE 8e ZONDAG - ',
+    link: '/261'
+  },
+  '2022-8-4T00:00:00': {
+    title: '262: DONDERDAG NA DE 8e ZONDAG - ',
+    link: '/262'
+  },
+  '2022-8-5T00:00:00': {
+    title: '263: VRIJDAG NA DE 8e ZONDAG - ',
+    link: '/263'
+  },
+  '2022-8-6T00:00:00': {
+    title: '264: ZATERDAG NA DE 8e ZONDAG - ',
+    link: '/264'
+  },
+  '2022-8-7T00:00:00': {
+    title: '265: 9e ZONDAG NA PINKSTEREN - ',
+    link: '/265'
   }
 }
