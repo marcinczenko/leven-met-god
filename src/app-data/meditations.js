@@ -1100,7 +1100,7 @@ export const meditations = {
     link: '/260'
   },
   '2022-8-3T00:00:00': {
-    title: '261: WOENSDAG NA DE 8e ZONDAG - ',
+    title: '261: WOENSDAG NA DE 8e ZONDAG - Liefde tot Christus',
     link: '/261'
   },
   '2022-8-4T00:00:00': {
