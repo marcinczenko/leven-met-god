@@ -1096,7 +1096,7 @@ export const meditations = {
     link: '/259'
   },
   '2022-8-2T00:00:00': {
-    title: '260: DINSDAG NA DE 8e ZONDAG - ',
+    title: '260: DINSDAG NA DE 8e ZONDAG - Ons offer',
     link: '/260'
   },
   '2022-8-3T00:00:00': {
