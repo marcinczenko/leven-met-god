@@ -1104,7 +1104,7 @@ export const meditations = {
     link: '/261'
   },
   '2022-8-4T00:00:00': {
-    title: '262: DONDERDAG NA DE 8e ZONDAG - ',
+    title: '262: DONDERDAG NA DE 8e ZONDAG - God in ons I',
     link: '/262'
   },
   '2022-8-5T00:00:00': {

@@ -13,8 +13,14 @@
 - title: 'Paastijd'
   tag: 'paastijd'
 
-- title: 'Pinkstertijd'
-  tag: 'pinkstertijd'
+- title: 'Pinkstertijd-I'
+  tag: 'pinkstertijd-1'
+
+- title: 'Pinkstertijd-II'
+  tag: 'pinkstertijd-2'
+
+- title: 'Pinkstertijd-III'
+  tag: 'pinkstertijd-3'
 
 - title: 'Biezondere Feesten en Themata'
   tag: 'biezondere-feesten'
