@@ -24,7 +24,7 @@ Want de liefde kent men aan de daad. Ofschoon het gevoel daarbij helpen kan, is 
 
 _Christus niet liefhebben is geen ziekte maar de dood._ (Sint Augustinus) Iedere mens weet, dat de liefde offer en oefening vraagt. Maar... zij is het waard.
 
-_Bemin Hem en houd Hem te vriend, die, als alles u begeeft, u niet zal verlaten en niet zal dulden, dat gij, als uw einde nadert, zoudt verloren gaan." (Navolging v. Chr. 2:7,1)
+_Bemin Hem en houd Hem te vriend, die, als alles u begeeft, u niet zal verlaten en niet zal dulden, dat gij, als uw einde nadert, zoudt verloren gaan._ (Navolging v. Chr. 2:7,1)
 
 _De liefde weegt op tegen een lang leven; Jezus rekent niet met de tijd; Hij is de Koning van de eeuwigheid. Hij let alleen op de liefde._ (Teresia v. Lisieux)
 
