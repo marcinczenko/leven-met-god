@@ -1112,11 +1112,11 @@ export const meditations = {
     link: '/263'
   },
   '2022-8-6T00:00:00': {
-    title: '264: ZATERDAG NA DE 8e ZONDAG - ',
+    title: '264: ZATERDAG NA DE 8e ZONDAG - Nederigheid I',
     link: '/264'
   },
   '2022-8-7T00:00:00': {
-    title: '265: 9e ZONDAG NA PINKSTEREN - ',
+    title: '265: 9e ZONDAG NA PINKSTEREN - Jezus weent over Jeruzalem',
     link: '/265'
   }
 }
