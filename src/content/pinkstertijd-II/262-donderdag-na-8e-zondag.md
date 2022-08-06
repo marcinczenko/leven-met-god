@@ -1,7 +1,7 @@
 ---
 path: /262
 title: '262: DONDERDAG NA DE 8e ZONDAG'
-tag: pinkstertijd-1
+tag: pinkstertijd-2
 content: ../styling.md
 sortIndex: 262
 ---

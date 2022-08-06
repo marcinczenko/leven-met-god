@@ -1,7 +1,7 @@
 ---
 path: /261
 title: '261: WOENSDAG NA DE 8e ZONDAG'
-tag: pinkstertijd-1
+tag: pinkstertijd-2
 content: ../styling.md
 sortIndex: 261
 ---
