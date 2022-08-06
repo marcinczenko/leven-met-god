@@ -1118,5 +1118,33 @@ export const meditations = {
   '2022-8-7T00:00:00': {
     title: '265: 9e ZONDAG NA PINKSTEREN - Jezus weent over Jeruzalem',
     link: '/265'
+  },
+  '2022-8-8T00:00:00': {
+    title: '266: MAANDAG NA DE 9e ZONDAG - Heer, luister naar ons',
+    link: '/266'
+  },
+  '2022-8-9T00:00:00': {
+    title: '267: DINSDAG NA DE 9e ZONDAG - ',
+    link: '/267'
+  },
+  '2022-8-10T00:00:00': {
+    title: '268: WOENSDAG NA DE 9e ZONDAG - ',
+    link: '/268'
+  },
+  '2022-8-11T00:00:00': {
+    title: '269: DONDERDAG NA DE 9e ZONDAG - ',
+    link: '/269'
+  },
+  '2022-8-12T00:00:00': {
+    title: '270: VRIJDAG NA DE 9e ZONDAG - ',
+    link: '/270'
+  },
+  '2022-8-13T00:00:00': {
+    title: '271: ZATERDAG NA DE 9e ZONDAG - ',
+    link: '/271'
+  },
+  '2022-8-14T00:00:00': {
+    title: '272: 10e ZONDAG NA PINKSTEREN - ',
+    link: '/272'
   }
 }
