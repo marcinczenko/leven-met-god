@@ -1124,7 +1124,7 @@ export const meditations = {
     link: '/266'
   },
   '2022-8-9T00:00:00': {
-    title: '267: DINSDAG NA DE 9e ZONDAG - ',
+    title: '267: DINSDAG NA DE 9e ZONDAG - Het kwaad',
     link: '/267'
   },
   '2022-8-10T00:00:00': {
