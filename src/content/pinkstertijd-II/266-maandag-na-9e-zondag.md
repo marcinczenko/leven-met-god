@@ -22,7 +22,7 @@ _Vragen wat _U_ behaagt..._ Meer dan eens betreft het gebed niet meer dan wat _o
 
 _Als gij in Mij blijft en mijn woorden in u blijven, vraagt dan al wat gij wilt en gij zult het verkrijgen._ (Joh. 15:7)
 
-_Vragen wat u behaagt..._
+_Vragen wat U behaagt..._
 
 Hem behaagt de vestiging van het Godsrijk hier op aarde. Bid ik daarvoor met aandrang? Is die komst van het rijk niet mede van mijn gebed afhankelijk gesteld? Het rijk Gods _in mij_; dat is: dat Hij met zijn liefde meer in mij woont; en dat ik meer vertrouwen heb op Hem. Het rijk Gods in mij is het voortdurend pogen om met Hem overal in liefde verbonden te zijn. Dat dit moge slagen, daarvoor mag ik dus bidden en bidden met grote vurigheid.
 

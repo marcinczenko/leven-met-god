@@ -1128,11 +1128,11 @@ export const meditations = {
     link: '/267'
   },
   '2022-8-10T00:00:00': {
-    title: '268: WOENSDAG NA DE 9e ZONDAG - ',
+    title: '268: WOENSDAG NA DE 9e ZONDAG - Weten wij het wel?',
     link: '/268'
   },
   '2022-8-11T00:00:00': {
-    title: '269: DONDERDAG NA DE 9e ZONDAG - ',
+    title: '269: DONDERDAG NA DE 9e ZONDAG - Mijn huis is een huis van gebed',
     link: '/269'
   },
   '2022-8-12T00:00:00': {
