@@ -1136,7 +1136,7 @@ export const meditations = {
     link: '/269'
   },
   '2022-8-12T00:00:00': {
-    title: '270: VRIJDAG NA DE 9e ZONDAG - ',
+    title: '270: VRIJDAG NA DE 9e ZONDAG - De geest van Christus III',
     link: '/270'
   },
   '2022-8-13T00:00:00': {
