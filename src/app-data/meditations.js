@@ -1140,7 +1140,7 @@ export const meditations = {
     link: '/270'
   },
   '2022-8-13T00:00:00': {
-    title: '271: ZATERDAG NA DE 9e ZONDAG - ',
+    title: '271: ZATERDAG NA DE 9e ZONDAG - Jezus leert ons',
     link: '/271'
   },
   '2022-8-14T00:00:00': {

@@ -10,7 +10,7 @@ sortIndex: 268
 
 Verleden zondag sprak de Kerk ons over Christus die, als een koning binnengevoerd in Jeruzalem, bij die schijnbare triomf diep bedroefd was. Want Hij wist dat deze hulde slechts van korte duur zou zijn; dat de eigenlijke situatie veel meer benaderd werd door het woord van de profeet: _dit volk eert Mij met de lippen, maar hun hart is verre van Mij_.
 
-1\. Hij weende over de stad toen Hij haar zag en sprak: mocht gij tenminste vandaag nog inzien wat u tot vrede strekt, maar gij ziet het niet. Er zullen dagen van gruwelijke verwoesting over u komen... omdat gij de tijd van de genade niet hebt erkend...
+1\. Hij weende over de stad toen Hij haar zag en sprak: _mocht gij tenminste vandaag nog inzien wat u tot vrede strekt, maar gij ziet het niet. Er zullen dagen van gruwelijke verwoesting over u komen... omdat gij de tijd van de genade niet hebt erkend..._
 
 Wat waar was voor de stad Jeruzalem en weldra in verschrikkelijke werkelijkheid zijn voltooiing vond, toen de stad verwoest werd, is ook waar (nog altijd) voor steden en volken en personen van onze tijd.
 
