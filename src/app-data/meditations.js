@@ -1144,7 +1144,7 @@ export const meditations = {
     link: '/271'
   },
   '2022-8-14T00:00:00': {
-    title: '272: 10e ZONDAG NA PINKSTEREN - ',
+    title: '272: 10e ZONDAG NA PINKSTEREN - Nederigheid II',
     link: '/272'
   }
 }
