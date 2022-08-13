@@ -1164,7 +1164,7 @@ export const meditations = {
     ]
   },
   '2022-8-16T00:00:00': {
-    title: '274: DINSDAG NA DE 10e ZONDAG - ',
+    title: '274: DINSDAG NA DE 10e ZONDAG - De farizeeër',
     link: '/274'
   },
   '2022-8-17T00:00:00': {
