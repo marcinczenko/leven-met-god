@@ -1146,5 +1146,45 @@ export const meditations = {
   '2022-8-14T00:00:00': {
     title: '272: 10e ZONDAG NA PINKSTEREN - Nederigheid II',
     link: '/272'
+  },
+  '2022-8-15T00:00:00': {
+    title: '382: 15 AUGUSTUS - Ten hemelopneming van Maria I',
+    link: '/382',
+    extras: [
+      {
+        title: '383: 15 AUGUSTUS - Ten hemelopneming van Maria II',
+        link: '/383',
+        type: 'Tweede meditatie:'
+      },
+      {
+        title: '273: MAANDAG NA DE 10e ZONDAG - Christelijke bejegening II',
+        link: '/273',
+        type: 'Derde meditatie:'
+      }
+    ]
+  },
+  '2022-8-16T00:00:00': {
+    title: '274: DINSDAG NA DE 10e ZONDAG - ',
+    link: '/274'
+  },
+  '2022-8-17T00:00:00': {
+    title: '275: WOENSDAG NA DE 10e ZONDAG - ',
+    link: '/275'
+  },
+  '2022-8-18T00:00:00': {
+    title: '276: DONDERDAG NA DE 10e ZONDAG - ',
+    link: '/276'
+  },
+  '2022-8-19T00:00:00': {
+    title: '277: VRIJDAG NA DE 10e ZONDAG - ',
+    link: '/277'
+  },
+  '2022-8-20T00:00:00': {
+    title: '278: ZATERDAG NA DE 10e ZONDAG - ',
+    link: '/278'
+  },
+  '2022-8-21T00:00:00': {
+    title: '279: 11e ZONDAG NA PINKSTEREN - ',
+    link: '/279'
   }
 }
