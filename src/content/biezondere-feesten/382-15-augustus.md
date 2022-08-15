@@ -16,7 +16,7 @@ Het gehele kerkelijk gebed is op deze dag vol van de glorie en de heerlijkheid v
 
 De dag waarop Pius XII het dogma afkondigde dat Maria met ziel en lichaam ten hemel is opgenomen, is in de geschiedenis van de Marialogie een onvergetelijke dag geworden. Op die dag werd gezegd dat deze waarheid ons door God reeds was geopenbaard en daarom tot dogma verklaard werd, met deze woorden:
 
-_Na telkens en telkens opnieuw onze smeekbede tot God te hebben verheven en de Geest van de waarheid te hebben aangeroepen; tot glorie van de almachtige God, die met biezondere welwillendheid zijn gaven aan de maagd Maria heeft uitgedeeld; ter ere van zijn Zoon, de onsterfelijke Koning der eeuwen en de overwinnaar van zonde en dood; tot grotere roem van Christus' eerbiedwaardige Moeder en tot blijdschap en jubel van heel de kerk; op gezag van onze Heer Jezus Christus, van de zalige apostelen Petrus en Paulus en dat van onszelf, _spreken wij uit, verklaren en bepalen wij dat het een door God geopenbaarde waarheid is: dat de onbevlekte Moeder van God, de altijd maagd gebleven Maria, na het voltooien van haar aardse levensbaan, met lichaam en zie] tot de hemelglorie is opgenomen_.
+_Na telkens en telkens opnieuw onze smeekbede tot God te hebben verheven en de Geest van de waarheid te hebben aangeroepen; tot glorie van de almachtige God, die met biezondere welwillendheid zijn gaven aan de maagd Maria heeft uitgedeeld; ter ere van zijn Zoon, de onsterfelijke Koning der eeuwen en de overwinnaar van zonde en dood; tot grotere roem van Christus' eerbiedwaardige Moeder en tot blijdschap en jubel van heel de kerk; op gezag van onze Heer Jezus Christus, van de zalige apostelen Petrus en Paulus en dat van onszelf, __spreken wij uit, verklaren en bepalen wij dat het een door God geopenbaarde waarheid is: dat de onbevlekte Moeder van God, de altijd maagd gebleven Maria, na het voltooien van haar aardse levensbaan, met lichaam en ziel tot de hemelglorie is opgenomen__._
 
 Reeds de vroegere kerkvaders hebben met liefde en eerbied deze waarheid aan het volk voorgehouden.
 
@@ -26,9 +26,7 @@ Zo laat de heilige Johannes van Damascus Maria zeggen bij haar heengaan naar Chr
 
 Toch blijft het van belang dat wij Maria's plaats in de heilseconomie erkennen; dat wij bedenken hoe zij in de hemel voor ons bidt maar ook onze gedachten voortdurend naar boven trekt.
 
-Is dit niet nodig? _Aan ons hele moderne denken en werken ontbreekt iets, dat nauwelijks onder woorden kan worden gebracht; zelfs onze moderne vrouwen hebben het niet, zij zijn te aards geworden; ons ontbreekt de geheel naar boven gewende ziel, ons ontbreekt nu juist de vrouw, die door de engel begroet werd, die de Verlosser van de wereld heeft gedragen, zijn lijden heeft meegeleden, zijn verrijzenis beleefde en die daarom nu de voorspreekster van de aarde in de hemel is geworden.
-
-Ons economisch denkend, aardsgericht verstand behoeft weer... de hoogste, vroomste ontvankelijkheid voor de Vader, de Zoon en de heilige Geest, om niet aan de aardse geest te gronde te gaan._ (v. Schmidt Pauli)
+Is dit niet nodig? _Aan ons hele moderne denken en werken ontbreekt iets, dat nauwelijks onder woorden kan worden gebracht; zelfs onze moderne vrouwen hebben het niet, zij zijn te aards geworden; ons ontbreekt de geheel naar boven gewende ziel, ons ontbreekt nu juist de vrouw, die door de engel begroet werd, die de Verlosser van de wereld heeft gedragen, zijn lijden heeft meegeleden, zijn verrijzenis beleefde en die daarom nu de voorspreekster van de aarde in de hemel is geworden. Ons economisch denkend, aardsgericht verstand behoeft weer... de hoogste, vroomste ontvankelijkheid voor de Vader, de Zoon en de heilige Geest, om niet aan de aardse geest te gronde te gaan._ (v. Schmidt Pauli)
 
 Dit grote feest van Maria: de luisterrijke bekroning van haar leven op aarde, heeft voor ons een diepe betekenis.
 
