@@ -1168,11 +1168,11 @@ export const meditations = {
     link: '/274'
   },
   '2022-8-17T00:00:00': {
-    title: '275: WOENSDAG NA DE 10e ZONDAG - ',
+    title: '275: WOENSDAG NA DE 10e ZONDAG - Gerechtvaardigd naar huis',
     link: '/275'
   },
   '2022-8-18T00:00:00': {
-    title: '276: DONDERDAG NA DE 10e ZONDAG - ',
+    title: '276: DONDERDAG NA DE 10e ZONDAG - Geloof en gebed',
     link: '/276'
   },
   '2022-8-19T00:00:00': {
