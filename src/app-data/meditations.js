@@ -1176,7 +1176,7 @@ export const meditations = {
     link: '/276'
   },
   '2022-8-19T00:00:00': {
-    title: '277: VRIJDAG NA DE 10e ZONDAG - ',
+    title: '277: VRIJDAG NA DE 10e ZONDAG - Waar gaat het om?',
     link: '/277'
   },
   '2022-8-20T00:00:00': {
