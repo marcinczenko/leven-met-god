@@ -1180,7 +1180,7 @@ export const meditations = {
     link: '/277'
   },
   '2022-8-20T00:00:00': {
-    title: '278: ZATERDAG NA DE 10e ZONDAG - ',
+    title: '278: ZATERDAG NA DE 10e ZONDAG - Dankbaarheid',
     link: '/278'
   },
   '2022-8-21T00:00:00': {
