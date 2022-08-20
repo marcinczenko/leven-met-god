@@ -1184,7 +1184,35 @@ export const meditations = {
     link: '/278'
   },
   '2022-8-21T00:00:00': {
-    title: '279: 11e ZONDAG NA PINKSTEREN - ',
+    title: '279: 11e ZONDAG NA PINKSTEREN - De macht van Christus',
     link: '/279'
+  },
+  '2022-8-22T00:00:00': {
+    title: '280: MAANDAG NA DE 11e ZONDAG - Hij is ons voorbeeld',
+    link: '/280'
+  },
+  '2022-8-23T00:00:00': {
+    title: '281: DINSDAG NA DE 11e ZONDAG - De farizeeër',
+    link: '/281'
+  },
+  '2022-8-24T00:00:00': {
+    title: '282: WOENSDAG NA DE 11e ZONDAG - Gerechtvaardigd naar huis',
+    link: '/282'
+  },
+  '2022-8-25T00:00:00': {
+    title: '283: DONDERDAG NA DE 11e ZONDAG - Geloof en gebed',
+    link: '/283'
+  },
+  '2022-8-26T00:00:00': {
+    title: '284: VRIJDAG NA DE 11e ZONDAG - Waar gaat het om?',
+    link: '/284'
+  },
+  '2022-8-27T00:00:00': {
+    title: '285: ZATERDAG NA DE 11e ZONDAG - Dankbaarheid',
+    link: '/285'
+  },
+  '2022-8-28T00:00:00': {
+    title: '286: 12e ZONDAG NA PINKSTEREN - ',
+    link: '/286'
   }
 }
