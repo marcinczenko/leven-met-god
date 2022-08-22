@@ -1196,7 +1196,7 @@ export const meditations = {
     link: '/281'
   },
   '2022-8-24T00:00:00': {
-    title: '282: WOENSDAG NA DE 11e ZONDAG - ',
+    title: '282: WOENSDAG NA DE 11e ZONDAG - God dienen in liefde',
     link: '/282'
   },
   '2022-8-25T00:00:00': {
