@@ -1200,7 +1200,7 @@ export const meditations = {
     link: '/282'
   },
   '2022-8-25T00:00:00': {
-    title: '283: DONDERDAG NA DE 11e ZONDAG - ',
+    title: '283: DONDERDAG NA DE 11e ZONDAG - De macht van de Meester',
     link: '/283'
   },
   '2022-8-26T00:00:00': {
