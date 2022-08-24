@@ -1204,7 +1204,7 @@ export const meditations = {
     link: '/283'
   },
   '2022-8-26T00:00:00': {
-    title: '284: VRIJDAG NA DE 11e ZONDAG - ',
+    title: '284: VRIJDAG NA DE 11e ZONDAG - Zijn naam zeggen',
     link: '/284'
   },
   '2022-8-27T00:00:00': {
