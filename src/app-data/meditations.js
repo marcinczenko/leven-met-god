@@ -1208,7 +1208,7 @@ export const meditations = {
     link: '/284'
   },
   '2022-8-27T00:00:00': {
-    title: '285: ZATERDAG NA DE 11e ZONDAG - ',
+    title: '285: ZATERDAG NA DE 11e ZONDAG - Hij zal het u geven',
     link: '/285'
   },
   '2022-8-28T00:00:00': {
