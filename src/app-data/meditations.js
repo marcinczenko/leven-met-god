@@ -1212,7 +1212,35 @@ export const meditations = {
     link: '/285'
   },
   '2022-8-28T00:00:00': {
-    title: '286: 12e ZONDAG NA PINKSTEREN - ',
+    title: '286: 12e ZONDAG NA PINKSTEREN - De barmhartige Samaritaan',
     link: '/286'
+  },
+  '2022-8-29T00:00:00': {
+    title: '287: MAANDAG NA DE 12e ZONDAG - ',
+    link: '/287'
+  },
+  '2022-8-30T00:00:00': {
+    title: '288: DINSDAG NA DE 12e ZONDAG - ',
+    link: '/288'
+  },
+  '2022-8-31T00:00:00': {
+    title: '289: WOENSDAG NA DE 12e ZONDAG - ',
+    link: '/289'
+  },
+  '2022-9-1T00:00:00': {
+    title: '290: DONDERDAG NA DE 12e ZONDAG - ',
+    link: '/290'
+  },
+  '2022-9-2T00:00:00': {
+    title: '291: VRIJDAG NA DE 12e ZONDAG - ',
+    link: '/291'
+  },
+  '2022-9-3T00:00:00': {
+    title: '292: ZATERDAG NA DE 12e ZONDAG - ',
+    link: '/292'
+  },
+  '2022-9-4T00:00:00': {
+    title: '293: 13e ZONDAG NA PINKSTEREN - ',
+    link: '/293'
   }
 }
