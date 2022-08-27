@@ -18,7 +18,7 @@ De naam herinnert ons aan Degene die alles in ons leven betekent. Het is vanzelf
 
 _De naam Jezus moet aan het begin en aan het einde staan. Alwat gij doet moet gij in zijn naam beginnen en in zijn naam beëindigen._ (Ant. v. Padua)
 
-De naam Jezus is de korte samenvatting van Gods weldaden in het verleden, van zijn barmhartigheid jegens het heden en van zijn beloften voor de toekomst. Al het goede werd ons in Jezus' naam gegeven, daalt in zijn naam op ons neer en zal ons steeds meer in die naam gegeven worden. Daarom is het aanroepen van die naam een afweermiddel tegen de duivel. _Al onze macht en heerschappij over _de boze geesten ligt in de aanroeping van de naam van Christus._ (Tert.)
+De naam Jezus is de korte samenvatting van Gods weldaden in het verleden, van zijn barmhartigheid jegens het heden en van zijn beloften voor de toekomst. Al het goede werd ons in Jezus' naam gegeven, daalt in zijn naam op ons neer en zal ons steeds meer in die naam gegeven worden. Daarom is het aanroepen van die naam een afweermiddel tegen de duivel. _Al onze macht en heerschappij over de boze geesten ligt in de aanroeping van de naam van Christus._ (Tert.)
 
 Er ligt zegen in die naam, hij is een weldaad voor de ziel. Maar terecht merkt men dan op, dat het uitspreken van die naam met eerbied en liefde, reeds de werking van de heilige Geest in een ziel verraadt.
 
@@ -38,4 +38,4 @@ Ieder christen streeft er naar een andere Christus te zijn; ieder priester verla
 
 Voor een zieke wordt de berusting al gemakkelijker als hij "Jezus" zegt. Jezus, bij uitstek toevlucht voor ieder die _in zijn naam_ lijdt en zich dus tot Hem richt. Van Hem stroomt alle genade van standvastigheid, van groei, van heiligheid naar ons toe.
 
-_O heilige Geest, leer mij met liefde en zeer dikwijls de heilige naam van Jezus zeggen. Werk in mij door die naam, verenig mij met Hem door die naam; dan zal ik door Jezus' naam ook worden opgevoerd tot de allernauwste vereniging met de Vader, de Zoon en de heilige Geest van beiden, amen._
+_O heilige Geest, leer mij met liefde en zeer dikwijls de heilige naam van Jezus zeggen. Werk in mij door die naam, verenig mij met Hem door die naam; dan zal ik door Jezus' naam ook worden opgevoerd tot de allernauwste vereniging met de Vader, de Zoon en de heilige Geest van beiden, Amen._

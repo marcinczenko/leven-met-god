@@ -22,7 +22,6 @@ _Jahweh is verre van de zondaars, maar Hij hoort het gebed van de rechtvaardige.
 
 Zelf goed zijn voor anderen, dus geheel zijn leven steeds meer in overeenstemming brengen met Christus' wens, verzekert ons de verhoring van onze eigen vurige verlangens. _Wanneer gij de hongerige uw brood reikt, arme zwervers in uw huis opneemt..., dan eerst zal Jahweh u verhoren, als gij Hem aanroept; en als gij om hulp smeekt u zeggen: hier ben Ik._ (Is. 58:9)
 
-verondersteld.
 Nog leert ons de heilige schrift: _wie zich doof houdt voor de smeekbede van een arme, zal ook zelf roepen en geen antwoord krijgen_. (Spr. 21:13} Het is dus een gehele sfeer van christelijke geest, van gericht staan op God, van vertrouwen en volharding, van naastenliefde, die bij het gebed wordt verondersteld.
 
 2\. Dit alles wil niet zeggen dat God onze gebeden niet verhoren zal, wanneer wij nog niet aan al de bovengenoemde voorwaarden voldoen. Maar er dient dan toch een streven te zijn naar innige vriendschap met Hem, naar volgzaamheid aan zijn Geest. Het smeekgebed brengt ons altijd weer verder op de weg naar God als wij het gebed met innigheid en herhaaldelijk verrichten. Zodra een ziel echt bidt, neemt in haar de H. Geest de leiding.
@@ -37,4 +36,4 @@ Ook het volhouden is onontbeerlijk. God wil ons door het gebed naar zich toetrek
 
 Zou misschien aan mijn gebed ook niet de vereiste vurigheid of... de volharding ontbreken?
 
-_O God die ons leidt en voedt door uw genade, geeft ons het verlangen naar een steeds dieper contact met U. Leer ons bidden met vurigheid en volharding, opdat wij U dagelijks meer mogen ontmoeten. Dan zullen wij U de verhoring van onze gebeden gemakkelijk maken omdat wij de voorwaarden vervullen die Gij ons bij het bidden hebt gesteld en waaruit onze waarachtige liefde voor U blijken zal. Amen."
+_O God die ons leidt en voedt door uw genade, geeft ons het verlangen naar een steeds dieper contact met U. Leer ons bidden met vurigheid en volharding, opdat wij U dagelijks meer mogen ontmoeten. Dan zullen wij U de verhoring van onze gebeden gemakkelijk maken omdat wij de voorwaarden vervullen die Gij ons bij het bidden hebt gesteld en waaruit onze waarachtige liefde voor U blijken zal. Amen._

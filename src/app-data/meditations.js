@@ -1216,7 +1216,7 @@ export const meditations = {
     link: '/286'
   },
   '2022-8-29T00:00:00': {
-    title: '287: MAANDAG NA DE 12e ZONDAG - ',
+    title: '287: MAANDAG NA DE 12e ZONDAG - De heilige Communie II',
     link: '/287'
   },
   '2022-8-30T00:00:00': {
