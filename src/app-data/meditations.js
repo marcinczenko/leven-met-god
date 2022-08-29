@@ -1220,11 +1220,11 @@ export const meditations = {
     link: '/287'
   },
   '2022-8-30T00:00:00': {
-    title: '288: DINSDAG NA DE 12e ZONDAG - ',
+    title: '288: DINSDAG NA DE 12e ZONDAG - De tien maagden',
     link: '/288'
   },
   '2022-8-31T00:00:00': {
-    title: '289: WOENSDAG NA DE 12e ZONDAG - ',
+    title: '289: WOENSDAG NA DE 12e ZONDAG - Eerst verzoening, dan offer',
     link: '/289'
   },
   '2022-9-1T00:00:00': {
