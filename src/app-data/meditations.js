@@ -1228,7 +1228,7 @@ export const meditations = {
     link: '/289'
   },
   '2022-9-1T00:00:00': {
-    title: '290: DONDERDAG NA DE 12e ZONDAG - ',
+    title: '290: DONDERDAG NA DE 12e ZONDAG - Het grote geheim van God',
     link: '/290'
   },
   '2022-9-2T00:00:00': {
