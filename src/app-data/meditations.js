@@ -1232,7 +1232,7 @@ export const meditations = {
     link: '/290'
   },
   '2022-9-2T00:00:00': {
-    title: '291: VRIJDAG NA DE 12e ZONDAG - ',
+    title: '291: VRIJDAG NA DE 12e ZONDAG - Naastenliefde, tot hoever?',
     link: '/291'
   },
   '2022-9-3T00:00:00': {

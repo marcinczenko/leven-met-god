@@ -18,7 +18,7 @@ Waar Hij prijs op stelt is het eenvoudige, hartelijke gebed in stilte; wat Hij o
 
 _Gij hebt gehoord, dat tot de ouden gezegd is: gij zult niet doden; en wie doodslag begaat, zal schuldig zijn voor het gerecht. Maar Ik zeg u: wie vertoornd is op zijn broeder, zal schuldig zijn voor het gerecht._
 
-Het is niet alleen Gods wet dat wij geen _uitwendige_, zware vergrijpen begaan tegen de liefde, maar Hij laat ook geen inwendige zonden toe tegen de evenmens. Wij kunnen het kwaad dat wij voor onze ogen zien, niet goedkeuren, maar wij mogen de mensen niet beledigen; wij mogen ook geen gevoelens van haat of afkeer, van wrok, van nijd of jaloersheid in ons dragen.
+Het is niet alleen Gods wet dat wij geen _uitwendige_, zware vergrijpen begaan tegen de liefde, maar Hij laat ook geen _inwendige_ zonden toe tegen de evenmens. Wij kunnen het kwaad dat wij voor onze ogen zien, niet goedkeuren, maar wij mogen de mensen niet beledigen; wij mogen ook geen gevoelens van haat of afkeer, van wrok, van nijd of jaloersheid in ons dragen.
 
 2\. Het is duidelijk, dat wij de fouten tegen de liefde niet zullen voorkomen, als wij niet trachten _de deugd van liefde_ te beoefenen.
 
@@ -26,7 +26,7 @@ Iedere dag opnieuw, bij iedere ontmoeting met mensen, wordt er een beroep gedaan
 
 Wie in grove woorden zijn toorn uit, is schuldig voor God, en schuldiger naarmate hij zich meer laat gaan. Zo leert ons Christus en wij weten zelf hoezeer wij de genegenheid en waardering van anderen op prijs stellen en die zelfs niet kunnen missen. Moeten wij dan ook anderen de steun niet geven van onze goedheid, aanmoediging en liefde? _Als gij dus uw offergave brengt naar het altaar, en u daar herinnert dat uw broeder iets tegen u heeft, laat dan uw offer voor het altaar, en ga u eerst met Uw broeder verzoenen; kom dan terug en draag uw offer op._ (Matt. 5:23,24)
 
-De Meester zegt niet: _als gij voor het altaar u herinnert dat gij nog iets tegen uw broeder hebt..._, maar: ,,als gij u herinnert __dat hij iets tegen u heeft_..._ Er mag niets zijn tussen onze medemensen en ons wanneer wij ons offer aan God opdragen.
+De Meester zegt niet: _als gij voor het altaar u herinnert dat __gij__ nog iets tegen uw broeder hebt..._, maar: _als gij u herinnert dat __hij__ iets tegen u heeft..._ Er mag niets zijn tussen onze medemensen en ons wanneer wij ons offer aan God opdragen.
 
 Hij vraagt van ons - voor zover het van ons afhangt - dat wij in volkomen vrede en ongestoorde liefde met elkander leven, zoals dat van Gods kinderen verwacht mag worden. Moet ik mij misschien hier niet in allerlei kleine tekorten verbeteren? Ben ik niet vaak scherp, zelfs bitter, prikkelbaar? Waarom kan ik kleine eigenaardigheden van anderen niet verdragen? Is het geen kritieken bedilzucht?
 
