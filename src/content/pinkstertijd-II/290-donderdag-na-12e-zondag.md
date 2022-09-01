@@ -20,7 +20,7 @@ Maar het opvallende is daarbij dit: alsof de ziel door haar trouwe en biezondere
 
 De H. Franciscus Xaverius bracht hele nachten door met de herhaling van het gebed _o sanctissima Trinitas, o allerheiligste Drieëenheid_. De H. Beda Venerabilis en zoveele anderen vonden een hoge voldoening in het uitspreken van de doxologie: _Eer aan de Vader, de Zoon en de H. Geest._ St. Jan van het Kruis schrijft dat dit heilig geheim hem op zulk een wijze werd geopenbaard, dat _het hem onmogelijk zou zijn geweest te leven, als God zijn zwakheid niet door een krachtige hulp had ondersteund_. Hij las gaarne de mis van de heilige Drieëenheid die, zoals hij zich uitdrukt, _de grootste heilige van de hemel_ is.
 
-Ook in de openbaringen yan Jozefa Menendez komt een opvallend visioen van de heilige Drieëenheid voor, wat des te merkwaardiger is, omdat geheel haar leven haast uitsluitend op Christus was gericht.
+Ook in de openbaringen van Jozefa Menendez komt een opvallend visioen van de heilige Drieëenheid voor, wat des te merkwaardiger is, omdat geheel haar leven haast uitsluitend op Christus was gericht.
 
 Anderzijds vergete men niet dat bij deze biezondere begenadigingen de godsvrucht tot Jezus Christus nooit verdwijnt, ook niet de devotie tot de H. Maagd Maria.
 
