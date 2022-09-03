@@ -1236,11 +1236,11 @@ export const meditations = {
     link: '/291'
   },
   '2022-9-3T00:00:00': {
-    title: '292: ZATERDAG NA DE 12e ZONDAG - ',
+    title: '292: ZATERDAG NA DE 12e ZONDAG - Lichamelijke boete',
     link: '/292'
   },
   '2022-9-4T00:00:00': {
-    title: '293: 13e ZONDAG NA PINKSTEREN - ',
+    title: '293: 13e ZONDAG NA PINKSTEREN - Jezus, Meester, ontferm U over ons',
     link: '/293'
   }
 }

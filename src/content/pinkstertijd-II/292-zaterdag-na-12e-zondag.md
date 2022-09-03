@@ -1,0 +1,25 @@
+---
+path: /292
+title: '292: ZATERDAG NA DE 12e ZONDAG'
+tag: pinkstertijd-2
+content: ../styling.md
+sortIndex: 292
+---
+
+## Lichamelijke boete
+
+Men kan verwonderd staan dat bij alle goede wil, er nog zoveel evident slechte neiging in ons is blijven voortleven.
+
+_Ik weet dat er niets goeds in mij woont, ik bedoel in mijn vlees. Zeker het willen is in mij wel aanwezig, maar niet het doen van het goede; want ik doe niet het goede dat ik wil, maar ik doe wel het kwade, dat ik niet wil_ (Rom. 7:18,19), zo schrijft zelfs Sint Paulus.
+
+Door de erfzonde immers is de innerlijke harmonie in ons verbroken, er is opstand van het lagere tegen het hogere. Toch geeft God ons de genade om te overwinnen, zelfs om heilig te leven. Hij vraagt echter onze belangstelling, onze persoonlijke inspanning, onder andere door een mate van vrijwillige versterving. _Zij die Christus toebehoren hebben hun vlees met zijn driften en begeerten gekruisigd._ (Gal. 5:24)
+
+1\. De lichamelijke boete of versterving is geen zinloze kwelling, maar een zeer zinvolle zelfbeheersing. Het is de beteugeling, het terugdringen van de lagere drift ten bate van het hogere. Het geestelijk leven kan zich niet ontplooien als het lagere niet wordt getemd, zelfs besnoeid en ingehouden. Er is altijd weer gevaar voor zonde. Wie het geoorloofde nooit voor zichzelf weet te weigeren zal moeilijk meester blijven als de natuur iets ongeoorloofds vraagt. Zelftucht is in de gewone orde een allernoodzakelijkst element. Zou men wanneer men naar het _hoogste_ streeft, zijn neigingen de vrije hand durven laten? _Als gij leeft volgens het vlees, zult gij sterven,_ zegt de apostel, _maar als gij door de Geest, de werken van het lichaam doodt, dan zult gij leven._ (Rom. 8:13)
+
+Niemand denkt er aan de versterving te willen zien als doel in zich. (Wij zijn geschapen voor het geluk, ook lichamelijk lijden zonder meer is geen christelijke ideaal.) Zelfs is het lijden als zodanig, ook het lichamelijk lijden, volstrekt niet het voornaamste element van het christelijk leven, of van de geestelijke groei. En toch heeft die lichamelijke boete, die stoffelijke onthouding, de voelbare en tastbare versterving, iets en zelfs zeer veel te betekenen. Zij heeft fundamentele betekenis, zij is een onmisbaar hulpmiddel, want zij geeft de ruimte, de mogelijkheid tot expansie aan het leven van de geest. Niemand kan deze wet ontlopen. Wie haar verwaarloost, verzaakt aan zijn eeuwige zaligheid en sluit dus ook de deuren dicht voor ware heiligheid. Paulus die zoveel geleden had voor Jezus Christus, durft toch nog te schrijven: _Maar het is mijn eigen lichaam, dat ik beuk en er onder houd, om na heraut te zijn geweest voor anderen, zelf niet te worden afgewezen._ (1 Kor 9:27)
+
+2\. Zware boete, geseling, vasten, nachtwake, zijn (zeker buiten de contemplatieve kloosters) voor een goed deel uit de tijd. Maar daarmede is de zaak niet afgedaan. Er is voor wie niet te laf is of te huiverig, een overvloed aan kans voor zinvolle lichamelijke boete. Iedereen weet het, die geïnspireerd door verlangen naar volmaaktheid, eerst probeert om _baas te zijn in eigen huis_. _Wil het gebed waarachtig zijn,_ schrijft Teresia van Avila, _dan moet het door deze praktijken (van versterving) worden geholpen; weekheid en leven van gebed horen nu eenmaal niet bijeen._ (Kasteel IV) Het is een naïeve illusie te menen dat men tot een intieme omgang met God geraken kan zonder een ernstige beoefening van de lichamelijke versterving. Zeker wordt de mate daarvan aanzienlijk verminderd voor hen die zwak van gezondheid zijn, die al zeer zware lasten te dragen hebben in hun dagelijkse levenstaak. Zó is het met vele (niet alle) huismoeders, zo met degenen die uitputtende geestes-arbeid of een zware fysieke taak te verrichten hebben. Maar de ervaring leert dat men dáárin dan toch het offer, de versterving dient te nemen, zodat dit werk (en dus het gehele leven) mede door de _boete_ wordt geheiligd... Men ontloopt soms de versterving uit vrees zijn gezondheid te zullen ondermijnen. Is deze vrees niet vaak zeer overdreven? In feite zijn er vele vormen van lichamelijke versterving die zonder het minste nadeel voor de gezondheid, de _geest van edelmoedigheid_ levend houden, de frisheid en de opgewektheid van de ziel bewaren. Het is bekend dat een zekere strengheid onze lichamelijke gezondheid ten goede komt. Wie meent toegeeflijk te moeten zijn voor vrijwel alle eisen van het lichaam, zal weldra ondervinden hoever zijn tirannie wel gaat en hoezeer men zich zelf tot slaaf maakt van stoffelijke voldoening en allerlei gerieflijkheid.
+
+Wij zeggen toch dat Jezus _ons voorbeeld_ de weg van het kruis gekozen heeft en... dat wij Hem willen navolgen? Dan ligt het ook voor de hand dat wij enigermate mèt Hern en ter ere van Hem willen lijden, die voor ons zo nameloos veel geleden heeft.
+
+_Jezus, omwille van uw heilig lijden, geef mij de moed tegenover mijn zwakheid en lafheid en geef mij een groot vertrouwen op uw genade die in mij volkomen moge zegevieren. Amen._
