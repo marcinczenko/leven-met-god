@@ -1242,5 +1242,33 @@ export const meditations = {
   '2022-9-4T00:00:00': {
     title: '293: 13e ZONDAG NA PINKSTEREN - Jezus, Meester, ontferm U over ons',
     link: '/293'
+  },
+  '2022-9-5T00:00:00': {
+    title: '294: MAANDAG NA DE 12e ZONDAG - Niet de gezonden, maar de zieken',
+    link: '/294'
+  },
+  '2022-9-6T00:00:00': {
+    title: '295: DINSDAG NA DE 13e ZONDAG - Ga, vertoon u aan de priesters',
+    link: '/295'
+  },
+  '2022-9-7T00:00:00': {
+    title: '296: WOENSDAG NA DE 13e ZONDAG - De geest van geloof',
+    link: '/296'
+  },
+  '2022-9-8T00:00:00': {
+    title: '297: DONDERDAG NA DE 13e ZONDAG - ',
+    link: '/297'
+  },
+  '2022-9-9T00:00:00': {
+    title: '298: VRIJDAG NA DE 13e ZONDAG - ',
+    link: '/298'
+  },
+  '2022-9-10T00:00:00': {
+    title: '299: ZATERDAG NA DE 13e ZONDAG - ',
+    link: '/299'
+  },
+  '2022-9-11T00:00:00': {
+    title: '300: 14e ZONDAG NA PINKSTEREN - ',
+    link: '/300'
   }
 }
