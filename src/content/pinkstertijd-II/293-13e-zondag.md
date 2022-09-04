@@ -8,7 +8,7 @@ sortIndex: 293
 
 ## Jezus, Meester, ontferm U over ons
 
-Wij zijn soms geneigd te menen dat _het vrij goed met ons gaat_ - vooral als wij onszelf vergelijken met onze omgeving, waar zoveel zwakkere zusters en broeders rondwandelen. Dan weer denken we dat er aan ons toch maar weinig eer voor Gqd valt te behalen; we zullen wel eeuwig blijven _zoals we zijn en met min of meer gelatenheid berusten we daar maar in. _We behoren bij een minder soort_, met weinig smaak voor het geestelijk leven, zo menen we.
+Wij zijn soms geneigd te menen dat _het vrij goed met ons gaat_ - vooral als wij onszelf vergelijken met onze omgeving, waar zoveel zwakkere zusters en broeders rondwandelen. Dan weer denken we dat er aan ons toch maar weinig eer voor Gqd valt te behalen; we zullen wel eeuwig blijven zoals we zijn en met min of meer gelatenheid berusten we daar maar in. _We behoren bij een minder soort_, met weinig smaak voor het geestelijk leven, zo menen we.
 
 In beide gevallen zetten wij de deur wagenwijd open voor rasechte middelmatigheid, oppervlakkigheid en lauwheid.
 
