@@ -1244,7 +1244,7 @@ export const meditations = {
     link: '/293'
   },
   '2022-9-5T00:00:00': {
-    title: '294: MAANDAG NA DE 12e ZONDAG - Niet de gezonden, maar de zieken',
+    title: '294: MAANDAG NA DE 13e ZONDAG - Niet de gezonden, maar de zieken',
     link: '/294'
   },
   '2022-9-6T00:00:00': {
