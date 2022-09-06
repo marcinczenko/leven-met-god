@@ -45,4 +45,4 @@ Nu roept Hij mij tot goddelijke intimiteit, tot steeds inniger vertrouwelijkheid
 
 Door bij dit alles stil te staan zal ik zien dat ik Hem grote dankbaarheid verschuldigd ben. Hij was zo wonderbaar goed voor mij. Ik mag aan degenen die Hij mij heeft toevertrouwd zoveel van zijn gunsten geven: mijn voorbeeld, mijn gebed, mijn opvoedingswerk (in liefde en geduld) van iedere dag...
 
-_Ik dank U, Jezus, voor uw goedheid; ik wil niet ondankbaar zijn. Ik zie te goed met de genezen Samaritaan _mijn geloof heeft mij gered_.
+_Ik dank U, Jezus, voor uw goedheid; ik wil niet ondankbaar zijn. Ik zie te goed met de genezen Samaritaan "mijn geloof heeft mij gered"._
