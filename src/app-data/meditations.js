@@ -1256,7 +1256,7 @@ export const meditations = {
     link: '/296'
   },
   '2022-9-8T00:00:00': {
-    title: '297: DONDERDAG NA DE 13e ZONDAG - ',
+    title: '297: DONDERDAG NA DE 13e ZONDAG - Hoopvol vertrouwen',
     link: '/297'
   },
   '2022-9-9T00:00:00': {
