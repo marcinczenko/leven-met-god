@@ -1260,7 +1260,7 @@ export const meditations = {
     link: '/297'
   },
   '2022-9-9T00:00:00': {
-    title: '298: VRIJDAG NA DE 13e ZONDAG - ',
+    title: '298: VRIJDAG NA DE 13e ZONDAG - Hebt moed, Ik heb de wereld overwonnen',
     link: '/298'
   },
   '2022-9-10T00:00:00': {
