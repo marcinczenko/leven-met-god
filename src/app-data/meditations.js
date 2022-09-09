@@ -1268,7 +1268,7 @@ export const meditations = {
     link: '/299'
   },
   '2022-9-11T00:00:00': {
-    title: '300: 14e ZONDAG NA PINKSTEREN - ',
+    title: '300: 14e ZONDAG NA PINKSTEREN - Godsvertrouwen I',
     link: '/300'
   }
 }
