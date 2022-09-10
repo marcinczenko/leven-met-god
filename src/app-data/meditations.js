@@ -1270,5 +1270,33 @@ export const meditations = {
   '2022-9-11T00:00:00': {
     title: '300: 14e ZONDAG NA PINKSTEREN - Godsvertrouwen I',
     link: '/300'
+  },
+  '2022-9-12T00:00:00': {
+    title: '301: MAANDAG NA DE 14e ZONDAG - Vrij en dienstbaar tevens',
+    link: '/301'
+  },
+  '2022-9-13T00:00:00': {
+    title: '302: DINSDAG NA DE 14e ZONDAG - ',
+    link: '/302'
+  },
+  '2022-9-14T00:00:00': {
+    title: '303: WOENSDAG NA DE 14e ZONDAG - ',
+    link: '/303'
+  },
+  '2022-9-15T00:00:00': {
+    title: '304: DONDERDAG NA DE 14e ZONDAG - ',
+    link: '/304'
+  },
+  '2022-9-16T00:00:00': {
+    title: '305: VRIJDAG NA DE 14e ZONDAG - ',
+    link: '/305'
+  },
+  '2022-9-17T00:00:00': {
+    title: '306: ZATERDAG NA DE 14e ZONDAG - ',
+    link: '/306'
+  },
+  '2022-9-18T00:00:00': {
+    title: '307: 15e ZONDAG NA PINKSTEREN - ',
+    link: '/307'
   }
 }
