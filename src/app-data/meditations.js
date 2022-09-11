@@ -1276,7 +1276,7 @@ export const meditations = {
     link: '/301'
   },
   '2022-9-13T00:00:00': {
-    title: '302: DINSDAG NA DE 14e ZONDAG - ',
+    title: '302: DINSDAG NA DE 14e ZONDAG - Godsvertrouwen II',
     link: '/302'
   },
   '2022-9-14T00:00:00': {
