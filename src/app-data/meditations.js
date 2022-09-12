@@ -1280,7 +1280,7 @@ export const meditations = {
     link: '/302'
   },
   '2022-9-14T00:00:00': {
-    title: '303: WOENSDAG NA DE 14e ZONDAG - ',
+    title: '303: WOENSDAG NA DE 14e ZONDAG - In strijd met de christelijke geest',
     link: '/303'
   },
   '2022-9-15T00:00:00': {
