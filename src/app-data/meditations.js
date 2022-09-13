@@ -1284,7 +1284,7 @@ export const meditations = {
     link: '/303'
   },
   '2022-9-15T00:00:00': {
-    title: '304: DONDERDAG NA DE 14e ZONDAG - ',
+    title: '304: DONDERDAG NA DE 14e ZONDAG - Bij U zijn',
     link: '/304'
   },
   '2022-9-16T00:00:00': {
