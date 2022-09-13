@@ -20,7 +20,7 @@ Sint Paulus schrijft aan zijn Korinthiërs dat hij hun verlangen naar allerlei h
 
 Jezus wil ons boven dit aardse verheffen. Hij weet zeer goed dat wij mensen met ziel en lichaam, ook het stoffelijke niet kunnen missen. _Uw Vader weet dat gij dit alles nodig hebt._
 
-Maar wij drukken ons zelf neer, wij maken het leven klein, benauwend en somber, als wij niet boven het stoffelijke weten uit te stijgen. Ons past de vrijheid van de geest, die in de waarheid wordt gevonden. De waarheid is dat God ons liefheeft en ons bestemt voor een eeuwig geluk. Dit moet ons herhaaldelijk voor de geest staan; het is een voorrecht voor ons dat wij aan God en aan de hemel _mogen_ denken. Wij weten immers dat wij als mensen die door Jezus Christus zijn gered, ook door de zorg voor het stoffelijke en tijdelijke hier op aarde, de hemel voorbereiden.
+Maar wij drukken onszelf neer, wij maken het leven klein, benauwend en somber, als wij niet boven het stoffelijke weten uit te stijgen. Ons past de vrijheid van de geest, die in de waarheid wordt gevonden. De waarheid is dat God ons liefheeft en ons bestemt voor een eeuwig geluk. Dit moet ons herhaaldelijk voor de geest staan; het is een voorrecht voor ons dat wij aan God en aan de hemel _mogen_ denken. Wij weten immers dat wij als mensen die door Jezus Christus zijn gered, ook door de zorg voor het stoffelijke en tijdelijke hier op aarde, de hemel voorbereiden.
 
 Wij leven naar de hemel toe; wij trekken door ons genadeleven, door onze deelname in het leven van God, de hemel aan; wij zijn bezig met Gods hulp dat hemelse leven reeds nu iedere dag in ons te ontwikkelen.
 
