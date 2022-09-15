@@ -1292,7 +1292,7 @@ export const meditations = {
     link: '/305'
   },
   '2022-9-17T00:00:00': {
-    title: '306: ZATERDAG NA DE 14e ZONDAG - ',
+    title: '306: ZATERDAG NA DE 14e ZONDAG - Christelijk leven',
     link: '/306'
   },
   '2022-9-18T00:00:00': {
