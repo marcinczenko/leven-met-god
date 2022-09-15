@@ -1288,7 +1288,7 @@ export const meditations = {
     link: '/304'
   },
   '2022-9-16T00:00:00': {
-    title: '305: VRIJDAG NA DE 14e ZONDAG - ',
+    title: '305: VRIJDAG NA DE 14e ZONDAG - Waarom zelfverloochening en versterving?',
     link: '/305'
   },
   '2022-9-17T00:00:00': {
