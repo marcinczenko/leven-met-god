@@ -1298,5 +1298,33 @@ export const meditations = {
   '2022-9-18T00:00:00': {
     title: '307: 15e ZONDAG NA PINKSTEREN - ',
     link: '/307'
+  },
+  '2022-9-19T00:00:00': {
+    title: '308: MAANDAG NA DE 15e ZONDAG - ',
+    link: '/308'
+  },
+  '2022-9-20T00:00:00': {
+    title: '309: DINSDAG NA DE 15e ZONDAG - ',
+    link: '/309'
+  },
+  '2022-9-21T00:00:00': {
+    title: '310: WOENSDAG NA DE 15e ZONDAG - ',
+    link: '/310'
+  },
+  '2022-9-22T00:00:00': {
+    title: '311: DONDERDAG NA DE 15e ZONDAG - ',
+    link: '/311'
+  },
+  '2022-9-23T00:00:00': {
+    title: '312: VRIJDAG NA DE 15e ZONDAG - ',
+    link: '/312'
+  },
+  '2022-9-24T00:00:00': {
+    title: '313: ZATERDAG NA DE 14e ZONDAG - ',
+    link: '/313'
+  },
+  '2022-9-25T00:00:00': {
+    title: '314: 16e ZONDAG NA PINKSTEREN - De',
+    link: '/314'
   }
 }
