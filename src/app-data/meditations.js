@@ -1296,11 +1296,11 @@ export const meditations = {
     link: '/306'
   },
   '2022-9-18T00:00:00': {
-    title: '307: 15e ZONDAG NA PINKSTEREN - ',
+    title: '307: 15e ZONDAG NA PINKSTEREN - De jongeman van Naïm',
     link: '/307'
   },
   '2022-9-19T00:00:00': {
-    title: '308: MAANDAG NA DE 15e ZONDAG - ',
+    title: '308: MAANDAG NA DE 15e ZONDAG - Apostolaat en opvoeding',
     link: '/308'
   },
   '2022-9-20T00:00:00': {
