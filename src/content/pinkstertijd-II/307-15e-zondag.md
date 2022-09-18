@@ -18,7 +18,7 @@ En overal wordt het rondverteld, met geestdrift, met veel woorden. De roep is ni
 
 Maar meer dan de doden naar het lichaam wekt Hij weer de zielen op. Hij geeft en hergeeft het eeuwige leven.
 
-Wij geloven het. Het is zo hoog tijd dat wij ons onderwerpen en toevertrouwen aan de macht van die Meester. _Heer, red mijn leven, wek mij tot hoger en heiliger leven. Herschep en hernieuw mij, bij U is alles mogelijk. Ik wacht op uw stap, op uw gebaar, op uw genade. Heer, ik geef mij over...
+Wij geloven het. Het is zo hoog tijd dat wij ons onderwerpen en toevertrouwen aan de macht van die Meester. _Heer, red mijn leven, wek mij tot hoger en heiliger leven. Herschep en hernieuw mij, bij U is alles mogelijk. Ik wacht op uw stap, op uw gebaar, op uw genade. Heer, ik geef mij over..._
 
 2\. Maar nog iets anders valt ons op in dit wonderlijk verhaal.
 

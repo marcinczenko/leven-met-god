@@ -1304,7 +1304,7 @@ export const meditations = {
     link: '/308'
   },
   '2022-9-20T00:00:00': {
-    title: '309: DINSDAG NA DE 15e ZONDAG - ',
+    title: '309: DINSDAG NA DE 15e ZONDAG - Gods ogen',
     link: '/309'
   },
   '2022-9-21T00:00:00': {
