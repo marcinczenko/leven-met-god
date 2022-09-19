@@ -1308,7 +1308,7 @@ export const meditations = {
     link: '/309'
   },
   '2022-9-21T00:00:00': {
-    title: '310: WOENSDAG NA DE 15e ZONDAG - ',
+    title: '310: WOENSDAG NA DE 15e ZONDAG - Nicodemus I',
     link: '/310'
   },
   '2022-9-22T00:00:00': {
