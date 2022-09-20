@@ -1312,7 +1312,7 @@ export const meditations = {
     link: '/310'
   },
   '2022-9-22T00:00:00': {
-    title: '311: DONDERDAG NA DE 15e ZONDAG - ',
+    title: '311: DONDERDAG NA DE 15e ZONDAG - Nicodemus II',
     link: '/311'
   },
   '2022-9-23T00:00:00': {
