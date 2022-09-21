@@ -1316,7 +1316,7 @@ export const meditations = {
     link: '/311'
   },
   '2022-9-23T00:00:00': {
-    title: '312: VRIJDAG NA DE 15e ZONDAG - ',
+    title: '312: VRIJDAG NA DE 15e ZONDAG - De barmhartigheid van Jezus Christus',
     link: '/312'
   },
   '2022-9-24T00:00:00': {
