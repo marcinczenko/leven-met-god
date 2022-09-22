@@ -42,4 +42,4 @@ De Zoon heeft zichzelf gegeven... alles wat Hij had en wat Hij was. Zijn hoofd, 
 
 God heeft zijn Zoon, de Zoon heeft zichzelf gegeven... opdat allen die in Hem zouden geloven het eeuwig leven, een eeuwig leven van geluk, zouden hebben. Zo is God in zijn oneindige goedheid...
 
-Dat is het aanbod. Wat is ons antwoord? Het mag niets anders zijn dan dit: _mijn God ik heb U lief, ik geloof in uw liefde, in uw eeuwige liefde voor mij Amen_.
+Dat is het aanbod. Wat is ons antwoord? Het mag niets anders zijn dan dit: _mijn God ik heb U lief, ik geloof in uw liefde, in uw eeuwige liefde voor mij. Amen._
