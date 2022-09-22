@@ -1320,7 +1320,7 @@ export const meditations = {
     link: '/312'
   },
   '2022-9-24T00:00:00': {
-    title: '313: ZATERDAG NA DE 14e ZONDAG - ',
+    title: "313: ZATERDAG NA DE 14e ZONDAG - Liefde naar Christus' gebod",
     link: '/313'
   },
   '2022-9-25T00:00:00': {
