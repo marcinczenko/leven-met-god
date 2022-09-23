@@ -1324,7 +1324,7 @@ export const meditations = {
     link: '/313'
   },
   '2022-9-25T00:00:00': {
-    title: '314: 16e ZONDAG NA PINKSTEREN - De',
+    title: '314: 16e ZONDAG NA PINKSTEREN - Nederigheid III',
     link: '/314'
   }
 }
