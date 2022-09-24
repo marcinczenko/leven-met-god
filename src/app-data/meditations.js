@@ -1320,11 +1320,39 @@ export const meditations = {
     link: '/312'
   },
   '2022-9-24T00:00:00': {
-    title: "313: ZATERDAG NA DE 14e ZONDAG - Liefde naar Christus' gebod",
+    title: "313: ZATERDAG NA DE 15e ZONDAG - Liefde naar Christus' gebod",
     link: '/313'
   },
   '2022-9-25T00:00:00': {
     title: '314: 16e ZONDAG NA PINKSTEREN - Nederigheid III',
     link: '/314'
+  },
+  '2022-9-26T00:00:00': {
+    title: '315: MAANDAG NA DE 16e ZONDAG - Geen ontmoediging',
+    link: '/315'
+  },
+  '2022-9-27T00:00:00': {
+    title: '316: DINSDAG NA DE 16e ZONDAG - ',
+    link: '/316'
+  },
+  '2022-9-28T00:00:00': {
+    title: '317: WOENSDAG NA DE 16e ZONDAG - ',
+    link: '/317'
+  },
+  '2022-9-29T00:00:00': {
+    title: '318: DONDERDAG NA DE 16e ZONDAG - ',
+    link: '/318'
+  },
+  '2022-9-30T00:00:00': {
+    title: '319: VRIJDAG NA DE 16e ZONDAG - ',
+    link: '/319'
+  },
+  '2022-10-1T00:00:00': {
+    title: '320: ZATERDAG NA DE 16e ZONDAG - ',
+    link: '/320'
+  },
+  '2022-10-2T00:00:00': {
+    title: '321: 17e ZONDAG NA PINKSTEREN - ',
+    link: '/321'
   }
 }
