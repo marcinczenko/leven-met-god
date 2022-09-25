@@ -1332,7 +1332,7 @@ export const meditations = {
     link: '/315'
   },
   '2022-9-27T00:00:00': {
-    title: '316: DINSDAG NA DE 16e ZONDAG - ',
+    title: '316: DINSDAG NA DE 16e ZONDAG - De volheid van het christelijk leven',
     link: '/316'
   },
   '2022-9-28T00:00:00': {
