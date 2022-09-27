@@ -1340,7 +1340,7 @@ export const meditations = {
     link: '/317'
   },
   '2022-9-29T00:00:00': {
-    title: '318: DONDERDAG NA DE 16e ZONDAG - ',
+    title: '318: DONDERDAG NA DE 16e ZONDAG - Vervuld van God',
     link: '/318'
   },
   '2022-9-30T00:00:00': {
