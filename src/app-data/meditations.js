@@ -1336,7 +1336,7 @@ export const meditations = {
     link: '/316'
   },
   '2022-9-28T00:00:00': {
-    title: '317: WOENSDAG NA DE 16e ZONDAG - ',
+    title: '317: WOENSDAG NA DE 16e ZONDAG - Hopen op God',
     link: '/317'
   },
   '2022-9-29T00:00:00': {
