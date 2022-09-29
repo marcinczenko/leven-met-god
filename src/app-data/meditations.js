@@ -1348,7 +1348,7 @@ export const meditations = {
     link: '/319'
   },
   '2022-10-1T00:00:00': {
-    title: '320: ZATERDAG NA DE 16e ZONDAG - ',
+    title: '320: ZATERDAG NA DE 16e ZONDAG - Kind van God II',
     link: '/320'
   },
   '2022-10-2T00:00:00': {
