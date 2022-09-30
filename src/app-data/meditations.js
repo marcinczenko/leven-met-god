@@ -1352,7 +1352,7 @@ export const meditations = {
     link: '/320'
   },
   '2022-10-2T00:00:00': {
-    title: '321: 17e ZONDAG NA PINKSTEREN - ',
+    title: '321: 17e ZONDAG NA PINKSTEREN - Onze roeping',
     link: '/321'
   }
 }
