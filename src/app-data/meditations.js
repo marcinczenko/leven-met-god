@@ -1354,5 +1354,33 @@ export const meditations = {
   '2022-10-2T00:00:00': {
     title: '321: 17e ZONDAG NA PINKSTEREN - Onze roeping',
     link: '/321'
+  },
+  '2022-10-3T00:00:00': {
+    title: '322: MAANDAG NA DE 16e ZONDAG - De handen van Gods voorzienigheid',
+    link: '/322'
+  },
+  '2022-10-4T00:00:00': {
+    title: '323: DINSDAG NA DE 17e ZONDAG - ',
+    link: '/323'
+  },
+  '2022-10-5T00:00:00': {
+    title: '324: WOENSDAG NA DE 17e ZONDAG - ',
+    link: '/324'
+  },
+  '2022-10-6T00:00:00': {
+    title: '325: DONDERDAG NA DE 17e ZONDAG - ',
+    link: '/325'
+  },
+  '2022-10-7T00:00:00': {
+    title: '326: VRIJDAG NA DE 17e ZONDAG - ',
+    link: '/326'
+  },
+  '2022-10-8T00:00:00': {
+    title: '327: ZATERDAG NA DE 17e ZONDAG - ',
+    link: '/327'
+  },
+  '2022-10-9T00:00:00': {
+    title: '328: 18e ZONDAG NA PINKSTEREN - ',
+    link: '/328'
   }
 }
