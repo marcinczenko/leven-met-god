@@ -1356,11 +1356,11 @@ export const meditations = {
     link: '/321'
   },
   '2022-10-3T00:00:00': {
-    title: '322: MAANDAG NA DE 16e ZONDAG - De handen van Gods voorzienigheid',
+    title: '322: MAANDAG NA DE 17e ZONDAG - De handen van Gods voorzienigheid',
     link: '/322'
   },
   '2022-10-4T00:00:00': {
-    title: '323: DINSDAG NA DE 17e ZONDAG - ',
+    title: '323: DINSDAG NA DE 17e ZONDAG - Vruchten van de geest I',
     link: '/323'
   },
   '2022-10-5T00:00:00': {

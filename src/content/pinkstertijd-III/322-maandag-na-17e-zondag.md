@@ -1,0 +1,21 @@
+---
+path: /322
+title: '322: MAANDAG NA DE 17e ZONDAG'
+tag: pinkstertijd-2
+content: ../styling.md
+sortIndex: 322
+---
+
+## De handen van Gods voorzienigheid
+
+Het primitieve denken, dat alles rondom ons gaarne bezield acht, is niet zover van de waarheid verwijderd als men wel denken zou. Want overal is God: Hij heeft alles geschapen, Hij houdt het in stand, Hij richt en stuurt, Hij is er altijd. En zo zijn de mensen, de dingen en vooral de gebeurtenissen in ons leven. Ze zijn als goddelijke vingers die wijzen; of beter, het zijn handen, die Gods voorzienigheid gebruikt en die zijn wijsheid dóórgeven, zijn besluiten overhandigen.
+
+1\. Wat geeft ons dit te denken! _Waarom zoveel raadselen in de natuur, in de geschiedenis, in het leven, in de godsdienst?_ aldus Pater A. Weisz o.p. Hij antwoordt: _opdat de mens iets zou hebben om na te denken: zonder raadsels denkt hij te weinig_. Zo zijn ook die handen van de voorzienigheid geheimzinnige handen. Maar ze hebben één ding gemeen: ze brengen iets van God, ze dragen ons weer naar God toe. Er schuilt niets wat overdreven is in deze opvatting. Het lijkt alleen overdreven voor iemand met een vaag of een wankelend geloof. Het vurig, het overtuigde geloof zegt dadelijk: ja, zo is het. _De hand van onze God rust vol goedheid op allen, die Hem zoeken._ (1 Esd. 8:12) _Wie onder die allen, die het niet weet, dat de hand van Jahwe dit wrocht?_ (Job 12:9) _Gods handen omvatten ons omdat Hij ons __bemint__._ Gods handen dat zijn de schepselen, waardoor Hij ons raakt en zijn werkzaamheid in onze zielen voltooit. Hebben we eenmaal geleerd, Hemzelf in hen te zien, dan hebben we ze allen lief. Er zijn mensen, die ons moedwillig striemen... er zijn mensen, die, zonder het te wéten, ons hart hebben verbrijzeld... er zijn mensen, die ons geselen met hun giftige opmerkingen _doch zij hebben allen aan onze heiligheid gewerkt_, want Gods handen raakten ons en trokken ons tot Hem.
+
+We mogen ook gaan tot hen die ons troosten... in hen openbaart zich de goedheid en de beminnenswaardigheid van de voorzienigheid. Het zijn _zijn_ handen die ons zegenen, ook als men ons slaat. Wat onze inspanning alleen niet tot stand zou brengen... wordt gesteund door de gebeden van de kleinen en de ongelukkigen. En ten slotte zijn het zijn handen, die ons leiden door onze oversten... die ons naar God dragen door onze weldoeners... en ons op de weg naar de hemel overeind houden door onze vrienden... God zij gezegend om deze geheiligde handen van zijn voorzienigheid. Hij vulle ze als heilige bekers. Licht, genade en liefde mogen mij toevloeien, tot eer van God, tot heil van allen door wie God mij leidt. Moge Hij hun alles vergelden....
+
+_En dan is er één hand bovenal, en geen naam die haar waardig zou zijn... Zij raakt de grond van het mensenhart, de innerlijke plek, die niemand vermag te raken. Haar goddelijke aanraking heelt de wonden, die ongeneselijk schenen. Haar aansporingen bezielen ons, vormen ons om, drijven ons naar de hemel; zij beweegt ons tot handelen, nog vóór wij haar hebben opgemerkt; zij leidt ons, schikt alle dingen en gebeurtenissen in de zin van de voornaamste genade, die ons gegeven is; zij brengt ons er toe, dat wij God in deze en in de andere wereld verheerlijken, zoals Hij het wil, en precies op de plaats aankomen, die zijn liefde voor ons bestemt._ (Lucie Christine, _Dagboek_)
+
+2\. Wat kunnen wij anders doen dan nederig bidden: _uw hand zij bereid mij te helpen, want uw geboden heb ik verkoren_. (Ps. 109:173) _Opdat wij zien en erkennen, het begrijpen en verstaan, dat de hand van Jahwe het doet._ (Is. 41:20) _Zie, een hand raakte mij aan en hief mij omhoog._ (Dan. 10:10) _Allen, die het hoorden, dachten er over na en zeiden: wat zal er toch worden van dat kind? Waarachtig, de hand des Heren was met hem._ (Luk. 1:66)
+
+_O God, die alles draagt in de macht van uw handen, zie, ik geef mij zonder voorbehoud over aan U. Ik weet, dat uw handen vol weldaden zijn, vol goedheid en vol troost. En als ik mijn leven niet meer begrijp, zal ik vragen om de zegen van uw handen. En als ik lijd, zal ik in de schuilplaats van uw handen mij verbergen. Dan zal ik eens in volkomen vertrouwen tot U gaan en terwijl ik mijn ogen sluit, met liefde zeggen: Vader, in uw handen beveel ik mijn geest. Amen._
