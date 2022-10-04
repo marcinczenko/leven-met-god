@@ -1364,7 +1364,7 @@ export const meditations = {
     link: '/323'
   },
   '2022-10-5T00:00:00': {
-    title: '324: WOENSDAG NA DE 17e ZONDAG - ',
+    title: '324: WOENSDAG NA DE 17e ZONDAG - Leven met God I',
     link: '/324'
   },
   '2022-10-6T00:00:00': {
