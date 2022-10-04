@@ -28,7 +28,7 @@ Er wordt hier gesproken over twee groepen van goede werken. De eerste groep betr
 
 Maar hebben wij de kracht dit zedelijk program ook door te voeren? Het is een christelijk ideaal zó uit te munten in allerlei morele voortreffelijkheid dat buitenstaanders en andersdenkenden zich aan ons voorbeeld kunnen stichten.
 
-_Laten wij iedere belemmering en hindernis van zonde van ons afwerpen en dan met volharding de wedloop beginnen die voor ons ligt; het oog gevestigd op Jezus._ (Hebr. 12:1) Het voorbeeld blijft Jezus, hoe meer wij Hem zien zoals Hij is, des te duidelijker zullen we ontdekken hoe wij zelf moeten worden. _Wie vleselijk zijn, streven naar vleselijke dingen, maar wie geestelijk zijn, naar geestelijke dingen.!_ (Rom. 8:5)
+_Laten wij iedere belemmering en hindernis van zonde van ons afwerpen en dan met volharding de wedloop beginnen die voor ons ligt; het oog gevestigd op Jezus._ (Hebr. 12:1) Het voorbeeld blijft Jezus, hoe meer wij Hem zien zoals Hij is, des te duidelijker zullen we ontdekken hoe wij zelf moeten worden. _Wie vleselijk zijn, streven naar vleselijke dingen, maar wie geestelijk zijn, naar geestelijke dingen!_ (Rom. 8:5)
 
 Wie God wil behagen en krachtig zijn genadeinwerking wil ervaren, mag niet bang zijn van zelfbeteugeling. Zelfopvoeding betekent zich een vaste richting geven en die richting blijven handhaven ook al vraagt dit offers. Alleen op deze wijze komt men tot deugd en tot werkelijke navolging van Jezus Christus.
 
