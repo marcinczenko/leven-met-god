@@ -1372,7 +1372,7 @@ export const meditations = {
     link: '/325'
   },
   '2022-10-7T00:00:00': {
-    title: '326: VRIJDAG NA DE 17e ZONDAG - ',
+    title: '326: VRIJDAG NA DE 17e ZONDAG - Zijn hulp',
     link: '/326'
   },
   '2022-10-8T00:00:00': {
