@@ -1,7 +1,7 @@
 ---
 path: /323
 title: '323: DINSDAG NA DE 17e ZONDAG'
-tag: pinkstertijd-2
+tag: pinkstertijd-3
 content: ../styling.md
 sortIndex: 323
 ---

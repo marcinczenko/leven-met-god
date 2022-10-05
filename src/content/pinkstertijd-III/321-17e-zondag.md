@@ -1,7 +1,7 @@
 ---
 path: /321
 title: '321: 17e ZONDAG NA PINKSTEREN'
-tag: pinkstertijd-2
+tag: pinkstertijd-3
 content: ../styling.md
 sortIndex: 321
 ---
