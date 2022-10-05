@@ -1,7 +1,7 @@
 ---
 path: /324
 title: '324: WOENSDAG NA DE 17e ZONDAG'
-tag: pinkstertijd-2
+tag: pinkstertijd-3
 content: ../styling.md
 sortIndex: 324
 ---
