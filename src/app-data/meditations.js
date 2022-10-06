@@ -1376,7 +1376,7 @@ export const meditations = {
     link: '/326'
   },
   '2022-10-8T00:00:00': {
-    title: '327: ZATERDAG NA DE 17e ZONDAG - ',
+    title: '327: ZATERDAG NA DE 17e ZONDAG - Heer leer ons bidden',
     link: '/327'
   },
   '2022-10-9T00:00:00': {
