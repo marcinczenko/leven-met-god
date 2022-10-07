@@ -16,7 +16,7 @@ Zo kan men God zien als de Vader van allen, als de oneindige, altijd wakende Voo
 
 Dat alles is goed. Zeer biezonder schijnt velen te trekken de aanwezigheid van God in ons: de Vader, de Zoon en de H. Geest die in ons wonen, met ons willen spreken en omgaan, en door ons en met ons willen werken in ons dagelijks leven.
 
-1\. Dat zó een of ander mysterie meer onze aandacht krijgt dan andere, is zeker niet onjuist. Allerlei vormen van godsvrucht kunnen samengaan in een geestelijk leven, en de secundaire aspecten behoeven hef allervoornaamste niet te schaden. Niemand wil zonder warme en vurige liefde voor Jezus Christus leven. Men ziet Hem graag als mens onder mensen, als offeraar, middelaar, als de weg, de brug van God naar ons en van ons naar God.
+1\. Dat zó een of ander mysterie meer onze aandacht krijgt dan andere, is zeker niet onjuist. Allerlei vormen van godsvrucht kunnen samengaan in een geestelijk leven, en de secundaire aspecten behoeven het allervoornaamste niet te schaden. Niemand wil zonder warme en vurige liefde voor Jezus Christus leven. Men ziet Hem graag als mens onder mensen, als offeraar, middelaar, als de weg, de brug van God naar ons en van ons naar God.
 
 Wij vergeten ook niet de innige en hartelijke verhouding tot Maria, die een geheel enige plaats bekleedt in de heilseconomie, die heel biezonder het voorbeeld is voor alle vrouwen, en voor alle mensen een verheven voorspraak en toevlucht, zoals geen enkele andere heilige dat zijn kan.
 
