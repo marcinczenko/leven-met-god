@@ -1382,5 +1382,33 @@ export const meditations = {
   '2022-10-9T00:00:00': {
     title: '328: 18e ZONDAG NA PINKSTEREN - Christus is alles voor ons',
     link: '/328'
+  },
+  '2022-10-10T00:00:00': {
+    title: '329: MAANDAG NA DE 18e ZONDAG - Gods aangezicht',
+    link: '/329'
+  },
+  '2022-10-11T00:00:00': {
+    title: '330: DINSDAG NA DE 18e ZONDAG - ',
+    link: '/330'
+  },
+  '2022-10-12T00:00:00': {
+    title: '331: WOENSDAG NA DE 18e ZONDAG - ',
+    link: '/331'
+  },
+  '2022-10-13T00:00:00': {
+    title: '332: DONDERDAG NA DE 18e ZONDAG - ',
+    link: '/332'
+  },
+  '2022-10-14T00:00:00': {
+    title: '333: VRIJDAG NA DE 18e ZONDAG - ',
+    link: '/333'
+  },
+  '2022-10-15T00:00:00': {
+    title: '334: ZATERDAG NA DE 18e ZONDAG - ',
+    link: '/334'
+  },
+  '2022-10-16T00:00:00': {
+    title: '335: 19e ZONDAG NA PINKSTEREN - ',
+    link: '/335'
   }
 }
