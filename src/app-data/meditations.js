@@ -1380,7 +1380,7 @@ export const meditations = {
     link: '/327'
   },
   '2022-10-9T00:00:00': {
-    title: '328: 18e ZONDAG NA PINKSTEREN - ',
+    title: '328: 18e ZONDAG NA PINKSTEREN - Christus is alles voor ons',
     link: '/328'
   }
 }
