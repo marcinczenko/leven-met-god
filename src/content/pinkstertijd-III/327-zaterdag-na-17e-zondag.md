@@ -32,7 +32,7 @@ Het lijkt wel of de begenadiging hen pas voorgoed de ogen heeft geopend. Wij bid
 
 2\. Wat zouden wij al winnen met een ietsje meer ernst, meer toeleg op ons gebed. Wat zouden wij stukken vooruitkomen in het gebed met een poging om een goed (kort) ochtend- en avondgebed te verrichten... met een vurig gebedje voor en na tafel, met... een dagelijkse (of althans veelvuldige) heilige mis en heilige communie, met dagelijks een, twee bladzijden geestelijke lectuur, aandachtig, als biddend gelezen.
 
-Hebben wij het er voor over, ontelbare malen te bidden gedurende de dag: _Heer leer mij bidden_, of zeer dikwijls _een of ander eenvoudig schietgebed te herhalen? Kunnen-bidden is meer genade dan kunst en om deze genade te verkrijgen moeten we vaak lang bidden. Dan wordt mijn leven doortrokken en geheiligd door mijn gebed.
+Hebben wij het er voor over, ontelbare malen te bidden gedurende de dag: _Heer leer mij bidden_, of zeer dikwijls een of ander eenvoudig schietgebed te herhalen? Kunnen-bidden is meer genade dan kunst en om deze genade te verkrijgen moeten we vaak lang bidden. Dan wordt mijn leven doortrokken en geheiligd door mijn gebed.
 
 Zonder gebed blijft mijn leven niet christelijk; zonder gebed verschraalt het geloof, verkwijnt het en verdwijnt het tenslotte... Zonder gebed is heiligheid niet mogelijk.
 
