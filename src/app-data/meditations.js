@@ -1388,7 +1388,7 @@ export const meditations = {
     link: '/329'
   },
   '2022-10-11T00:00:00': {
-    title: '330: DINSDAG NA DE 18e ZONDAG - ',
+    title: '330: DINSDAG NA DE 18e ZONDAG - Wat is heilig zijn?',
     link: '/330'
   },
   '2022-10-12T00:00:00': {
