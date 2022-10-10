@@ -1392,7 +1392,7 @@ export const meditations = {
     link: '/330'
   },
   '2022-10-12T00:00:00': {
-    title: '331: WOENSDAG NA DE 18e ZONDAG - ',
+    title: '331: WOENSDAG NA DE 18e ZONDAG - Goddelijke beloften',
     link: '/331'
   },
   '2022-10-13T00:00:00': {
