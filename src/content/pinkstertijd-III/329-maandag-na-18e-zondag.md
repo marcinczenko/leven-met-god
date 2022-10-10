@@ -26,7 +26,7 @@ _God verstaat het mensenhart ook dan, wanneer het geen woorden heeft, om over zi
 
 _De ogen van Jahwe doorvorsen de hele aarde,_ zegt de schrift, _om hen te helpen, wier hart onverdeeld op Hem is gericht._ (2 Kon. 16:9) _En al hun werken staan als de zon voor zijn aanschijn._ (Eccl. 19:16)
 
-2\. Wat een rust voor ons hart: Hij, ziet het, Hij weet het. _Wat een aansporing fot zuiver en heilig leven: Hij ziet alles en Hij weet alles, overal en altijd.
+2\. Wat een rust voor ons hart: Hij, ziet het, Hij weet het. _Wat een aansporing fot zuiver en heilig leven:_ Hij ziet alles en Hij weet alles, overal en altijd.
 
 _Gij verlaat uw huis,_ zegt Augustinus, _God ziet u. Gij komt thuis: God ziet u. Ge maakt licht: God ziet u. Gij doet het licht uit: God ziet u. Vrees Hem, die u altijd ziet... als ge wilt zondigen, ga dan dáárheen, waar Hij u niet ziet en doe dan maar wat gij wilt._
 
@@ -34,7 +34,7 @@ Troostend en verblijdend is het - want wij zijn helemaal niet van plan om iets s
 
 Wat meer is: Hij waardeert alles, Hij schat het op zijn juiste waarde.
 
-Toen de Deense dichter Johannes Jörgensen de dom van Keulen besteeg, vond hij op een duizelingwekkende hoogte een beeldhouwer, die met de grootste zorgvuldigheid een kruisbloem beitelde: _maar, beste man, waarom doe je zo veel moeite? Beneden ziet toch niemand dat fijne werk?_ _Maar God daarboven ziet het wel,_ was het eenvoudige antwoord.
+Toen de Deense dichter Johannes Jörgensen de dom van Keulen besteeg, vond hij op een duizelingwekkende hoogte een beeldhouwer, die met de grootste zorgvuldigheid een kruisbloem beitelde: _maar, beste man, waarom doe je zo veel moeite? Beneden ziet toch niemand dat fijne werk?_ _"Maar God daarboven ziet het wel",_ was het eenvoudige antwoord.
 
 Hij ziet, Hij weet, Hij troost, Hij helpt. Men zou kunnen menen: als dit zo was, wat een heerlijke geruststelling voor zijn leven. Maar dit is de hoogste werkelijkheid!
 
