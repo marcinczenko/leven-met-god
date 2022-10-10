@@ -26,7 +26,7 @@ _God verstaat het mensenhart ook dan, wanneer het geen woorden heeft, om over zi
 
 _De ogen van Jahwe doorvorsen de hele aarde,_ zegt de schrift, _om hen te helpen, wier hart onverdeeld op Hem is gericht._ (2 Kon. 16:9) _En al hun werken staan als de zon voor zijn aanschijn._ (Eccl. 19:16)
 
-2\. Wat een rust voor ons hart: Hij, ziet het, Hij weet het. _Wat een aansporing fot zuiver en heilig leven:_ Hij ziet alles en Hij weet alles, overal en altijd.
+2\. Wat een rust voor ons hart: Hij, ziet het, Hij weet het. _Wat een aansporing tot zuiver en heilig leven:_ Hij ziet alles en Hij weet alles, overal en altijd.
 
 _Gij verlaat uw huis,_ zegt Augustinus, _God ziet u. Gij komt thuis: God ziet u. Ge maakt licht: God ziet u. Gij doet het licht uit: God ziet u. Vrees Hem, die u altijd ziet... als ge wilt zondigen, ga dan dáárheen, waar Hij u niet ziet en doe dan maar wat gij wilt._
 

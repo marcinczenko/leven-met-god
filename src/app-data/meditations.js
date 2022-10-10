@@ -1388,8 +1388,15 @@ export const meditations = {
     link: '/329'
   },
   '2022-10-11T00:00:00': {
-    title: '330: DINSDAG NA DE 18e ZONDAG - Wat is heilig zijn?',
-    link: '/330'
+    title: '384: 11 OCTOBER - Maria, Moeder van God en onze Moeder',
+    link: '/384',
+    extras: [
+      {
+        title: '330: DINSDAG NA DE 18e ZONDAG - Wat is heilig zijn?',
+        link: '/330',
+        type: 'Tweede meditatie:'
+      }
+    ]
   },
   '2022-10-12T00:00:00': {
     title: '331: WOENSDAG NA DE 18e ZONDAG - Goddelijke beloften',
