@@ -1403,7 +1403,7 @@ export const meditations = {
     link: '/331'
   },
   '2022-10-13T00:00:00': {
-    title: '332: DONDERDAG NA DE 18e ZONDAG - ',
+    title: '332: DONDERDAG NA DE 18e ZONDAG - Menselijke zwakheid',
     link: '/332'
   },
   '2022-10-14T00:00:00': {
