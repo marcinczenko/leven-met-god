@@ -1407,7 +1407,7 @@ export const meditations = {
     link: '/332'
   },
   '2022-10-14T00:00:00': {
-    title: '333: VRIJDAG NA DE 18e ZONDAG - ',
+    title: '333: VRIJDAG NA DE 18e ZONDAG - Gods keuze',
     link: '/333'
   },
   '2022-10-15T00:00:00': {
