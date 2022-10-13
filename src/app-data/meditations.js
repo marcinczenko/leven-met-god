@@ -1411,7 +1411,7 @@ export const meditations = {
     link: '/333'
   },
   '2022-10-15T00:00:00': {
-    title: '334: ZATERDAG NA DE 18e ZONDAG - ',
+    title: '334: ZATERDAG NA DE 18e ZONDAG - Blijf in Mij',
     link: '/334'
   },
   '2022-10-16T00:00:00': {
