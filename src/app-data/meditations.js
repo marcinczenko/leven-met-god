@@ -1415,7 +1415,7 @@ export const meditations = {
     link: '/334'
   },
   '2022-10-16T00:00:00': {
-    title: '335: 19e ZONDAG NA PINKSTEREN - ',
+    title: '335: 19e ZONDAG NA PINKSTEREN - Zij wilden niet komen',
     link: '/335'
   }
 }
