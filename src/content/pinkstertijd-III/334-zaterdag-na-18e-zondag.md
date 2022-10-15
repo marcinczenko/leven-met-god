@@ -42,7 +42,7 @@ Hij is als _mens_ niet langer in ons dan de broods-gedaante. Maar de herinnering
 
 _Doch,_ zegt Teresia, _het lijkt er wel op dat gij niets haastiger te doen hebt dan de Meester van u te verjagen._ Het is sterk gezegd maar voor velen van ons lijkt het er soms wel op.
 
-Zeker is de staat van vriendschap mef God al voldoende om geestelijk met Christus verenigd te blijven, maar die vereniging is zoveel vruchtbaarder als gij wilt proberen die zo vaak mogelijk _bewust_ te beleven.
+Zeker is de staat van vriendschap met God al voldoende om geestelijk met Christus verenigd te blijven, maar die vereniging is zoveel vruchtbaarder als gij wilt proberen die zo vaak mogelijk _bewust_ te beleven.
 
 _Wie zich_ (het is weer Teresia), _onmiddellijk na het vertrek uit de kerk in zaken stort, in zorgen, in onrust, die..._ (Kasteel 36) Ja maar _moet ik dat niet doen? het leven eist me op. Wat ik te doen heb is te gewichtig..._
 
