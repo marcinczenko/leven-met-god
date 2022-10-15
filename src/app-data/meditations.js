@@ -1417,5 +1417,68 @@ export const meditations = {
   '2022-10-16T00:00:00': {
     title: '335: 19e ZONDAG NA PINKSTEREN - Zij wilden niet komen',
     link: '/335'
+  },
+  '2022-10-17T00:00:00': {
+    title: '336: MAANDAG NA DE 19e ZONDAG - De leer van de Meester',
+    link: '/336'
+  },
+  '2022-10-18T00:00:00': {
+    title: '337: DINSDAG NA DE 19e ZONDAG - ',
+    link: '/337'
+  },
+  '2022-10-19T00:00:00': {
+    title: '338: WOENSDAG NA DE 19e ZONDAG - ',
+    link: '/338'
+  },
+  '2022-10-20T00:00:00': {
+    title: '339: DONDERDAG NA DE 19e ZONDAG - ',
+    link: '/339'
+  },
+  '2022-10-21T00:00:00': {
+    title: '340: VRIJDAG NA DE 19e ZONDAG - ',
+    link: '/340'
+  },
+  '2022-10-22T00:00:00': {
+    title: '341: ZATERDAG NA DE 19e ZONDAG - ',
+    link: '/341'
+  },
+  '2022-10-23T00:00:00': {
+    title: '342: 20e ZONDAG NA PINKSTEREN - ',
+    link: '/342'
+  },
+  '2022-10-24T00:00:00': {
+    title: '343: MAANDAG NA DE 20e ZONDAG - ',
+    link: '/343'
+  },
+  '2022-10-25T00:00:00': {
+    title: '344: DINSDAG NA DE 20e ZONDAG - ',
+    link: '/344'
+  },
+  '2022-10-26T00:00:00': {
+    title: '345: WOENSDAG NA DE 20e ZONDAG - ',
+    link: '/345'
+  },
+  '2022-10-27T00:00:00': {
+    title: '346: DONDERDAG NA DE 20e ZONDAG - ',
+    link: '/346'
+  },
+  '2022-10-28T00:00:00': {
+    title: '347: VRIJDAG NA DE 20e ZONDAG - ',
+    link: '/347'
+  },
+  '2022-10-29T00:00:00': {
+    title: '348: ZATERDAG NA DE 20e ZONDAG - ',
+    link: '/348'
+  },
+  '2022-10-30T00:00:00': {
+    title: '385: LAATSTE ZONDAG IN OKTOBER - Christus Koning',
+    link: '/385',
+    extras: [
+      {
+        title: '349: 21e ZONDAG NA PINKSTEREN - ',
+        link: '/349',
+        type: 'Tweede meditatie:'
+      }
+    ]
   }
 }
