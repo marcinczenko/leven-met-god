@@ -1423,7 +1423,7 @@ export const meditations = {
     link: '/336'
   },
   '2022-10-18T00:00:00': {
-    title: '337: DINSDAG NA DE 19e ZONDAG - ',
+    title: '337: DINSDAG NA DE 19e ZONDAG - Wat Hij ons belooft',
     link: '/337'
   },
   '2022-10-19T00:00:00': {
