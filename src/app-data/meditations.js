@@ -1427,7 +1427,7 @@ export const meditations = {
     link: '/337'
   },
   '2022-10-19T00:00:00': {
-    title: '338: WOENSDAG NA DE 19e ZONDAG - ',
+    title: '338: WOENSDAG NA DE 19e ZONDAG - Vernieuwing',
     link: '/338'
   },
   '2022-10-20T00:00:00': {
