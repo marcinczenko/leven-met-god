@@ -1431,7 +1431,7 @@ export const meditations = {
     link: '/338'
   },
   '2022-10-20T00:00:00': {
-    title: '339: DONDERDAG NA DE 19e ZONDAG - ',
+    title: '339: DONDERDAG NA DE 19e ZONDAG - Hoopvol leven I',
     link: '/339'
   },
   '2022-10-21T00:00:00': {
