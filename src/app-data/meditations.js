@@ -1439,7 +1439,7 @@ export const meditations = {
     link: '/340'
   },
   '2022-10-22T00:00:00': {
-    title: '341: ZATERDAG NA DE 19e ZONDAG - ',
+    title: '341: ZATERDAG NA DE 19e ZONDAG - De waarde van het gebed',
     link: '/341'
   },
   '2022-10-23T00:00:00': {
