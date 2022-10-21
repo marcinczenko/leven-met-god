@@ -1443,7 +1443,7 @@ export const meditations = {
     link: '/341'
   },
   '2022-10-23T00:00:00': {
-    title: '342: 20e ZONDAG NA PINKSTEREN - ',
+    title: '342: 20e ZONDAG NA PINKSTEREN - De werking van het geloof',
     link: '/342'
   },
   '2022-10-24T00:00:00': {
