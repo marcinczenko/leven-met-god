@@ -22,7 +22,7 @@ _Leeft in liefde_ dat wil zeggen doet alles uit liefde.
 
 2\. Maar de Apostel preciseert zijn raad. Hij wijst ons op Christus' voorbeeld. Wij zijn kinderen van God zoals Christus Gods Zoon was. _Hij_ door recht; _wij_ door voorrecht, Hij van natuur, wij door de bovennatuur. Van Hem kunnen wij dit _leven in liefde_ leren, zoals van niemand anders.
 
-_En leeft in liefde, zoals ook Christus u heeft liefhad._ Geheel het leven van Christus was liefde. Het was liefde voor God en liefde voor de mensen. _Zoals Hij ons heeft liefgehad_ zó zullen wij trachten Hem te beminnen en in Hem en door Hem de Vader (per ipsum et cum ipso et in ipso: _door Hem en met Hem en in Hem_). Zijn liefde nu openbaarde zich in het weggeven van zichzelf. Liefde _is_ niet het offer, zij voert tot het offer, zij openbaart zich in het offer, zij wordt door het offer gevoed en versterkt.
+_En leeft in liefde, zoals ook Christus u heeft liefgehad._ Geheel het leven van Christus was liefde. Het was liefde voor God en liefde voor de mensen. _Zoals Hij ons heeft liefgehad_ zó zullen wij trachten Hem te beminnen en in Hem en door Hem de Vader (per ipsum et cum ipso et in ipso: _door Hem en met Hem en in Hem_). Zijn liefde nu openbaarde zich in het weggeven van zichzelf. Liefde _is_ niet het offer, zij voert tot het offer, zij openbaart zich in het offer, zij wordt door het offer gevoed en versterkt.
 
 Liefde leidt tot heiligheid, tot volkomen zuiverheid van leven omdat zij ons aan onszelf ontrukt en tot de volkomen overgave aan de Beminde voert. Dáár vindt zij haar vrede, haar triomf, haar volle rijkdom, haar eigenlijk wezen. _Zoals ook Christus u heeft liefgehad en zichzelf heeft gegeven als gave en offer tot een liefelijke geur voor God._
 
