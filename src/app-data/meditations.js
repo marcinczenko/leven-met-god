@@ -1447,7 +1447,7 @@ export const meditations = {
     link: '/342'
   },
   '2022-10-24T00:00:00': {
-    title: '343: MAANDAG NA DE 20e ZONDAG - ',
+    title: '343: MAANDAG NA DE 20e ZONDAG - Mijn situatie in het leven',
     link: '/343'
   },
   '2022-10-25T00:00:00': {
@@ -1480,5 +1480,47 @@ export const meditations = {
         type: 'Tweede meditatie:'
       }
     ]
+  },
+  '2022-10-31T00:00:00': {
+    title: '350: MAANDAG NA DE 21e ZONDAG - ',
+    link: '/350'
+  },
+  '2022-11-1T00:00:00': {
+    title: '386: 1 NOVEMBER - Allerheiligen',
+    link: '/386',
+    extras: [
+      {
+        title: '351: DINSDAG NA DE 21e ZONDAG - ',
+        link: '/351',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-11-2T00:00:00': {
+    title: '387: 2 NOVEMBER - Allerzielen',
+    link: '/387',
+    extras: [
+      {
+        title: '352: WOENSDAG NA DE 21e ZONDAG - ',
+        link: '/352',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-11-3T00:00:00': {
+    title: '353: DONDERDAG NA DE 21e ZONDAG - ',
+    link: '/353'
+  },
+  '2022-11-4T00:00:00': {
+    title: '354: VRIJDAG NA DE 21e ZONDAG - ',
+    link: '/354'
+  },
+  '2022-11-5T00:00:00': {
+    title: '355: ZATERDAG NA DE 21e ZONDAG - ',
+    link: '/355'
+  },
+  '2022-11-6T00:00:00': {
+    title: '356: 22e ZONDAG NA PINKSTEREN - ',
+    link: '/356'
   }
 }
