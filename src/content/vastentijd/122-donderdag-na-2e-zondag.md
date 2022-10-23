@@ -30,7 +30,7 @@ We mogen ons niet zo snel ontslagen achten en met een zekere verontwaardiging de
 
 Allen kunnen _iets_ geven... misschien weinig, maar dan toch nog met grote liefde en hartelijkheid en... met zuivere bedoeling.
 
-2\. Toen vroeg de rijke dat Lazarus ten minste zijn vijf broers in het ouderlijk huis zou waarschuwen... en hun zou zeggen hoe verschrikkelijk de hel wel was en dat zij een geheel ander leven moesten leiden; niet opgaan in brasserij en allerlei aards genot, zonder ooit ter liefde Gods te willen denken aan arme medemensen. Maar Abraham antwoordde: Zij hebben Mozes en de profeten, met andere woorden, zij zijn genoeg gewaarschuwd. _Neen Vader Abraham... maar als iemand uit de doden tot hen komt... dan zullen zij geloven._
+2\. Toen vroeg de rijke dat Lazarus tenminste zijn vijf broers in het ouderlijk huis zou waarschuwen... en hun zou zeggen hoe verschrikkelijk de hel wel was en dat zij een geheel ander leven moesten leiden; niet opgaan in brasserij en allerlei aards genot, zonder ooit ter liefde Gods te willen denken aan arme medemensen. Maar Abraham antwoordde: Zij hebben Mozes en de profeten, met andere woorden, zij zijn genoeg gewaarschuwd. _Neen Vader Abraham... maar als iemand uit de doden tot hen komt... dan zullen zij geloven._
 
 Zij leefden slecht en geloofden niet. Geen wonder. Als alle aandacht zo naarstig wordt gereserveerd voor het aardse, wanneer zal men dan aan de hemel denken? Wanneer de stof alles in beslag mag nemen, zal dan de geest wel ooit aan bod komen...?
 
