@@ -22,7 +22,7 @@ In een andere vorm stelt Sint Jan aan het Kruis de vraag aldus: waarom bereiken 
 
 Hij antwoordt: de reden is niet dat God deze toestand tot enkele bevoorrechte zielen heeft beperkt en de andere daarvan uitsluit maar de reden is dat Hij er slechts weinig vindt, die bereid zijn de diepere zuivering van het lijden te ondergaan. Hij houdt daarom op hen te louteren en zo veroordelen zij zichzelf tot middelmatigheid.
 
-Het is onmogelijk tot de mystieke vereniging met God te komen zonder dit geestelijk lijden, zonder _het gewicht_, de druk, van God te dragen. Slechts het lijden en de inwendige verlatenheid, de gebrokenheid en de ellende verwijden de ontvankelijkheid van de z1el. Pas na die loutering en die groei kan zij God omhelzen.
+Het is onmogelijk tot de mystieke vereniging met God te komen zonder dit geestelijk lijden, zonder _het gewicht_, de druk, van God te dragen. Slechts het lijden en de inwendige verlatenheid, de gebrokenheid en de ellende verwijden de ontvankelijkheid van de ziel. Pas na die loutering en die groei kan zij God omhelzen.
 
 2\. Het lijden heeft zin, het lijden heeft diepe zin, ook om _deze_ reden.
 
