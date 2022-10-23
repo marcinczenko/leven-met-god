@@ -1451,7 +1451,7 @@ export const meditations = {
     link: '/343'
   },
   '2022-10-25T00:00:00': {
-    title: '344: DINSDAG NA DE 20e ZONDAG - ',
+    title: '344: DINSDAG NA DE 20e ZONDAG - Wijsheid',
     link: '/344'
   },
   '2022-10-26T00:00:00': {
