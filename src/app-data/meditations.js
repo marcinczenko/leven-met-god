@@ -1455,7 +1455,7 @@ export const meditations = {
     link: '/344'
   },
   '2022-10-26T00:00:00': {
-    title: '345: WOENSDAG NA DE 20e ZONDAG - ',
+    title: '345: WOENSDAG NA DE 20e ZONDAG - Het kwaad in de wereld',
     link: '/345'
   },
   '2022-10-27T00:00:00': {
