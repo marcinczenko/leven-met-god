@@ -1459,7 +1459,7 @@ export const meditations = {
     link: '/345'
   },
   '2022-10-27T00:00:00': {
-    title: '346: DONDERDAG NA DE 20e ZONDAG - ',
+    title: '346: DONDERDAG NA DE 20e ZONDAG - Gods voorzienigheid',
     link: '/346'
   },
   '2022-10-28T00:00:00': {
