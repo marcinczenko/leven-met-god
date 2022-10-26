@@ -1463,7 +1463,7 @@ export const meditations = {
     link: '/346'
   },
   '2022-10-28T00:00:00': {
-    title: '347: VRIJDAG NA DE 20e ZONDAG - ',
+    title: '347: VRIJDAG NA DE 20e ZONDAG - Verleen ons, wij smeken het U',
     link: '/347'
   },
   '2022-10-29T00:00:00': {
