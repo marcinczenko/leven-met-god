@@ -1467,7 +1467,7 @@ export const meditations = {
     link: '/347'
   },
   '2022-10-29T00:00:00': {
-    title: '348: ZATERDAG NA DE 20e ZONDAG - ',
+    title: '348: ZATERDAG NA DE 20e ZONDAG - Christus de wonderdoener',
     link: '/348'
   },
   '2022-10-30T00:00:00': {
