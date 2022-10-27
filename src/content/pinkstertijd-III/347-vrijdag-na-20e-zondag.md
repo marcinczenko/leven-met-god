@@ -12,7 +12,7 @@ Zeer dikwijls komen deze woorden voor in de gebeden van de kerk. Wij worden voor
 
 _Al wat gij in uw gebed met geloof zult vragen, zult gij verkrijgen._ (Matt. 21:22) In de schrift wordt zeshonderd maal over de verhoring van het gebed gesproken. Dan moet het smeken en de daarop volgende verhoring wel iets zeer gewichtigs zijn.
 
-1\. God wil gebeden worden opdat de mens zich bewust zou blijven van zijn volkomen afhankelijkheid: God kan alles doen en alles geven maar ik, zwak en sterfelijk mens kan uit mij zelf niets bereiken. Ik heb Gods goedheid en Gods werkdadige hulp voortdurend nodig.
+1\. God wil gebeden worden opdat de mens zich bewust zou blijven van zijn volkomen afhankelijkheid: God kan alles doen en alles geven maar ik, zwak en sterfelijk mens kan uit mijzelf niets bereiken. Ik heb Gods goedheid en Gods werkdadige hulp voortdurend nodig.
 
 God heeft grote beloften toegezegd aan het gebed. _Veel vermag het krachtdadig gebed van de rechtvaardige._ (Jak. 5:16)
 
