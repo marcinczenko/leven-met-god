@@ -1475,7 +1475,7 @@ export const meditations = {
     link: '/385',
     extras: [
       {
-        title: '349: 21e ZONDAG NA PINKSTEREN - ',
+        title: '349: 21e ZONDAG NA PINKSTEREN - Vergeef ons onze schuld...',
         link: '/349',
         type: 'Tweede meditatie:'
       }
