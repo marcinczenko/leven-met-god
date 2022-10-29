@@ -1482,7 +1482,7 @@ export const meditations = {
     ]
   },
   '2022-10-31T00:00:00': {
-    title: '350: MAANDAG NA DE 21e ZONDAG - ',
+    title: '350: MAANDAG NA DE 21e ZONDAG - Het leven is een strijd',
     link: '/350'
   },
   '2022-11-1T00:00:00': {
