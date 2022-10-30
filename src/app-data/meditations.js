@@ -1490,7 +1490,7 @@ export const meditations = {
     link: '/386',
     extras: [
       {
-        title: '351: DINSDAG NA DE 21e ZONDAG - ',
+        title: '351: DINSDAG NA DE 21e ZONDAG - Christus toebehoren',
         link: '/351',
         type: 'Tweede meditatie:'
       }
