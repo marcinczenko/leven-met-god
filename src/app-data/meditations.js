@@ -1501,7 +1501,7 @@ export const meditations = {
     link: '/387',
     extras: [
       {
-        title: '352: WOENSDAG NA DE 21e ZONDAG - ',
+        title: '352: WOENSDAG NA DE 21e ZONDAG - God in ons III',
         link: '/352',
         type: 'Tweede meditatie:'
       }
