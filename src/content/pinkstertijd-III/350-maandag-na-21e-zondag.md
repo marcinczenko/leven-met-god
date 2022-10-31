@@ -16,7 +16,7 @@ _Militia est vita hominis_: _het leven van de mens is een strijd_, leert ons het
 
 _Leeft naar de geest,_ zo schrijft de apostel, _dan zult gij de begeerten niet inwilligen van het vlees, want het vlees begeert tegen de geest en de geest tegen het vlees. Ze staan vijandig tegenover elkaar, zodat gij niet doet, wat ge zoudt willen._ (Gal. 5:16-17)
 
-Men kan gissen wat Paulus hier bedoelt met _geest_. Maar het moet wel één van de twee zijn: ofwel het is onze ziel voor zover zij onder de invloed en de leiding van de heilige Geest of het is de heilige Geest zelf die in ons werkt.
+Men kan gissen wat Paulus hier bedoelt met _geest_. Maar het moet wel één van de twee zijn: ofwel het is onze ziel voor zover zij onder de invloed en de leiding van de heilige Geest is of het is de heilige Geest zelf die in ons werkt.
 
 Het _vlees_ is dan in ieder geval iets wat tegen die geest in opstand komt of zich daartegen verheft, daarmede niet akkoord gaat. Paulus kan daarmee bedoelen de lagere vermogens (of de natuur van de mens in het algemeen), die zich verzetten tegen de rede en de wet van God.
 
@@ -30,12 +30,12 @@ Op momenten van rust en ingekeerdheid zullen we volkomen instemmen met de zo dui
 
 Wij wilden overwinnen met Christus en voor Hem, wij waren vast van plan _alles_ daarvoor over te hebben. Vastberadenheid... besliste levenshouding: dan is de strijd zoveel lichter, zo oneindig veel gemakkelijker. Wij maken zelf de strijd moeilijker dan nodig is.
 
-Vanaf het moment dat ik tegenover een uitgesproken vijand (de zonde en wat mij daartoe voert) concessies doe, dus bereid ben tot een _minnelijke schikking_, begint het verlies en tevens de aftocht. Wij zijn niet altijd heldhaftig al zouden we dit ons zelf (misschien ook anderen) willen wijs maken. Weigerachtig tegenover _de geest_, bang dat hij mij te ver zou voeren en dat zijn invloed te machtig worden zou, neig ik naar _het vlees_. Dit is kort en goed de aarzeling van de zwakheid.
+Vanaf het moment dat ik tegenover een uitgesproken vijand (de zonde en wat mij daartoe voert) concessies doe, dus bereid ben tot een _minnelijke schikking_, begint het verlies en tevens de aftocht. Wij zijn niet altijd heldhaftig al zouden we dit onszelf (misschien ook anderen) willen wijs maken. Weigerachtig tegenover _de geest_, bang dat hij mij te ver zou voeren en dat zijn invloed te machtig worden zou, neig ik naar _het vlees_. Dit is kort en goed de aarzeling van de zwakheid.
 
 Waarom geeft dit alles toch meer licht, hoe horen wij hierin een toon van blijdschap?
 
 Het is eenvoudig: wie (niet overdreven of boven zijn kracht) resoluut partij kiest voor Jezus Christus en zijn leer, wie de ingevingen van de heilige Geest wenst te volgen, eerder dan de grillen van zijn natuur, heeft de strijd al half gewonnen.
 
-Er ligt zoveel wijsheid in het beslist partij kiezen voor Christus en zijn Kerk, zich uit te spreken voor de leer en het leven van degene die kwam om als onze Redder ook in alles ons voorbeeld te zijn. De uitgesproken houding is niet de moeilijkste: het is de slappe leer, het is de onzekere mening, hef is de aarzeling die ontzenuwt en krachteloos maakt.
+Er ligt zoveel wijsheid in het beslist partij kiezen voor Christus en zijn Kerk, zich uit te spreken voor de leer en het leven van degene die kwam om als onze Redder ook in alles ons voorbeeld te zijn. De uitgesproken houding is niet de moeilijkste: het is de slappe leer, het is de onzekere mening, het is de aarzeling die ontzenuwt en krachteloos maakt.
 
 Moge de Meester zelf ons de blijdschap schenken van de ongerepte trouw aan zijn vaandel: het leven is een strijd, maar wie bij Hem blijven, voert Hij tot de overwinning.
