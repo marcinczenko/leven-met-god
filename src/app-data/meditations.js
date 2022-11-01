@@ -1508,7 +1508,7 @@ export const meditations = {
     ]
   },
   '2022-11-3T00:00:00': {
-    title: '353: DONDERDAG NA DE 21e ZONDAG - ',
+    title: '353: DONDERDAG NA DE 21e ZONDAG - Hij ziet mijn hart',
     link: '/353'
   },
   '2022-11-4T00:00:00': {
