@@ -13,7 +13,7 @@ Vandaag herdenken wij allen die ons zijn voorgegaan in de _slaap van de vrede_. 
 _Nooit zal er (in de hemelse stad) iets ingaan, wat onrein is._ (Openb. 21:27)
 _Ik zal hen smelten, zoals men zilver smelt; hen louteren, zoals goud wordt gelouterd._ (Zach. 13:9)
 
-_Er komt een nacht,_ zegt Christus, _waarin niemand meer werken kan._ (Joh. 9: 4.) Hij spreekt ons over de _laatste penning_, die wij nog schuldig zijn. _Gij zult daar niet uitkomen, voordat gij de laatste penning zult hebben betaald._ (Matt. 5:27)
+_Er komt een nacht,_ zegt Christus, _waarin niemand meer werken kan._ (Joh. 9:4) Hij spreekt ons over de _laatste penning_, die wij nog schuldig zijn. _Gij zult daar niet uitkomen, voordat gij de laatste penning zult hebben betaald._ (Matt. 5:27)
 
 1\. Wij staan door de gemeenschap der heiligen in nauwe verbinding met het vagevuur. Zovelen zien daar verlangend uit naar ons medelijden. _Ontfermt u over mij, gij, tenminste mijn vrienden, want de hand des Heren heeft mij geraakt._ (Joh. 19:21) _De heilige katholieke Kerk... leert op grond van de heilige schriften en de oude overleveringen van de Vaders, dat er een plaats van zuivering bestaat en dat de zielen die daar worden vastgehouden, door de voorbeden van de gelovigen en in het bijzonder door het God welgevallige offer van het altaar, hulp ondervinden._ (Conc. van Trente)
 
