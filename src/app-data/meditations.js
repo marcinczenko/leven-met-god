@@ -1516,7 +1516,7 @@ export const meditations = {
     link: '/354'
   },
   '2022-11-5T00:00:00': {
-    title: '355: ZATERDAG NA DE 21e ZONDAG - ',
+    title: '355: ZATERDAG NA DE 21e ZONDAG - Ijver',
     link: '/355'
   },
   '2022-11-6T00:00:00': {
