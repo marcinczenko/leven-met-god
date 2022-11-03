@@ -1512,7 +1512,7 @@ export const meditations = {
     link: '/353'
   },
   '2022-11-4T00:00:00': {
-    title: '354: VRIJDAG NA DE 21e ZONDAG - ',
+    title: '354: VRIJDAG NA DE 21e ZONDAG - God roept',
     link: '/354'
   },
   '2022-11-5T00:00:00': {
