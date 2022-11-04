@@ -1520,7 +1520,7 @@ export const meditations = {
     link: '/355'
   },
   '2022-11-6T00:00:00': {
-    title: '356: 22e ZONDAG NA PINKSTEREN - ',
+    title: '356: 22e ZONDAG NA PINKSTEREN - Onze verhouding tot anderen',
     link: '/356'
   }
 }
