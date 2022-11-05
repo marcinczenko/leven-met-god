@@ -1522,5 +1522,64 @@ export const meditations = {
   '2022-11-6T00:00:00': {
     title: '356: 22e ZONDAG NA PINKSTEREN - Onze verhouding tot anderen',
     link: '/356'
+  },
+  '2022-11-7T00:00:00': {
+    title: '388: 7 NOVEMBER - De heilige Willibrordus',
+    link: '/388',
+    extras: [
+      {
+        title: '357: MAANDAG NA DE 22e ZONDAG - De vruchten van het gebed',
+        link: '/357',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-11-8T00:00:00': {
+    title: '358: DINSDAG NA DE 22e ZONDAG - ',
+    link: '/358'
+  },
+  '2022-11-9T00:00:00': {
+    title: '359: WOENSDAG NA DE 22e ZONDAG - ',
+    link: '/359'
+  },
+  '2022-11-10T00:00:00': {
+    title: '360: DONDERDAG NA DE 22e ZONDAG - ',
+    link: '/360'
+  },
+  '2022-11-11T00:00:00': {
+    title: '361: VRIJDAG NA DE 22e ZONDAG - ',
+    link: '/361'
+  },
+  '2022-11-12T00:00:00': {
+    title: '362: ZATERDAG NA DE 22e ZONDAG - ',
+    link: '/362'
+  },
+  '2022-11-13T00:00:00': {
+    title: '363: 23e ZONDAG NA PINKSTEREN - ',
+    link: '/363'
+  },
+  '2022-11-14T00:00:00': {
+    title: '364: MAANDAG NA DE 23e ZONDAG - ',
+    link: '/364'
+  },
+  '2022-11-15T00:00:00': {
+    title: '365: DINSDAG NA DE 23e ZONDAG - ',
+    link: '/365'
+  },
+  '2022-11-16T00:00:00': {
+    title: '366: WOENSDAG NA DE 23e ZONDAG - ',
+    link: '/366'
+  },
+  '2022-11-17T00:00:00': {
+    title: '367: DONDERDAG NA DE 23e ZONDAG - ',
+    link: '/367'
+  },
+  '2022-11-18T00:00:00': {
+    title: '368: VRIJDAG NA DE 23e ZONDAG - ',
+    link: '/368'
+  },
+  '2022-11-19T00:00:00': {
+    title: '369: ZATERDAG NA DE 23e ZONDAG - ',
+    link: '/369'
   }
 }

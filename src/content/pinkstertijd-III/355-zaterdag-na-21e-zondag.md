@@ -14,7 +14,7 @@ Het is goed voor ons als wij van tijd tot tijd eens horen dat de ijver, de toele
 
 Van Jezus zelf staat in de schrift deze wonderbaar-eenvoudige en toch zo krachtige waardering geschreven: _Hij heeft alles wel gedaan: doven deed Hij horen en stommen spreken._ (Mark. 7:37)
 
-Hij heeft op voortreffelijke wijze de taak vervuld die de Vader Hem had toevertrouwd, zodat zij die aanvankelijk niet wilden horen, toch geluisterd hebben naar Gods stem, en zij die Gods lof niet meer verkondigden, onuitputtelijk werden in het prijzen van Gods heerlijkheid. Hij heeft het mensdom tot in zijn diepe wortels gezuiverd. en geheiligd.
+Hij heeft op voortreffelijke wijze de taak vervuld die de Vader Hem had toevertrouwd, zodat zij die aanvankelijk niet wilden horen, toch geluisterd hebben naar Gods stem, en zij die Gods lof niet meer verkondigden, onuitputtelijk werden in het prijzen van Gods heerlijkheid. Hij heeft het mensdom tot in zijn diepe wortels gezuiverd en geheiligd.
 
 Zeker komt deze goedkeuring alleen Christus toe, omdat zijn zorg, zijn toeleg, zijn volstrekte overgave aan het toevertrouwde werk zonder meer volkomen waren, zelfs bovenmenselijk heilig en oprecht.
 
