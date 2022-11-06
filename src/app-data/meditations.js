@@ -1535,7 +1535,7 @@ export const meditations = {
     ]
   },
   '2022-11-8T00:00:00': {
-    title: '358: DINSDAG NA DE 22e ZONDAG - ',
+    title: '358: DINSDAG NA DE 22e ZONDAG - Aansporing tot liefde',
     link: '/358'
   },
   '2022-11-9T00:00:00': {
