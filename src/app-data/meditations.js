@@ -1539,7 +1539,7 @@ export const meditations = {
     link: '/358'
   },
   '2022-11-9T00:00:00': {
-    title: '359: WOENSDAG NA DE 22e ZONDAG - ',
+    title: '359: WOENSDAG NA DE 22e ZONDAG - God in ons IV',
     link: '/359'
   },
   '2022-11-10T00:00:00': {
