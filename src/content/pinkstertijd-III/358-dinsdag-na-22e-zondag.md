@@ -22,7 +22,7 @@ _De last van Christus die voor de zwakheid zwaar is, wordt voor de liefde licht.
 
 Deze en dergelijke woorden van heiligen en geestelijke schrijvers wijzen er op, hoe hoog zij de stuwkracht van de liefde aanslaan.
 
-2\. Evenmin als zij dat deden mogen wij het bij een koele waardering laten. Men leert de liefde niet tenzij door te beminnen. Geheel ons wezen moet telkens weer en liefst zeer dikwijls worden opgeroepen uit zijn traagheid, om tot volledige, diepe, inwendige daden van liefde te kunnen komen. Men oefent zich niet in de liefde, als men geen liefdedaden stelt.
+2\. Evenmin als zij dat deden, mogen wij het bij een koele waardering laten. Men leert de liefde niet tenzij door te beminnen. Geheel ons wezen moet telkens weer en liefst zeer dikwijls worden opgeroepen uit zijn traagheid, om tot volledige, diepe, inwendige daden van liefde te kunnen komen. Men oefent zich niet in de liefde, als men geen liefdedaden stelt.
 
 Stil neerzitten bij de Heer, vol liefde opzien naar het tabernakel en inwendig zeggen: _Heer, Gij weet, dat ik U liefheb_, is een uitmuntende vorm van liefde. Deze stille, liefdevolle concentratie op de beminnelijke Persoon van de Heer, kan niemand missen die het ver wil brengen in de kunst van het beminnen.
 

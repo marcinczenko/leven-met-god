@@ -1543,7 +1543,7 @@ export const meditations = {
     link: '/359'
   },
   '2022-11-10T00:00:00': {
-    title: '360: DONDERDAG NA DE 22e ZONDAG - ',
+    title: '360: DONDERDAG NA DE 22e ZONDAG - Het nieuwe leven I',
     link: '/360'
   },
   '2022-11-11T00:00:00': {
