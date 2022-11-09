@@ -1547,7 +1547,7 @@ export const meditations = {
     link: '/360'
   },
   '2022-11-11T00:00:00': {
-    title: '361: VRIJDAG NA DE 22e ZONDAG - ',
+    title: '361: VRIJDAG NA DE 22e ZONDAG - Vasthouden tot het laatste',
     link: '/361'
   },
   '2022-11-12T00:00:00': {
