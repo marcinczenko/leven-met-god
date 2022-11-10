@@ -32,7 +32,7 @@ De voortdurende omgang met Christus, het bewustzijn van het goddelijk leven in o
 
 Blijdschap, dankbaarheid en ijver, om het leven met zijn prachtige kansen dat iedere dag weer voor ons ligt: dat behoort onze stemming en onze levenssfeer te zijn.
 
-Dan worden goede initiatieven geboren, aangekweekt en niet meer onderdrukt: _onderzoekt wat welbehaaglijk is aan de Heer_, dan krijgt het kwaad geen kans; het wordt als volstrekt onpassend geen blik meer waard gekeurd: _neemt geen deel aan de onvruchtbare werken van de duisternis_. (Ef. 5:1O,11)
+Dan worden goede initiatieven geboren, aangekweekt en niet meer onderdrukt: _onderzoekt wat welbehaaglijk is aan de Heer_, dan krijgt het kwaad geen kans; het wordt als volstrekt onpassend geen blik meer waard gekeurd: _neemt geen deel aan de onvruchtbare werken van de duisternis_. (Ef. 5:10,11)
 
 Zo trekt de heilige Geest ons tot gebed, omdat wij daarin het bewustzijn van ons goddelijk verbond bewaren en het beleven. Hij leidt ons tot _hartelijke gemeenschapszin_, want dit is de geest van Christus en de Geest van ons nieuw, goddelijk leven. Hij leidt ons _tot stipte plichtsvervulling_ omdat wij ook in het voorbeeld, dat een steun voor anderen is, een vorm van echt apostolaat ontdekt hebben.
 
