@@ -1551,7 +1551,7 @@ export const meditations = {
     link: '/361'
   },
   '2022-11-12T00:00:00': {
-    title: '362: ZATERDAG NA DE 22e ZONDAG - ',
+    title: '362: ZATERDAG NA DE 22e ZONDAG - Jezus de Heilige',
     link: '/362'
   },
   '2022-11-13T00:00:00': {
