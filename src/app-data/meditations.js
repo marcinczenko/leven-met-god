@@ -1555,31 +1555,59 @@ export const meditations = {
     link: '/362'
   },
   '2022-11-13T00:00:00': {
-    title: '363: 23e ZONDAG NA PINKSTEREN - ',
+    title: '363: 23e ZONDAG NA PINKSTEREN - Wij volgen Christus',
     link: '/363'
   },
   '2022-11-14T00:00:00': {
-    title: '364: MAANDAG NA DE 23e ZONDAG - ',
+    title: '364: MAANDAG NA DE 23e ZONDAG - Het nieuwe leven II',
     link: '/364'
   },
   '2022-11-15T00:00:00': {
-    title: '365: DINSDAG NA DE 23e ZONDAG - ',
+    title: '365: DINSDAG NA DE 23e ZONDAG - Tot wie gaat onze naastenliefde?',
     link: '/365'
   },
   '2022-11-16T00:00:00': {
-    title: '366: WOENSDAG NA DE 23e ZONDAG - ',
+    title: '366: WOENSDAG NA DE 23e ZONDAG - Christus kennen',
     link: '/366'
   },
   '2022-11-17T00:00:00': {
-    title: '367: DONDERDAG NA DE 23e ZONDAG - ',
+    title: '367: DONDERDAG NA DE 23e ZONDAG - Het kruisteken: een herinnering',
     link: '/367'
   },
   '2022-11-18T00:00:00': {
-    title: '368: VRIJDAG NA DE 23e ZONDAG - ',
+    title: '368: VRIJDAG NA DE 23e ZONDAG - Liefde tot God',
     link: '/368'
   },
   '2022-11-19T00:00:00': {
-    title: '369: ZATERDAG NA DE 23e ZONDAG - ',
+    title: '369: ZATERDAG NA DE 23e ZONDAG - Apostel zijn',
     link: '/369'
+  },
+  '2022-11-20T00:00:00': {
+    title: '370: 24e ZONDAG NA PINKSTEREN - Het volledig christelijk leven',
+    link: '/370'
+  },
+  '2022-11-21T00:00:00': {
+    title: '371: MAANDAG NA DE 24e ZONDAG - God niet alleen II',
+    link: '/371'
+  },
+  '2022-11-22T00:00:00': {
+    title: '372: DINSDAG NA DE 24e ZONDAG - Zuiverheid van hart',
+    link: '/372'
+  },
+  '2022-11-23T00:00:00': {
+    title: '373: WOENSDAG NA DE 24e ZONDAG - Vruchten van de geest II',
+    link: '/373'
+  },
+  '2022-11-24T00:00:00': {
+    title: '374: DONDERDAG NA DE 24e ZONDAG - Vruchten van de geest III',
+    link: '/374'
+  },
+  '2022-11-25T00:00:00': {
+    title: '375: VRIJDAG NA DE 24e ZONDAG - Wie in Mij gelooft...',
+    link: '/375'
+  },
+  '2022-11-26T00:00:00': {
+    title: '376: ZATERDAG NA DE 24e ZONDAG - Het licht van de wereld',
+    link: '/376'
   }
 }
