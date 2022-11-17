@@ -18,11 +18,11 @@ Wij staan onder de zegen van het kruis, dat voor ons tegelijk de verlossing door
 
 _Immers,_ zo zegt Paulus, _de prediking (dus ook het teken) van het kruis is wel een dwaasheid voor hen die verloren gaan, maar voor ons die behouden worden, is ze een kracht Gods._ (1 Kor. 1:18) Wij leven in de schaduw van het kruis, maar deze schaduw werpt een licht naar binnen: wij dragen in ons hart het licht van Christus. Wij behoren Hem toe, dat wil zeggen, dat wij ons aan Hem overgeven, dat wij Hem liefhebben, dus voor Hem willen leven, lijden en werken. _Tot in de dood willen wij voor U zijn, Heer._ _Hetzij wij leven hetzij wij sterven, de Heer behoren wij toe._ (Rom. 14:8)
 
-Hem toebehoren wil ook zeggen, dat Hij ons als zijn eigendom beschouwt. Hij heeft ons verworven, als veroverd door zijn bloed, door zijn dood op het kruis. _Wat Gij Mij hebt gegeven, zal Ik niet laten verloren gaan,_ zegt Hij tot zijn Vader; _niemand zal ze uit mijn handen roven_. Hij waakt over ons, Hij beschermt ons, als wij eerbiedig en dikwijls het kruisteken over ons zelf maken.
+Hem toebehoren wil ook zeggen, dat Hij ons als zijn eigendom beschouwt. Hij heeft ons verworven, als veroverd door zijn bloed, door zijn dood op het kruis. _Wat Gij Mij hebt gegeven, zal Ik niet laten verloren gaan,_ zegt Hij tot zijn Vader; _niemand zal ze uit mijn handen roven_. Hij waakt over ons, Hij beschermt ons, als wij eerbiedig en dikwijls het kruisteken over onszelf maken.
 
 _Wanneer ik (als kind) het kruis op voorhoofd, mond en borst maakte, dacht ik: dit zijn de sleutels, opdat er niets kwaads in voorhoofd, mond en hart mocht binnenkomen. Alleen het kindje Jezus moet de sleutels hebben, dan zal alles goed zijn._ (A. C. Emmerick)
 
-2\. _Het zij verre van mij,_ zegt de apostel, _op iets anders te roemen dan op het kruis van onze Heer Jezus Christus._ (Gal. 6:14) _Met Christus hen ik gekruisigd._ (Gal. 2:19)
+2\. _Het zij verre van mij,_ zegt de apostel, _op iets anders te roemen dan op het kruis van onze Heer Jezus Christus._ (Gal. 6:14) _Met Christus ben ik gekruisigd._ (Gal. 2:19)
 
 Dit kruisteken is meer dan een symbool; het is ook een herinnering dat geheel ons leven, dat dus ook al onze gedachten, gevoelens en handelingen aan de Gekruiste zijn toegewijd. Wij leven met Hem en in Hem.
 
@@ -30,6 +30,6 @@ _Velen,_ zegt Augustinus, _maken het kruisteken op het voorhoofd zonder zich om 
 
 Als de invloed van Jezus' lijden, van zijn gehoorzaamheid aan het kruis, van zijn onzegbaar-diepe nederigheid en zelfvernedering, dieper in ons doordrong, zou de genade andere mensen van ons maken. Nu bewaren en behoeden wij helaas, onder het teken van het kruis, nog de oude trots, soms wrok en opstand, ruwheid, tekort aan beschaving en aan gevoeligheid voor anderen.
 
-Heeft Christus dan geen lessen voor __al__ onze onkunde? Heeft Hij geen genade voor __al__ onze zwakheden?
+Heeft Christus dan geen lessen voor _al_ onze onkunde? Heeft Hij geen genade voor _al_ onze zwakheden?
 
-_O Jezus, laat uw kruis voor mij telkens weer de herinnering zijn dat ik aan U toebehoor; Laat mij het kruisteken altijd met liefde en eerbied maken. Maar leer mij ook U toe te behoren in de praktijk van het dagelijkse leven. Leer mij <u>die</u> naastenliefde die ik als priester, die ik in mijn kloostergemeenschap, die ik in mijn gezin en arbeidsmilieu zo nodig heb en die ik niet kan beoefenen zonder iets van uw nederigheid in mij te dragen. Laat daarom de kracht van uw kruis, mijn Jezus, ook mijn trots overwinnen. Amen._
+_O Jezus, laat uw kruis voor mij telkens weer de herinnering zijn dat ik aan U toebehoor; Laat mij het kruisteken altijd met liefde en eerbied maken. Maar leer mij ook U toe te behoren in de praktijk van het dagelijkse leven. Leer mij __die__ naastenliefde die ik als priester, die ik in mijn kloostergemeenschap, die ik in mijn gezin en arbeidsmilieu zo nodig heb en die ik niet kan beoefenen zonder iets van uw nederigheid in mij te dragen. Laat daarom de kracht van uw kruis, mijn Jezus, ook mijn trots overwinnen. Amen._
