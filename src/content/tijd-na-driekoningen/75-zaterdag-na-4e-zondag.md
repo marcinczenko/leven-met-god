@@ -32,4 +32,4 @@ In het gebed vindt de leke-opvoeder en -opvoedster nieuwe kracht voor de in onze
 
 In het gebed hervinden de echtgenoten de opofferende liefde voor elkander. In het gebed vindt de zieke troost, de verdoolde de waarheid weer. Want... in het gebed luistert God naar zijn geliefde kinderen.
 
-_O God die ons door Jezus hebt geleerd: __vraagt en gij zult verkrijgen__, help ons het gebed standvastig en met veel liefde te beoefenen. Leer ons het gebed zien als een heilige plicht, als een onmisbaar hulpmiddel voor ons eeuwig heil, en vooral als een uiting van ons diep geloof en van onze hartelijke liefde voor U. Amen._
+_O God, die ons door Jezus hebt geleerd: __vraagt en gij zult verkrijgen__, help ons het gebed standvastig en met veel liefde te beoefenen. Leer ons het gebed zien als een heilige plicht, als een onmisbaar hulpmiddel voor ons eeuwig heil, en vooral als een uiting van ons diep geloof en van onze hartelijke liefde voor U. Amen._

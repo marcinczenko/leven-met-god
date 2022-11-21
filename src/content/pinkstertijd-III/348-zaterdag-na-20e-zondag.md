@@ -32,7 +32,7 @@ _De wonderen zijn de verheven stralenkrans om de verheven gestalte van Jezus Chr
 
 Men heeft de waarde van de ongehoorde daden van Christus met gewoon menselijke (maar grote) feiten vergeleken. Zo zegt Tholuck: _uit Jezus' leven de wonderen wegnemen betekent hetzelfde als uit Alexanders of Caesars leven de wapenfeiten en de dagen van de veldslagen schrappen_. Terecht meende Harnack: _het wonderbaarlijke is in de evangeliën zozeer verspreid, dat het onmogelijk is het daaruit los te maken zonder de evangeliën zelf te vernielen_.
 
-Eens genas Jezus in het openbaar een man die totaal verlamd was, met de eenvoudige woorden: _sta op, neem uw bed en ga naar huis_. En hij stond op en ging naar huis. _De menigte die het zag,_ zo schrijft Mattheus, _werd door vrees bevangen en verheerlijkte God die zulk een macht aan de mensen gaf._ (Matt. 9:8)
+Eens genas Jezus in het openbaar een man die totaal verlamd was, met de eenvoudige woorden: _sta op, neem uw bed en ga naar huis_. En hij stond op en ging naar huis. _De menigte die het zag,_ zo schrijft Mattheus, _werd door vrees bevangen en verheerlijkte God, die zulk een macht aan de mensen gaf._ (Matt. 9:8)
 
 In zijn eerste optreden voor het volk beroept Petrus zich op de grote gebeurtenissen uit Christus' leven. _Mannen van Israël hoort deze woorden: Jezus van Nazareth, een man voor wie God bij u heeft getuigd door krachten en wonderen en tekenen, welke God, zoals gij weet, door Hem in uw midden verrichtte, Hem hebt gij overgeleverd._ (Hand. 2:22,23)
 

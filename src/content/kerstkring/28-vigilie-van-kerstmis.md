@@ -24,7 +24,7 @@ Als een eerbetuiging, terwijl Hij in de diepste vernedering geboren wordt, zingt
 
 _Jezus, wil Gij zelf mijn hart voorbereiden op uw komst: want ik wil U met veel liefde ontvangen. Alles behoort U toe: ik wil U toebehoren uit liefde, maar dan zonder enige beperking daarbij te maken ten bate van mijzelf._
 
-2\. _God die ons verblijdt door de jaarlijkse verwachting van onze verlossing: verleen ons dat wij, die Hem blij als Redder ontvangen Hem ook veilig eenmaal als Rechter tegemoet mogen zien, onze Heer Jezus Christus, uw Zoon._
+2\. _God, die ons verblijdt door de jaarlijkse verwachting van onze verlossing: verleen ons dat wij, die Hem blij als Redder ontvangen Hem ook veilig eenmaal als Rechter tegemoet mogen zien, onze Heer Jezus Christus, uw Zoon._
 
 Het is Gods gunst en Gods gave dat wij ons in blijdschap voorbereiden op het Kerstfeest: wij verwachten het inderdaad als een _vernieuwing van onze verlossing_. _Hij_ zal in ons iets tot stand brengen, in ons binnenste, dus in ons intiemste leven, wat er tot nu toe niet leven of zijn kon. Ik wil dus in een vurig gebed bidden om die zegenrijke werking van mijn Verlosser en Heer in mij; ik wil er mij op voorbereiden; ik wil Hem mijn hart, dus mijn liefde en volkomen bereidheid bieden... Eenmaal komt Hij als Rechter; eenmaal spreekt Hij het onveranderlijk, eeuwig oordeel uit, ook over mij.
 

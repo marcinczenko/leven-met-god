@@ -25,7 +25,7 @@ Juist op grond van die verbondenheid met Christus (omdat hij vol was van de heil
 
 _Onze_ naastenliefde zal nooit heldhaftigheid bereiken, als Jezus ons die niet geeft. Wij bidden, en terecht: _geef ons Heer, dat wij mogen navolgen wat wij vereren_ maar de bron van de bovenmenselijke deugd, moet ook in het bovenmenselijke gezocht worden dat wil zeggen in onze vitale aansluiting bij God. _Met Hem en in Hem leven,_ dat voert ons hoger op en geeft ons de kracht tot die soms zoveel vragende zelfverloochening, in de liefde voor de mensen.
 
-Heiligheid en volmaaktheid zijn samengesteld uit allerlei deugd; maar het grondpatroon blijft de liefde. Zij _is_ de liefde tot God die zich uit in de daadwerkelijke liefde tot de mensen die naast ons staan.
+Heiligheid en volmaaktheid zijn samengesteld uit allerlei deugd; maar het grondpatroon blijft de liefde. Zij _is_ de liefde tot God, die zich uit in de daadwerkelijke liefde tot de mensen die naast ons staan.
 
 Dat was Jezus' voorbeeld: Hij werd geboren en kwam de wereld redden. Het _was zijn liefde tot de Vader_, die zich manifesteerde in zijn verregaande liefde voor het menselijk geslacht. Dat heeft Stefanus tot in zijn bloedige dood begrepen en nagevolgd.
 

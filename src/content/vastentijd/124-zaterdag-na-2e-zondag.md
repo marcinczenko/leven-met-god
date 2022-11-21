@@ -12,7 +12,7 @@ Het eeuwig-hoopvolle evangelie van de heilige Lukas moet alle zondaars wel vervu
 
 Het is _de geschiedenis van een ziel_ - duizenden malen in werkelijkheid herhaald - van een ziel die de terugweg vond naar het vaderhuis.
 
-Niet iedereen komt van zover als de verloren zoon moest komen; niet iedereen heeft alles verlaten en verknoeid, zoals hij dat had gedaan... maar voor ons allen is de les bedoeld van het diepe berouw, van het grote vertrouwen ondanks alles; voor ons allen is bedoeld de heenwijzing naar de grote goedheid van God die onze Vader is.
+Niet iedereen komt van zover als de verloren zoon moest komen; niet iedereen heeft alles verlaten en verknoeid, zoals hij dat had gedaan... maar voor ons allen is de les bedoeld van het diepe berouw, van het grote vertrouwen ondanks alles; voor ons allen is bedoeld de heenwijzing naar de grote goedheid van God, die onze Vader is.
 
 1\. De _verloren zoon_... Hij was de jongste van twee broers... Wellicht was de moeder sinds lang gestorven. Lichtzinnige vrienden brachten hem het hoofd op hol..., hij kreeg meer dan genoeg van het saaie leven bij zijn oude vader (hij zag niet meer dat hij buitengewoon bevoorrecht was): hij ging met de vrienden (die teerden op zijn zak) naar het lachende leven in de grote stad met haar vermaak en zwier, met haar muziek en dans. Hij liet zich overhalen met hen mee te gaan... voorgoed... naar Perzië of Babylonië, naar een of andere grote plaats, maar dan - zeiden de wijze vrienden - mèt het erfdeel van zijn vader.
 

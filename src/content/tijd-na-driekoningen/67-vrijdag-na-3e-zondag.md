@@ -22,7 +22,7 @@ _God is Hij voor wie alles leeft; niets wat leven moet, sterft voor Hem; alles w
 
 2\. Wij vinden God door Jezus Christus, die voor ons mens werd om ons God te tonen. Het is dus van belang deze weg die God heeft gewezen, te bewandelen. Intimiteit met Christus voert tot eenheid met God. _De genade van de Heer Jezus Christus, de liefde van God en de gemeenschap van de heilige Geest zij met u allen._ (2 Kor. 13:13) Het mag wel een grote vreugde voor ons zijn, dat wij zo gemakkelijk Christus kunnen kennen door het geloof en het evangelie en door de genade zo gemakkelijk kunnen worden opgevoerd. Christus is te benaderen op allerlei wijze: Hij vergoddelijkt ons door de heilige Geest; Hij is het ook die ons tot de Vader brengt.
 
-_God die ons en u onwankelbaar aan Christus bindt en ons heeft gezalfd, Hij heeft ook zijn zegel op ons gedrukt en de waarborg van de Geest in onze harten gelegd._ (2 Kor. 1:21,22)
+_God, die ons en u onwankelbaar aan Christus bindt en ons heeft gezalfd, Hij heeft ook zijn zegel op ons gedrukt en de waarborg van de Geest in onze harten gelegd._ (2 Kor. 1:21,22)
 
 Dit vraagt geloof; maar geloof leidt tot inzicht. _Hoe meer wij ons gevoed hebben uit het geloof, hoe rijker wij worden aan begrip._ (Anselmus)
 

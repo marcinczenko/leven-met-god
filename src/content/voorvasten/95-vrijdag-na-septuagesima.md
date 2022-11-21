@@ -10,7 +10,7 @@ sortIndex: 95
 
 Om deze vraag te beantwoorden, een vraag die iedereen wie het geestelijk leven ter harte gaat, gewichtig zal vinden, zijn er vooral twee punten belangrijk.
 
-1\. De vraag is hier niet: hoe zullen wij God, die de Schepper van hemel en aarde is, aanbidden en liefhebben, of hoe moet ik mij gedragen vóór het heilig Sacrament? De kwestie is deze: hoe leef ik in eerbied en liefde _met God die in mij woont_ door de heiligmakende genade.
+1\. De vraag is hier niet: hoe zullen wij God, die de Schepper van hemel en aarde is, aanbidden en liefhebben, of hoe moet ik mij gedragen vóór het heilig Sacrament? De kwestie is deze: hoe leef ik in eerbied en liefde _met God, die in mij woont_ door de heiligmakende genade.
 
 Het is onmiskenbaar dat talrijke heiligen en vurige christenen met een ontwikkeld geestelijk leven, veel troost hebben gevonden in hun omgang met die _inwendige God_. Voor menigeen werd dit het uitgangspunt, het begin van een zeer intieme omgang met de Allerhoogste, vooral met de heilige Drieëenheid en een haast onmiddellijke voorbereiding op het mystieke verkeer met God.
 
@@ -18,7 +18,7 @@ God is in ons. Van deze waarheid gaan wij uit; wij zijn Gods kinderen, wij delen
 
 2\. Naast dit feit van God-in-ons, en ons geloof in die waarheid, naast het verlangen met Hem te mogen zijn en te mogen spreken, staat de moeilijkheid van de praktijk.
 
-Het is uiteraard wenselijk dat men zoveel mogelijk de aandacht op God blijft vestigen, ook gedurende de arbeid naar buiten of in het gezelschap van mensen. Zelfs een monnik als Blosius kent de moeilijkheid van deze oefening. _Wanneer gij door zaken en onderhoud met mensen afgeleid, niet zo vrij aan Hem kunt denken, zorg toch nooit geheel uit u zelf te treden en verwijder u niet van God. Houd u met Hem verenigd door een levendige en tedere liefde om zodra de noodzakelijkheid die u weerhield, ophoudt, onmiddellijk alles te verlaten wat God niet is, tot Hem terug te keren en Hem geheel uw ziel te geven._
+Het is uiteraard wenselijk dat men zoveel mogelijk de aandacht op God blijft vestigen, ook gedurende de arbeid naar buiten of in het gezelschap van mensen. Zelfs een monnik als Blosius kent de moeilijkheid van deze oefening. _Wanneer gij door zaken en onderhoud met mensen afgeleid, niet zo vrij aan Hem kunt denken, zorg toch nooit geheel uit uzelf te treden en verwijder u niet van God. Houd u met Hem verenigd door een levendige en tedere liefde om zodra de noodzakelijkheid die u weerhield, ophoudt, onmiddellijk alles te verlaten wat God niet is, tot Hem terug te keren en Hem geheel uw ziel te geven._
 
 De herhaling van een (liefst zelf gevonden) korte formule kan een uitmuntend middel zijn.
 
@@ -26,7 +26,7 @@ _Jezus laat mij vandaag U meer beminnen dan gisteren._
 
 _God, die in mij woont, sta niet toe dat ik uw heiligheid vergeet._
 
-_God die ik liefheb, blijf, bid ik U toch altijd bij mij._
+_God, die ik liefheb, blijf, bid ik U toch altijd bij mij._
 
 _Mijn God ik aanbid U in mij; mijn God ik dank U in mij; mijn God ik vraag U die in mij zijt vergeving; mijn God leid de stromen van uw genaden over mijn arme ziel. Amen._
 

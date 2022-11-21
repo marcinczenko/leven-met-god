@@ -34,7 +34,7 @@ Volgt er niet uit dat wij onze liefde tot God niet genoeg voeden? Bidden wij wel
 
 Neen, schrijft Teresia, geen fantasieën.
 
-_God vraagt daden. Hij wil dat gij bereid zult zijn uw godsvrucht op te geven om een zieke te gaan verzorgen, iemand te gaan troosten door zijn lijden te maken tot het uwe, desnoods te vasten om hem eten te kunnen geven; en dat alles doen niet zozeer uit liefde voor die persoon, als wel uit liefde tot God die dit van u vraagt, zoals gij weet._ (Kast. 5:3)
+_God vraagt daden. Hij wil dat gij bereid zult zijn uw godsvrucht op te geven om een zieke te gaan verzorgen, iemand te gaan troosten door zijn lijden te maken tot het uwe, desnoods te vasten om hem eten te kunnen geven; en dat alles doen niet zozeer uit liefde voor die persoon, als wel uit liefde tot God, die dit van u vraagt, zoals gij weet._ (Kast. 5:3)
 
 Daaraan erkent men dan de ware liefde.
 

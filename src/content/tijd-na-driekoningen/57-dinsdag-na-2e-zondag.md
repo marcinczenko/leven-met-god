@@ -14,7 +14,7 @@ Het is uiteraard voor ons allen belangrijk te weten dat wij voor de liefde gesch
 
 _God is liefde en wie in de liefde blijft, blijft in God en God in hem._ (1 Joh. 4:16) _Met een eeuwige liefde heb Ik u liefgehad,_ zegt God.
 
-Met deze twee schriftwoorden is het gehele lot van de mens, zoals God dat ziet getekend. Komend van de liefde, gaat hij tot de liefde. Maar de liefde die hem voortbracht is God; langs de weg die Christus is gaat hij terug naar God die liefde is. Zijn weg is liefde, want Christus is uit liefde gekomen en in liefde alleen kan men Hem volgen.
+Met deze twee schriftwoorden is het gehele lot van de mens, zoals God dat ziet getekend. Komend van de liefde, gaat hij tot de liefde. Maar de liefde die hem voortbracht is God; langs de weg die Christus is gaat hij terug naar God, die liefde is. Zijn weg is liefde, want Christus is uit liefde gekomen en in liefde alleen kan men Hem volgen.
 
 _Hierdoor heeft Gods liefde zich aan ons geopenbaard, dat God zijn eniggeboren Zoon in de wereld heeft gezonden opdat wij door Hem zouden leven._ (1 Joh. 4:9) Hij gaf het bewijs van zijn liefde voor de mensen en _ook voor ieder van ons_ door alles wat Hij in zijn leven deed. Hij leefde van liefde en voor liefde. En het enige doel van zijn zware arbeid was, daarvoor _onze_ liefde terug te krijgen. _Niemand heeft groter liefde,_ zo sprak Hij, _dan wie zijn leven voor zijn vrienden geeft._ (Joh. 15:13)
 

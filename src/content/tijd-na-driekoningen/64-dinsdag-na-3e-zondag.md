@@ -8,7 +8,7 @@ sortIndex: 64
 
 ## God aanbidden
 
-Als in een naklank van het Kerstfeest en van de aanbidding door de drie koningen, zingt de introïtus uit de mis van verleden zondag _Aanbidt God, gij al zijne engelen; Sion hoorde het en verheugde zich en Juda's dochters jubelden._ (Ps. 96) Wij worden uitgenodigd tot een blijde en dankbare aanbidding van God die ons Jezus Christus gaf. Wij aanbidden Christus zelf, die God is.
+Als in een naklank van het Kerstfeest en van de aanbidding door de drie koningen, zingt de introïtus uit de mis van verleden zondag _Aanbidt God, gij al zijne engelen; Sion hoorde het en verheugde zich en Juda's dochters jubelden._ (Ps. 96) Wij worden uitgenodigd tot een blijde en dankbare aanbidding van God, die ons Jezus Christus gaf. Wij aanbidden Christus zelf, die God is.
 
 1\. _Zijn grootheid heeft geen einde, daarom mag ook uw lof geen einde nemen,_ zegt Augustinus. Geheel ons leven staat zó voortdurend onder Gods invloed en zó dicht bij Hem dat de aanbidding ons als vanzelfsprekend zal voorkomen. Soms hebben wij in de praktijk er enige moeite mee en toch de gedachte aan God kan zo gemakkelijk aanbidding en dankbaarheid worden. Er zijn zeer veel gelegenheden waarbij de Kerk tot de aanbidding van God uitnodigt.
 

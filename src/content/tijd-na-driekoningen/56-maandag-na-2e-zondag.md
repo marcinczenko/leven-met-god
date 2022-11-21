@@ -8,7 +8,7 @@ sortIndex: 56
 
 ## De heilige Schrift
 
-Wij plegen nog steeds zo weinig te denken aan de waardevolle woorden van God. Daar, in de schrift, ligt voor ons het richtsnoer voor ons leven, de troost in de droefheid en het licht in de duisternis. De heilige schrift (dat betekent God die tot ons spreekt), bevat voor ons de wijsheid, de liefde, de aansporing. Dat alles hebben wij nodig om gelukkig te kunnen zijn en de weg door het
+Wij plegen nog steeds zo weinig te denken aan de waardevolle woorden van God. Daar, in de schrift, ligt voor ons het richtsnoer voor ons leven, de troost in de droefheid en het licht in de duisternis. De heilige schrift (dat betekent God, die tot ons spreekt), bevat voor ons de wijsheid, de liefde, de aansporing. Dat alles hebben wij nodig om gelukkig te kunnen zijn en de weg door het
 leven te vinden.
 
 1\. _Wij danken God, die ons de heilige schrift heeft gegeven,_ zegt Augustinus; _weest niet blind in de glans van dit licht._ _De heilige schrift,_ aldus Hieronymus, _is de rijkdom van Christus._ Wie dikwijls de schrift ter hand neemt, of enkele van haar woorden aandachtig en eerbiedig leest, komt onder de indruk van een meer dan menselijke wijsheid. Hier spreekt inderdaad God. Hier is voedsel en licht te vinden, ook voor de eenvoudige zielen.

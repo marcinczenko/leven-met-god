@@ -26,5 +26,5 @@ Zijn nederigheid zal blijken uit zijn bescheidenheid als hij op de preekstoel st
 
 _Een lichaam en één geest, zoals gij ook geroepen zijt tot één hoop;... één Heer, één geloof, één doopsel, één God en Vader van allen die boven alles, door alles en in alles is._
 
-_O God die aan ieder van ons een eigen roeping en daarmede ook een eigen persoonlijke taak gegeven hebt... geef ons in uw grote goedheid de kracht ons te gedragen overeenkomstig onze roeping._  
+_O God, die aan ieder van ons een eigen roeping en daarmede ook een eigen persoonlijke taak gegeven hebt... geef ons in uw grote goedheid de kracht ons te gedragen overeenkomstig onze roeping._  
 _Geef ons dagelijks meer besef van onze waardigheid en eenheid in Christus en leer ons vanuit onze gemeenschappelijke eenheid in Hem onze eigen taak in liefde, in vrede en eenheid van geest te vervullen. Amen._

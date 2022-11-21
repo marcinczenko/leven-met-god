@@ -22,7 +22,7 @@ Hoe hoger het doel ligt, dat wij ons in het leven stellen, des te meer toeleg, i
 
 _Meditatio cordis mei... de gedachte van mijn hart, o Heer, verwijlt altijd bij U._
 
-2\. De oratie laat ons vandaag bidden: _God die de wereld door onuitsprekelijke geheimen vernieuw..._
+2\. De oratie laat ons vandaag bidden: _God, die de wereld door onuitsprekelijke geheimen vernieuw..._
 
 God vernieuwt de wereld door zijn _sacramenta ineffabilia_, zijn onuitsprekelijke geheimen. Hij gaf ons het geheim (als een groot geschenk) van de _menswording_, de komst van zijn Zoon op aarde; Jezus gaf ons zijn _tegenwoordigheid_ (op blijvende wijze) _in het heilig sacrament_. Wij leven onder de invloed van het _doopgeheim_: het sacrament dat in ons doet nederdalen God, die wij blijvend in ons hart bezitten; wij leven onder _het geheim van de Kerk_, dat wil zeggen, wij zijn ledematen van Christus' mystiek Lichaam; de heilige Geest geeft ons _zijn zeven heilige gaven mee_. Waarlijk, Hij brengt in ons nieuwe krachten en nieuw leven. Inderdaad wij mogen bidden tot God: _Heer, Gij vernieuwt de wereld door uw onuitsprekelijke geheimen_. Want al deze geheimen brengen in ons een inwendige vernieuwing te weeg. Zingen en bidden wij niet dikwijls, dat _de Geest het aanschijn der aarde vernieuwt_?
 

@@ -12,7 +12,7 @@ Met enkele woorden tekent Paulus met het hem eigen talent in grote trekken het c
 
 1\. _Sinds wij dat vernomen hebben, houden wij dan ook niet op, voor u te bidden en te smeken, dat gij in het bezit van allerlei wijsheid en geestelijk inzicht, tot de volledige kennis van zijn wil moogt geraken..._
 
-Wijsheid en geestelijk inzicht zijn vrucht van diep christelijk leven, van nauw contact met God, van de inwerking van de heilige Geest in onze ziel. Het spreekt van zelf dat onze ijver en toeleg aan dat alles niet vreemd is... Paulus vraagt dat wij _allerlei wijsheid en geestelijk inzicht_ mogen bezitten en daardoor geraken tot de volledige kennis van Gods wil. Zo vaak wordt gedacht of gezegd: _wist ik maar wat God van mij wil_.
+Wijsheid en geestelijk inzicht zijn vrucht van diep christelijk leven, van nauw contact met God, van de inwerking van de heilige Geest in onze ziel. Het spreekt vanzelf dat onze ijver en toeleg aan dat alles niet vreemd is... Paulus vraagt dat wij _allerlei wijsheid en geestelijk inzicht_ mogen bezitten en daardoor geraken tot de volledige kennis van Gods wil. Zo vaak wordt gedacht of gezegd: _wist ik maar wat God van mij wil_.
 
 Wij weten wat onze dagelijkse plicht is: dat is Gods wil. Wij kennen de eisen van de naastenliefde en van de nederigheid: dat is Gods wil. Het aanvaarden van ons dagelijks kruis: het is Gods wil. De heilige Geest voert ons echter nog verder. Hij openbaart en vraagt nog meer, als wij eenmaal een diep inwendig leven leiden: nadere kennis van Gods wil hangt ook samen met geestelijke groei.
 
@@ -28,4 +28,4 @@ Wie als geabsorbeerd is in Christus, zal het lijden zelfs met vreugde dragen. _I
 
 Waar het lijden ook vandaan komt: het draagt bij tot Gods eer, het kan een groot stuk van ons heiligingsproces voltooien als wij het met liefde dragen en zo mogelijk, met blijdschap. Dan komt vanzelf ook de grote dankbaarheid: _dat gij de Vader moogt danken, die u in staat heeft gesteld om deel te hebben aan de erfenis van de heiligen (het ware geloof en de genade) in het licht. Hij heeft ons uit de macht van de duisternis bevrijd en ons overgebracht naar het rijk van zijn geliefde Zoon_. (Kol. 1:9-14)
 
-_O God die mij zozeer hebt uitverkoren en bevoorrecht, geef mij dat ik toch nooit uw naam en uw liefde te schande maak. Laat mij dagelijks meer toenemen in liefde en offervaardigheid, in dankbaarheid en in geduld opdat ik steeds meer het beeld in mij moge dragen van uw geliefde Zoon onze Heer Jezus Christus. Amen._
+_O God, die mij zozeer hebt uitverkoren en bevoorrecht, geef mij dat ik toch nooit uw naam en uw liefde te schande maak. Laat mij dagelijks meer toenemen in liefde en offervaardigheid, in dankbaarheid en in geduld opdat ik steeds meer het beeld in mij moge dragen van uw geliefde Zoon onze Heer Jezus Christus. Amen._

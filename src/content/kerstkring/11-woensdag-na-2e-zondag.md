@@ -33,4 +33,4 @@ _Diep overtuigd dat alles genade is_ en wij zelf o zo weinig betekenen, stellen 
 
 Dit is een zuivere christelijke levenshouding; dit is ook de nadere voorbereiding op de eigen genade van het Kerstfeest.
 
-_O God die ons in uw liefde Jezus Christus hebt gegeven, verleen ons door uw oneindige barmhartigheid, alle hoogmoed en eigenwaan af te leggen, om zo in groot vertrouwen op U en in diepe nederigheid ons te mogen voorbereiden op de nieuwe komst van Jezus in ons hart. Amen._
+_O God, die ons in uw liefde Jezus Christus hebt gegeven, verleen ons door uw oneindige barmhartigheid, alle hoogmoed en eigenwaan af te leggen, om zo in groot vertrouwen op U en in diepe nederigheid ons te mogen voorbereiden op de nieuwe komst van Jezus in ons hart. Amen._

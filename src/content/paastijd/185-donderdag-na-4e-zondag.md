@@ -25,7 +25,7 @@ in alles doordringt: ik sta naast de anderen om anderen te helpen, mijn taak toc
 
 Zolang wij de ijver voor en de dorst naar de zielen uit Christus' leven niet kunnen wegdenken, zolang hoort die zieleijver thuis in het leven van iedere christen. _Zoals een minnaar altijd weer spreekt over zijn bruid, zo spreekt de Meester altijd weer over de ziet._ (C. Sonnenschein)
 
-Hij spreekt met Nicodemus in de nacht... alleen. Hij houdt een lang gesprek met de Samaritaanse aan de put van Jakob voor haar alleen. Hij heeft zorg voor de berouwvolle moordenaar aan het kruis, Hij verdedigt Zachaeus in het publiek gedurende een feestmaaltijd. Wie de zielen niet zoekt, heeft de kern van zijn levenstaak niet gevat. De christen moet lichten door woord en voorbeeld, zoals ook een vuur van zelf brandt en dus licht en warmte geeft.
+Hij spreekt met Nicodemus in de nacht... alleen. Hij houdt een lang gesprek met de Samaritaanse aan de put van Jakob voor haar alleen. Hij heeft zorg voor de berouwvolle moordenaar aan het kruis, Hij verdedigt Zachaeus in het publiek gedurende een feestmaaltijd. Wie de zielen niet zoekt, heeft de kern van zijn levenstaak niet gevat. De christen moet lichten door woord en voorbeeld, zoals ook een vuur vanzelf brandt en dus licht en warmte geeft.
 
 Wat ons ontbreekt is misschien _de vurige liefde voor de Meester_, daarom kennen wij te weinig het diepste verlangen van zijn hart. Wie Hem genoegen wil doen, probeert mensen te helpen op allerlei wijzen om wille van hun zieleheil. Wij zijn zo zeer door God met vele anderen verbonden, dat we ons _alleen_ niet aan de hemelpoort zullen mogen vertonen.
 

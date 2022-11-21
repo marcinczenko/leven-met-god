@@ -36,4 +36,4 @@ Ook het volhouden is onontbeerlijk. God wil ons door het gebed naar zich toetrek
 
 Zou misschien aan mijn gebed ook niet de vereiste vurigheid of... de volharding ontbreken?
 
-_O God die ons leidt en voedt door uw genade, geeft ons het verlangen naar een steeds dieper contact met U. Leer ons bidden met vurigheid en volharding, opdat wij U dagelijks meer mogen ontmoeten. Dan zullen wij U de verhoring van onze gebeden gemakkelijk maken omdat wij de voorwaarden vervullen die Gij ons bij het bidden hebt gesteld en waaruit onze waarachtige liefde voor U blijken zal. Amen._
+_O God, die ons leidt en voedt door uw genade, geeft ons het verlangen naar een steeds dieper contact met U. Leer ons bidden met vurigheid en volharding, opdat wij U dagelijks meer mogen ontmoeten. Dan zullen wij U de verhoring van onze gebeden gemakkelijk maken omdat wij de voorwaarden vervullen die Gij ons bij het bidden hebt gesteld en waaruit onze waarachtige liefde voor U blijken zal. Amen._

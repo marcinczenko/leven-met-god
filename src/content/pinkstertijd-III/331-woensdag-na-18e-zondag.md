@@ -36,7 +36,7 @@ _Als iemand Mij liefheeft zal hij mijn woord onderhouden; dan zal mijn Vader ook
 
 Het is een goddelijke bevoorrechting de waarde en de waarheid van deze goddelijke bedoelingen te mogen zien.
 
-Wij moeten ons daarin voortdurend oefenen, ons daarop dagelijks toeleggen. _Hijzelf is ons nabij._ Het is goed, meer met God die in ons is, dan met de mensen daarbuiten, te spreken.
+Wij moeten ons daarin voortdurend oefenen, ons daarop dagelijks toeleggen. _Hijzelf is ons nabij._ Het is goed, meer met God, die in ons is, dan met de mensen daarbuiten, te spreken.
 
 Het spreken met de mensen over God is voortreffelijk, het is soms een heilige plicht, maar vergeten wij toch nooit met God zelf te spreken over de mensen die ons dierbaar zijn. Hij houdt de sleutel van hun bekering in zijn handen, Hij beschikt over hun geluk, Hij beschikt over hun toekomst, over hun heiliging. En dus zullen wij er ijverig om vragen.
 

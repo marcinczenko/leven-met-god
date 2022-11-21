@@ -27,5 +27,5 @@ Van nu af begint de figuur van de Moeder-Maagd zich duidelijker af te tekenen in
 
 _Dauwt hemelen van boven en moge de aarde zich openen... om ons de Redder te geven._
 
-_Lieve moeder Maria, wil ons verlangen naar Jezus dragen tot voor de troon van de Allerhoogste. Bid voor ons opdat wij door uw maagdelijke handen de Verlosser mogen ontvangen; bereidt gij ons voor, gij die als niemand anders u zelf eens hebt gereed gemaakt in zuiverheid en liefde, om Jezus Christus in u te ontvangen._  
+_Lieve moeder Maria, wil ons verlangen naar Jezus dragen tot voor de troon van de Allerhoogste. Bid voor ons opdat wij door uw maagdelijke handen de Verlosser mogen ontvangen; bereidt gij ons voor, gij die als niemand anders uzelf eens hebt gereed gemaakt in zuiverheid en liefde, om Jezus Christus in u te ontvangen._  
 _Moge uw goddelijke Zoon ons waardig bevinden om opnieuw naar ons af te dalen, en om bij ons en in ons te wonen voor altijd. Wij durven te rekenen o, heilige maagd, op uwe zo invloedrijke voorspraak, op uwe zo medelijdende liefde. Amen._

@@ -22,7 +22,7 @@ Zo dikwijls, misschien dagelijks, wonen wij het breken van het brood bij, het he
 
 _Ik ben de goede Herder,_ zo gaat het vers verder, _Ik ken de mijnen en de mijnen kennen Mij._ Ook hierin ligt de reden van onze vreugde: Hij kent ons, Hij heeft ons lief; Hij is voor ieder van ons de goede Herder, die ons door het leven leidt; die ons voedt en ons brengt tot de eeuwig-groene weiden van de hemelvreugde. Hij kent ons, zoals vrienden elkaar kennen; zoals zij kennen die waarlijk liefhebben.
 
-2\. _God die door de vernedering van uw Zoon de gevallen wereld hebt opgericht, verleen aan uw gelovigen een voortdurende blijdschap..._
+2\. _God, die door de vernedering van uw Zoon de gevallen wereld hebt opgericht, verleen aan uw gelovigen een voortdurende blijdschap..._
 
 Het is niet alleen maar de herinnering aan Gods goedheid die ons verblijdt, maar ook het voortdurend beleven van zijn vriendschap. Christus staat naast ons, Hij woont door zijn godheid werkelijk in ons. Hij is uit ons leven niet meer weg te denken. Hij is... _onze voortdurende blijdschap_.
 

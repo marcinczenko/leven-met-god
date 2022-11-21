@@ -22,7 +22,7 @@ Is onze aandacht werkelijk op dit dienen van God gericht? Zo ja, dan zullen wij 
 
 _Ik ben geboren om U te dienen, U toe te behoren, uw werktuig te zijn. Laat mij een blind werktuig zijn. Ik wil niet zien, ik wil niet weten, ik verlang niets dan dat Gij mij gebruikt._ (Newman)
 
-Zulk een gebed wordt geboren uit een diepe overtuiging en een volkomen overgave, uit geloof en liefde. God die ons het geloof gaf èn de liefde, wil die ook in ons ontwikkelen zodat wij tot de zuiverste, edelste dienstbaarheid komen. _In de hemel zal God al mijn wensen vervullen, omdat ik op aarde nooit mijn eigen wil deed._ (Teresia van Lisieux)
+Zulk een gebed wordt geboren uit een diepe overtuiging en een volkomen overgave, uit geloof en liefde. God, die ons het geloof gaf èn de liefde, wil die ook in ons ontwikkelen zodat wij tot de zuiverste, edelste dienstbaarheid komen. _In de hemel zal God al mijn wensen vervullen, omdat ik op aarde nooit mijn eigen wil deed._ (Teresia van Lisieux)
 
 Wat wordt ons het geloof en de liefde gemakkelijk gemaakt door de gedachte: _wij hebben hier geen blijvende woonplaats_. Wij zijn op weg naar de eeuwige vreugde die wij hier in geloof en liefde voorbereiden.
 

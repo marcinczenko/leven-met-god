@@ -18,7 +18,7 @@ Wij behoren midden in het leven te staan met een grote belangstelling en een gro
 
 Het ligt dus voor de hand dat wij het als een ereplicht zullen zien en ook ervaren, als bewogen mensen midden in onze tijd te staan en gaarne mede verantwoordelijk te zijn om vorm te geven aan onze Kerk van vandaag, aan de maatschappij waarin wij zelf nu leven.
 
-Er is ongetwijfeld een grote openheid nodig in onze katholieke mentaliteit. Dat er tevens een diepe geslotenheid in ons is, met andere woorden dat wij diep in ons de kostbare, onaantastbare waarheid dragen van ons heilig geloof en de genade van onze intieme, persoonlijke verhouding tot God, spreekt van zelf.
+Er is ongetwijfeld een grote openheid nodig in onze katholieke mentaliteit. Dat er tevens een diepe geslotenheid in ons is, met andere woorden dat wij diep in ons de kostbare, onaantastbare waarheid dragen van ons heilig geloof en de genade van onze intieme, persoonlijke verhouding tot God, spreekt vanzelf.
 
 Maar de openheid ontbreekt ons nog vaak geheel of gedeeltelijk. Toch, zij kan niet gemist worden. Ons past een groeiende, een intens levende, bewogenheid en gevoeligheid om de hele Kerk; een warme zorg voor de wereldkerk, bekommernis om de noden achter het ijzeren gordijn... en elders.
 

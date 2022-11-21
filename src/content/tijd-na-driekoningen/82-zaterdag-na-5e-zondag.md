@@ -30,7 +30,7 @@ Ook voor ons is zijn belofte: _Wie Mij liefheeft, zal door Mijn Vader worden bem
 
 2\. Vurig verlangen, veel gebed en medewerking met de genade die wij reeds bezitten, dat is de weg tot grotere intimiteit met Jezus. Waarin die medewerking bestaat? Vooral in het streven naar groter __zuiverheid__ (en zuivering); pogingen tot __ingetogenheid__ en tot __nederigheid__. Dit blijven nog altijd de klassieke middelen.
 
-_Dit is de manier eeuwiger liefde dat gij Hem en niet uzelve toebehoort; voor Hem leeft en niet voor u zelf..._ (Ruusbroec). Het is een voor ons vrij gewoon klinkende uitspraak, maar ze bevat toch het geheim van het bovenaardse in de mens, van zijn hemelse rijkdom en van zijn onverwoestbaar geluk.
+_Dit is de manier eeuwiger liefde dat gij Hem en niet uzelve toebehoort; voor Hem leeft en niet voor uzelf..._ (Ruusbroec). Het is een voor ons vrij gewoon klinkende uitspraak, maar ze bevat toch het geheim van het bovenaardse in de mens, van zijn hemelse rijkdom en van zijn onverwoestbaar geluk.
 
 _Leef voor Hem,_ zegt Ruusbroec verder, _en loof Hem, richt u naar Hem, bemin en dien Hem tot zijn eeuwige eer, niet om loon noch voordeel, om smaak noch troost..._ Het pure beminnen, zonder zelfzucht en zonder winstbejag... dat is ons mooiste geschenk aan de Heer.
 

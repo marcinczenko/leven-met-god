@@ -10,14 +10,14 @@ sortIndex: 39
 
 Het is een verblijdende gedachte voor ons dat Jezus mens was en dus als mens onder ons mensen heeft geleefd. Hij staat daardoor zo uitermate dicht bij ons. Hij heeft onze menselijke zwakheden gekend en geproefd, maar tegelijk heel het menselijk geslacht opgeheven tot de Godheid.
 
-1\. _Het Woord is vlees geworden,_ schrijft Sint Jan, _en Het heeft onder ons gewoond._ (Joh. 1:14) _Hij heeft zich van Gods gestalte ontdaan, door de gestalte aan te nemen van een slaaf en gelijk te worden aan de mensen._ (Fil. 2:7) Hierin toont God ons op onmiskenbare wijze de hoge gedachte die een mens van zichzelf hebben mag. God zelf is mens geworden. Hij kon van zelf-sprekend niet zijn Godheid te niet doen, maar Hij is onze menselijkheid komen delen en daarmede al onze lotgevallen. _Niets bewijst zozeer de hoge waardigheid en de grootheid die de mens door Gods goedheid ten deel viel, als het feit, dat er een Mens bestaat die tegelijk waarachtig en volmaakt God is._ (Cat. Rom.)
+1\. _Het Woord is vlees geworden,_ schrijft Sint Jan, _en Het heeft onder ons gewoond._ (Joh. 1:14) _Hij heeft zich van Gods gestalte ontdaan, door de gestalte aan te nemen van een slaaf en gelijk te worden aan de mensen._ (Fil. 2:7) Hierin toont God ons op onmiskenbare wijze de hoge gedachte die een mens van zichzelf hebben mag. God zelf is mens geworden. Hij kon vanzelfsprekend niet zijn Godheid te niet doen, maar Hij is onze menselijkheid komen delen en daarmede al onze lotgevallen. _Niets bewijst zozeer de hoge waardigheid en de grootheid die de mens door Gods goedheid ten deel viel, als het feit, dat er een Mens bestaat die tegelijk waarachtig en volmaakt God is._ (Cat. Rom.)
 
 Die menswording zelf is een onbegrijpelijk wonder, een wonder van oneindige macht en tevens van oneindige tederheid.
 
 Vanaf dat ogenblik, dat wil zeggen, vanaf de incarnatie van het Woord, staat God naast ons, bij ons; een mens van vlees en bloed, zoals wij. Hij komt om ons lot te delen, om te doen zien hoe dicht Hij bij ons wil zijn, hoe goed Hij alles van ons weet. Hij brengt daarmede het goddelijke want Hij is tevens God - onmiddellijk als onder ons bereik.
 
 _De Zoon van God betrad deze lage aarde, afdalend van zijn hemelse troon, zonder nochtans de heerlijkheid van de Vader te verliezen, op nieuwe wijze geboren, in een nieuwe geboorte._  
-_Op nieuwe wijze, omdat Hij onzichtbaar in zijn eigen natuur, zichtbaar is geworden in onze natuur. De Onbegrijpelijke wilde begrepen worden... God die niet lijden kan, verachtte het niet een mens te worden, tot lijden in staat..._ (Leo I)
+_Op nieuwe wijze, omdat Hij onzichtbaar in zijn eigen natuur, zichtbaar is geworden in onze natuur. De Onbegrijpelijke wilde begrepen worden... God, die niet lijden kan, verachtte het niet een mens te worden, tot lijden in staat..._ (Leo I)
 
 _Als Hij niet waarachtig God was, bracht Hij geen verlossing, als Hij niet waarachtig mens was, gaf Hij ons geen voorbeeld._ (Leo I)
 

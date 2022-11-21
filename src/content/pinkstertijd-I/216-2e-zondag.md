@@ -22,7 +22,7 @@ Ook de liefde van de kinderen kent haar vrees en deze vrees mogen wij nooit late
 
 De Kerk laat ons bidden, dat wij een voortdurende vrees en liefde voor Gods heilige naam zouden mogen bezitten. Dit is de ware liefde, die vóór alles vreest, de Beminde te bedroeven of te beledigen.
 
-2\. Het spreekt van zelf dat wij steeds een groot vertrouwen in ons mogen en moeten dragen en dat wij moeten proberen dit vertrouwen te doen toenemen.
+2\. Het spreekt vanzelf dat wij steeds een groot vertrouwen in ons mogen en moeten dragen en dat wij moeten proberen dit vertrouwen te doen toenemen.
 
 Wij lijden te veel door ongegronde angst, door een tekort aan begrip voor Gods mateloze goedheid en vergevingsgezindheid. God wil niet onze ondergang, maar ons geluk en ons leven. Jezus kwam niet om ons te veroordelen, maar om ons te bewijzen hoezeer Hij ons liefhad en nog liefheeft.
 

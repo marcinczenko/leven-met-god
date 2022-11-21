@@ -20,7 +20,7 @@ Waar deze hoop niet leeft ontgaat ons de zin van het leven. _Als Christus niet i
 
 De vormgeving van ons leven op aarde staat met die hoop op onze eeuwige bestemming in nauw verband. De eerste veronderstelt de tweede.
 
-Echt christelijk leven is leven in afwachting, in hoop en vertrouwen op _de nieuwe hemel en aarde_, terwijl de kracht telkens weer wordt gezocht en gevonden in God die onder ons leeft, persoonlijk heersend en handelend.
+Echt christelijk leven is leven in afwachting, in hoop en vertrouwen op _de nieuwe hemel en aarde_, terwijl de kracht telkens weer wordt gezocht en gevonden in God, die onder ons leeft, persoonlijk heersend en handelend.
 
 2\. De fout van velen is heden dat wij het leven op aarde te veel hebben losgemaakt van het leven hierboven; het _nu_ te uitsluitend zien, los van het _later_. Daarom wordt dit leven als een doel op zich en verliest de kostbare Redding van Jezus en heel de heilseconomie haar zin en haar kracht voor de ons toegezegde voltooiing van onze menselijkheid. Wij beseffen al te weinig dat wij hier steeds _in via_ zijn, op weg naar iets toe. Het eigenlijke moet nog komen.
 

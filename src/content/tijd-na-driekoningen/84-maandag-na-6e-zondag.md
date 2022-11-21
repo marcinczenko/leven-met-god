@@ -14,7 +14,7 @@ Maar daarmede is nog niet altijd de grondslag van deze liefde volkomen duidelijk
 
 1\. Jezus maakte de liefde tot grondslag van zijn Kerk. Hij laat de schriftgeleerde zeggen dat de liefde tot God het eerste en grootste gebod is van de oude wet. Hij neemt die woorden over en zegt dus eigenlijk, dat is _nog altijd_ het eerste en het grootste gebod: _gij zult de Heer, uw God, liefhebben_. Maar het tweede gebod is daaraan gelijk: _gij zult uw naaste beminnen als uzelf_.
 
-Wij begrijpen dat de liefde tot God alles overtreft, dat wij God die ons heeft geschapen en heeft verlost en op duizenderlei wijze onze weldoener is, nooit genoeg zullen beminnen. Hij is ons altijd tegemoet getreden op de meest beminnelijke wijze.
+Wij begrijpen dat de liefde tot God alles overtreft, dat wij God, die ons heeft geschapen en heeft verlost en op duizenderlei wijze onze weldoener is, nooit genoeg zullen beminnen. Hij is ons altijd tegemoet getreden op de meest beminnelijke wijze.
 
 Hij heeft alles voor ons over gehad. Wij begrijpen dat wij Hem moeten liefhebben, wij zien zelfs in dat daarmede de schoonheid van het leven en ons dieper persoonlijk geluk gemoeid is.
 

@@ -30,4 +30,4 @@ Daarom is het nodig, dikwijls over Hem na te denken als over _de Heer_. Hij over
 
 _Onschuldiger en geweldiger, verhevener en heiliger heeft er ter wereld niets bestaan dan __zijn__ levenswandel, zijn leven en streven... Het menselijk geslacht herinnert zich niets wat ook maar in de verte hiermee zou zijn te vergelijken._ (Leop. v. Ranke)
 
-_O Jezus, trek mij tot U door uw goddelijke aantrekkingskracht. Vervul toch, bid ik U, mijn hoofd en mijn hart, mijn verbeelding, mijn liefde, mijn begeren en wensen; opdat ik steeds weer uw beeld, neen, U zelf in mij draag en aan U gelijkvormig moge warden. Amen._
+_O Jezus, trek mij tot U door uw goddelijke aantrekkingskracht. Vervul toch, bid ik U, mijn hoofd en mijn hart, mijn verbeelding, mijn liefde, mijn begeren en wensen; opdat ik steeds weer uw beeld, neen, Uzelf in mij draag en aan U gelijkvormig moge warden. Amen._

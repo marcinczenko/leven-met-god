@@ -24,5 +24,5 @@ Glorie zij vóór alles aan God: Hij geeft de genade, Hij geeft de eerste opwekk
 
 Hij kan het ons geven, Hij kan het in ons verwezenlijken en nog wel door de kracht _die in ons werkt_, door zijn genade, door de heilige Geest die in ons woont. Of het nu de bekering is van een dierbaar, reeds lang afgedwaald kind, of het succes van een onderneming ter ere van Hem, of dat het gaat om hoge heiligheid en mystieke contemplatie voor onszelf: dat alles (en veel meer dan wij menen) ligt binnen het bereik van zijn almacht en zijn goedheid voor ons. Aan Hem zij de glorie... in eeuwigheid; die glorie brengen wij Hem door de kerk, te samen met Jezus Christus, onze Redder en Vriend.
 
-_O God die onzegbaar wijs en mild zijt, geef ons, arme zwakke mensen dat ons leven door het besef van Jezus' grote liefde voor ons, moge worden tot een voortdurend getuigenis van uw goedheid en heerlijkheid._  
+_O God, die onzegbaar wijs en mild zijt, geef ons, arme zwakke mensen dat ons leven door het besef van Jezus' grote liefde voor ons, moge worden tot een voortdurend getuigenis van uw goedheid en heerlijkheid._  
 _Laat ons in vereniging met U leven... in steeds nauwere eenheid, zodat wij niets anders meer verlangen dan in alles en door alles aan U liefde en eer te geven. Amen._

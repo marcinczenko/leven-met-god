@@ -8,7 +8,7 @@ sortIndex: 371
 
 ## God niet alleen II
 
-Het werk dat wij hier op aarde verrichten is bedoeld als een levende, liefdevolle dienstbaarheid aan Hem die onze Schepper is. Onze bereidheid tegenover zijn heilige wil, onze _vrijwillige_ overgave, is zijn eer en glorie. Tegelijkertijd strekt deze arbeidzaamheid, deze ijver in de dienst van God, ons tot geestelijk voordeel. Wij vergoddelijken, als het ware, hoe langer hoe meer, dat wil zeggen onze eenheid met Hem wordt groter.
+Het werk dat wij hier op aarde verrichten is bedoeld als een levende, liefdevolle dienstbaarheid aan Hem die onze Schepper is. Onze bereidheid tegenover zijn heilige wil, onze _vrijwillige_ overgave, is zijn eer en glorie. Tegelijkertijd strekt deze arbeidzaamheid, deze ijver in de dienst van God, ons tot geestelijk voordeel. Wij vergoddelijken, als het ware, hoe langer hoe meer, dat wil zeggen, onze eenheid met Hem wordt groter.
 
 1\. Alles wat wij doen steunt op de kracht die God ons gaf. In onze geestelijke opgang naar Hem is het _zijn genade_ die ons wekt, die ons aansporend, troostend, steunend begeleidt en _zijn genade_ geeft de volharding.
 
@@ -30,4 +30,4 @@ _Doet gij_ (mijn zusters) schrijft Teresia van Avila, _wat gij kunt, dan zal de 
 
 Dit is de adel van iedere menselijke ziel: haar medewerking met God. Hij roept ons tot heiligheid. Hij legt ons de te nemen maatregelen voor, die _wij_ kunnen treffen. Hij geeft ons de middelen in handen die _wij_ kunnen gebruiken: wie zou God nog iets mogen verwijten als hij _niet_ heilig wordt?
 
-_God die mij geschapen hebt en mij hebt verlost... wil uw werk van liefde in mij voltooien en wek mijn arme wil op tot een volkomen en volhardende medewerking met uw liefdeplannen. Amen._
+_God, die mij geschapen hebt en mij hebt verlost... wil uw werk van liefde in mij voltooien en wek mijn arme wil op tot een volkomen en volhardende medewerking met uw liefdeplannen. Amen._

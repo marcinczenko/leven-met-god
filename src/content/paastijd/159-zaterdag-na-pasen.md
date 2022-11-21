@@ -18,7 +18,7 @@ _De Heer voerde zijn volk weg (uit Egypte) in gejubel, alleluia, en zijn uitverk
 
 Is deze gedachte niet een troost bij alle droefheid, een verlichting bij alle zorg, een geruststelling bij alle angst? Op een andere wijze klinkt hetzelfde lied: _nolite timere_, _wil toch niet vrezen_.
 
-Hij is de God van majesteit, van almacht en wijsheid, maar ook de God die zozeer weet wat zijn schepselen behoeven.
+Hij is de God van majesteit, van almacht en wijsheid, maar ook de God, die zozeer weet wat zijn schepselen behoeven.
 
 Wij kunnen het leven niet aan zonder blijdschap. Wij hebben allen reeds hier op aarde een voorsmaak nodig van de eeuwige vreugde die ons hierboven wacht. De blijdschap verdubbelt onze krachten, zij geeft een tint van geluk aan alles wat wij ontmoeten. Ons geduld is dan veel langer van duur, onze goedheid veel milder en vrijgeviger. Onze woorden verraden dan zo gemakkelijk het echt-menselijke, de sympathie en het begrip waar anderen op wachten als... wij zelf echt blij zijn. Het is een kunst de blijdschap te handhaven of (want er valt op iedere blijdschap wel eens een schaduw), haar zo spoedig mogelijk te herstellen. De bron van blijdschap ligt in de intimiteit met Christus; nergens anders. Weet ge uit ervaring wat intimiteit met Christus is? Dan kent ge ook de ware bron van de zuivere blijdschap. En merkwaardigerwijze: er is geen bron zó puur, zó diep, zo onophoudelijk stromend als juist deze. Zij is dus (want blijdschap is onmisbaar) in feite onontbeerlijk. Die intimiteit met Christus...!
 

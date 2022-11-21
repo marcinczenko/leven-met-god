@@ -8,7 +8,7 @@ sortIndex: 130
 
 ## Wat ontbreekt ons?
 
-_Gij zult Mij wel zeggen_, aldus Christus in de synagoog van Nazaret, _geneesheer, genees U zelf. Doe ook hier in uw vaderstad wat Gij, naar wij vernamen, gedaan hebt in Kafarnaüm. Voorwaar Ik zeg u, geen profeet wordt in zijn geboortestad erkend..._ (Luk. 4:23-30).
+_Gij zult Mij wel zeggen_, aldus Christus in de synagoog van Nazaret, _geneesheer, genees Uzelf. Doe ook hier in uw vaderstad wat Gij, naar wij vernamen, gedaan hebt in Kafarnaüm. Voorwaar Ik zeg u, geen profeet wordt in zijn geboortestad erkend..._ (Luk. 4:23-30).
 
 De Joden verwachtten dat Jezus toch zeker in zijn eigen stad, in Nazaret, een wonder doen zou. Zij hadden met verbazing geluisterd naar de onmiddellijk hieraan voorafgaande toespraak, waarmede de jeugdige Rabbi hen zo onvoorwaardelijk voor zich had ingenomen. Nu klonk er ineens iets anders in zijn stem. Er lag een bedekt verwijt in zijn woorden: _geen profeet wordt bij de zijnen aanvaard: zo was het immers met Elias, zo met Eliseus_.
 

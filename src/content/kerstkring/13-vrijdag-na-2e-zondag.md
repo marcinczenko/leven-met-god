@@ -20,7 +20,7 @@ Christelijke liefde - die oneindig veel verder gaat dan het gevoel van sociale v
 
 _Ware naastenliefde is algemeen, zij is eenvoudig in haar grondslag, zij steunt op Jezus Christus._
 
-_Zoals ook Christus zich onzer heeft aangetrokken tot verheerlijking van God._ De beweegreden van de ware liefde is niet de persoonlijke winst, maar de eer van God die voortvloeit uit onze oprechte beleving van Jezus' leer en voorbeeld.
+_Zoals ook Christus zich onzer heeft aangetrokken tot verheerlijking van God._ De beweegreden van de ware liefde is niet de persoonlijke winst, maar de eer van God, die voortvloeit uit onze oprechte beleving van Jezus' leer en voorbeeld.
 
 2\. De apostel wenst dat onze liefde naar allen zal uitgaan: Christus kwam vrede brengen aan alle mensen. Christus kwam tot de joden omdat Hij aan het uitverkoren volk was beloofd, maar de feitelijke barmhartigheid van God ging veel verder: Jezus' verlossing omvatte ook de heidenen.
 
@@ -32,4 +32,4 @@ Hoe meer wij ons aansluiten bij de oorsprong van deze liefde, des te meer zullen
 
 ..._Moge dan de God van de hoop, door het geloof u vervullen met alle vreugde en vrede; opdat gij rijke overvloed van hoop moogt verwerven door de kracht van de heilige Geest._
 
-_O God die ons in Jezus met vrede en vreugde vervult, leer ons onophoudelijk die vrede en vreugde te verspreiden; help ons toch aan anderen uw goddelijke rijkdom van liefde te doen zien, door de hemelse verandering die Gij in ons door uw heilige Geest te weeg kunt brengen. Amen._
+_O God, die ons in Jezus met vrede en vreugde vervult, leer ons onophoudelijk die vrede en vreugde te verspreiden; help ons toch aan anderen uw goddelijke rijkdom van liefde te doen zien, door de hemelse verandering die Gij in ons door uw heilige Geest te weeg kunt brengen. Amen._

@@ -18,7 +18,7 @@ Christus spreekt over het éne verloren schaap, de éne verloren drachme, over d
 
 Wij hebben in het leven vaak niet genoeg aan algemene voorzorgen, aan algemene maatregelen van beleid of welwillendheid. Wat wij behoeven is de aandacht voor onze persoon apart, wij willen als zelfstandig, eigen wezen, erkend en behandeld worden; wij wensen in onze eigen waarde te worden gelaten maar ook daarin erkend te worden.
 
-Wat blijkbaar dus zo diep in ons verankerd ligt, dat het samenhangt met onze natuur zelf, zou God die _de mens met eerbied behandelt_ dat ooit uit het oog verliezen?
+Wat blijkbaar dus zo diep in ons verankerd ligt, dat het samenhangt met onze natuur zelf, zou God, die _de mens met eerbied behandelt_ dat ooit uit het oog verliezen?
 
 In de gehele schrift komt die persoonlijke verhouding van God tot de mens naar voren: zij is werkelijk een onderdeel van de ware opvatting over Gods liefde.
 
@@ -41,4 +41,4 @@ Het is duidelijk: te midden van alle verwarring, onrust en zorg, mag ik mij tot 
 
 Dit vertrouwen behoren wij dagelijks te voeden of het verkommert weer. Daarnaast volgt uit die persoonlijke liefde van God voor mij, mijn taak, namelijk Hem lief te hebben. _Ik mag Hem liefhebben_, ik mag het zelf doen en Hij stelt mijn liefde op prijs. Ik bied Hem zijn Zoon aan op het altaar, ik herinner Hem aan de liefde van het goddelijk Hart van Jezus... opdat mijn liefde Hem welgevallig zou zijn.
 
-_Mijn God die mij liefhebt... van eeuwigheid, ik vertrouw op U, ik heb U lief met mijn hart... tot in eeuwigheid. Amen._
+_Mijn God, die mij liefhebt... van eeuwigheid, ik vertrouw op U, ik heb U lief met mijn hart... tot in eeuwigheid. Amen._
