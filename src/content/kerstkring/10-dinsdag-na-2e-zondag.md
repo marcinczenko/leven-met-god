@@ -12,7 +12,7 @@ Er is een voortdurend verlangen in ieder goedwillend Christen om wat vertrouweli
 
 1\. Nu wordt dit laatste op een biezondere wijze voor ons mogelijk gemaakt. God spreekt tot ons en Christus spreekt tot ons in de heilige schrift. Het goddelijk woord daarin vervat is onvervangbaar.
 
-Wij hebben dat kostbare boek veel te weinig in handen, wij lezen de schrift te zelden en soms te vlug. Wij zouden aan christelijke geest, aan zuiver levensinzicht, aan liefde tot God en tot Jezus Christus winnen, als wij de spaarzame woorden van de schrift die wij ontmoeten of kennen vaak bij ons zelf willen herhalen.
+Wij hebben dat kostbare boek veel te weinig in handen, wij lezen de schrift te zelden en soms te vlug. Wij zouden aan christelijke geest, aan zuiver levensinzicht, aan liefde tot God en tot Jezus Christus winnen, als wij de spaarzame woorden van de schrift die wij ontmoeten of kennen vaak bij onszelf willen herhalen.
 
 _Ik zal u niet als wezen achterlaten: Ik kom tot u terug._ Hij komt tot ons op meerdere wijzen: ook door wat Hij zelf heeft laten optekenen door zijn apostelen en evangelisten. Hij leeft voor ons in zijn woord: Hij spreekt tot ons. Het is zijn waarheid, zijn liefde, het is zijn stem die wij daarin erkennen.
 

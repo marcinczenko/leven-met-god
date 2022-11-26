@@ -28,7 +28,7 @@ De konsekwentie van ons geloof, van onze diepe overtuiging dat Jezus alles voor 
 
 Met Christus is dat anders. Hij kent zijn schapen zoals de Vader Hem kent en zoals Hij de Vader kent. Zo diep, zo volledig, zo vol liefde is die kennis. Hij geeft zijn leven voor zijn schapen...
 
-Kon deze _goede_ Herder duidelijker zeggen dat Hij ons liefheeft? Hij bemint tot het uiterste toe. Geen enkele herder kan het bij Hem halen in hartelijkheid, in diepte, in begrip, in tederheid en fijngevoeligheid. Hij is tot in de laatste vezels van zijn mensheid, mens met ons geworden. Hij voelt met ons mee, Hij leeft met ons mee. Hij leeft als in een verdwaasde liefde: Hij geeft voor ons nietswaardigen, zijn leven. Maar wij _zijn_ geen nietswaardigen. Zó zouden wij ons zelf betitelen, bij het zien van onze ellende, maar Hij ziet vóór alles in ons het beeld van God, het kind van God, het schaapje van zijn weide.
+Kon deze _goede_ Herder duidelijker zeggen dat Hij ons liefheeft? Hij bemint tot het uiterste toe. Geen enkele herder kan het bij Hem halen in hartelijkheid, in diepte, in begrip, in tederheid en fijngevoeligheid. Hij is tot in de laatste vezels van zijn mensheid, mens met ons geworden. Hij voelt met ons mee, Hij leeft met ons mee. Hij leeft als in een verdwaasde liefde: Hij geeft voor ons nietswaardigen, zijn leven. Maar wij _zijn_ geen nietswaardigen. Zó zouden wij onszelf betitelen, bij het zien van onze ellende, maar Hij ziet vóór alles in ons het beeld van God, het kind van God, het schaapje van zijn weide.
 
 Hij heeft alles voor ons over gehad...
 

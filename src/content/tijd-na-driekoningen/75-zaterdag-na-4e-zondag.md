@@ -24,7 +24,7 @@ Het was een dwaling van Wicleff, veroordeeld door het concilie van Constanz, te 
 
 2\. Het gebed is de weg waarlangs God bij voorkeur zijn genaden en al zijn gunsten geeft. In het gebed blijkt _onze liefde_ voor Hem, daarin betuigen wij ook _onze afhankelijkheid_ van de Allerhoogste.
 
-Zij die hebben uitgemunt in de vurigste liefde, in de grootste offervaardigheid waren door alle tijden heen... de grootste bidders. Als wij dus menen dat onze zaligheid gevaar loopt... laten wij ons herinneren dat wij nog kunnen bidden. Als het werk ons boven het hoofd groeit en wij haast ons zelf niet kunnen zijn... het gebed kalmeert; het doet ons onszelf terugvinden; het geeft nieuwe krachten voor de arbeid. Door het gebed wordt de naastenliefde weer mogelijk (ze lijkt soms onmogelijk). Door het gebed wordt het ideaal weer aantrekkelijk: om alles voor God alleen te mogen doen.
+Zij die hebben uitgemunt in de vurigste liefde, in de grootste offervaardigheid waren door alle tijden heen... de grootste bidders. Als wij dus menen dat onze zaligheid gevaar loopt... laten wij ons herinneren dat wij nog kunnen bidden. Als het werk ons boven het hoofd groeit en wij haast onszelf niet kunnen zijn... het gebed kalmeert; het doet ons onszelf terugvinden; het geeft nieuwe krachten voor de arbeid. Door het gebed wordt de naastenliefde weer mogelijk (ze lijkt soms onmogelijk). Door het gebed wordt het ideaal weer aantrekkelijk: om alles voor God alleen te mogen doen.
 
 In het gebed vindt de priester weer kracht tot zijn apostolaat... de kloosterling vindt er weer liefde voor het offerend en eenzaam leven; hij vindt er ook weer liefde voor het streven naar waarachtige volmaaktheid.
 

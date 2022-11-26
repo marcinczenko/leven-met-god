@@ -20,7 +20,7 @@ Maar het is wel nodig van tijd tot tijd eens ernstig over de nederigheid na te d
 
 Dáár ligt de vergissing. Het kan namelijk niet zonder nederigheid. Navolging van Christus is niet mogelijk zonder nederigheid; naastenliefde is niet waarachtig of niet diep zonder nederigheid; ons gebed deugt niet zonder nederigheid, vertrouwen op God faalt en houdt geen stand zonder nederigheid.
 
-Het meest overtuigende mag voor ons wel zijn dat onontkoombare voorbeeld van nederigheid dat de goddelijke Meester ons zelf heeft gegeven.
+Het meest overtuigende mag voor ons wel zijn dat onontkoombare voorbeeld van nederigheid dat de goddelijke Meester onszelf heeft gegeven.
 
 Wij zijn gemakkelijk van mening dat menselijke grootheid toch maar moeilijk met die nederigheid te rijmen valt. Waar blijft ons prestige, waar onze invloed, het nodige overwicht op anderen, ons gezag, als wij werkelijk nederigheid gaan beoefenen? En Jezus dan?...
 

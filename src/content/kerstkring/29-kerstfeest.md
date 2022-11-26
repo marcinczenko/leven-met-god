@@ -26,10 +26,10 @@ Engelen komen de mensenzoon inleiden in zijn leven op aarde. Zij jubelen van vre
 
 Zijn vrede en zijn geluk zullen van eeuwige duur zijn. Hij neemt de mensen mee in zijn spoor. Hij brengt ze naar zijn Moeder, zoals de herders; Hij brengt ze naar zijn Vader in de hemel.
 
-_Laat ons naar Bethlehem gaan._ Er is zelden in de menselijke geschiedenis zulk een wijs initiatief genomen. Nog altijd moeten wij ons zelf aansporen en zeggen: _laat ons naar Bethlehem gaan... laat ons naar Bethlehem gaan..._
+_Laat ons naar Bethlehem gaan._ Er is zelden in de menselijke geschiedenis zulk een wijs initiatief genomen. Nog altijd moeten wij onszelf aansporen en zeggen: _laat ons naar Bethlehem gaan... laat ons naar Bethlehem gaan..._
 
 Want in Bethlehem vinden wij Jezus en Maria... in Bethlehem vinden wij eenvoud, nederigheid en liefde... in Bethlehem wordt God geëerd als nergens anders op aarde... in Bethlehem worden wij met God verzoend.
 
 _Zij vonden Maria en Jozef met het Kindje dat in de kribbe lag..._
 
-_O Jezus, leer ons U zoeken en vinden, leer ons beminnen en ons zelf vergeten, leer ons vertrouwen en weer blij zijn, leer ons in vereniging met U te leven. Amen._
+_O Jezus, leer ons U zoeken en vinden, leer ons beminnen en onszelf vergeten, leer ons vertrouwen en weer blij zijn, leer ons in vereniging met U te leven. Amen._

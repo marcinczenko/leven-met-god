@@ -22,7 +22,7 @@ _0 God, wiens voorzienigheid zich in haar schikkingen niet vergist, wij smeken U
 
 Het is duidelijk, dat God, door ons zoveel over zijn Wezen te openbaren, ook bedoelde ons tot _die inwendige rust_ en _dat diepe vertrouwen_ te brengen, dat met zijn goddelijke goedheid overeenkomt. De herhaalde overweging en de wil tot overgave brengt ons hier met Gods genade tot de juiste levenshouding. _Almachtige, eeuwige God, Gij bestuurt en leidt alles, het hemelse zowel als wat op aarde is._ (Miss. 2e zondag na Driekon.)
 
-Vooral in moeilijke uren en dagen is onze daad van vertrouwen kostbaar, niet alleen omdat zij ons zelf dan tot rust en vrede brengt, maar vooral omdat deze daad van vertrouwen te midden van verwarring en duisternis zozeer getuigt van vast geloof en wezenlijke verbondenheid met God. Dat is God eren ten koste van onszelf.
+Vooral in moeilijke uren en dagen is onze daad van vertrouwen kostbaar, niet alleen omdat zij onszelf dan tot rust en vrede brengt, maar vooral omdat deze daad van vertrouwen te midden van verwarring en duisternis zozeer getuigt van vast geloof en wezenlijke verbondenheid met God. Dat is God eren ten koste van onszelf.
 
 2\. _Gij vindt geen behagen in ons verderf maar na de storm geeft Gij rust en na wenen en schreien weer blijdschap._ (Joh 3:22) Het vertrouwen, dat uit ons geloof voortvloeit, is in hoge mate geëigend om ons in waarheid dichter bij God te brengen.
 

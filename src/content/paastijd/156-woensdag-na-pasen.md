@@ -18,7 +18,7 @@ Hij zelf insinueert herhaaldelijk die eenheid tussen Hem en ons. Hij wil dat wij
 
 Hij leeft meer in ons, naarmate wij trachten meer voor Hem te zijn, bij Hem en in Hem te leven.
 
-Toch lopen we gevaar dit alles als een vrome frase te nemen, zolang wij niet door de gedachte, de frequente aanroeping, de overgave van ons zelf, _de gehele dag door Jezus in ons leven betrekken_.
+Toch lopen we gevaar dit alles als een vrome frase te nemen, zolang wij niet door de gedachte, de frequente aanroeping, de overgave van onszelf, _de gehele dag door Jezus in ons leven betrekken_.
 
 2\. Dezelfde gedachte houdt ook het laatste gebed van deze mis nog vast: _moge Heer, wij smeken het U, de heilige nuttiging van uw sacrament ons, gezuiverd van het vroegere, tot een nieuw schepsel hervormen_. Het is een duidelijke zinspeling op het woord van Paulus: _als iemand in Christus is, dan is hij een nieuw schepsel_. (2 Kor. 5:17) _Het oude is voorbij, zegt de apostel, zie het nieuwe is daar._ (Ibid.)
 

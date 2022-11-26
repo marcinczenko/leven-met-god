@@ -13,7 +13,7 @@ Ons innerlijk leven is onder de voortdurende beïnvloeding van Gods genade, voor
 1\. _Moge de Heer u __vervullen en doen overvloeien van liefde__ tot elkander en tot iedereen... Zo make
 Hij uw harten sterk en onberispelijk in heiligheid voor het aanschijn van God onze Vader, bij de komst van onze Heer Jezus met al zijn heiligen._ (1 Tess. 3:12,13) Misschien laten wij in de zorgen van iedere dag, dit gezichtspunt een beetje te veel buiten beschouwing. Toch blijft het waar: zonder grote liefde is heiligheid niet mogelijk. God, die liefde is en die ons uit liefde heeft geschapen en verlost, wil dat wij door de Geest van liefde geleid worden, en in de liefde en door de liefde tot Hem wederkeren.
 
-Geleidelijk aan en als onmerkbaar voltrekt zich onze geestelijke groei. Wij behoren dus met ons zelf geduld te hebben. _Er moet nog veel onweer over u heengaan, voordat de hemelse helderheid bestendig in u kan worden._ (Seuse)
+Geleidelijk aan en als onmerkbaar voltrekt zich onze geestelijke groei. Wij behoren dus met onszelf geduld te hebben. _Er moet nog veel onweer over u heengaan, voordat de hemelse helderheid bestendig in u kan worden._ (Seuse)
 
 Maar het bewustzijn _dat wij dagelijks op weg zijn en alles ons stof biedt tot liefde_, is een grote steun en een geweldig hulpmiddel. Juist dan proberen we inwendig sterk te worden, in Christus' vriendschap te leven en voortdurend dieper door te dringen tot wat de liefde is en wat zij doen kan.
 

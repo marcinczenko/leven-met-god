@@ -32,5 +32,5 @@ Dan zal dit offer ons ook voorbereiden op en binnenvoeren in de eeuwige vreugde.
 
 Wanneer zal ons kloosterlijk of priesterlijk leven zijn volle bloei beleven in de allernauwste vertrouwelijke omgang met Jezus? Alleen wanneer wij ons zijn gevoelens hebben eigen gemaakt. Dit offer maakt ons met Hem, met zijn offerbereidheid, met zijn liefde voor de Vader en voor de mensen, dagelijks meer vertrouwd.
 
-_Wil, o allerliefste Jezus, ons die heilige gesteltenissen geven die ons aan ons zelf onttrekken. Wil door uw genade ons tot die heiligheid brengen waartoe Gij ons geroepen hebt. Laat ons uw werktuig zijn van liefde en apostolaat. Wilt Gij zelf door onze deelname aan uw offer die gaven in ons tot rijpheid en ontwikkeling brengen die wij zo gemakkelijk verwaarlozen._  
+_Wil, o allerliefste Jezus, ons die heilige gesteltenissen geven die ons aan onszelf onttrekken. Wil door uw genade ons tot die heiligheid brengen waartoe Gij ons geroepen hebt. Laat ons uw werktuig zijn van liefde en apostolaat. Wilt Gij zelf door onze deelname aan uw offer die gaven in ons tot rijpheid en ontwikkeling brengen die wij zo gemakkelijk verwaarlozen._  
 _Laat uw liefde in ons volkomen zegevieren. Amen._

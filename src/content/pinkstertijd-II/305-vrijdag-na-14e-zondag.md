@@ -24,7 +24,7 @@ Sint Paulus weet dat deze overwinning van de geest niet wordt bereikt zonder die
 
 De Vaders van de woestijn baden als het ware onophoudelijk de woorden van de psalm: _God, zie neer op mijn hulp: Heer haast u mij te helpen_. Wat belet ons naar vermogen hetzelfde te doen?
 
-2\. Het is niet mogelijk Gods Geest in ons de leiding te laten en ons zelf volkomen aan die heilige leiding over te geven, zonder de versterving en de zelfverloochening te beoefenen. Er is een voortdurende wisselwerking.
+2\. Het is niet mogelijk Gods Geest in ons de leiding te laten en onszelf volkomen aan die heilige leiding over te geven, zonder de versterving en de zelfverloochening te beoefenen. Er is een voortdurende wisselwerking.
 
 _Broeders,_ schrijft Paulus, _we zijn dus niet aan het vlees verplicht naar het vlees te leven. En zo gij leeft naar het vlees, zult gij sterven; maar zo gij door de Geest de werken van het lichaam doodt, zult gij leven._ (Rom. 8:12,13)
 

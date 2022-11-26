@@ -10,7 +10,7 @@ sortIndex: 376
 
 In die tijd sprak Jezus tot de Joden: _Ik ben het licht van de wereld, wie Mij volgt, wandelt niet in de duisternis, maar hij zal het licht van het leven bezitten._ (Joh. 8:12-20)
 
-1\. Wij weten sinds lang dat Jezus het licht van de wereld is. Maar er bestaat een klein gevaar dat wij Jezus zien als het licht van _de wereld_ (waartoe wij ons zelf niet rekenen), van die wereld die niet in Hem gelooft, die zondigt, die materialistisch is en louter uit op aardse verworvenheden.
+1\. Wij weten sinds lang dat Jezus het licht van de wereld is. Maar er bestaat een klein gevaar dat wij Jezus zien als het licht van _de wereld_ (waartoe wij onszelf niet rekenen), van die wereld die niet in Hem gelooft, die zondigt, die materialistisch is en louter uit op aardse verworvenheden.
 
 Om die wereld te verlichten is Jezus eigenlijk gekomen. En de gevolgtrekking ligt dan voor de hand: wat is het jammer, duizendmaal jammer dat de wereld Hem niet wil aanvaarden. _Wij jammeren..._ en daar blijft het bij. _Hij kwam bij de zijnen en de zijnen ontvingen Hem niet. Het licht scheen in de duisternis, en de duisternis nam het licht niet aan._ (Joh. 1:11) Juist... zó is de wereld...
 
@@ -20,8 +20,7 @@ _Ik ben het licht van de wereld,_ dat betekent voor mij: Hij, Jezus van Nazareth
 
 Hij zal dat doen op voorwaarde dat ik niet doe zoals _de wereld_ doet, mij van Hem afsluiten, de andere kant op zien, Hem vergeten, Hem verlaten, mijn hart en mijn hand met aardse dingen vullen. Want... dan is er geen plaats meer in mijn geest voor zijn licht.
 
-Met de kennis van het evangelie, met het geloof in Hem kan ik nog in diepe duisternis voorttobben. _Kom heilige Geest, zend vanuit de Hemel een straal van uw licht..._
-
+Met de kennis van het evangelie, met het geloof in Hem kan ik nog in diepe duisternis voorttobben. _Kom heilige Geest, zend vanuit de Hemel een straal van uw licht..._  
 _emitte caelitus lucis tuae radium_.  
 _Heer dat ik zien moge..._
 

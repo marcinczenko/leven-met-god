@@ -26,7 +26,7 @@ Jezus had medelijden met de tien melaatsen: daarom wilde Hij hen ontmoeten. Hij 
 
 Wie ziet niet in dat nederigheid en vertrouwen op Jezus Christus de toegang opent tot Gods meest uitgelezen schatten?
 
-2\. Wij zijn misschien nog niet doorgedrongen tot de diepte van dit in wezen peilloze geheim, want in die diepte ontsluiert het ons de kennis van ons zelf en ook enigszins de kennis van de oneindig grote God.
+2\. Wij zijn misschien nog niet doorgedrongen tot de diepte van dit in wezen peilloze geheim, want in die diepte ontsluiert het ons de kennis van onszelf en ook enigszins de kennis van de oneindig grote God.
 
 Wij zijn niets, wij zijn zondig; Hij is alles, Hij is louter liefde.
 

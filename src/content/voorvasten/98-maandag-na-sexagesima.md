@@ -8,7 +8,7 @@ sortIndex: 98
 
 ## God niet alleen I
 
-God heeft het bereiken van onze zaligheid in onze handen gelegd; ook het bereiken van de ware heiligheid is van ons zelf afhankelijk. Dit is niet zó absoluut waar, alsof wij zelf alles in handen hadden maar toch wordt in de heilige schrift, in de leer van de Kerk en van de heiligen voortdurend een beroep gedaan op onze medewerking als op een zeer reële en zeer belangrijke factor in dit groeiproces.
+God heeft het bereiken van onze zaligheid in onze handen gelegd; ook het bereiken van de ware heiligheid is van onszelf afhankelijk. Dit is niet zó absoluut waar, alsof wij zelf alles in handen hadden maar toch wordt in de heilige schrift, in de leer van de Kerk en van de heiligen voortdurend een beroep gedaan op onze medewerking als op een zeer reële en zeer belangrijke factor in dit groeiproces.
 
 1\. Typerend is het woord van de heilige Bernardus dat ook nog bij meerdere anderen gevonden wordt: _span uzelf zo in alsof alles louter van die inspanning, van uw persoonlijk werk afhankelijk was: uw zaligheid en uw heiliging; stel zulk een groot vertrouwen op God alsof Hij alleen alles voor u deed_.
 

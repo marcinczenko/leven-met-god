@@ -22,7 +22,7 @@ Het ontgaat niemand dat wij mensen bestaande uit ziel en lichaam, niets anders d
 
 Waar wij zijn, zijn wij als mens. Wij kunnen ons niet verdelen. Als onze plicht van staat ons onder de mensen brengt, kan de ziel niet naar de kerk gaan om daar te bidden. Dan vraagt God van ons een hartelijk dienstbetoon, een genegenheid van geheel ons wezen, die des te vollediger zal zijn en des te zuiverder, _naarmate wij inwendig meer met Hem verbonden leven_.
 
-Het is geen geheim voor ons dat anderen op ons steunen zoals wij dikwijls steunen op hen. Soms steunen de anderen zozeer op ons, dat er zelfs geen kans voor ons meer mogelijk is, op hen te steunen. Laten wij dan in de geest van Christus ons zelf geven zonder voorbehoud. Die anderen zullen er wel bij varen en... wij nog meer.
+Het is geen geheim voor ons dat anderen op ons steunen zoals wij dikwijls steunen op hen. Soms steunen de anderen zozeer op ons, dat er zelfs geen kans voor ons meer mogelijk is, op hen te steunen. Laten wij dan in de geest van Christus onszelf geven zonder voorbehoud. Die anderen zullen er wel bij varen en... wij nog meer.
 
 Niemand die de werkelijkheid in het oog houdt zegt: ik kan al die aardse genoegens wel missen. Het is wat beledigend of enigermate kleinerend als wij die genoegens (al is het maar schijnbaar) zouden misprijzen, als wij in de algemene vreugde geen voldoening kunnen vinden. Wij hebben zelf (ook stoffelijke), genoegens en ontspanningen nodig. De mens is ziel en lichaam.
 

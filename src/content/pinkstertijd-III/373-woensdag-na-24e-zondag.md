@@ -29,7 +29,7 @@ Het is dus een menselijke vervolmaking, het is een vorm van het zuiverste christ
 
 _Zo wij leven door de geest, laten wij ons dan ook gedragen naar de geest, niet begerig naar ijdele glorie, elkander niet tartend; elkander niet benijdend._
 
-Als mede-erfgenamen mogen wij er wel iets van begrijpen dat wij met Christus geroepen zijn te samen _met Hem te lijden, om met Hem verheerlijkt te worden_.
+Als mede-erfgenamen, mogen wij er wel iets van begrijpen dat wij met Christus geroepen zijn te samen _met Hem te lijden, om met Hem verheerlijkt te worden_.
 
 Wij weten dat het doopsel ons maakt tot tempel van de heilige Geest. De gehele Drieëenheid komt daardoor tot ons, maakt ons deelachtig aan de goddelijke natuur, verheft ons, trekt ons mee naar het hoge liefdeleven van God. In onze gedragingen moet daaraan iets beantwoorden.
 

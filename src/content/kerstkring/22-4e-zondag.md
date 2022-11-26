@@ -17,7 +17,7 @@ _Nu wordt er gevraagd van deze uitdelers dat zij trouw bevonden worden._ De taak
 
 Wat zouden wij ons aan veel onnodige onrust kunnen onttrekken, als wij minder bezorgd waren over het oordeel van de mensen. Nu zijn velen om zo te zeggen voortdurend in angst, om wat de mensen wel zullen denken. Maar... het zal immers nooit mogelijk zijn allen tevreden te stellen. Altijd zal de kritiek weer losbreken over ons hoofd, uit jaloersheid, uit kleingeestige bedilzucht of uit louter onnadenkendheid.
 
-En ook het eigen oordeel over ons zelf... Paulus geeft duidelijk te verstaan dat ook dáár niet alles van te verwachten is.
+En ook het eigen oordeel over onszelf... Paulus geeft duidelijk te verstaan dat ook dáár niet alles van te verwachten is.
 
 Het _is_ een geruststelling als ons geweten ons niets verwijt als wij eerlijk mogen zeggen, dat wij gedaan hebben wat in ons vermogen lag. Maar toch... het eigenlijk oordeel ligt bij Christus. Hij is de alwetende, de alles-vergevende, de alles-begrijpende, de redder en de toevlucht.
 
@@ -29,7 +29,7 @@ Als Hij komt, zo gaat Paulus verder, zal Hij de verborgenheden van de duisternis
 
 Het is een grote geruststelling voor ons allen, dat wij uiteindelijk niet aan het oordeel van mensen zijn overgeleverd.
 
-Wij behoeven ook niet bang te zijn voor het oordeel van ons zelf. _God is groter dan ons hart, ook als ons hart ons aanklaagt._ (1 Joh. 3:20)
+Wij behoeven ook niet bang te zijn voor het oordeel van onszelf. _God is groter dan ons hart, ook als ons hart ons aanklaagt._ (1 Joh. 3:20)
 
 Wij bereiden ons nu voor op de nieuwe komst van de Verlosser. Hij komt _met welwillendheid en met menselijkheid_. (Tit. 3:4) Wij mogen Hem nu en straks bij het oordeel, met grote gerustheid, met groot vertrouwen tegemoet zien. Boven alle angst en boven alle zonden staat _zijn goddelijke liefde voor ons_. Hij geeft en hergeeft de vrede. Hij geeft en hergeeft de reinheid des harten. Wat Hij van ons vraagt is de volkomen toenadering, en zelfs meer dan dat, de _volkomen overgave_ aan de goedheid van zijn zo menselijk en zo begrijpend hart.
 

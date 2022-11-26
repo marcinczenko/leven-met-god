@@ -26,7 +26,7 @@ Eigen verantwoordelijkheid willen dragen en kunnen dragen is teken van volwaardi
 
 2\. _Laat u verzoenen Heer door het aanvaarden van onze offerande en wil genadig zelfs onze weerspannige wil beheersen._
 
-Wij vertrouwen ons zelf niet, wij zijn ons bewust dat wij tot allerlei afdwalingen in staat zijn. Daarom laat de Kerk ons bidden dat God zich moge ontfermen over ons omwille van dit offer, dat zijn eigen Zoon Hem aanbiedt en dat Hij dáárom ook, onze zwakke, onze opstandige wil naar zich toe moge buigen.
+Wij vertrouwen onszelf niet, wij zijn ons bewust dat wij tot allerlei afdwalingen in staat zijn. Daarom laat de Kerk ons bidden dat God zich moge ontfermen over ons omwille van dit offer, dat zijn eigen Zoon Hem aanbiedt en dat Hij dáárom ook, onze zwakke, onze opstandige wil naar zich toe moge buigen.
 
 Alles is gered als onze goede wil gered is. Indien wij ons echter laten meevoeren door onze hartstocht of gril, dan blijft onze wil niet zo goed als wij zelf wel eens voorgeven.
 

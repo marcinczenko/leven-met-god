@@ -14,7 +14,7 @@ In het epistel van verleden zondag somt Paulus meerdere plichten op die de chris
 
 Maar als wij Hem in het dagelijkse leven willen navolgen, treedt _de goedheid, de hartelijkheid_ wel zeer biezonder op de voorgrond. Ons past geen achterdocht, geen kwaadspreken, geen verlangen om de eerste te zijn door anderen uit een zekere jaloersheid in de schaduw te stellen. Priesterlijke naijver (invidia claricalis) maakt ons klein; kleingeestigheid in een kloosterlijke communauteit vernietigt de zonnige, open sfeer die men dáár vooral niet missen kan. Stuursheid, ruwheid en gebrek aan beschaving is onder priesters, onder kloosterlingen en leken een zware rem in de opgang naar vergeestelijking, en de intieme omgang met God.
 
-_Elkander hoger achten dan ons zelf,_ veronderstelt oprechte nederigheid of ernstige toeleg op de
+_Elkander hoger achten dan onszelf,_ veronderstelt oprechte nederigheid of ernstige toeleg op de
 nederigheid.
 
 2\. Paulus is vast overtuigd dat de ijver om het goede te doen _zoals die zich naar buiten openbaart_, steunt op een ernstig willen en een waarachtig geestelijk leven, diep in het eigen innerlijk. Men zal immers bezwaarlijk de naastenliefde kunnen beoefenen als men niet tracht in steeds liefdevoller overgave en intimiteit met God te leven.

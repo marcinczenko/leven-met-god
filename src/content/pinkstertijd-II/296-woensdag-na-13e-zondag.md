@@ -14,7 +14,7 @@ _Almachtige, eeuwige God, geef ons een vermeerdering van geloof, hoop en liefde.
 
 Maar zó eenvoudig is het zeker niet. Het rijk Gods is in ons (_regnum Dei intra vos est_), het gaat dus niet buiten ons om; het leeft dus ook niet buiten onze daadwerkelijke belangstelling en ijver.
 
-Het rijk Gods - dat is voor zover het ons zelf betreft - vooral ons persoonlijk inwendig leven, dat steunt op Gods genade en daardoor gevoed wordt, en dat vooral moet groeien door onze beoefening van de goddelijke deugden.
+Het rijk Gods - dat is voor zover het onszelf betreft - vooral ons persoonlijk inwendig leven, dat steunt op Gods genade en daardoor gevoed wordt, en dat vooral moet groeien door onze beoefening van de goddelijke deugden.
 
 _Meer geloof, meer hoop, en meer liefde,_ dat karakteriseert de heiligen als wij ons met hen
 vergelijken. _Het doel van de goddelijke deugden is de ziel los te maken van alles wat minder is dan God en door dat feit zelf haar met God te verenigen._

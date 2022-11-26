@@ -16,7 +16,7 @@ Wij weten dat we die vreugde ook niet missen kunnen. Wij zijn zozeer op een eeuw
 
 Herhaaldelijk nu worden wij door Hem als uit de diepte van troosteloosheid en uit de zorgen die ons drukken opgehaald. Zo lang soms zijn wij verstoken van licht, zelfs schijnbaar van alle motieven om nog ooit te hopen, te verwachten of naar iets moois te streven. Misschien raken wij nooit gewend aan dat vrijwel steeds terugkerend alternatief: of omhoog, of omlaag: nu eens in licht dan weer in duisternis gehuld. Wij zijn niet rein genoeg, om als het ware onafgebroken God zelf te genieten. Wij zijn niet genoeg ontvankelijk voor de zo tere invloed van zijn genade. Daarom komt opnieuw de tegenslag, het ongeluk, de troosteloosheid, de inwendige, onoverzienbare ellende, de herinnering aan onze zwakheid, aan onze totale nietigheid.
 
-Dan stijgt een (vaak smartelijk en soms voor ons zelf nauwelijks hoorbaar) gebed omhoog: _uit de diepte Heer, roep ik tot U_.
+Dan stijgt een (vaak smartelijk en soms voor onszelf nauwelijks hoorbaar) gebed omhoog: _uit de diepte Heer, roep ik tot U_.
 
 Of is het zelfs niet zó ver, zó eenzaam om ons dat wij moeten bidden: _Heer uit de ruimte, uit de onmetelijke ruimte heb ik tot U geroepen? Heer hoor toch mijn gebed!_
 

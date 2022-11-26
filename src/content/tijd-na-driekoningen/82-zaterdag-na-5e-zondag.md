@@ -16,7 +16,7 @@ Wij worden als het ware ondergeschikt aan zijn voortdurende invloed en daarvan s
 
 _Hem hebt gij lief, ofschoon gij Hem niet hebt gezien... Verheugt u dus met onuitsprekelijke en verheerlijkte vreugde, omdat gij het doel van uw geloof bereikt, de zaligheid van uw zielen._ (1 Petr. 1:8,9)
 
-Het betekent iets in onze groei naar Christus, dat wij ons zelf _ontvankelijk_ maken voor zijn genadewerkingen. Want zijn werking in ons is zeer reëel, maar als een vraag, een uitnodiging. Pas na onze toezegging werkt die genade dieper door.
+Het betekent iets in onze groei naar Christus, dat wij onszelf _ontvankelijk_ maken voor zijn genadewerkingen. Want zijn werking in ons is zeer reëel, maar als een vraag, een uitnodiging. Pas na onze toezegging werkt die genade dieper door.
 
 _Hij is het licht van de wereld dat ieder mens verlicht_ (Joh. 1:9), maar het is voor een zeer groot aantal ook waar, dat _het licht in de duisternis schijnt maar de duisternis het niet aanneemt._ (Joh. 1:5)
 

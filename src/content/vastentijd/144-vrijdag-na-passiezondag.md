@@ -8,7 +8,7 @@ sortIndex: 144
 
 ## Jezus' voorbeeld van geduld
 
-Het is een weldaad voor ons te weten dat ons lijden, als wij het dragen met Jezus en uit liefde tot Hem, niet nutteloos is. Integendeel, het heeft een verstrekkende invloed... op ons zelf en op zoveel anderen. Het is de werkdadige vorm van gebed omdat het goed gedragen lijden zo oprecht getuigt van liefde voor de Godmens.
+Het is een weldaad voor ons te weten dat ons lijden, als wij het dragen met Jezus en uit liefde tot Hem, niet nutteloos is. Integendeel, het heeft een verstrekkende invloed... op onszelf en op zoveel anderen. Het is de werkdadige vorm van gebed omdat het goed gedragen lijden zo oprecht getuigt van liefde voor de Godmens.
 
 1\. Maar het is voor ons nodig van tijd tot tijd te bedenken dat wij in het lijden _Jezus navolgen_. Hij heeft ons een voorbeeld gegeven. Maar wat Hij in zijn lijden gaf was vooral een voorbeeld van geduld. Wij zijn maar moeilijk geduldig. Wij dragen... dikwijls omdat het moet. Wij dragen... met tegenzin en soms opstandig en morrend. Dit alles is zo menselijk. En de goddelijke Meester kent onze zwakheid en staat daar altijd met goedheid tegenover.
 

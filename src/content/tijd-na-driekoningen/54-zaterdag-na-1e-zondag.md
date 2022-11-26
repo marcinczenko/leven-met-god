@@ -12,13 +12,13 @@ Men hoort herhaaldelijk dat God dingen van ons vraagt waartoe wij niet in staat 
 
 Er ligt meer waarheid in deze "klacht", dan men wel zou vermoeden.
 
-1\. Wij zijn niet in staat om uit ons zelf enig goed werk te doen, ja zelfs niet om een goede gedachte te hebben.
+1\. Wij zijn niet in staat om uit onszelf enig goed werk te doen, ja zelfs niet om een goede gedachte te hebben.
 
-_Zonder Mij kunt gij niets doen._ (Joh. 15:5) Zoals wij in de natuurlijke orde alle kracht, moed en volharding aan God ontlenen, zo hebben wij in de bovennatuurlijke orde, voortdurend de steun van zijn genade, zijn licht en zijn innerlijke stuwkracht nodig. Wij zijn voor het bovennatuurlijke, uit ons zelf volstrekt machteloos. Het ligt eenvoudig _boven_ ons. _Wij kunnen het niet._
+_Zonder Mij kunt gij niets doen._ (Joh. 15:5) Zoals wij in de natuurlijke orde alle kracht, moed en volharding aan God ontlenen, zo hebben wij in de bovennatuurlijke orde, voortdurend de steun van zijn genade, zijn licht en zijn innerlijke stuwkracht nodig. Wij zijn voor het bovennatuurlijke, uit onszelf volstrekt machteloos. Het ligt eenvoudig _boven_ ons. _Wij kunnen het niet._
 
 Dit alles wijst duidelijk naar de Bron van alle leven en van alle kracht. Het is een zegen voor ons dat Wij wel genoodzaakt zijn, ons voortdurend tot God te richten. Daardoor wordt de weg gebaand tot nederigheid, tot vertrouwvolle omgang met God.
 
-Juist in onze zwakheid ligt onze kracht, want zij herinnert ons aan de kracht van boven. Uit ons zelf... neen, kunnen wij het niet. Het lijkt wel of onze levenstaak ver boven onze bescheiden vermogens ligt. Wij krijgen het niet klaar, wij halen het niet, zeker niet als wij bedenken tot welk een reinheid en vurige liefde God ons heeft voorbestemd. Maar door Jezus Christus, onze eigenlijke hulp en toevlucht, wordt alles voor ons mogelijk. _Ik kan alles in Hem die mij versterkt,_ zegt Paulus. (Fil. 4:13)
+Juist in onze zwakheid ligt onze kracht, want zij herinnert ons aan de kracht van boven. Uit onszelf... neen, kunnen wij het niet. Het lijkt wel of onze levenstaak ver boven onze bescheiden vermogens ligt. Wij krijgen het niet klaar, wij halen het niet, zeker niet als wij bedenken tot welk een reinheid en vurige liefde God ons heeft voorbestemd. Maar door Jezus Christus, onze eigenlijke hulp en toevlucht, wordt alles voor ons mogelijk. _Ik kan alles in Hem die mij versterkt,_ zegt Paulus. (Fil. 4:13)
 
 _Door Christus hebben wij dit zelfvertrouwen bij God. Want niet door onszelf, en als door eigen kracht zijn wij in staat iets te bedenken, maar onze geschiktheid is uit God._ (2 Kor. 3:5)
 

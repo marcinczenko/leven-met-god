@@ -34,7 +34,7 @@ Allen kunnen _iets_ geven... misschien weinig, maar dan toch nog met grote liefd
 
 Zij leefden slecht en geloofden niet. Geen wonder. Als alle aandacht zo naarstig wordt gereserveerd voor het aardse, wanneer zal men dan aan de hemel denken? Wanneer de stof alles in beslag mag nemen, zal dan de geest wel ooit aan bod komen...?
 
-Wanneer het allemaal eigenliefde is waarmede het hart wordt gevuld, waar blijft dan de liefde die ons boven ons zelf uitheft en naar Christus voert?
+Wanneer het allemaal eigenliefde is waarmede het hart wordt gevuld, waar blijft dan de liefde die ons boven onszelf uitheft en naar Christus voert?
 
 Wanneer men lacht met ingekeerdheid en berouw, met gebed en ingetogenheid... wat wonder dat de tere geur van het geloof vervluchtigt? Staat ge daarover nog verwonderd?
 

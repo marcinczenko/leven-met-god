@@ -28,7 +28,7 @@ Deze prachtige passage uit Isaias die de Kerk ons vandaag voorlegt, is wel zeer 
 
 Is de werkelijke naastenliefde niet een voortdurend hoognodige deugdpraktijk? Hebben wij die wel voldoende beoefend? Zou allerlei deugd voor ons niet veel gemakkelijker worden, zou de sfeer rondom ons niet menselijker zijn, zouden anderen niet herademen als wij eens metterdaad de liefde voor onze medemensen wilden beleven? Moeten wij niet nederig erkennen, dat wij hier nog veel te leren hebben? Dit is inwendige en uitwendige versterving tegelijkertijd.
 
-Goed zijn voor anderen, mild in onze woorden, in onze gedragingen, het maakt ons zelf terstond reeds tot een beter mens. Gods genade daalt dan over ons neer. Is dit niet het gebod van de Meester, het gebod bij uitstek?
+Goed zijn voor anderen, mild in onze woorden, in onze gedragingen, het maakt onszelf terstond reeds tot een beter mens. Gods genade daalt dan over ons neer. Is dit niet het gebod van de Meester, het gebod bij uitstek?
 
 2\. In het Evangelie wordt ons nogmaals gezegd dat naastenliefde hoogst belangrijk is, dat zij zich zelfs tot de vijanden moet kunnen uitstrekken.
 

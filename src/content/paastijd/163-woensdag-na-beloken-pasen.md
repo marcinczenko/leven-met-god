@@ -16,7 +16,7 @@ Ineens, onaangekondigd is Jezus aanwezig. De leerlingen zijn bijeen, zij weten n
 
 En nu verschijnt Hij. Daar is Hij; Hij staat daar, zoals vroeger, alsof er niets gebeurd was, alsof er geen veroordeling, geen geseling, geen verschrikkelijke kruisdood was geweest. En toch is het anders: zó beminnelijk, zó geruststellend, zó goed, men zou haast zeggen... als nooit te voren. _Vrede zij u_ zegt Hij zacht en goedig en Hij strekt zijn handen uit en wijst op zijn zijde. In de handen en in de zijde zien wij nu in eens de grote wonde. Maar die wond is rustig, zij heeft iets moois, zij wekt ontroering, zij wekt liefde op. Hij is dus toch anders. Hij wil hen geruststellen, vandaar dat woord, die gewone en toch nu zo ongewone groet: _vrede zij u_.
 
-Mogen wij ons niet voorstellen dat Hij bij _ons_ komt, zo maar ineens, onaangekondigd om... ons gerust te stellen? Wij lopen met zoveel twijfels... wij zijn bang, voor de mensen (zoals de apostelen), voor het leven, voor God, voor ons zelf.
+Mogen wij ons niet voorstellen dat Hij bij _ons_ komt, zo maar ineens, onaangekondigd om... ons gerust te stellen? Wij lopen met zoveel twijfels... wij zijn bang, voor de mensen (zoals de apostelen), voor het leven, voor God, voor onszelf.
 
 Hij zegt: _vrede zij u_. Hij geeft vrede. Hij laat ons zijn handen zien en zijn zijde. _Hij is het werkelijk_... zo hebben de leerlingen gedacht.
 

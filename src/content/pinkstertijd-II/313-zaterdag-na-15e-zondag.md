@@ -20,7 +20,7 @@ In de praktijk van het dagelijkse leven maken wij de liefde soms zo moeilijk. Ni
 
 De naaste staat niet in functie van _ons_, van onze waarde, ons oordeel en van _onze_ mening; maar hij dient te worden aanvaard en bejegend volgens Gods oordeel. Dàt oordeel openbaart ons Christus in de evangelische wet van de liefde.
 
-Het is vrij eenvoudig iemand hartelijk en goed te behandelen die zelf ons eerbied en genegenheid betuigt of die ons diensten bewijst. In dit geval is onze waardering en genegenheid niet zozeer voor die persoon als veel meer voor ons zelf een voldoening. Maar als iemand ons kwetst, ons - ook al is het ongewild - ongenoegen en zelfs last veroorzaakt, als iemand onze zienswijze niet deelt of onze wijze van handelen en leven niet goedkeurt, dan is het zo moeilijk werkelijke liefde en dienstvaardigheid, werkelijk respect en echte vriendelijkheid op te brengen.
+Het is vrij eenvoudig iemand hartelijk en goed te behandelen die zelf ons eerbied en genegenheid betuigt of die ons diensten bewijst. In dit geval is onze waardering en genegenheid niet zozeer voor die persoon als veel meer voor onszelf een voldoening. Maar als iemand ons kwetst, ons - ook al is het ongewild - ongenoegen en zelfs last veroorzaakt, als iemand onze zienswijze niet deelt of onze wijze van handelen en leven niet goedkeurt, dan is het zo moeilijk werkelijke liefde en dienstvaardigheid, werkelijk respect en echte vriendelijkheid op te brengen.
 
 Toch mogen wij in de fouten van anderen geen reden zien om hun onze liefde te weigeren. Zolang wij de naaste zien als iemand die ons moet helpen, eren en dienen en hem niet aanvaarden als schepsel van God en kind van God, zal ons standpunt niet zuiver zijn.
 

@@ -28,7 +28,7 @@ En dan volgt het onomwonden oordeel van de Meester: _Ik zeg u: deze ging gerecht
 
 De tollenaar had het bij het juiste eind. Hij had besef van zijn zondigheid. Hij trachtte niet eigen ellende op allerlei wijze te camoufleren. Hij _was_ een zondaar, maar door het met berouw te erkennen werd hij gerechtvaardigd.
 
-Zelfs zonder zonde blijft de mens op onmetelijke afstand van God verwijderd en heeft hij alle reden om nederig over zichzelf te denken. _Noverim Te, noverim me_ bad de H. Augustinus. _God laat mij toch kennen wie Gij zijt en laat mij kennen wie ik ben._ Dat voert tot diepe nederigheid. Wij denken te weinig na over God en daarom hebben wij verkeerde begrippen over ons zelf. Het doodgewone, klare bewustzijn van Gods onmetelijkheid, van Gods oneindige volmaaktheid, doet ons nederig oordelen over alles wat wij zijn en hebben.
+Zelfs zonder zonde blijft de mens op onmetelijke afstand van God verwijderd en heeft hij alle reden om nederig over zichzelf te denken. _Noverim Te, noverim me_ bad de H. Augustinus. _God laat mij toch kennen wie Gij zijt en laat mij kennen wie ik ben._ Dat voert tot diepe nederigheid. Wij denken te weinig na over God en daarom hebben wij verkeerde begrippen over onszelf. Het doodgewone, klare bewustzijn van Gods onmetelijkheid, van Gods oneindige volmaaktheid, doet ons nederig oordelen over alles wat wij zijn en hebben.
 
 En als onze zonde daar nóg bij komt... zullen wij dan niet nederig, berouwvol, tot God bidden om vergeving? Zal dit alles niet een nederig besef in ons doen groeien van onze zo onzegbaar kleine geringheid?
 

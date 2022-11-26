@@ -14,7 +14,7 @@ Het kan niet anders dan een herinnering zijn, een aanroeping of een troost wanne
 
 1\. Men zegt die naam niet zonder de heilige Geest, schrijft de apostel.
 
-De naam herinnert ons aan Degene die alles in ons leven betekent. Het is vanzelfsprekend dat wij die naam met eerbied moeten uitspreken, maar die ook dikwijls en gaarne bij ons zelf moeten zeggen als om Jezus zelf naar ons toe te trekken. _God heeft Hem verheven en Hem de naam gegeven hoog boven alle namen opdat in __de naam van Jezus__ iedere knie zich zou buigen in de hemel, op aarde en onder de aarde._ (Fil. 2:9)
+De naam herinnert ons aan Degene die alles in ons leven betekent. Het is vanzelfsprekend dat wij die naam met eerbied moeten uitspreken, maar die ook dikwijls en gaarne bij onszelf moeten zeggen als om Jezus zelf naar ons toe te trekken. _God heeft Hem verheven en Hem de naam gegeven hoog boven alle namen opdat in __de naam van Jezus__ iedere knie zich zou buigen in de hemel, op aarde en onder de aarde._ (Fil. 2:9)
 
 _De naam Jezus moet aan het begin en aan het einde staan. Alwat gij doet moet gij in zijn naam beginnen en in zijn naam beëindigen._ (Ant. v. Padua)
 

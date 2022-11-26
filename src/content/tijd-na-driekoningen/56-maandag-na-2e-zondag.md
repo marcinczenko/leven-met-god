@@ -23,7 +23,7 @@ Reeds de heilige Paulus wijst zijn gelovigen op deze biezondere gave van God: _a
 
 2\. Het is vanzelfsprekend dat zeer veel van de wijding, van de troost en het licht dat de heilige schrift voor ons bevat, slechts tot ons doordringt als wij zelf op de juiste wijze dit woord van God benaderen.
 
-_Geest van geloof_ is het eerste wat de heilige Geest verwacht in iemand die zegt de goddelijke woorden in zich te willen opnemen. Dat is dus een geest van nederigheid, van kinderlijke ontvankelijkheid. God dringt niet door tot de diepte van ons hart, als wij ons zelf voor Hem sluiten. Alle trots en eigenwaan sluit het hart af voor de Heer.
+_Geest van geloof_ is het eerste wat de heilige Geest verwacht in iemand die zegt de goddelijke woorden in zich te willen opnemen. Dat is dus een geest van nederigheid, van kinderlijke ontvankelijkheid. God dringt niet door tot de diepte van ons hart, als wij onszelf voor Hem sluiten. Alle trots en eigenwaan sluit het hart af voor de Heer.
 
 Men behoort dus te verlangen naar _onderrichting_; naar _terechtwijzing_ zelfs om zich door God te _laten opvoeden_. Men kan immers niemand anders met zoveel veiligheid deze taak in handen geven.
 

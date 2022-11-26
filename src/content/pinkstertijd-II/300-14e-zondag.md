@@ -18,7 +18,7 @@ _Niemand kan twee heren dienen..._ met deze woorden begint het evangelie van van
 
 _Daarom zeg Ik u: weest niet bezorgd voor uw leven, wat gij zult eten of drinken..._ Ik zeg het u: _daarom_. Als eenmaal onze houding juist is en wij God willen liefhebben dan komt het andere toch enigermate op de achtergrond. Wij zullen ons op passende wijze moeten inspannen voor het noodzakelijke levensonderhoud, het hoort bij onze eenvoudige plichten van staat en bij de normale liefde voor onszelf en onze dierbaren. Maar veel meer moet ons van binnen _de liefde drijven voor God zelf_, voor Jezus Christus, voor de mensen. Bij deze naar buiten en naar de anderen georiënteerde levenshouding, komt gemakkelijker het vertrouwen op God naar voren. Vertrouwen op God, op zijn goedheid en zijn voorzienigheid, wordt in hoge mate belemmerd door de strakke gerichtheid op het eigen ik.
 
-_Weest niet bezorgd..._ zegt Jezus ons. _Is het leven niet meer dan het voedsel en het lichaam niet meer dan de kleding?..._ Leven en lichaam hebben wij ons zelf niet gegeven. Ze zijn een geschenk van God. Als Hij ons _dit_ geeft, dan zal Hij ons ook het andere schenken.
+_Weest niet bezorgd..._ zegt Jezus ons. _Is het leven niet meer dan het voedsel en het lichaam niet meer dan de kleding?..._ Leven en lichaam hebben wij onszelf niet gegeven. Ze zijn een geschenk van God. Als Hij ons _dit_ geeft, dan zal Hij ons ook het andere schenken.
 
 Het vertrouwen eert God, het is de erkenning van zijn goedheid, zijn almacht, zijn vaderschap over ons; vertrouwen is een groot stuk levensgeluk. Maar het is alleen zuiver als wij er ook de hemel bij betrekken; alle aardse waarden krijgen pas hun zuivere belichting vanuit de gedachte aan de eeuwigheid, waarheen wij allen op weg zijn.
 
