@@ -1,16 +1,16 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
   globals: {
-    __PATH_PREFIX__: true,
+    __PATH_PREFIX__: true
   },
   env: {
     browser: true,
-    es2021: true,
+    es2021: true
   },
   settings: {
     react: {
-      version: 'detect',
-    },
+      version: 'detect'
+    }
   },
   extends: [
     'eslint:recommended',
@@ -20,20 +20,18 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:react-hooks/recommended',
     'plugin:react/jsx-runtime',
-    'plugin:jest/recommended',
-    'plugin:jest/style',
-    'prettier',
+    'prettier'
   ],
   parserOptions: {
     ecmaFeatures: {
-      jsx: true,
+      jsx: true
     },
     requireConfigFile: false,
     ecmaVersion: 12,
-    sourceType: 'module',
+    sourceType: 'module'
   },
   plugins: ['@typescript-eslint', 'react', 'jest'],
   rules: {
-    'react/prop-types': 0,
-  },
+    'react/prop-types': 0
+  }
 }
