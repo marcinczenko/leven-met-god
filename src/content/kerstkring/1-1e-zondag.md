@@ -8,7 +8,7 @@ sortIndex: 1
 
 ## De komst des Heren
 
-De gehele tijd van voorbereiding op bet Kerstfeest staat in het teken van de hoop en de verwachting. Alles in de liturgie ziet als het ware uit naar zijn komst: het is de _adventus Domini_, de komst van de Heer waar wij op hopen.
+De gehele tijd van voorbereiding op het Kerstfeest staat in het teken van de hoop en de verwachting. Alles in de liturgie ziet als het ware uit naar zijn komst: het is de _adventus Domini_, de komst van de Heer waar wij op hopen.
 
 1\. Eeuwen en eeuwen hebben de geslachten vroeger geleefd van de gedachte: _Hij komt_. Hij, de Redder, die de zonden zal wegnemen, die het nieuwe leven zal brengen, de vriendschap en de vreugde. Hij is gekomen, anders dan velen zich hadden voorgesteld, maar Hij nam de zonden weg van ieder die met vertrouwen tot Hem kwam; Hij gaf vrede en vreugde en de hernieuwde vriendschap met God.
 
@@ -22,7 +22,7 @@ Hij is de Koning van de vrede.
 
 En het eerste woord waarmede de introïtus van de mis van vandaag inzet, tekent de gehele heilsverwachting van deze advent. Een woord om telkens te herhalen, te bidden als een schietgebed, als een vurige smeking, als een oefening van ingekeerdheid: _ad te levavi animam meam Deus meus_. _Tot U mijn God heb ik mijn ziel geheven._
 
-_Op U vertrouw ik,_ zo gaat de tekst verder, _ik zal niet beschaamd worden: laat mijn vijanden mij niet tot voorwerp van bespotting maken;wie op U vertrouwen immers, worden niet beschaamd._
+_Op U vertrouw ik,_ zo gaat de tekst verder, _ik zal niet beschaamd worden: laat mijn vijanden mij niet tot voorwerp van bespotting maken; wie op U vertrouwen immers, worden niet beschaamd._
 
 _Onze ziel tot God verheffen,_ dat is het eerste. Ons tot God richten, ons tot Hem opheffen _in gebed, in stilte, in ingekeerdheid_: dat is de intrede in deze adventsverwachting van de Kerk.
 
