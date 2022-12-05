@@ -34,5 +34,48 @@ export const meditations = {
   '2022-12-4T00:00:00': {
     title: '8: 2e ZONDAG VAN DE ADVENT - De vreugde is op komst',
     link: '/8'
+  },
+  '2021-12-5T00:00:00': {
+    title:
+      '9: MAANDAG NA DE 2e ZONDAG - Het aardse verachten in liefde voor het hemelse',
+    link: '/9'
+  },
+  '2021-12-6T00:00:00': {
+    title: '10: DINSDAG NA DE 2e ZONDAG - Zijn stem',
+    link: '/10'
+  },
+  '2021-12-7T00:00:00': {
+    title: '389: 8 DECEMBER - De onbevlekte Ontvangenis',
+    link: '/389',
+    extras: [
+      {
+        title: '11: WOENSDAG NA DE 2e ZONDAG - Het is zijn genade',
+        link: '/11',
+        type: 'Gedachtenis'
+      }
+    ]
+  },
+  '2021-12-8T00:00:00': {
+    title: '389: 8 DECEMBER - De onbevlekte Ontvangenis',
+    link: '/389',
+    extras: [
+      {
+        title: '12: DONDERDAG NA DE 2e ZONDAG - Het eeuwig leven',
+        link: '/12',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2021-12-9T00:00:00': {
+    title: '13: VRIJDAG NA DE 2e ZONDAG - Vrede voor allen',
+    link: '/13'
+  },
+  '2021-12-10T00:00:00': {
+    title: '14: ZATERDAG NA DE 2e ZONDAG - God beminnen',
+    link: '/14'
+  },
+  '2021-12-11T00:00:00': {
+    title: '15: 3e ZONDAG VAN DE ADVENT - Christelijke vreugde',
+    link: '/15'
   }
 }
