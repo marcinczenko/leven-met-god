@@ -70,5 +70,58 @@ export const meditations = {
   '2022-12-11T00:00:00': {
     title: '15: 3e ZONDAG VAN DE ADVENT - Christelijke vreugde',
     link: '/15'
+  },
+  '2022-12-12T00:00:00': {
+    title: '16: MAANDAG NA DE 3e ZONDAG - Verdrijf onze duisternis',
+    link: '/16'
+  },
+  '2022-12-13T00:00:00': {
+    title: '17: DINSDAG NA DE 3e ZONDAG - De voorloper',
+    link: '/17'
+  },
+  '2022-12-14T00:00:00': {
+    title: "18: QUATERTEMPER WOENSDAG - Maria vóór Jezus' geboorte",
+    link: '/18'
+  },
+  '2022-12-15T00:00:00': {
+    title: '19: DONDERDAG NA DE 3e ZONDAG - Dauwt Hemelen...',
+    link: '/19'
+  },
+  '2022-12-16T00:00:00': {
+    title: '20: QUATERTEMPER VRIJDAG - De Moedermaagd',
+    link: '/20'
+  },
+  '2022-12-17T00:00:00': {
+    title: '21: QUATERTEMPER ZATERDAG - Gesprek met God',
+    link: '/21'
+  },
+  '2022-12-18T00:00:00': {
+    title: '22: 4e ZONDAG VAN DE ADVENT - Gods oordeel',
+    link: '/22'
+  },
+  '2022-12-19T00:00:00': {
+    title: '23: MAANDAG NA DE 4e ZONDAG - Waarom is Christus gekomen?',
+    link: '/23'
+  },
+  '2022-12-20T00:00:00': {
+    title:
+      '24: DINSDAG NA DE 4e ZONDAG - Jezus Christus is de mensgeworden Zoon van God',
+    link: '/24'
+  },
+  '2022-12-21T00:00:00': {
+    title: '25: WOENSDAG NA DE 4e ZONDAG - Geestelijke Groei I',
+    link: '/25'
+  },
+  '2022-12-22T00:00:00': {
+    title: '26: DONDERDAG NA DE 4e ZONDAG - Opvoeding en liefde',
+    link: '/26'
+  },
+  '2022-12-23T00:00:00': {
+    title: '27: VRIJDAG NA DE 4e ZONDAG - Geestelijke Groei II',
+    link: '/27'
+  },
+  '2022-12-24T00:00:00': {
+    title: '28: VIGILIE VAN KERSTMIS - Vooravond van Kerstmis',
+    link: '/28'
   }
 }
