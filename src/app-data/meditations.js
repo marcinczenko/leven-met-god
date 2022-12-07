@@ -45,15 +45,8 @@ export const meditations = {
     link: '/10'
   },
   '2022-12-7T00:00:00': {
-    title: '389: 8 DECEMBER - De onbevlekte Ontvangenis',
-    link: '/389',
-    extras: [
-      {
-        title: '11: WOENSDAG NA DE 2e ZONDAG - Het is zijn genade',
-        link: '/11',
-        type: 'Gedachtenis'
-      }
-    ]
+    title: '11: WOENSDAG NA DE 2e ZONDAG - Het is zijn genade',
+    link: '/11'
   },
   '2022-12-8T00:00:00': {
     title: '389: 8 DECEMBER - De onbevlekte Ontvangenis',
