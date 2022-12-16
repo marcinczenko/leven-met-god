@@ -28,7 +28,7 @@ _Evenals Hij later het gesloten en verzegelde graf verlaten heeft, en bij zijn l
 
 Van ons wordt verwacht dat wij dit geheim eerbiedigen en haar vereren die door God zozeer bevoorrecht, geheiligd en gewijd werd.
 
-Maria is zo ver van al het aardse verwijderd gebleven en toch is zij degene die ons van het aardse meeneemt en inleidt bij de Allerhoogste. Zij staat tussen het hemelse en het aardse: zij is geheel van God en zij is geheel van ons. Louter mens, maar doorgeurd van genade, brengt zij ons tot hemelse gedachten en verlangens; vervuld van de heilige Geest is zij onze machtige voorspreekster en een altijd liefdevolle hulp.
+2\. Maria is zo ver van al het aardse verwijderd gebleven en toch is zij degene die ons van het aardse meeneemt en inleidt bij de Allerhoogste. Zij staat tussen het hemelse en het aardse: zij is geheel van God en zij is geheel van ons. Louter mens, maar doorgeurd van genade, brengt zij ons tot hemelse gedachten en verlangens; vervuld van de heilige Geest is zij onze machtige voorspreekster en een altijd liefdevolle hulp.
 
 _De maagdelijkheid van de Moeder Gods is de stralendste liefdebloesem tussen Schepper en schepsel._ (Prohászka).
 
