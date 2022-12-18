@@ -3,6 +3,30 @@
 @tailwind utilities;
 
 @layer base {
+  @font-face {
+    font-family: 'Source Sans';
+    font-weight: 100 900;
+    src: url('/fonts/SourceSans3VF-Roman.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'Source Sans';
+    font-style: italic;
+    font-weight: 100 900;
+    src: url('/fonts/SourceSans3VF-Italic.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'Roboto Mono';
+    font-weight: 100 900;
+    src: url('/fonts/RobotoMono-VariableFont_wght.woff2') format('woff2'),
+      url('/fonts/RobotoMono-VariableFont_wght.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Roboto Mono';
+    font-weight: 100 900;
+    font-style: italic;
+    src: url('/fonts/RobotoMono-Italic-VariableFont_wght.woff2') format('woff2'),
+      url('/fonts/RobotoMono-Italic-VariableFont_wght.woff') format('woff');
+  }
   html {
     @apply text-confluenza;
     @apply font-normal;
@@ -32,14 +56,16 @@
     @apply mr-confluenza;
   }
 
-  p, blockquote > p {
+  p,
+  blockquote > p {
     @apply text-confluenza-p;
     @apply mb-confluenza;
     @apply font-normal;
     @apply font-sans;
   }
 
-  ol, ul {
+  ol,
+  ul {
     @apply block;
     @apply mb-7;
     @apply pl-7;
@@ -62,6 +88,6 @@
   }
 
   svg {
-    @apply inline
+    @apply inline;
   }
 }
