@@ -1,3 +1,4 @@
+/** @type {import('tailwindcss').Config} */
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
@@ -6,9 +7,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Source Sans Pro', ...defaultTheme.fontFamily.sans],
-        mono: ['Roboto Mono', ...defaultTheme.fontFamily.mono],
-        'mono-condensed': ['Roboto Condensed', 'Roboto Mono', ...defaultTheme.fontFamily.mono]
+        sans: ['Source Sans', ...defaultTheme.fontFamily.sans],
+        mono: ['Roboto Mono', ...defaultTheme.fontFamily.mono]
       },
       colors: {
         'artbea-pink': '#F486CA'
