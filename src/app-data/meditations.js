@@ -123,5 +123,38 @@ export const meditations = {
   '2022-12-24T00:00:00': {
     title: '28: VIGILIE VAN KERSTMIS - Vooravond van Kerstmis',
     link: '/28'
+  },
+  '2022-12-25T00:00:00': {
+    title: '29: KERSTFEEST - De geboorte van Christus',
+    link: '/29'
+  },
+  '2022-12-26T00:00:00': {
+    title: '30: TWEEDE KERSTDAG - Sint Stefanus, de kroon',
+    link: '/30'
+  },
+  '2022-12-27T00:00:00': {
+    title: '31: ST. JAN DE EVANGELIST - De leerling die Jezus liefhad',
+    link: '/31'
+  },
+  '2022-12-28T00:00:00': {
+    title: '32: FEEST VAN ONNOZELE KINDEREN - De wonderlijke moord',
+    link: '/32'
+  },
+  '2022-12-30T00:00:00': {
+    title:
+      '34: ONDER HET OCTAAF VAN KERSTMIS - Wij hebben alles aan Hem te danken',
+    link: '/34'
+  },
+  '2022-12-31T00:00:00': {
+    title: '35: ONDER HET OCTAAF VAN KERSTMIS - Oudejaarsavond',
+    link: '/35'
+  },
+  '2023-1-1T00:00:00': {
+    title: '36: BESNIJDENIS DES HEREN - In het teken van het offer',
+    link: '/36'
+  },
+  '2023-1-2T00:00:00': {
+    title: '37: FEEST VAN DE ZOETE NAAM - De naam van Jezus',
+    link: '/37'
   }
 }
