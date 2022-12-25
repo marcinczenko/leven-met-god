@@ -28,9 +28,7 @@ _En wil niet getroost worden..._
 _want ze zijn niet meer._  
 _(Matt. 2:17,18)_
 
-2\. 
-
-_O Kerstnacht schoner dan de dagen_  
+2\. _O Kerstnacht schoner dan de dagen_  
 _Hoe kan Herodes 't licht verdragen_  
 _Dat in uw duisternissen blinkt._  
 _En wordt gevierd en aangebeden_  
