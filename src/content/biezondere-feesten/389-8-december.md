@@ -5,8 +5,6 @@ tag: biezondere-feesten
 sortIndex: 389
 ---
 
-import { CenteredText } from '../../components/mdx'
-
 ## De onbevlekte Ontvangenis
 
 _Roemrijke dingen zijn er over u gezegd, want de Machtige heeft grote dingen aan u gedaan._ (Luk. 1:49) Deze woorden laat de Kerk ons op het feest van vandaag bidden als het communie-vers in de mis.
@@ -34,26 +32,23 @@ zuivering van de zondesmet. (Bartmann)
 
 Voor wie in God gelooft is het volkomen aanvaardbaar dat God, als Hij een meesterwerk tot stand wil brengen, iets voortreffelijks schept, iets dat ons verstand te boven gaat, iets waar wij met verwondering en verbazing naar blijven opzien. Dat meesterwerk, bovenmenselijk heilig en verheven, is de Maagd Maria, dat is Maria in haar pure reinheid en in haar ontvankelijkheid voor al wat goddelijk is.
 
-<CenteredText italic>
+_Gij droegt geen smet_  
+_Gij hadt geen fout_  
+_in heel uw zuiver leven;_  
+_maar zijt de bloem_  
+_die rijk bedauwd_  
+_van hemels licht_  
+_en eeuwig goud_  
+_steeds bloeiend zijt gebleven._  
+_Geen zoeter zoet_  
+_geen reiner rein_  
+_dan Gij, o Kerk des Heren,_  
+_die in de kelk uws harten fijn_  
+_dat zuiver bloed,_  
+_die gouden wijn_  
+_het eerst mocht consacreren._
 
-Gij droegt geen smet
-Gij hadt geen fout
-in heel uw zuiver leven;
-maar zijt de bloem
-die rijk bedauwd
-van hemels licht
-en eeuwig goud
-steeds bloeiend zijt gebleven.
-Geen zoeter zoet
-geen reiner rein
-dan Gij, o Kerk des Heren,
-die in de kelk uws harten fijn
-dat zuiver bloed,
-die gouden wijn
-het eerst mocht consacreren.
-
-(J. Schreurs)
-</CenteredText>
+_(J. Schreurs)_
 
 Vandaar vereren wij Maria, ongetwijfeld als Gods Moeder, want dat is de oorsprong van haar verheven schoonheid, maar toch met biezondere nadruk als de onbevlekte, als de heilige, als de Maagd der maagden.
 
