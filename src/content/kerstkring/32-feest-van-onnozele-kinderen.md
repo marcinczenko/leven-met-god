@@ -5,8 +5,6 @@ tag: kerstkring
 sortIndex: 32
 ---
 
-import { CenteredText } from '../../components/mdx'
-
 ## De wonderlijke moord
 
 Op het feest van de onnozele (dat is onschuldige) kinderen, laat de kerk ons het prachtige psalmvers bidden: _uit de mond van kind en zuigeling stem Gij u een loflied aan, om uw vijanden te verstommen_. (Ps. 8:3) Als de groten der aarde, als de wijze mensen zwijgen, keert God zich tot het allernederigste, het totaal nietige. Het looft en prijst Hem en wordt door die lof zelf verheven, verheven tot in een eeuwige, een onsterfelijke glorie.
@@ -23,60 +21,52 @@ Er moet wel iets van de allerreinste onschuld rondom Jezus' kribbe zijn. De onge
 
 Toen werd vervuld wat door de profeet Jeremias was gezegd:
 
-<CenteredText italic>
+_Een stem is in Rama gehoord_  
+_Luid geween en geschrei:_  
+_Rachel beweent haar kinderen_  
+_En wil niet getroost worden..._  
+_want ze zijn niet meer._  
+_(Matt. 2:17,18)_
 
-Een stem is in Rama gehoord
-Luid geween en geschrei:
-Rachel beweent haar kinderen
-En wil niet getroost worden...
-want ze zijn niet meer.
-(Matt. 2:17,18)
+2\. 
 
-</CenteredText>
+_O Kerstnacht schoner dan de dagen_  
+_Hoe kan Herodes 't licht verdragen_  
+_Dat in uw duisternissen blinkt._  
+_En wordt gevierd en aangebeden_  
+_Zijn hoogmoed luistert naar geen reden_  
+_Hoe schel die in zijn oren klinkt._
 
-2\.
+_Hij poogt d'onnozele te vernielen_  
+_Door het moorden van onnozele zielen_  
+_En wekt een stad- en landgeschrei_  
+_In Betlehem en op de akker_  
+_En maakt de geest van Rachel wakker_  
+_Die waren gaat door beemd en wei._
 
-<CenteredText italic>
+_Dan naar 't westen, dan naar 't oosten,_  
+_Wie zal die droeve moeder troosten_  
+_Nu zij haar lieve kinders derft...?_  
+_Zij ziet de tere traantjes hangen_  
+_Als dauw, aan druppels op de wangen_  
+_Zij ziet ze vuil van bloed bemorst..._
 
-O Kerstnacht schoner dan de dagen
-Hoe kan Herodes 't licht verdragen
-Dat in uw duisternissen blinkt.
-En wordt gevierd en aangebeden
-Zijn hoogmoed luistert naar geen reden
-Hoe schel die in zijn oren klinkt.
+_Wie kan d'ellende en 't jammer noemen_  
+_En tellen zoveel jonge bloemen_  
+_Die toen verwelkten, eer zij nog_  
+_Haar frisse bladeren ontloken...?_
 
-Hij poogt d'onnozele te vernielen
-Door het moorden van onnozele zielen
-En wekt een stad- en landgeschrei
-In Betlehem en op de akker
-En maakt de geest van Rachel wakker
-Die waren gaat door beemd en wei.
+_Zo velt de zeis de korenaren_  
+_Zo schudt een bui de groene blaren_  
+_Wanneer het stormt in 't wilde woud..._  
+_Bedrukte Rachel staak dit waren:_  
+_Uw kinderen sterven martelaren_  
+_En eerstelingen van het zaad_  
+_Dat uit uw bloed begint te groeien_  
+_En heerlijk tot Gods eer zal bloeien_  
+_En door geen wreedheid en vergaat._
 
-Dan naar 't westen, dan naar 't oosten,
-Wie zal die droeve moeder troosten
-Nu zij haar lieve kinders derft...?
-Zij ziet de tere traantjes hangen
-Als dauw, aan druppels op de wangen
-Zij ziet ze vuil van bloed bemorst...
-
-Wie kan d'ellende en 't jammer noemen
-En tellen zoveel jonge bloemen
-Die toen verwelkten, eer zij nog
-Haar frisse bladeren ontloken...?
-
-Zo velt de zeis de korenaren
-Zo schudt een bui de groene blaren
-Wanneer het stormt in 't wilde woud...
-Bedrukte Rachel staak dit waren:
-Uw kinderen sterven martelaren
-En eerstelingen van het zaad
-Dat uit uw bloed begint te groeien
-En heerlijk tot Gods eer zal bloeien
-En door geen wreedheid en vergaat.
-
-(Vondel)
-
-</CenteredText>
+_(Vondel)_
 
 Hoeveel moeders denken op dit feest niet aan hun te vroeg ontslapen kind, dat zij zo pijnlijk misten? Maar voor God leeft de onschuld eeuwig... Zijn raadsbesluiten zijn ondoorgrondelijk, maar wijs en altijd liefdevol, ook al ontgaat ons klein verstand de diepe zin daarvan.
 
