@@ -156,5 +156,44 @@ export const meditations = {
   '2023-1-2T00:00:00': {
     title: '37: FEEST VAN DE ZOETE NAAM - De naam van Jezus',
     link: '/37'
+  },
+  '2023-1-3T00:00:00': {
+    title: '38: 2e DAG NA HET OCTAAF - Maria Moeder Gods',
+    link: '/38'
+  },
+  '2023-1-4T00:00:00': {
+    title: '39: 3e DAG NA HET OCTAAF - Jezus, mens onder de mensen',
+    link: '/39'
+  },
+  '2023-1-5T00:00:00': {
+    title:
+      '40: VIGILIE VAN DRIEKONINGEN - De Toegang tot Hem voert langs het geloof',
+    link: '/40'
+  },
+  '2023-1-6T00:00:00': {
+    title: '41: OPENBARING DES HEREN - Driekoningen',
+    link: '/41'
+  },
+  '2023-1-7T00:00:00': {
+    title:
+      '46: ONDER HET OCTAAF VAN DRIEKONINGEN - Het inwendig gebed, een voorrecht',
+    link: '/46'
+  },
+  '2023-1-8T00:00:00': {
+    title: '44: ONDER HET OCTAAF VAN DRIEKONINGEN - Wat moeten wij doen?',
+    link: '/44'
+  },
+  '2023-1-9T00:00:00': {
+    title:
+      '42: HET FEEST VAN DE HEILIGE FAMILIE - Het voorbeeld van de christelijke familie',
+    link: '/42',
+    extras: [
+      {
+        title:
+          '48: 1e ZONDAG NA DRIEKONINGEN - Het onbegrijpelijke gedrag van Jezus',
+        link: '/48',
+        type: 'Tweede meditatie:'
+      }
+    ]
   }
 }
