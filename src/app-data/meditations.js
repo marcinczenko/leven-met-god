@@ -192,7 +192,7 @@ export const meditations = {
       }
     ]
   },
-  '2022-1-9T00:00:00': {
+  '2023-1-9T00:00:00': {
     title: '43: ONDER HET OCTAAF VAN DRIEKONINGEN - De vrede van Christus',
     link: '/43',
     extras: [
@@ -203,7 +203,7 @@ export const meditations = {
       }
     ]
   },
-  '2022-1-10T00:00:00': {
+  '2023-1-10T00:00:00': {
     title: '44: ONDER HET OCTAAF VAN DRIEKONINGEN - Wat moeten wij doen?',
     link: '/44',
     extras: [
@@ -214,7 +214,7 @@ export const meditations = {
       }
     ]
   },
-  '2022-1-11T00:00:00': {
+  '2023-1-11T00:00:00': {
     title: '45: ONDER HET OCTAAF VAN DRIEKONINGEN - Vrijheid',
     link: '/45',
     extras: [
@@ -226,11 +226,11 @@ export const meditations = {
       }
     ]
   },
-  '2022-1-12T00:00:00': {
+  '2023-1-12T00:00:00': {
     title: '52: DONDERDAG NA DE 1e ZONDAG - Christus navolgen',
     link: '/52'
   },
-  '2022-1-13T00:00:00': {
+  '2023-1-13T00:00:00': {
     title:
       '47: HET OCTAAF VAN DRIEKONINGEN - Het Doopsel van Jezus in de Jordaan',
     link: '/47',
