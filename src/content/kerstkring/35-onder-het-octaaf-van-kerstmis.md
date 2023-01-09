@@ -1,6 +1,6 @@
 ---
 path: /35
-title: '35: 7e DAG ONDER HET OCTAAF'
+title: '35: ONDER HET OCTAAF VAN KERSTMIS'
 tag: kerstkring
 content: ../styling.md
 sortIndex: 35

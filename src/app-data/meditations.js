@@ -180,10 +180,6 @@ export const meditations = {
     link: '/46'
   },
   '2023-1-8T00:00:00': {
-    title: '44: ONDER HET OCTAAF VAN DRIEKONINGEN - Wat moeten wij doen?',
-    link: '/44'
-  },
-  '2023-1-9T00:00:00': {
     title:
       '42: HET FEEST VAN DE HEILIGE FAMILIE - Het voorbeeld van de christelijke familie',
     link: '/42',
@@ -192,6 +188,56 @@ export const meditations = {
         title:
           '48: 1e ZONDAG NA DRIEKONINGEN - Het onbegrijpelijke gedrag van Jezus',
         link: '/48',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-1-9T00:00:00': {
+    title: '43: ONDER HET OCTAAF VAN DRIEKONINGEN - De vrede van Christus',
+    link: '/43',
+    extras: [
+      {
+        title: '49: MAANDAG NA DE 1e ZONDAG - Wat het geloof ons leert',
+        link: '/49',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-1-10T00:00:00': {
+    title: '44: ONDER HET OCTAAF VAN DRIEKONINGEN - Wat moeten wij doen?',
+    link: '/44',
+    extras: [
+      {
+        title: '50: DINSDAG NA DE 1e ZONDAG - In de wereld van vandaag',
+        link: '/50',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-1-11T00:00:00': {
+    title: '45: ONDER HET OCTAAF VAN DRIEKONINGEN - Vrijheid',
+    link: '/45',
+    extras: [
+      {
+        title:
+          '51: WOENSDAG NA DE 1e ZONDAG - Het gebed: zijn betekenis voor ons leven',
+        link: '/51',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2022-1-12T00:00:00': {
+    title: '52: DONDERDAG NA DE 1e ZONDAG - Christus navolgen',
+    link: '/52'
+  },
+  '2022-1-13T00:00:00': {
+    title:
+      '47: HET OCTAAF VAN DRIEKONINGEN - Het Doopsel van Jezus in de Jordaan',
+    link: '/47',
+    extras: [
+      {
+        title: '52: DONDERDAG NA DE 1e ZONDAG - Christus navolgen',
+        link: '/52',
         type: 'Tweede meditatie:'
       }
     ]
