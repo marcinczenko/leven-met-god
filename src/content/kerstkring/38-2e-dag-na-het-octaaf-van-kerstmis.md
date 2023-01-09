@@ -1,6 +1,6 @@
 ---
 path: /38
-title: '38: 2e DAG NA HET OCTAAF'
+title: '38: 2e DAG NA HET OCTAAF VAN KERSTMIS'
 tag: kerstkring
 content: ../styling.md
 sortIndex: 38
