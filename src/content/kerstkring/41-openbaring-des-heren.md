@@ -24,4 +24,4 @@ De Wijzen vertrekken naar die stad terwijl de ster hen weer vooruitgaat. Zij vin
 
 Wie Christus immers vindt keert niet meer terug tot het dagelijks leven zoals hij dat vroeger leidde: hij wordt door dit contact met de Meester innerlijk veranderd. Men zou mogen zeggen: om dit laatste was het de heilige Geest te doen: _dat wij andere mensen worden_; diepgelovig, nederig, liefdevol, offervaardig, plichtsgetrouw en blij.
 
-_O Jezus die de Wijzen hebt geroepen opdat __wij__ zouden komen, leer ons iets van hun volgzaamheid, hun trouw en hun offervaardigheid. Help ons de moeilijkheden overwinnen door de kracht van uw genade en leer ons standvastig zijn in onze liefde tot U en tot uw lieve Moeder. Amen._
+_O Jezus, die de Wijzen hebt geroepen opdat _wij_ zouden komen, leer ons iets van hun volgzaamheid, hun trouw en hun offervaardigheid. Help ons de moeilijkheden overwinnen door de kracht van uw genade en leer ons standvastig zijn in onze liefde tot U en tot uw lieve Moeder. Amen._
