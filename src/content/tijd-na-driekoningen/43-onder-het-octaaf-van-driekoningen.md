@@ -14,7 +14,7 @@ Geheel het epistel sprak gisteren over de naastenliefde en over de verhouding to
 
 1\. _In uw harten heerse ook de vrede van Christus; want daartoe zijt gij tot één lichaam geroepen._
 
-Wij zijn geroepen en _gedoopt en gedrenkt met één Geest... tot één Lichaam_, (1 Kor. 12:13), dat wil zeggen, om één Lichaam te vormen in Jezus Christus. Wij zijn dus één in Hem en met Hem. Nu voegt de apostel daar nog de gedachte aan toe: dat wij tot die eenheid met Christus zijn gebracht opdat _de vrede van Christus_ in ons zou heersen. _Want daartoe zijt gij tot één lichaam geroepen._ (Kol. 3:15) Als de vrede van Christus heerst in ons hart, leeft in dat hart ook de echte en diepe levensvreugde. 
+Wij zijn geroepen en _gedoopt en gedrenkt met één Geest... tot één Lichaam_ (1 Kor. 12:13), dat wil zeggen, om één Lichaam te vormen in Jezus Christus. Wij zijn dus één in Hem en met Hem. Nu voegt de apostel daar nog de gedachte aan toe: dat wij tot die eenheid met Christus zijn gebracht opdat _de vrede van Christus_ in ons zou heersen. _Want daartoe zijt gij tot één lichaam geroepen._ (Kol. 3:15) Als de vrede van Christus heerst in ons hart, leeft in dat hart ook de echte en diepe levensvreugde. 
 
 Die vreugde is de vrucht van onze liefde voor de Meester en van onze innige en diepe vereniging met Hem. Tijdelijk kan die vrede min of meer worden verstoord, door angst of zorg, maar normaal gesproken is hij de blijvende begeleiding van de hartelijke liefde tot Christus. Die vrede is de bron van het geluk: niemand kan ons dàt geluk ontnemen. Het groeit mèt onze liefde en maakt ons sterker dan alle aardse zorgen of gevaren.
 
