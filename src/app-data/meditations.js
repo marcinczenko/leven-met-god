@@ -236,10 +236,47 @@ export const meditations = {
     link: '/47',
     extras: [
       {
-        title: '52: DONDERDAG NA DE 1e ZONDAG - Christus navolgen',
-        link: '/52',
+        title:
+          '53: VRIJDAG NA DE 1e ZONDAG - Liefde voor mensen en voor jonge mensen',
+        link: '/53',
         type: 'Tweede meditatie:'
       }
     ]
+  },
+  '2023-1-14T00:00:00': {
+    title: '54: ZATERDAG NA DE 1e ZONDAG - Wij kunnen het niet',
+    link: '/54'
+  },
+  '2023-1-15T00:00:00': {
+    title: '55: 2e ZONDAG NA DRIEKONINGEN - De bruiloft van Kana',
+    link: '/55'
+  },
+  '2023-1-16T00:00:00': {
+    title: '56: MAANDAG NA DE 2e ZONDAG - De heilige Schrift',
+    link: '/56'
+  },
+  '2023-1-17T00:00:00': {
+    title: '57: DINSDAG NA DE 2e ZONDAG - De liefde in het leven',
+    link: '/57'
+  },
+  '2023-1-18T00:00:00': {
+    title: '58: WOENSDAG NA DE 2e ZONDAG - Heer ik geloof, help mijn ongeloof',
+    link: '/58'
+  },
+  '2023-1-19T00:00:00': {
+    title: '59: DONDERDAG NA DE 2e ZONDAG - Christelijke bejegening I',
+    link: '/59'
+  },
+  '2023-1-20T00:00:00': {
+    title: '60: VRIJDAG NA DE 2e ZONDAG - Apostolaat',
+    link: '/60'
+  },
+  '2023-1-21T00:00:00': {
+    title: '61: ZATERDAG NA DE 2e ZONDAG - Christelijk leven',
+    link: '/61'
+  },
+  '2023-1-22T00:00:00': {
+    title: '62: 3e ZONDAG NA DRIEKONINGEN - Heer ik ben niet waardig...',
+    link: '/62'
   }
 }
