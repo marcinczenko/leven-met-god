@@ -278,5 +278,33 @@ export const meditations = {
   '2023-1-22T00:00:00': {
     title: '62: 3e ZONDAG NA DRIEKONINGEN - Heer ik ben niet waardig...',
     link: '/62'
+  },
+  '2023-1-23T00:00:00': {
+    title: '63: MAANDAG NA DE 3e ZONDAG - Hij leidt ons van dichtbij',
+    link: '/63'
+  },
+  '2023-1-24T00:00:00': {
+    title: '64: DINSDAG NA DE 3e ZONDAG - God aanbidden',
+    link: '/64'
+  },
+  '2023-1-25T00:00:00': {
+    title: '65: WOENSDAG NA DE 3e ZONDAG - Een kostbare aansporing',
+    link: '/65'
+  },
+  '2023-1-26T00:00:00': {
+    title: '66: DONDERDAG NA DE 3e ZONDAG - Geloven is leven',
+    link: '/66'
+  },
+  '2023-1-27T00:00:00': {
+    title: '67: VRIJDAG NA DE 3e ZONDAG - De levende God',
+    link: '/67'
+  },
+  '2023-1-28T00:00:00': {
+    title: '68: ZATERDAG NA DE 3e ZONDAG - Kind van God',
+    link: '/68'
+  },
+  '2023-1-29T00:00:00': {
+    title: '69: 4e ZONDAG NA DRIEKONINGEN - Vertrouwen',
+    link: '/69'
   }
 }
