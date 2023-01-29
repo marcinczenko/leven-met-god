@@ -306,5 +306,68 @@ export const meditations = {
   '2023-1-29T00:00:00': {
     title: '69: 4e ZONDAG NA DRIEKONINGEN - Vertrouwen',
     link: '/69'
+  },
+  '2023-1-30T00:00:00': {
+    title: '70: MAANDAG NA DE 4e ZONDAG - Wat volgt uit ons kindschap?',
+    link: '/70'
+  },
+  '2023-1-31T00:00:00': {
+    title: '71: DINSDAG NA DE 4e ZONDAG - De uitnodiging tot heiligheid',
+    link: '/71'
+  },
+  '2023-2-1T00:00:00': {
+    title: '72: WOENSDAG NA DE 4e ZONDAG - Zie, Ik ben met u',
+    link: '/72'
+  },
+  '2023-2-2T00:00:00': {
+    title: '377: 2 FEBRUARI - Maria Lichtmis',
+    link: '/377',
+    extras: [
+      {
+        title: '73: DONDERDAG NA DE 4e ZONDAG - Vertrouwen op Hem',
+        link: '/73',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-2-3T00:00:00': {
+    title: '74: VRIJDAG NA DE 4e ZONDAG - Leven in liefde',
+    link: '/74'
+  },
+  '2023-2-4T00:00:00': {
+    title: '75: ZATERDAG NA DE 4e ZONDAG - Waarom zou ik bidden?',
+    link: '/75'
+  },
+  '2023-2-5T00:00:00': {
+    title: '90: ZONDAG SEPTUAGESIMA - Het leven is een taak',
+    link: '/90'
+  },
+  '2023-2-6T00:00:00': {
+    title: '91: MAANDAG NA SEPTUAGESIMA - De lijdende Verlosser',
+    link: '/91'
+  },
+  '2023-2-7T00:00:00': {
+    title: '92: DINSDAG NA SEPTUAGESIMA - God is altijd bij ons I',
+    link: '/92'
+  },
+  '2023-2-8T00:00:00': {
+    title: '93: WOENSDAG NA SEPTUAGESIMA - God is altijd bij ons II',
+    link: '/93'
+  },
+  '2023-2-9T00:00:00': {
+    title: '94: DONDERDAG NA SEPTUAGESIMA - God is altijd bij ons III',
+    link: '/94'
+  },
+  '2023-2-10T00:00:00': {
+    title: '95: VRIJDAG NA SEPTUAGESIMA - Hoe kan ik met God omgaan?',
+    link: '/95'
+  },
+  '2023-2-11T00:00:00': {
+    title: '96: ZATERDAG NA SEPTUAGESIMA - De biecht en het biechten I',
+    link: '/96'
+  },
+  '2023-2-12T00:00:00': {
+    title: '97: ZONDAG SEXAGESIMA - Gods woord is zaad',
+    link: '/97'
   }
 }
