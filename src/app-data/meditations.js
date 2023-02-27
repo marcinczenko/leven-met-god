@@ -427,60 +427,60 @@ export const meditations = {
     title: '111: 1e ZONDAG IN DE VASTEN - Maak Gods genade niet onvruchtbaar',
     link: '/111'
   },
-  '2022-2-27T00:00:00': {
+  '2023-2-27T00:00:00': {
     title: '112: MAANDAG NA DE 1e ZONDAG - Bekoring in de woestijn',
     link: '/112'
   },
-  '2022-2-28T00:00:00': {
+  '2023-2-28T00:00:00': {
     title: '113: DINSDAG NA DE 1e ZONDAG - Boetvaardigheid',
     link: '/113'
   },
-  '2022-3-1T00:00:00': {
+  '2023-3-1T00:00:00': {
     title: '114: QUATERTEMPER WOENSDAG - Vertrouwen',
     link: '/114'
   },
-  '2022-3-2T00:00:00': {
+  '2023-3-2T00:00:00': {
     title: '115: DONDERDAG NA DE 1e ZONDAG - Hebzucht...',
     link: '/115'
   },
-  '2022-3-3T00:00:00': {
+  '2023-3-3T00:00:00': {
     title: '116: QUATERTEMPER VRIJDAG - Jezus, de Vertrooster',
     link: '/116'
   },
-  '2022-3-4T00:00:00': {
+  '2023-3-4T00:00:00': {
     title: '117: QUATERTEMPER ZATERDAG - Hoe zijn wij kinderen van God?',
     link: '/117'
   },
-  '2022-3-5T00:00:00': {
+  '2023-3-5T00:00:00': {
     title: '118: 2e ZONDAG IN DE VASTEN - De gedaanteverandering des Heren',
     link: '/118'
   },
-  '2022-3-6T00:00:00': {
+  '2023-3-6T00:00:00': {
     title: '119: MAANDAG NA DE 2e ZONDAG - Vasten-praktijk',
     link: '/119'
   },
-  '2022-3-7T00:00:00': {
+  '2023-3-7T00:00:00': {
     title: '120: DINSDAG NA DE 2e ZONDAG - God onze toevlucht',
     link: '/120'
   },
-  '2022-3-8T00:00:00': {
+  '2023-3-8T00:00:00': {
     title:
       '121: WOENSDAG NA DE 2e ZONDAG - Menselijke berekening en goddelijk plan',
     link: '/121'
   },
-  '2022-3-9T00:00:00': {
+  '2023-3-9T00:00:00': {
     title: '122: DONDERDAG NA DE 2e ZONDAG - Lazarus en de rijke vrek',
     link: '/122'
   },
-  '2022-3-10T00:00:00': {
+  '2023-3-10T00:00:00': {
     title: '123: VRIJDAG NA DE 2e ZONDAG - Christus niet afwijzen',
     link: '/123'
   },
-  '2022-3-11T00:00:00': {
+  '2023-3-11T00:00:00': {
     title: '124: ZATERDAG NA DE 2e ZONDAG - De verloren zoon',
     link: '/124'
   },
-  '2022-3-12T00:00:00': {
+  '2023-3-12T00:00:00': {
     title: '125: 3e ZONDAG IN DE VASTEN - Liefde metterdaad',
     link: '/125'
   }
