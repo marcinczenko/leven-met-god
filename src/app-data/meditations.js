@@ -485,31 +485,31 @@ export const meditations = {
     link: '/125'
   },
 
-  '2022-3-13T00:00:00': {
+  '2023-3-13T00:00:00': {
     title: '126: MAANDAG NA DE 3e ZONDAG - Het Geloof',
     link: '/126'
   },
-  '2022-3-14T00:00:00': {
+  '2023-3-14T00:00:00': {
     title: '127: DINSDAG NA DE 3e ZONDAG - ...Daar ben Ik in hun midden',
     link: '/127'
   },
-  '2022-3-15T00:00:00': {
+  '2023-3-15T00:00:00': {
     title: '128: WOENSDAG NA DE 3e ZONDAG - Heeft het lijden zin? I',
     link: '/128'
   },
-  '2022-3-16T00:00:00': {
+  '2023-3-16T00:00:00': {
     title: '129: DONDERDAG NA DE 3e ZONDAG - Heeft het lijden zin? II',
     link: '/129'
   },
-  '2022-3-17T00:00:00': {
+  '2023-3-17T00:00:00': {
     title: '130: VRIJDAG NA DE 3e ZONDAG - Wat ontbreekt ons?',
     link: '/130'
   },
-  '2022-3-18T00:00:00': {
+  '2023-3-18T00:00:00': {
     title: '131: ZATERDAG NA DE 3e ZONDAG - De barmhartige Christus',
     link: '/131'
   },
-  '2022-3-19T00:00:00': {
+  '2023-3-19T00:00:00': {
     title: '132: 4e ZONDAG IN DE VASTEN - Zondag Laetare',
     link: '/132'
   }
