@@ -512,5 +512,77 @@ export const meditations = {
   '2023-3-19T00:00:00': {
     title: '132: 4e ZONDAG IN DE VASTEN - Zondag Laetare',
     link: '/132'
+  },
+
+  '2023-3-20T00:00:00': {
+    title: '378: 19 MAART - De heilige Jozef',
+    link: '/378',
+    extras: [
+      {
+        title: '133: MAANDAG NA ZONDAG LAETARE - De biecht en het biechten II',
+        link: '/133',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-3-21T00:00:00': {
+    title: '134: DINSDAG NA ZONDAG LAETARE - De moeilijkheid van het gebed',
+    link: '/134'
+  },
+  '2023-3-22T00:00:00': {
+    title: '135: WOENSDAG NA ZONDAG LAETARE - De blindgeborene',
+    link: '/135'
+  },
+  '2023-3-23T00:00:00': {
+    title: '136: DONDERDAG NA ZONDAG LAETARE - De biecht en het biechten III',
+    link: '/136'
+  },
+  '2023-3-24T00:00:00': {
+    title: '137: VRIJDAG NA ZONDAG LAETARE - Bij Hem... door Hem vernieuwd',
+    link: '/137'
+  },
+  '2023-3-25T00:00:00': {
+    title: '379: 25 MAART - Maria Boodschap',
+    link: '/379',
+    extras: [
+      {
+        title:
+          '138: ZATERDAG NA ZONDAG LAETARE - Gij die dorstig zijt... (Is. 55:1)',
+        link: '/138',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-4-3T00:00:00': {
+    title: "139: PASSIEZONDAG - Deelname in Jezus' lijden",
+    link: '/139'
+  },
+  '2023-4-4T00:00:00': {
+    title: '140: MAANDAG NA PASSIEZONDAG - Waarom dikwijls biechten? I',
+    link: '/140'
+  },
+  '2023-4-5T00:00:00': {
+    title: '141: DINSDAG NA PASSIEZONDAG - Waarom dikwijls biechten? II',
+    link: '/141'
+  },
+  '2023-4-6T00:00:00': {
+    title: '142: WOENSDAG NA PASSIEZONDAG - Bidden de wens van Christus',
+    link: '/142'
+  },
+  '2023-4-7T00:00:00': {
+    title: '143: DONDERDAG NA PASSIEZONDAG - Waarom dikwijls biechten? III',
+    link: '/143'
+  },
+  '2023-4-8T00:00:00': {
+    title: "144: VRIJDAG NA PASSIEZONDAG - Jezus' voorbeeld van geduld",
+    link: '/144'
+  },
+  '2023-4-9T00:00:00': {
+    title: '145: ZATERDAG NA PASSIEZONDAG - De hoogste levensschoonheid',
+    link: '/145'
+  },
+  '2023-4-10T00:00:00': {
+    title: '146: PALMZONDAG - Christus, de Heer',
+    link: '/146'
   }
 }
