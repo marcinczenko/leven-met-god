@@ -553,35 +553,35 @@ export const meditations = {
       }
     ]
   },
-  '2023-4-3T00:00:00': {
+  '2023-3-26T00:00:00': {
     title: "139: PASSIEZONDAG - Deelname in Jezus' lijden",
     link: '/139'
   },
-  '2023-4-4T00:00:00': {
+  '2023-3-27T00:00:00': {
     title: '140: MAANDAG NA PASSIEZONDAG - Waarom dikwijls biechten? I',
     link: '/140'
   },
-  '2023-4-5T00:00:00': {
+  '2023-3-28T00:00:00': {
     title: '141: DINSDAG NA PASSIEZONDAG - Waarom dikwijls biechten? II',
     link: '/141'
   },
-  '2023-4-6T00:00:00': {
+  '2023-3-29T00:00:00': {
     title: '142: WOENSDAG NA PASSIEZONDAG - Bidden de wens van Christus',
     link: '/142'
   },
-  '2023-4-7T00:00:00': {
+  '2023-3-30T00:00:00': {
     title: '143: DONDERDAG NA PASSIEZONDAG - Waarom dikwijls biechten? III',
     link: '/143'
   },
-  '2023-4-8T00:00:00': {
+  '2023-3-31T00:00:00': {
     title: "144: VRIJDAG NA PASSIEZONDAG - Jezus' voorbeeld van geduld",
     link: '/144'
   },
-  '2023-4-9T00:00:00': {
+  '2023-4-1T00:00:00': {
     title: '145: ZATERDAG NA PASSIEZONDAG - De hoogste levensschoonheid',
     link: '/145'
   },
-  '2023-4-10T00:00:00': {
+  '2023-4-2T00:00:00': {
     title: '146: PALMZONDAG - Christus, de Heer',
     link: '/146'
   }
