@@ -584,5 +584,62 @@ export const meditations = {
   '2023-4-2T00:00:00': {
     title: '146: PALMZONDAG - Christus, de Heer',
     link: '/146'
+  },
+
+  '2023-4-3T00:00:00': {
+    title: '147: MAANDAG IN DE GOEDE WEEK - Meester en Heer',
+    link: '/147'
+  },
+  '2023-4-4T00:00:00': {
+    title: '148: DINSDAG IN DE GOEDE WEEK - Gebed om liefde tot het lijden',
+    link: '/148'
+  },
+  '2023-4-5T00:00:00': {
+    title: '149: WOENSDAG IN DE GOEDE WEEK - De vernederde Mensenzoon',
+    link: '/149'
+  },
+  '2023-4-6T00:00:00': {
+    title: '150: WITTE DONDERDAG - Hij nam het brood...',
+    link: '/150'
+  },
+  '2023-4-7T00:00:00': {
+    title: '151: GOEDE VRIJDAG - Zijn laatste woorden',
+    link: '/151'
+  },
+  '2023-4-8T00:00:00': {
+    title: '152: PAASZATERDAG - Het offer en de liefde',
+    link: '/152'
+  },
+  '2023-4-9T00:00:00': {
+    title: '153: HOOGFEEST VAN PASEN - Pasen',
+    link: '/153'
+  },
+  '2023-4-10T00:00:00': {
+    title: '154: TWEEDE PAASDAG - Vernieuwd vertrouwen',
+    link: '/154'
+  },
+  '2023-4-11T00:00:00': {
+    title: '155: DINSDAG NA PASEN - Geloof en vertrouwen',
+    link: '/155'
+  },
+  '2023-4-12T00:00:00': {
+    title: '156: WOENSDAG NA PASEN - Het nieuwe leven in Christus',
+    link: '/156'
+  },
+  '2023-4-13T00:00:00': {
+    title: '157: DONDERDAG NA PASEN - Het geluk Christus te hebben gevonden',
+    link: '/157'
+  },
+  '2023-4-14T00:00:00': {
+    title: '158: VRIJDAG NA PASEN - Mij is alle macht gegeven',
+    link: '/158'
+  },
+  '2023-4-15T00:00:00': {
+    title: '159: ZATERDAG NA PASEN - Blijdschap om Christus',
+    link: '/159'
+  },
+  '2023-4-16T00:00:00': {
+    title: '160: BELOKEN PASEN - Leg alle boosheid af',
+    link: '/160'
   }
 }
