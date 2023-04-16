@@ -641,5 +641,33 @@ export const meditations = {
   '2023-4-16T00:00:00': {
     title: '160: BELOKEN PASEN - Leg alle boosheid af',
     link: '/160'
+  },
+  '2023-4-17T00:00:00': {
+    title: '161: MAANDAG NA BELOKEN PASEN - Christelijk leven',
+    link: '/161'
+  },
+  '2023-4-18T00:00:00': {
+    title: '162: DINSDAG NA BELOKEN PASEN - Ons geloof',
+    link: '/162'
+  },
+  '2023-4-19T00:00:00': {
+    title: "163: WOENSDAG NA BELOKEN PASEN - Jezus' goedheid",
+    link: '/163'
+  },
+  '2023-4-20T00:00:00': {
+    title: '164: DONDERDAG NA BELOKEN PASEN - Geloof en geloofstwijfel',
+    link: '/164'
+  },
+  '2023-4-21T00:00:00': {
+    title: '165: VRIJDAG NA BELOKEN PASEN - Groei in volmaaktheid',
+    link: '/165'
+  },
+  '2023-4-22T00:00:00': {
+    title: '166: ZATERDAG NA BELOKEN PASEN - Geest van kindschap',
+    link: '/166'
+  },
+  '2023-4-23T00:00:00': {
+    title: '167: 2e ZONDAG NA PASEN - De Goede Herder',
+    link: '/167'
   }
 }
