@@ -669,5 +669,33 @@ export const meditations = {
   '2023-4-23T00:00:00': {
     title: '167: 2e ZONDAG NA PASEN - De Goede Herder',
     link: '/167'
+  },
+  '2023-4-24T00:00:00': {
+    title: '168: MAANDAG NA DE 2e ZONDAG - Eenheid in Christus',
+    link: '/168'
+  },
+  '2023-4-25T00:00:00': {
+    title: '169: DINSDAG NA DE 2e ZONDAG - Wat is volmaaktheid',
+    link: '/169'
+  },
+  '2023-4-26T00:00:00': {
+    title: '170: WOENSDAG NA DE 2e ZONDAG - Blijdschap om Gods goedheid',
+    link: '/170'
+  },
+  '2023-4-27T00:00:00': {
+    title: "171: DONDERDAG NA DE 2e ZONDAG - Christus' voorbeeld",
+    link: '/171'
+  },
+  '2023-4-28T00:00:00': {
+    title: '172: VRIJDAG NA DE 2e ZONDAG - Alles door Christus',
+    link: '/172'
+  },
+  '2023-4-29T00:00:00': {
+    title: '173: ZATERDAG NA DE 2e ZONDAG - Jezus het middelpunt',
+    link: '/173'
+  },
+  '2023-4-30T00:00:00': {
+    title: '174: 3e ZONDAG NA PASEN - Het voorbeeld',
+    link: '/174'
   }
 }
