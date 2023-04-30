@@ -697,5 +697,63 @@ export const meditations = {
   '2023-4-30T00:00:00': {
     title: '174: 3e ZONDAG NA PASEN - Het voorbeeld',
     link: '/174'
+  },
+  '2023-5-1T00:00:00': {
+    title: '175: MAANDAG NA DE 3e ZONDAG - De uitwendige orde',
+    link: '/175'
+  },
+  '2023-5-2T00:00:00': {
+    title: '176: DINSDAG NA DE 3e ZONDAG - God kennen',
+    link: '/176'
+  },
+  '2023-5-3T00:00:00': {
+    title: '177: WOENSDAG NA DE 3e ZONDAG - Afscheid en ontmoeting',
+    link: '/177'
+  },
+  '2023-5-4T00:00:00': {
+    title: '178: DONDERDAG NA DE 3e ZONDAG - Gods weldaden',
+    link: '/178'
+  },
+  '2023-5-5T00:00:00': {
+    title: '179: VRIJDAG NA DE 3e ZONDAG - Christelijke geest',
+    link: '/179'
+  },
+  '2023-5-6T00:00:00': {
+    title: '180: ZATERDAG NA DE 3e ZONDAG - Hoe wordt ons leven vruchtbaar?',
+    link: '/180'
+  },
+  '2023-5-7T00:00:00': {
+    title: '181: 4e ZONDAG NA PASEN - Voorbereiding op Pinksteren I',
+    link: '/181'
+  },
+  '2023-5-8T00:00:00': {
+    title: '182: MAANDAG NA DE 4e ZONDAG - Ons geloof en zijn groei',
+    link: '/182'
+  },
+  '2023-5-9T00:00:00': {
+    title:
+      '183: DINSDAG NA DE 4e ZONDAG - Onze verhouding tot de heilige Geest',
+    link: '/183'
+  },
+  '2023-5-10T00:00:00': {
+    title:
+      '184: WOENSDAG NA DE 4e ZONDAG - Groeien in Hem is groeien in geloof',
+    link: '/184'
+  },
+  '2023-5-11T00:00:00': {
+    title: '185: DONDERDAG NA DE 4e ZONDAG - Wat doen wij voor de anderen?',
+    link: '/185'
+  },
+  '2023-5-12T00:00:00': {
+    title: '186: VRIJDAG NA DE 4e ZONDAG - De geest van Christus I',
+    link: '/186'
+  },
+  '2023-5-13T00:00:00': {
+    title: '187: ZATERDAG NA DE 4e ZONDAG - De geest van Christus II',
+    link: '/187'
+  },
+  '2023-5-14T00:00:00': {
+    title: '188: 5e ZONDAG NA PASEN - Blijdschap en wijsheid',
+    link: '/188'
   }
 }
