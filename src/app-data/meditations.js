@@ -755,5 +755,63 @@ export const meditations = {
   '2023-5-14T00:00:00': {
     title: '188: 5e ZONDAG NA PASEN - Blijdschap en wijsheid',
     link: '/188'
+  },
+  '2023-5-15T00:00:00': {
+    title: '189: MAANDAG NA DE 5e ZONDAG - Ware liefde Gods',
+    link: '/189'
+  },
+  '2023-5-16T00:00:00': {
+    title: '190: DINSDAG NA DE 5e ZONDAG - Wat doet de heilige Geest in ons?',
+    link: '/190'
+  },
+  '2023-5-17T00:00:00': {
+    title: '191: WOENSDAG NA DE 5e ZONDAG - Vigilie van Hemelvaart',
+    link: '/191'
+  },
+  '2023-5-18T00:00:00': {
+    title: '192: DONDERDAG NA DE 5e ZONDAG - Hemelvaart des Heren',
+    link: '/192'
+  },
+  '2023-5-19T00:00:00': {
+    title: '193: VRIJDAG NA HEMELVAART - De heilige Geest werkt in ons',
+    link: '/193'
+  },
+  '2023-5-20T00:00:00': {
+    title:
+      '194: ZATERDAG NA HEMELVAART - Wij zijn zonder de heilige Geest te zwak',
+    link: '/194'
+  },
+  '2023-5-21T00:00:00': {
+    title: '195: ZONDAG NA HEMELVAART - Christelijk leven en gemeenschap',
+    link: '/195'
+  },
+  '2023-5-22T00:00:00': {
+    title: '196: MAANDAG NA HEMELVAART - In afwachting van de heilige Geest',
+    link: '/196'
+  },
+  '2023-5-23T00:00:00': {
+    title: '197: DINSDAG NA HEMELVAART - Voorbereiding op Pinksteren II',
+    link: '/197'
+  },
+  '2023-5-24T00:00:00': {
+    title: '198: WOENSDAG NA HEMELVAART - Voorbereiding op Pinksteren III',
+    link: '/198'
+  },
+  '2023-5-25T00:00:00': {
+    title: '199: DONDERDAG NA HEMELVAART - De heilige Geest in ons',
+    link: '/199'
+  },
+  '2023-5-26T00:00:00': {
+    title: '200: VRIJDAG VOOR PINKSTEREN - Kom heilige Geest',
+    link: '/200'
+  },
+  '2023-5-27T00:00:00': {
+    title:
+      '201: VIGILIE VAN PINKSTEREN - Hoe beantwoorden wij de heilige Geest?',
+    link: '/201'
+  },
+  '2023-5-28T00:00:00': {
+    title: '202: PINKSTEREN - Stort in ons uw vuur',
+    link: '/202'
   }
 }
