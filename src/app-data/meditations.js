@@ -813,5 +813,76 @@ export const meditations = {
   '2023-5-28T00:00:00': {
     title: '202: PINKSTEREN - Stort in ons uw vuur',
     link: '/202'
+  },
+  '2023-5-29T00:00:00': {
+    title: '203: TWEEDE PINKSTERDAG - Stort in ons uw licht',
+    link: '/203'
+  },
+  '2023-5-30T00:00:00': {
+    title: '204: DERDE PINKSTERDAG - Veni Sancte Spiritus...',
+    link: '/204'
+  },
+  '2023-5-31T00:00:00': {
+    title: '205: QUATERTEMPER WOENSDAG - Waarheid',
+    link: '/205'
+  },
+  '2023-6-1T00:00:00': {
+    title:
+      '206: DONDERDAG NA PINKSTEREN - Voor mij is het leven Christus (Fil. 1:21)',
+    link: '/206'
+  },
+  '2023-6-2T00:00:00': {
+    title: '207: QUATERTEMPER VRIJDAG - Het geheim',
+    link: '/207'
+  },
+  '2023-6-3T00:00:00': {
+    title: '208: QUATERTEMPER ZATERDAG - De heilige Geest leidt ons',
+    link: '/208'
+  },
+  '2023-6-4T00:00:00': {
+    title: '209: DRIEVULDIGHEIDSZONDAG - De Heilige Drieëenheid',
+    link: '/209',
+    extras: [
+      {
+        title: '380: GEBED TOT DE ALLERHEILIGSTE DRIEËENHEID',
+        link: '/380',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-6-5T00:00:00': {
+    title: '210: MAANDAG NA DE 1e ZONDAG - Liefde eerste levenswet',
+    link: '/210'
+  },
+  '2023-6-6T00:00:00': {
+    title: '211: DINSDAG NA DE 1e ZONDAG - Liefde en vertrouwen',
+    link: '/211'
+  },
+  '2023-6-7T00:00:00': {
+    title: '212: WOENSDAG NA DE 1e ZONDAG - Niet oordelen',
+    link: '/212'
+  },
+  '2023-6-8T00:00:00': {
+    title: '213: SACRAMENTSDAG - De heilige Communie I',
+    link: '/213',
+    extras: [
+      {
+        title: '381: SACRAMENTSDAG - Hij houdt maaltijd met ons',
+        link: '/381',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-6-9T00:00:00': {
+    title: '214: VRIJDAG NA DE 1e ZONDAG - Gods grootheid verkondigen',
+    link: '/214'
+  },
+  '2023-6-10T00:00:00': {
+    title: '215: ZATERDAG NA DE 1e ZONDAG - Gods hulp',
+    link: '/215'
+  },
+  '2023-6-11T00:00:00': {
+    title: '216: 2e ZONDAG NA PINKSTEREN - Vrees voor de zonde',
+    link: '/216'
   }
 }
