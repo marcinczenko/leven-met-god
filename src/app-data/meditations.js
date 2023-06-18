@@ -884,5 +884,62 @@ export const meditations = {
   '2023-6-11T00:00:00': {
     title: '216: 2e ZONDAG NA PINKSTEREN - Vrees voor de zonde',
     link: '/216'
+  },
+  '2023-6-12T00:00:00': {
+    title: '217: MAANDAG NA DE 2e ZONDAG - Onverschilligheid',
+    link: '/217'
+  },
+  '2023-6-13T00:00:00': {
+    title: '218: DINSDAG NA DE 2e ZONDAG - Wij denken anders dan de wereld',
+    link: '/218'
+  },
+  '2023-6-14T00:00:00': {
+    title: '219: WOENSDAG NA DE 2e ZONDAG - Wat gaat er van ons uit?',
+    link: '/219'
+  },
+  '2023-6-15T00:00:00': {
+    title: '220: DONDERDAG NA DE 2e ZONDAG - Gods werk in ons',
+    link: '/220'
+  },
+  '2023-6-16T00:00:00': {
+    title: '221: FEEST VAN HET HEILIG HART - Zijn Hart bemint ons nog',
+    link: '/221'
+  },
+  '2023-6-17T00:00:00': {
+    title: '222: ZATERDAG NA DE 2e ZONDAG - Het heilig Hart en zijn beloften I',
+    link: '/222'
+  },
+  '2023-6-18T00:00:00': {
+    title: '223: 3e ZONDAG NA PINKSTEREN - Het lijden in ons leven',
+    link: '/223'
+  },
+  '2023-6-19T00:00:00': {
+    title: '224: MAANDAG NA DE 3e ZONDAG - De gave van godsvrucht',
+    link: '/224'
+  },
+  '2023-6-20T00:00:00': {
+    title: '225: DINSDAG NA DE 3e ZONDAG - De kracht van God in ons',
+    link: '/225'
+  },
+  '2023-6-21T00:00:00': {
+    title: '226: WOENSDAG NA DE 3e ZONDAG - Vertrouwen op Jezus Christus',
+    link: '/226'
+  },
+  '2023-6-22T00:00:00': {
+    title: '227: DONDERDAG NA DE 3e ZONDAG - De aardse dingen',
+    link: '/227'
+  },
+  '2023-6-23T00:00:00': {
+    title:
+      '228: VRIJDAG NA DE 3e ZONDAG - Hij komt alle ellende tegemoet I (Luk. 15,1-10)',
+    link: '/228'
+  },
+  '2023-6-24T00:00:00': {
+    title: '229: ZATERDAG NA DE 3e ZONDAG - Hij komt alle ellende tegemoet II',
+    link: '/229'
+  },
+  '2023-6-25T00:00:00': {
+    title: '230: 4e ZONDAG NA PINKSTEREN - De Heer is mijn Licht',
+    link: '/230'
   }
 }
