@@ -941,5 +941,62 @@ export const meditations = {
   '2023-6-25T00:00:00': {
     title: '230: 4e ZONDAG NA PINKSTEREN - De Heer is mijn Licht',
     link: '/230'
+  },
+  '2023-6-26T00:00:00': {
+    title: '231: MAANDAG NA DE 4e ZONDAG - Hij verdedigt mij',
+    link: '/231'
+  },
+  '2023-6-27T00:00:00': {
+    title: '232: DINSDAG NA DE 4e ZONDAG - Het lijden van deze tijd',
+    link: '/232'
+  },
+  '2023-6-28T00:00:00': {
+    title: '233: WOENSDAG NA DE 4e ZONDAG - Vrede',
+    link: '/233'
+  },
+  '2023-6-29T00:00:00': {
+    title: '234: DONDERDAG NA DE 4e ZONDAG - De verwachting',
+    link: '/234'
+  },
+  '2023-6-30T00:00:00': {
+    title: '235: VRIJDAG NA DE 4e ZONDAG - Succes',
+    link: '/235'
+  },
+  '2023-7-1T00:00:00': {
+    title: '236: ZATERDAG NA DE 4e ZONDAG - Heer, verlicht mij',
+    link: '/236'
+  },
+  '2023-7-2T00:00:00': {
+    title: '237: 5e ZONDAG NA PINKSTEREN - In onderlinge vrede en liefde',
+    link: '/237'
+  },
+  '2023-7-3T00:00:00': {
+    title: '238: MAANDAG NA DE 5e ZONDAG - Het Hart van Christus I',
+    link: '/238'
+  },
+  '2023-7-4T00:00:00': {
+    title: '239: DINSDAG NA DE 5e ZONDAG - Onze kracht ligt in het vertrouwen',
+    link: '/239'
+  },
+  '2023-7-5T00:00:00': {
+    title: '240: WOENSDAG NA DE 5e ZONDAG - Het offer van allen',
+    link: '/240'
+  },
+  '2023-7-6T00:00:00': {
+    title: '241: DONDERDAG NA DE 5e ZONDAG - Het verlangen naar Gods liefde',
+    link: '/241'
+  },
+  '2023-7-7T00:00:00': {
+    title: '242: VRIJDAG NA DE 5e ZONDAG - Het heilig Hart en zijn beloften II',
+    link: '/242'
+  },
+  '2023-7-8T00:00:00': {
+    title:
+      '243: ZATERDAG NA DE 5e ZONDAG - Het heilig Hart en zijn beloften III',
+    link: '/243'
+  },
+  '2023-7-9T00:00:00': {
+    title: '244: 6e ZONDAG NA PINKSTEREN - Het Doopsel',
+    link: '/244'
   }
 }
