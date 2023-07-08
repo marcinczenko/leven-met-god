@@ -998,5 +998,62 @@ export const meditations = {
   '2023-7-9T00:00:00': {
     title: '244: 6e ZONDAG NA PINKSTEREN - Het Doopsel',
     link: '/244'
+  },
+  '2023-7-10T00:00:00': {
+    title: '245: MAANDAG NA DE 6e ZONDAG - De broodvermenigvuldiging I',
+    link: '/245'
+  },
+  '2023-7-11T00:00:00': {
+    title: '246: DINSDAG NA DE 6e ZONDAG - Het Hart van Christus II',
+    link: '/246'
+  },
+  '2023-7-12T00:00:00': {
+    title: '247: WOENSDAG NA DE 6e ZONDAG - Mijn schreden',
+    link: '/247'
+  },
+  '2023-7-13T00:00:00': {
+    title: '248: DONDERDAG NA DE 6e ZONDAG - Met Christus sterven',
+    link: '/248'
+  },
+  '2023-7-14T00:00:00': {
+    title: '249: VRIJDAG NA DE 6e ZONDAG - Vermeerdering van godsdienstigheid',
+    link: '/249'
+  },
+  '2023-7-15T00:00:00': {
+    title: '250: ZATERDAG NA DE 6e ZONDAG - De broodvermenigvuldiging II',
+    link: '/250'
+  },
+  '2023-7-16T00:00:00': {
+    title: '251: 7e ZONDAG NA PINKSTEREN - Redding door Jezus Christus',
+    link: '/251'
+  },
+  '2023-7-17T00:00:00': {
+    title: '252: MAANDAG NA DE 7e ZONDAG - De heilige Mis I',
+    link: '/252'
+  },
+  '2023-7-18T00:00:00': {
+    title: '253: DINSDAG NA DE 7e ZONDAG - Voor de zondaars',
+    link: '/253'
+  },
+  '2023-7-19T00:00:00': {
+    title: '254: WOENSDAG NA DE 7e ZONDAG - Beantwoord ik zijn liefde?',
+    link: '/254'
+  },
+  '2023-7-20T00:00:00': {
+    title: '255: DONDERDAG NA DE 7e ZONDAG - Wij moeten vertrouwen',
+    link: '/255'
+  },
+  '2023-7-21T00:00:00': {
+    title:
+      '256: VRIJDAG NA DE 7e ZONDAG - De liefde van Christus voor zijn Vader',
+    link: '/256'
+  },
+  '2023-7-22T00:00:00': {
+    title: '257: ZATERDAG NA DE 7e ZONDAG - De heilige Mis II',
+    link: '/257'
+  },
+  '2023-7-23T00:00:00': {
+    title: '258: 8e ZONDAG NA PINKSTEREN - De rentmeester',
+    link: '/258'
   }
 }
