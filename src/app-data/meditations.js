@@ -1055,5 +1055,89 @@ export const meditations = {
   '2023-7-23T00:00:00': {
     title: '258: 8e ZONDAG NA PINKSTEREN - De rentmeester',
     link: '/258'
+  },
+  '2023-7-24T00:00:00': {
+    title: '259: MAANDAG NA DE 8e ZONDAG - Vlees en geest',
+    link: '/259'
+  },
+  '2023-7-25T00:00:00': {
+    title: '260: DINSDAG NA DE 8e ZONDAG - Ons offer',
+    link: '/260'
+  },
+  '2023-7-26T00:00:00': {
+    title: '261: WOENSDAG NA DE 8e ZONDAG - Liefde tot Christus',
+    link: '/261'
+  },
+  '2023-7-27T00:00:00': {
+    title: '262: DONDERDAG NA DE 8e ZONDAG - God in ons I',
+    link: '/262'
+  },
+  '2023-7-28T00:00:00': {
+    title: '263: VRIJDAG NA DE 8e ZONDAG - God in ons II',
+    link: '/263'
+  },
+  '2023-7-29T00:00:00': {
+    title: '264: ZATERDAG NA DE 8e ZONDAG - Nederigheid I',
+    link: '/264'
+  },
+  '2023-7-30T00:00:00': {
+    title: '265: 9e ZONDAG NA PINKSTEREN - Jezus weent over Jeruzalem',
+    link: '/265'
+  },
+  '2023-7-31T00:00:00': {
+    title: '266: MAANDAG NA DE 9e ZONDAG - Heer, luister naar ons',
+    link: '/266'
+  },
+  '2023-8-1T00:00:00': {
+    title: '267: DINSDAG NA DE 9e ZONDAG - Het kwaad',
+    link: '/267'
+  },
+  '2023-8-2T00:00:00': {
+    title: '268: WOENSDAG NA DE 9e ZONDAG - Weten wij het wel?',
+    link: '/268'
+  },
+  '2023-8-3T00:00:00': {
+    title: '269: DONDERDAG NA DE 9e ZONDAG - Mijn huis is een huis van gebed',
+    link: '/269'
+  },
+  '2023-8-4T00:00:00': {
+    title: '270: VRIJDAG NA DE 9e ZONDAG - De geest van Christus III',
+    link: '/270'
+  },
+  '2023-8-5T00:00:00': {
+    title: '271: ZATERDAG NA DE 9e ZONDAG - Jezus leert ons',
+    link: '/271'
+  },
+  '2023-8-6T00:00:00': {
+    title: '272: 10e ZONDAG NA PINKSTEREN - Nederigheid II',
+    link: '/272'
+  },
+  '2023-8-7T00:00:00': {
+    title: '273: MAANDAG NA DE 10e ZONDAG - Christelijke bejegening II',
+    link: '/273'
+  },
+  '2023-8-8T00:00:00': {
+    title: '274: DINSDAG NA DE 10e ZONDAG - De farizeeër',
+    link: '/274'
+  },
+  '2023-8-9T00:00:00': {
+    title: '275: WOENSDAG NA DE 10e ZONDAG - Gerechtvaardigd naar huis',
+    link: '/275'
+  },
+  '2023-8-10T00:00:00': {
+    title: '276: DONDERDAG NA DE 10e ZONDAG - Geloof en gebed',
+    link: '/276'
+  },
+  '2023-8-11T00:00:00': {
+    title: '277: VRIJDAG NA DE 10e ZONDAG - Waar gaat het om?',
+    link: '/277'
+  },
+  '2023-8-12T00:00:00': {
+    title: '278: ZATERDAG NA DE 10e ZONDAG - Dankbaarheid',
+    link: '/278'
+  },
+  '2023-8-13T00:00:00': {
+    title: '279: 11e ZONDAG NA PINKSTEREN - De macht van Christus',
+    link: '/279'
   }
 }
