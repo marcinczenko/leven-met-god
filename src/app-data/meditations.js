@@ -1139,5 +1139,102 @@ export const meditations = {
   '2023-8-13T00:00:00': {
     title: '279: 11e ZONDAG NA PINKSTEREN - De macht van Christus',
     link: '/279'
+  },
+  '2023-8-14T00:00:00': {
+    title: '280: MAANDAG NA DE 11e ZONDAG - Hij is ons voorbeeld',
+    link: '/280'
+  },
+  '2023-8-15T00:00:00': {
+    title: '382: 15 AUGUSTUS - Ten hemelopneming van Maria I',
+    link: '/382',
+    extras: [
+      {
+        title: '383: 15 AUGUSTUS - Ten hemelopneming van Maria II',
+        link: '/383',
+        type: 'Tweede meditatie:'
+      },
+      {
+        title: '281: DINSDAG NA DE 11e ZONDAG - Als uzelf',
+        link: '/281',
+        type: 'Derde meditatie:'
+      }
+    ]
+  },
+  '2023-8-16T00:00:00': {
+    title: '282: WOENSDAG NA DE 11e ZONDAG - God dienen in liefde',
+    link: '/282'
+  },
+  '2023-8-17T00:00:00': {
+    title: '283: DONDERDAG NA DE 11e ZONDAG - De macht van de Meester',
+    link: '/283'
+  },
+  '2023-8-18T00:00:00': {
+    title: '284: VRIJDAG NA DE 11e ZONDAG - Zijn naam zeggen',
+    link: '/284'
+  },
+  '2023-8-19T00:00:00': {
+    title: '285: ZATERDAG NA DE 11e ZONDAG - Hij zal het u geven',
+    link: '/285'
+  },
+  '2023-8-20T00:00:00': {
+    title: '286: 12e ZONDAG NA PINKSTEREN - De barmhartige Samaritaan',
+    link: '/286'
+  },
+  '2023-8-21T00:00:00': {
+    title: '287: MAANDAG NA DE 12e ZONDAG - De heilige Communie II',
+    link: '/287'
+  },
+  '2023-8-22T00:00:00': {
+    title: '288: DINSDAG NA DE 12e ZONDAG - De tien maagden',
+    link: '/288'
+  },
+  '2023-8-23T00:00:00': {
+    title: '289: WOENSDAG NA DE 12e ZONDAG - Eerst verzoening, dan offer',
+    link: '/289'
+  },
+  '2023-8-24T00:00:00': {
+    title: '290: DONDERDAG NA DE 12e ZONDAG - Het grote geheim van God',
+    link: '/290'
+  },
+  '2023-8-25T00:00:00': {
+    title: '291: VRIJDAG NA DE 12e ZONDAG - Naastenliefde, tot hoever?',
+    link: '/291'
+  },
+  '2023-8-26T00:00:00': {
+    title: '292: ZATERDAG NA DE 12e ZONDAG - Lichamelijke boete',
+    link: '/292'
+  },
+  '2023-8-27T00:00:00': {
+    title: '293: 13e ZONDAG NA PINKSTEREN - Jezus, Meester, ontferm U over ons',
+    link: '/293'
+  },
+  '2023-8-28T00:00:00': {
+    title: '294: MAANDAG NA DE 13e ZONDAG - Niet de gezonden, maar de zieken',
+    link: '/294'
+  },
+  '2023-8-29T00:00:00': {
+    title: '295: DINSDAG NA DE 13e ZONDAG - Ga, vertoon u aan de priesters',
+    link: '/295'
+  },
+  '2023-8-30T00:00:00': {
+    title: '296: WOENSDAG NA DE 13e ZONDAG - De geest van geloof',
+    link: '/296'
+  },
+  '2023-8-31T00:00:00': {
+    title: '297: DONDERDAG NA DE 13e ZONDAG - Hoopvol vertrouwen',
+    link: '/297'
+  },
+  '2023-9-1T00:00:00': {
+    title:
+      '298: VRIJDAG NA DE 13e ZONDAG - Hebt moed, Ik heb de wereld overwonnen',
+    link: '/298'
+  },
+  '2023-9-2T00:00:00': {
+    title: '299: ZATERDAG NA DE 13e ZONDAG - Dankbaarheid en liefde',
+    link: '/299'
+  },
+  '2023-9-3T00:00:00': {
+    title: '300: 14e ZONDAG NA PINKSTEREN - Godsvertrouwen I',
+    link: '/300'
   }
 }
