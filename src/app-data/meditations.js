@@ -1236,5 +1236,93 @@ export const meditations = {
   '2023-9-3T00:00:00': {
     title: '300: 14e ZONDAG NA PINKSTEREN - Godsvertrouwen I',
     link: '/300'
+  },
+  '2023-9-4T00:00:00': {
+    title: '301: MAANDAG NA DE 14e ZONDAG - Vrij en dienstbaar tevens',
+    link: '/301'
+  },
+  '2023-9-5T00:00:00': {
+    title: '302: DINSDAG NA DE 14e ZONDAG - Godsvertrouwen II',
+    link: '/302'
+  },
+  '2023-9-6T00:00:00': {
+    title:
+      '303: WOENSDAG NA DE 14e ZONDAG - In strijd met de christelijke geest',
+    link: '/303'
+  },
+  '2023-9-7T00:00:00': {
+    title: '304: DONDERDAG NA DE 14e ZONDAG - Bij U zijn',
+    link: '/304'
+  },
+  '2023-9-8T00:00:00': {
+    title:
+      '305: VRIJDAG NA DE 14e ZONDAG - Waarom zelfverloochening en versterving?',
+    link: '/305'
+  },
+  '2023-9-9T00:00:00': {
+    title: '306: ZATERDAG NA DE 14e ZONDAG - Christelijk leven',
+    link: '/306'
+  },
+  '2023-9-10T00:00:00': {
+    title: '307: 15e ZONDAG NA PINKSTEREN - De jongeman van Naïm',
+    link: '/307'
+  },
+  '2023-9-11T00:00:00': {
+    title: '308: MAANDAG NA DE 15e ZONDAG - Apostolaat en opvoeding',
+    link: '/308'
+  },
+  '2023-9-12T00:00:00': {
+    title: '309: DINSDAG NA DE 15e ZONDAG - Gods ogen',
+    link: '/309'
+  },
+  '2023-9-13T00:00:00': {
+    title: '310: WOENSDAG NA DE 15e ZONDAG - Nicodemus I',
+    link: '/310'
+  },
+  '2023-9-14T00:00:00': {
+    title: '311: DONDERDAG NA DE 15e ZONDAG - Nicodemus II',
+    link: '/311'
+  },
+  '2023-9-15T00:00:00': {
+    title:
+      '312: VRIJDAG NA DE 15e ZONDAG - De barmhartigheid van Jezus Christus',
+    link: '/312'
+  },
+  '2023-9-16T00:00:00': {
+    title: "313: ZATERDAG NA DE 15e ZONDAG - Liefde naar Christus' gebod",
+    link: '/313'
+  },
+  '2023-9-17T00:00:00': {
+    title: '314: 16e ZONDAG NA PINKSTEREN - Nederigheid III',
+    link: '/314'
+  },
+  '2023-9-18T00:00:00': {
+    title: '315: MAANDAG NA DE 16e ZONDAG - Geen ontmoediging',
+    link: '/315'
+  },
+  '2023-9-19T00:00:00': {
+    title:
+      '316: DINSDAG NA DE 16e ZONDAG - De volheid van het christelijk leven',
+    link: '/316'
+  },
+  '2023-9-20T00:00:00': {
+    title: '317: WOENSDAG NA DE 16e ZONDAG - Hopen op God',
+    link: '/317'
+  },
+  '2023-9-21T00:00:00': {
+    title: '318: DONDERDAG NA DE 16e ZONDAG - Vervuld van God',
+    link: '/318'
+  },
+  '2023-9-22T00:00:00': {
+    title: '319: VRIJDAG NA DE 16e ZONDAG - Kind van God I',
+    link: '/319'
+  },
+  '2023-9-23T00:00:00': {
+    title: '320: ZATERDAG NA DE 16e ZONDAG - Kind van God II',
+    link: '/320'
+  },
+  '2023-9-24T00:00:00': {
+    title: '321: 17e ZONDAG NA PINKSTEREN - Onze roeping',
+    link: '/321'
   }
 }
