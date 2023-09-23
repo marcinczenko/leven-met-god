@@ -1324,5 +1324,61 @@ export const meditations = {
   '2023-9-24T00:00:00': {
     title: '321: 17e ZONDAG NA PINKSTEREN - Onze roeping',
     link: '/321'
+  },
+  '2023-9-25T00:00:00': {
+    title: '322: MAANDAG NA DE 17e ZONDAG - De handen van Gods voorzienigheid',
+    link: '/322'
+  },
+  '2023-9-26T00:00:00': {
+    title: '323: DINSDAG NA DE 17e ZONDAG - Vruchten van de geest I',
+    link: '/323'
+  },
+  '2023-9-27T00:00:00': {
+    title: '324: WOENSDAG NA DE 17e ZONDAG - Leven met God I',
+    link: '/324'
+  },
+  '2023-9-28T00:00:00': {
+    title: '325: DONDERDAG NA DE 17e ZONDAG - Leven met God II',
+    link: '/325'
+  },
+  '2023-9-29T00:00:00': {
+    title: '326: VRIJDAG NA DE 17e ZONDAG - Zijn hulp',
+    link: '/326'
+  },
+  '2023-9-30T00:00:00': {
+    title: '327: ZATERDAG NA DE 17e ZONDAG - Heer leer ons bidden',
+    link: '/327'
+  },
+  '2023-10-1T00:00:00': {
+    title: '328: 18e ZONDAG NA PINKSTEREN - Christus is alles voor ons',
+    link: '/328'
+  },
+  '2023-10-2T00:00:00': {
+    title: '329: MAANDAG NA DE 18e ZONDAG - Gods aangezicht',
+    link: '/329'
+  },
+  '2023-10-3T00:00:00': {
+    title: '330: DINSDAG NA DE 18e ZONDAG - Wat is heilig zijn?',
+    link: '/330'
+  },
+  '2023-10-4T00:00:00': {
+    title: '331: WOENSDAG NA DE 18e ZONDAG - Goddelijke beloften',
+    link: '/331'
+  },
+  '2023-10-5T00:00:00': {
+    title: '332: DONDERDAG NA DE 18e ZONDAG - Menselijke zwakheid',
+    link: '/332'
+  },
+  '2023-10-6T00:00:00': {
+    title: '333: VRIJDAG NA DE 18e ZONDAG - Gods keuze',
+    link: '/333'
+  },
+  '2023-10-7T00:00:00': {
+    title: '334: ZATERDAG NA DE 18e ZONDAG - Blijf in Mij',
+    link: '/334'
+  },
+  '2023-10-8T00:00:00': {
+    title: '335: 19e ZONDAG NA PINKSTEREN - Zij wilden niet komen',
+    link: '/335'
   }
 }
