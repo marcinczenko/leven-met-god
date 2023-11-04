@@ -1380,5 +1380,173 @@ export const meditations = {
   '2023-10-8T00:00:00': {
     title: '335: 19e ZONDAG NA PINKSTEREN - Zij wilden niet komen',
     link: '/335'
+  },
+  '2023-10-9T00:00:00': {
+    title: '336: MAANDAG NA DE 19e ZONDAG - De leer van de Meester',
+    link: '/336'
+  },
+  '2023-10-10T00:00:00': {
+    title: '337: DINSDAG NA DE 19e ZONDAG - Wat Hij ons belooft',
+    link: '/337'
+  },
+  '2023-10-11T00:00:00': {
+    title: '338: WOENSDAG NA DE 19e ZONDAG - Vernieuwing',
+    link: '/338'
+  },
+  '2023-10-12T00:00:00': {
+    title: '339: DONDERDAG NA DE 19e ZONDAG - Hoopvol leven I',
+    link: '/339'
+  },
+  '2023-10-13T00:00:00': {
+    title: '340: VRIJDAG NA DE 19e ZONDAG - Hoopvol leven II',
+    link: '/340'
+  },
+  '2023-10-14T00:00:00': {
+    title: '341: ZATERDAG NA DE 19e ZONDAG - De waarde van het gebed',
+    link: '/341'
+  },
+  '2023-10-15T00:00:00': {
+    title: '342: 20e ZONDAG NA PINKSTEREN - De werking van het geloof',
+    link: '/342'
+  },
+  '2023-10-16T00:00:00': {
+    title: '343: MAANDAG NA DE 20e ZONDAG - Mijn situatie in het leven',
+    link: '/343'
+  },
+  '2023-10-17T00:00:00': {
+    title: '344: DINSDAG NA DE 20e ZONDAG - Wijsheid',
+    link: '/344'
+  },
+  '2023-10-18T00:00:00': {
+    title: '345: WOENSDAG NA DE 20e ZONDAG - Het kwaad in de wereld',
+    link: '/345'
+  },
+  '2023-10-19T00:00:00': {
+    title: '346: DONDERDAG NA DE 20e ZONDAG - Gods voorzienigheid',
+    link: '/346'
+  },
+  '2023-10-20T00:00:00': {
+    title: '347: VRIJDAG NA DE 20e ZONDAG - Verleen ons, wij smeken het U',
+    link: '/347'
+  },
+  '2023-10-21T00:00:00': {
+    title: '348: ZATERDAG NA DE 20e ZONDAG - Christus de wonderdoener',
+    link: '/348'
+  },
+  '2023-10-22T00:00:00': {
+    title: '349: 21e ZONDAG NA PINKSTEREN - Vergeef ons onze schuld...',
+    link: '/349'
+  },
+  '2023-10-23T00:00:00': {
+    title: '350: MAANDAG NA DE 21e ZONDAG - Het leven is een strijd',
+    link: '/350'
+  },
+  '2023-10-24T00:00:00': {
+    title: '351: DINSDAG NA DE 21e ZONDAG - Christus toebehoren',
+    link: '/351'
+  },
+  '2023-10-25T00:00:00': {
+    title: '352: WOENSDAG NA DE 21e ZONDAG - God in ons III',
+    link: '/352'
+  },
+  '2023-10-26T00:00:00': {
+    title: '353: DONDERDAG NA DE 21e ZONDAG - Hij ziet mijn hart',
+    link: '/353'
+  },
+  '2023-10-27T00:00:00': {
+    title: '354: VRIJDAG NA DE 21e ZONDAG - God roept',
+    link: '/354'
+  },
+  '2023-10-29T00:00:00': {
+    title: '355: ZATERDAG NA DE 21e ZONDAG - Ijver',
+    link: '/355'
+  },
+  '2023-10-30T00:00:00': {
+    title: '385: LAATSTE ZONDAG IN OKTOBER - Christus Koning',
+    link: '/385',
+    extras: [
+      {
+        title: '356: 22e ZONDAG NA PINKSTEREN - Onze verhouding tot anderen',
+        link: '/356',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-10-31T00:00:00': {
+    title: '357: MAANDAG NA DE 22e ZONDAG - De vruchten van het gebed',
+    link: '/357'
+  },
+  '2023-11-1T00:00:00': {
+    title: '386: 1 NOVEMBER - Allerheiligen',
+    link: '/386',
+    extras: [
+      {
+        title: '358: DINSDAG NA DE 22e ZONDAG - Aansporing tot liefde',
+        link: '/358',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-11-2T00:00:00': {
+    title: '387: 2 NOVEMBER - Allerzielen',
+    link: '/387',
+    extras: [
+      {
+        title: '359: WOENSDAG NA DE 22e ZONDAG - God in ons IV',
+        link: '/359',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-11-3T00:00:00': {
+    title: '360: DONDERDAG NA DE 22e ZONDAG - Het nieuwe leven I',
+    link: '/360'
+  },
+  '2023-11-4T00:00:00': {
+    title: '361: VRIJDAG NA DE 22e ZONDAG - Vasthouden tot het laatste',
+    link: '/361'
+  },
+  '2023-11-5T00:00:00': {
+    title: '362: ZATERDAG NA DE 22e ZONDAG - Jezus de Heilige',
+    link: '/362'
+  },
+  '2023-11-6T00:00:00': {
+    title: '363: 23e ZONDAG NA PINKSTEREN - Wij volgen Christus',
+    link: '/363'
+  },
+  '2023-11-7T00:00:00': {
+    title: '388: 7 NOVEMBER - De heilige Willibrordus',
+    link: '/388',
+    extras: [
+      {
+        title: '364: MAANDAG NA DE 23e ZONDAG - Het nieuwe leven II',
+        link: '/364',
+        type: 'Tweede meditatie:'
+      }
+    ]
+  },
+  '2023-11-8T00:00:00': {
+    title: '365: DINSDAG NA DE 23e ZONDAG - Tot wie gaat onze naastenliefde?',
+    link: '/365'
+  },
+  '2023-11-9T00:00:00': {
+    title: '366: WOENSDAG NA DE 23e ZONDAG - Christus kennen',
+    link: '/366'
+  },
+  '2023-11-10T00:00:00': {
+    title: '367: DONDERDAG NA DE 23e ZONDAG - Het kruisteken: een herinnering',
+    link: '/367'
+  },
+  '2023-11-11T00:00:00': {
+    title: '368: VRIJDAG NA DE 23e ZONDAG - Liefde tot God',
+    link: '/368'
+  },
+  '2023-11-12T00:00:00': {
+    title: '369: ZATERDAG NA DE 23e ZONDAG - Apostel zijn',
+    link: '/369'
+  },
+  '2023-11-13T00:00:00': {
+    title: '370: 24e ZONDAG NA PINKSTEREN - Het volledig christelijk leven',
+    link: '/370'
   }
 }
