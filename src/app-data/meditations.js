@@ -1547,7 +1547,88 @@ export const meditations = {
     link: '/369'
   },
   '2023-11-12T00:00:00': {
+    title: '76: 5e ZONDAG NA DRIEKONINGEN - Het onkruid',
+    link: '/76'
+  },
+  '2023-11-13T00:00:00': {
+    title: '77: MAANDAG NA DE 5e ZONDAG - Hij is hier',
+    link: '/77'
+  },
+  '2023-11-14T00:00:00': {
+    title: '78: DINSDAG NA DE 5e ZONDAG - Herdenking van mijn doopsel I',
+    link: '/78'
+  },
+  '2023-11-15T00:00:00': {
+    title: '79: WOENSDAG NA DE 5e ZONDAG - Mens en gemeenschap I',
+    link: '/79'
+  },
+  '2023-11-16T00:00:00': {
+    title:
+      "80: DONDERDAG NA DE 5e ZONDAG - Jezus' Bloed getuigenis van Gods liefde",
+    link: '/80'
+  },
+  '2023-11-17T00:00:00': {
+    title: '81: VRIJDAG NA DE 5e ZONDAG - Mens en gemeenschap II',
+    link: '/81'
+  },
+  '2023-11-18T00:00:00': {
+    title: '82: ZATERDAG NA DE 5e ZONDAG - Hij in ons',
+    link: '/82'
+  },
+  '2023-11-19T00:00:00': {
+    title: '83: 6e ZONDAG NA DRIEKONINGEN - Het rijk Gods en zijn macht',
+    link: '/83'
+  },
+  '2023-11-20T00:00:00': {
+    title: '84: MAANDAG NA DE 6e ZONDAG - Naastenliefde',
+    link: '/84'
+  },
+  '2023-11-21T00:00:00': {
+    title: '85: DINSDAG NA DE 6e ZONDAG - Het begint met geloven',
+    link: '/85'
+  },
+  '2023-11-22T00:00:00': {
+    title: '86: WOENSDAG NA DE 6e ZONDAG - Mens en gemeenschap III',
+    link: '/86'
+  },
+  '2023-11-23T00:00:00': {
+    title: '87: DONDERDAG NA DE 6e ZONDAG - God is heilig',
+    link: '/87'
+  },
+  '2023-11-24T00:00:00': {
+    title: '88: VRIJDAG NA DE 6e ZONDAG - Wij zijn niet heilig',
+    link: '/88'
+  },
+  '2023-11-25T00:00:00': {
+    title: '89: ZATERDAG NA DE 6e ZONDAG - Herdenking van mijn doopsel II',
+    link: '/89'
+  },
+  '2023-11-26T00:00:00': {
     title: '370: 24e ZONDAG NA PINKSTEREN - Het volledig christelijk leven',
     link: '/370'
+  },
+  '2023-11-27T00:00:00': {
+    title: '371: MAANDAG NA DE 24e ZONDAG - God niet alleen II',
+    link: '/371'
+  },
+  '2023-11-28T00:00:00': {
+    title: '372: DINSDAG NA DE 24e ZONDAG - Zuiverheid van hart',
+    link: '/372'
+  },
+  '2023-11-29T00:00:00': {
+    title: '373: WOENSDAG NA DE 24e ZONDAG - Vruchten van de geest II',
+    link: '/373'
+  },
+  '2023-11-30T00:00:00': {
+    title: '374: DONDERDAG NA DE 24e ZONDAG - Vruchten van de geest III',
+    link: '/374'
+  },
+  '2023-12-1T00:00:00': {
+    title: '375: VRIJDAG NA DE 24e ZONDAG - Wie in Mij gelooft...',
+    link: '/375'
+  },
+  '2023-12-2T00:00:00': {
+    title: '376: ZATERDAG NA DE 24e ZONDAG - Het licht van de wereld',
+    link: '/376'
   }
 }
